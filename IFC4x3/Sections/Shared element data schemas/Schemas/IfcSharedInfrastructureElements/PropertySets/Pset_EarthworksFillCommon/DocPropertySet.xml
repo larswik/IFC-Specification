@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_EarthworksFillCommon" UniqueId="4e23308e-34cf-47f4-b658-186c123ce2bd" ApplicableType="IfcEarthworksFill" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="SourceOfFill_1sdvCsS1nE1Pam73NSh4tz" />
+    <DocProperty xsi:nil="true" href="SourceOfFillOther_0hZ6lEOMT9u9SBX08u_3BT" />
+    <DocProperty xsi:nil="true" href="CompactionMethod_0Fk0V5IGT0zPP4lHrRjG_l" />
+    <DocProperty xsi:nil="true" href="CompactionMethodOther_1im0xDhDLDOgRj1_5VQySi" />
+    <DocProperty xsi:nil="true" href="CompactionFactor_0b3zce3Q92ugWrrr_HAiLG" />
+  </Properties>
+</DocPropertySet>

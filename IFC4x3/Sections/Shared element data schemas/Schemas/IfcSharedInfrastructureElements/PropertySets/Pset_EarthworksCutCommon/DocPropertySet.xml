@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_EarthworksCutCommon" UniqueId="a7a1da4e-0265-4842-b722-937d1a48929a" ApplicableType="IfcUndergroundExcavation" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="EarthworksCutExcavationMethod_3oFvSWEcbEDe4RUQydcYii" />
+    <DocProperty xsi:nil="true" href="ExcavationMethodOther_3t$S4UeZTDSeMs9KFTUEWj" />
+    <DocProperty xsi:nil="true" href="MaximumUnsupportedCut_0MbheY2e9FK84JFuU7KLRX" />
+    <DocProperty xsi:nil="true" href="SupportDescription_3dsAb6p55DA8fI61eUfAGW" />
+  </Properties>
+</DocPropertySet>

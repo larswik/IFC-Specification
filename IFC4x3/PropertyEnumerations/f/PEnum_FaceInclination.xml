@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_FaceInclination" Name="PEnum_FaceInclination" UniqueId="c5a4b991-5371-4a51-bd1d-9a1abf01306c">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="VERTICAL_0HPtn0HcL7OxhL8EX05PGL" />
+    <DocPropertyConstant xsi:nil="true" href="INCLINED_05m6JGj7X6cOfT$mo$7oIN" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_1uNMBpaoT1fBkBSkjiOfrA" />
+  </Constants>
+</DocPropertyEnumeration>

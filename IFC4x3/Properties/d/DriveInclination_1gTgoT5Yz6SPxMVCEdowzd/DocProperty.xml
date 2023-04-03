@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DriveInclination_1gTgoT5Yz6SPxMVCEdowzd" Name="DriveInclination" UniqueId="6a76ac9d-162f-4671-9ed6-7cc3a7cbaf67" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="Penum_DriveInclination" />
+</DocProperty>

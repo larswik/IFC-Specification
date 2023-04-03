@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DriveDirection_1ey60cbMn0q8jQr2ZbWy9C" Name="DriveDirection" UniqueId="68f06026-956c-40d0-8b5a-d428e583c24c" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_DriveDirection" />
+</DocProperty>

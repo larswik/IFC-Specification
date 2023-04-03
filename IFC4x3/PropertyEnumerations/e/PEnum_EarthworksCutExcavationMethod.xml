@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_EarthworksCutExcavationMethod" Name="PEnum_EarthworksCutExcavationMethod" UniqueId="1fb53b6c-2201-48fb-bee1-810b108d9ccb">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="HAND_1nJDif_z57WO98JxQ3deqb" />
+    <DocPropertyConstant xsi:nil="true" href="EXCAVATOR_2PBKtOIMPE099TVr2HJ049" />
+    <DocPropertyConstant xsi:nil="true" href="JACKHAMMER_2APllpnyz0$vtSs3bAZIXT" />
+    <DocPropertyConstant xsi:nil="true" href="RIPPER_3R$MfdZfLBkhkFi5TGcCMJ" />
+    <DocPropertyConstant xsi:nil="true" href="DRILLANDBLAST_1SOC_nvhP0SPHOvql$KQc_" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_0IfWetT1r8Vu4RjRCWP0gq" />
+  </Constants>
+</DocPropertyEnumeration>

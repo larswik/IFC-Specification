@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_CompactionMethod" Name="PEnum_CompactionMethod" UniqueId="35f1c1bc-b61a-449e-8ab4-49b879c28cbf">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="ROLLER_2Unvs2kd9FIQVfO36qTdVr" />
+    <DocPropertyConstant xsi:nil="true" href="TAMPING_1RnqQu1gXDGv9gyd2Jwgkv" />
+    <DocPropertyConstant xsi:nil="true" href="NONE_2TRWCRBNXFCuIHuCL_AGVi" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_2FmK6cDz12ygSSr3EHsqsZ" />
+  </Constants>
+</DocPropertyEnumeration>

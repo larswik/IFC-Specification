@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_RadialExcavationType" Name="PEnum_RadialExcavationType" UniqueId="4e93799b-757c-42d0-a13f-70ce3ac0690f">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="PROFILEENLARGEMENT_2pKR1MHaHBPxr59YsXzPOd" />
+    <DocPropertyConstant xsi:nil="true" href="REPROFILING_1pQ_3z9Fj5lx6RmusJCUas" />
+    <DocPropertyConstant xsi:nil="true" href="NICHE_0aV31LOnz0hvaEXZlFuqCy" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_3xjABy6eb5J8DulpwN5VtD" />
+  </Constants>
+</DocPropertyEnumeration>

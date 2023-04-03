@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_RadialExcavationDirection" Name="PEnum_RadialExcavationDirection" UniqueId="9d36f6f8-e5c6-4e19-aba4-e19832a95707">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="LATERAL_2Hl_z9DEz6VONC89tdPEuG" />
+    <DocPropertyConstant xsi:nil="true" href="VERTICAL_219DALfTb2UwxyJUTl44R0" />
+    <DocPropertyConstant xsi:nil="true" href="RADIAL_00BhgqlNz5UxjyNOOpBOCD" />
+  </Constants>
+</DocPropertyEnumeration>

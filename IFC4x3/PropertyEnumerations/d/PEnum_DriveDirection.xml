@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_DriveDirection" Name="PEnum_DriveDirection" UniqueId="447e617b-8908-417c-b484-d9f0dc3e5ed1">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="WITHCHAINAGE_1LOH8LKu13tR77NgUbhH2x" />
+    <DocPropertyConstant xsi:nil="true" href="AGAINSTCHAINAGE_2S5oE7kVvCXhQydlWk$CNG" />
+  </Constants>
+</DocPropertyEnumeration>

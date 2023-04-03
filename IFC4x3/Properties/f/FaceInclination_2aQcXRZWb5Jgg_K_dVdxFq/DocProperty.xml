@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FaceInclination_2aQcXRZWb5Jgg_K_dVdxFq" Name="FaceInclination" UniqueId="a46a685b-8e09-454e-aabe-53e9df9fb3f4" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FaceInclination" />
+</DocProperty>

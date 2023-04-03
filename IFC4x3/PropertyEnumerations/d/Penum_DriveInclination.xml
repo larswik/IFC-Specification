@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Penum_DriveInclination" Name="Penum_DriveInclination" UniqueId="162efd63-5ab4-484d-9f00-1b54b0905d5b">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="HORIZONTAL_1EqNU1R4PBjvWptIuleh7O" />
+    <DocPropertyConstant xsi:nil="true" href="VERTICAL_0OmaYbuevFZesesFVzAfOr" />
+    <DocPropertyConstant xsi:nil="true" href="INCLINED_0cvPQ2txbDw8uVOHKQ51nf" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_3ki8aM5Nj3LQEhup8z6rKD" />
+  </Constants>
+</DocPropertyEnumeration>

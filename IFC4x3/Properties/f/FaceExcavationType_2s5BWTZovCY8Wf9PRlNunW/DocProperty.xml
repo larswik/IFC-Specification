@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FaceExcavationType_2s5BWTZovCY8Wf9PRlNunW" Name="FaceExcavationType" UniqueId="b614b81d-8f2e-4c88-8829-2596ef5f8c60" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FaceExcavationType" />
+</DocProperty>

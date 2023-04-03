@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EarthworksCutExcavationMethod_3oFvSWEcbEDe4RUQydcYii" Name="EarthworksCutExcavationMethod" UniqueId="f23f9720-3a69-4e36-811b-79af279a2b2c" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_EarthworksCutExcavationMethod" />
+</DocProperty>

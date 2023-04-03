@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_UndergroundExcavationMethod" Name="PEnum_UndergroundExcavationMethod" UniqueId="5a47cf3e-b7af-4e44-a25e-298aa4c1d8a1">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="HAND_3VBii7cVb9mhPbBVlVPjpL" />
+    <DocPropertyConstant xsi:nil="true" href="EXCAVATOR_2F06liEYnDmeQiFP5p6AE4" />
+    <DocPropertyConstant xsi:nil="true" href="JACKHAMMER_1IAejuUNXC4vYs0voiq0iB" />
+    <DocPropertyConstant xsi:nil="true" href="RIPPER_3mdngEctb9CgzNvjIoLVz7" />
+    <DocPropertyConstant xsi:nil="true" href="DRILLANDBLAST_27T$YfZ1r1BOz5J5W0IUPd" />
+    <DocPropertyConstant xsi:nil="true" href="ROADHEADER_3SC8NdpcXEBRTJ_6ClIz16" />
+    <DocPropertyConstant xsi:nil="true" href="TBMOPENWITHGRIPPERS_0$R6u1VEn8MOCwBIRd9OEO" />
+    <DocPropertyConstant xsi:nil="true" href="TBMEARTHPRESSUREFACESUPPORT_1jYreh1Lz9X8fvx1jmrZUX" />
+    <DocPropertyConstant xsi:nil="true" href="TBMSLURRYPRESSUREFACESUPPORT_13ZCkva2DDSwRkX8kitUDO" />
+    <DocPropertyConstant xsi:nil="true" href="TBMAIRPRESSUREFACESUPPORT_3_XPHIUy98URVVbiOCPnl_" />
+    <DocPropertyConstant xsi:nil="true" href="TBMMIXSHIELD_2DVPxKuRfEUPQtp9jtB9gX" />
+    <DocPropertyConstant xsi:nil="true" href="SHAFTBORINGMACHINE_36vCyx_u51qgfRYgxf9ZeT" />
+    <DocPropertyConstant xsi:nil="true" href="RAISEDRILL_0NTJ5c5zPBwuxFHRW8K$ec" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_2CVn4Oc2j72R$U1vwyNfgU" />
+  </Constants>
+</DocPropertyEnumeration>

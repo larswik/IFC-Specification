@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ExcavationCommon" UniqueId="f416bb17-8997-459d-bf1e-8af6cd62a7e1" ApplicableType="IfcUndergroundExcavation" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="BulkingFactor_0FLhyudZH0rgh5cXHTndck" />
+  </Properties>
+</DocPropertySet>

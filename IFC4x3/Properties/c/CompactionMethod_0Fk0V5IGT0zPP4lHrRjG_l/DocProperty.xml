@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompactionMethod_0Fk0V5IGT0zPP4lHrRjG_l" Name="CompactionMethod" UniqueId="0fb807c5-4907-40f5-9644-bd1d5bb50faf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CompactionMethod" />
+</DocProperty>

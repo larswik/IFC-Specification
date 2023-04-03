@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_LateralExcavationCommon" UniqueId="13f73688-3038-405b-8f05-8a2043be5952" ApplicableType="IfcUndergroundExcavation/RADIALEXCAVATION" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="RadialExcavationType_2w_jWJ9O9DuOzeiK7Nv8p2" />
+    <DocProperty xsi:nil="true" href="RadialExcavationTypeOther_1TTcAg$MjCMQaoH0dEsyF$" />
+    <DocProperty xsi:nil="true" href="RadialExcavationDirection_38Bgmd7Zj6TPzhs7WDqhqR" />
+    <DocProperty xsi:nil="true" href="RadialExcavationDepth_2ePAXwgXb8WB64pk01GfDX" />
+  </Properties>
+</DocPropertySet>

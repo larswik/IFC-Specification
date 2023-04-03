@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TunnelInclination_2Bjyf49zTCeRxrMdh7hoo1" Name="TunnelInclination" UniqueId="8bb7ca44-27d7-4ca1-bef5-5a7ac7af2c81" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TunnelInclination" />
+</DocProperty>

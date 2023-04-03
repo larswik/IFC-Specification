@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_FaceExcavationCommon" UniqueId="0c238667-e2dc-4d25-abe5-a3be2cfbb260" ApplicableType="IfcUndergroundExcavation/FACEEXCAVATION" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="FaceExcavationType_2s5BWTZovCY8Wf9PRlNunW" />
+    <DocProperty xsi:nil="true" href="FaceExcavationTypeOther_1y04RPnDTEcAF7mD$zwHaF" />
+    <DocProperty xsi:nil="true" href="DriveDirection_1ey60cbMn0q8jQr2ZbWy9C" />
+    <DocProperty xsi:nil="true" href="TunnelInclination_2Bjyf49zTCeRxrMdh7hoo1" />
+    <DocProperty xsi:nil="true" href="DriveInclination_1gTgoT5Yz6SPxMVCEdowzd" />
+    <DocProperty xsi:nil="true" href="DriveInclinationOther_2sBi3oHcT4hfmb100ie3v4" />
+    <DocProperty xsi:nil="true" href="FaceInclination_2aQcXRZWb5Jgg_K_dVdxFq" />
+    <DocProperty xsi:nil="true" href="FaceInclinationOther_2FPKeyp$j5_8sw$20nBMdp" />
+    <DocProperty xsi:nil="true" href="MaxUnsupportedExcavationLength_1HuSLIFvPAD8VRgGcnhMlO" />
+  </Properties>
+</DocPropertySet>

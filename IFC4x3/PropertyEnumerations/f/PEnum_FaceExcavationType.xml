@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_FaceExcavationType" Name="PEnum_FaceExcavationType" UniqueId="7ed180a6-ec91-4171-a319-3f3feab89f5a">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="FULLFACE_1RQCl1rYbEnQiMOzy09mfH" />
+    <DocPropertyConstant xsi:nil="true" href="STAGED_19Rjq0VlvEqvYpVvyXwKko" />
+    <DocPropertyConstant xsi:nil="true" href="PILOTBORE_2WE35p7pbB$vdCY6yUwkq$" />
+    <DocPropertyConstant xsi:nil="true" href="SHAFT_0dIm9cGlz2Julzf4gaU3rC" />
+    <DocPropertyConstant xsi:nil="true" href="CROSSCONNECTION_0yJS6Sr2zCZwiUBNP5QkI3" />
+    <DocPropertyConstant xsi:nil="true" href="REAMING_1vkE0Gnvj10hNXR636VmF0" />
+    <DocPropertyConstant xsi:nil="true" href="RAISEDRILL_1Y0b0y3BPBSfXcRiXWjwTa" />
+    <DocPropertyConstant xsi:nil="true" href="OTHER_00GfzpWIDAE9ESKojmxnAH" />
+  </Constants>
+</DocPropertyEnumeration>

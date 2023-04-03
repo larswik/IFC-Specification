@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_UndergroundExcavationCommon" UniqueId="70e97983-1bf1-4b2d-becc-a2e1b906870f" ApplicableType="IfcUndergroundExcavation" PropertySetType="PSET_OCCURRENCEDRIVEN">
+  <Properties>
+    <DocProperty xsi:nil="true" href="UndergroundExcavationMethod_0ON1P9o_52Y9pZ3CVKKz3F" />
+    <DocProperty xsi:nil="true" href="ExcavationMethodOther_1RntQ9hJvBjPzKwGIBbQV2" />
+    <DocProperty xsi:nil="true" href="SupportDescription_2zM$ek3tz20AKXgC86oI3V" />
+    <DocProperty xsi:nil="true" href="SupportClassification_02tbfu$nn8yhPDZLtLFsCI" />
+    <DocProperty xsi:nil="true" href="ExcavationClassification_28qRSgETrDX85sa9wkxqas" />
+    <DocProperty xsi:nil="true" href="RoundLength_1k3woWjx5EZwAgbBCNLEV7" />
+  </Properties>
+</DocPropertySet>

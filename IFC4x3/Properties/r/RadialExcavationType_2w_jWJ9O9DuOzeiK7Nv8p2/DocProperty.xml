@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RadialExcavationType_2w_jWJ9O9DuOzeiK7Nv8p2" Name="RadialExcavationType" UniqueId="bafad813-2582-4de1-8f68-b141d7e48cc2" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+  <Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_RadialExcavationType" />
+</DocProperty>

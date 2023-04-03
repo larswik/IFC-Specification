@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_ExcavationBaseQuantities" UniqueId="bc2b1869-429c-41cb-83ac-a5528c09f20a" ApplicableType="IfcUndergroundExcavation">
+  <Quantities>
+    <DocQuantity xsi:nil="true" href="Length_3ebPF$X5L2$9SpEz$heMUp" />
+    <DocQuantity xsi:nil="true" href="Width_0nsyhTvtH7MxvDMFYIfAbg" />
+    <DocQuantity xsi:nil="true" href="Depth_1xwE$$2ZTE6O04WLty2F9C" />
+    <DocQuantity xsi:nil="true" href="UndisturbedVolume_1Y8zuwAan0Xu8F8Ckie1nU" />
+    <DocQuantity xsi:nil="true" href="LooseVolume_0$XO0zo7PEfBRIkR684yRr" />
+    <DocQuantity xsi:nil="true" href="Weight_373chG0yvDFeqsqqao6k_R" />
+  </Quantities>
+</DocQuantitySet>

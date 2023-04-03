@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_TunnelInclination" Name="PEnum_TunnelInclination" UniqueId="36858da5-d530-4824-9542-49fef188f9e1">
+  <Constants>
+    <DocPropertyConstant xsi:nil="true" href="RISING_1LMjZjH9fDtRjNIJ4dy9jD" />
+    <DocPropertyConstant xsi:nil="true" href="FALLING_0u9KiG22XAR99VYkhGeTF7" />
+  </Constants>
+</DocPropertyEnumeration>

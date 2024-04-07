@@ -4,8 +4,8 @@
 		AlignmentRepresentations : SET OF IfcShapeRepresentation;
 		TwoDRep : SET OF IfcShapeRepresentation;
 		ThreeDRep : SET OF IfcShapeRepresentation;
-		CurveTwoD : IfcCompositeCurve;
-		CurveThreeD : IfcGradientCurve;
+		CurveTwoD : SET OF IfcCompositeCurve;
+		CurveThreeD : SET OF IfcGradientCurve;
 	END_LOCAL;
 
 	(* no representation is okay *)

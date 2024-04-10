@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SLIDINGHORIZONTAL_1ZK3oRLBD7_gxzKMS8TsCQ" Name="SLIDINGHORIZONTAL" UniqueId="63503c9b-54b3-47fa-aefd-51670877631a">
+	<Documentation>Panel is sliding horizontally.
+
+![sliding hori](../../figures/ifcwindowpaneloperationenum-fig09.gif)</Documentation>
+</DocPropertyConstant>
+

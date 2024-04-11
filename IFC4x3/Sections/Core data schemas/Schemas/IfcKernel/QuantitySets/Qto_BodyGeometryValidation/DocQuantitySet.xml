@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_BodyGeometryValidation" UniqueId="a50fcb86-6153-49fe-ae6b-196e0440ff01" ApplicableType="IfcProduct">
+	<Quantities>
+		<DocQuantity xsi:nil="true" href="GrossSurfaceArea_37jdwMgmf35wihgfyazkKB" />
+		<DocQuantity xsi:nil="true" href="NetSurfaceArea_0bkjmepcXBxeAGxmtGVIS" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_2vCxWbK8v4KO8xK1S_xlsP" />
+		<DocQuantity xsi:nil="true" href="NetVolume_3WY3yJjmD2h8sBobkaWyR" />
+		<DocQuantity xsi:nil="true" href="SurfaceGenusBeforeFeatures_1atLAQl3158eB7fb8ixDWs" />
+		<DocQuantity xsi:nil="true" href="SurfaceGenusAfterFeatures_1OZSJQvSLA5BEIe1CJLy8" />
+	</Quantities>
+</DocQuantitySet>
+

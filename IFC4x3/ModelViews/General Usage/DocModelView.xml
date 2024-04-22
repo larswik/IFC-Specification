@@ -6660,7 +6660,7 @@ The same constraints, as given for &apos;SurfaceOrSolidModel&apos;, &apos;Surfac
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Surface Tessellation Geometry" UniqueId="34aa6758-d9b1-40b6-8760-ab4a1149e732">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Tesselation_Geometry_0gcN00aHT7P84eQ4tB7HA6" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Tessellation_Geometry_0gcN00aHT7P84eQ4tB7HA6" />
 					<Items>
 						<DocTemplateItem UniqueId="66329a45-84ea-4bff-b50b-029be12c16d3" />
 					</Items>
@@ -7968,9 +7968,9 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="805b7ec6-526a-4ad7-9232-ecd9583d00d6" />
 					</Items>
 				</DocTemplateUsage>
-				<DocTemplateUsage Name="Surface Tesselation Geometry" UniqueId="3d9a6089-232c-46c9-aa56-ce25273a8954">
+				<DocTemplateUsage Name="Surface Tessellation Geometry" UniqueId="3d9a6089-232c-46c9-aa56-ce25273a8954">
 					<Documentation>Surface Tesselation Geometry may be associated to any _IfcGeoScienceElement_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Tesselation_Geometry_0gcN00aHT7P84eQ4tB7HA6" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Tessellation_Geometry_0gcN00aHT7P84eQ4tB7HA6" />
 					<Items>
 						<DocTemplateItem UniqueId="15b57948-7c87-4d6d-9055-1f75c257d18c" />
 					</Items>

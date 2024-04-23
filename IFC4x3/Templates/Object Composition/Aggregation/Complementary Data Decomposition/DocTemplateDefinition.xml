@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZuJ" Name="Complementary Data Decomposition" UniqueId="a7664693-8f92-465f-94eb-869a758ffe13" Type="IfcComplementaryData">
+	<Rules>
+		<DocModelRuleAttribute Name="IsDecomposedBy" Identification="IsDecomposedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAggregates">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects" Identification="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcComplementaryData">
+									<Rules>
+										<DocModelRuleAttribute Name="Name" Identification="PartName">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

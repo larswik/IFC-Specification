@@ -4,13 +4,6 @@
 		<DocLocalization Locale="de" Name="Festgelegte Zeit" />
 		<DocLocalization Locale="en" Name="Scheduling Time" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="55e767bc-024e-41b0-8023-bc93c8ae1295" DefinedType="IfcLagTime" />
-		<DocSubtype UniqueId="7d353c45-a99c-48a5-b3d9-50792641252e" DefinedType="IfcTaskTime" />
-		<DocSubtype UniqueId="cba8e0e1-5a6f-4041-81ab-025be3b8d705" DefinedType="IfcResourceTime" />
-		<DocSubtype UniqueId="93bd734a-6699-4f3d-bf53-2cf268d48905" DefinedType="IfcEventTime" />
-		<DocSubtype UniqueId="88f4971f-b850-4396-ba89-da94fb2b9a93" DefinedType="IfcWorkTime" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="9ce7ee5d-0c3d-4394-9ba0-4cd0ff38d925" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>Optional name for the time definition.</Documentation>
@@ -24,4 +17,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

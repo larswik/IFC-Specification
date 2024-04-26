@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Festkörper - aus extrudierter Fläche" />
 		<DocLocalization Locale="en" Name="Extruded Area Solid" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="4026540e-c8cb-4e22-ae2e-531a1737df72" DefinedType="IfcExtrudedAreaSolidTapered" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ExtrudedDirection" UniqueId="aef4b8f4-190c-4dbd-a5ef-4ad2bf1d00a3" DefinedType="IfcDirection" XsdFormat="attribute">
 			<Documentation>The direction in which the surface, provided by _SweptArea_ is to be swept.</Documentation>
@@ -22,4 +19,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

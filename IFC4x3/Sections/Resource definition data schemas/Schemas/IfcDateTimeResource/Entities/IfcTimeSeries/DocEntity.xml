@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Time Series" />
 		<DocLocalization Locale="fr" Name="Séries temporelles" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="22d240fe-a283-4ee4-8561-ea086ed0b559" DefinedType="IfcRegularTimeSeries" />
-		<DocSubtype UniqueId="e2f5350c-374f-4418-8d49-3807f5d8f390" DefinedType="IfcIrregularTimeSeries" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="a8259487-25da-4b34-a81c-5e5f921f8b44" DefinedType="IfcLabel">
 			<Documentation>An unique name for the time series.</Documentation>
@@ -41,4 +37,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

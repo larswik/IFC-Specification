@@ -5,11 +5,4 @@
 		<DocLocalization Locale="en" Name="Bounded Surface" />
 		<DocLocalization Locale="fr" Name="Surface englobée" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="55ea29ff-1a01-4254-859b-5418302953d2" DefinedType="IfcCurveBoundedPlane" />
-		<DocSubtype UniqueId="d31a7c90-4b35-43bf-b25e-0d8c429e326b" DefinedType="IfcRectangularTrimmedSurface" />
-		<DocSubtype UniqueId="2c6b7a9f-b9fd-428e-98e8-629579d768d4" DefinedType="IfcCurveBoundedSurface" />
-		<DocSubtype UniqueId="3ce2678c-c5cf-45b7-a332-7612d0236098" DefinedType="IfcBSplineSurface" />
-	</Subtypes>
 </DocEntity>
-

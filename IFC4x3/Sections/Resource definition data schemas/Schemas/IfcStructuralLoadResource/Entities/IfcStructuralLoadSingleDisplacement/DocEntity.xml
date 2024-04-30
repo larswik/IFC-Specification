@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Verschiebung und/ oder Verdrehung" />
 		<DocLocalization Locale="en" Name="Structural Load Single Displacement" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="5ac2749a-8db6-4009-abfc-01c356ae0cc4" DefinedType="IfcStructuralLoadSingleDisplacementDistortion" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="DisplacementX" UniqueId="df3a3c84-1b7c-4918-a57b-8d5a6f316d13" DefinedType="IfcLengthMeasure" AttributeFlags="1">
 			<Documentation>Displacement in x-direction.</Documentation>
@@ -28,4 +25,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

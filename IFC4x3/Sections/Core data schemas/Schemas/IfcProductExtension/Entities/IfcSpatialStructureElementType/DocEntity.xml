@@ -5,8 +5,4 @@
 		<DocLocalization Locale="en" Name="Spatial Structure Element Type" />
 		<DocLocalization Locale="fr" Name="Type d&apos;élément de la structure spatiale" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="706d456c-e65c-4320-962a-e2a1d437ed5a" DefinedType="IfcSpaceType" />
-	</Subtypes>
 </DocEntity>
-

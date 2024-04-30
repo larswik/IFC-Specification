@@ -3,11 +3,6 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Positioning Element" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="9fe00383-2205-42bc-b961-bf3fc2e0dfbd" DefinedType="IfcGrid" />
-		<DocSubtype UniqueId="c1d00f12-5779-4b3e-a9aa-a6a96c76f84c" DefinedType="IfcLinearPositioningElement" />
-		<DocSubtype UniqueId="8de7bcbf-4e60-4a56-a93c-519381ad4162" DefinedType="IfcReferent" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ContainedInStructure" UniqueId="eab7c659-344b-47a3-82ed-2c7243b71a28" DefinedType="IfcRelContainedInSpatialStructure" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="RelatedElements">
 			<Documentation>Relationship to a spatial structure element, to which the positioning element is primarily associated.
@@ -26,4 +21,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

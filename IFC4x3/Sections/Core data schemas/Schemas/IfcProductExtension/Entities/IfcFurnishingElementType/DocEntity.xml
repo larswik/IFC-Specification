@@ -5,9 +5,4 @@
 		<DocLocalization Locale="en" Name="Furnishing Element Type" />
 		<DocLocalization Locale="fr" Name="Type d&apos;élément de mobilier" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="0218fe69-2784-428d-a388-da732b468e09" DefinedType="IfcFurnitureType" />
-		<DocSubtype UniqueId="37150e58-550b-487e-9574-0140245f2d5a" DefinedType="IfcSystemFurnitureElementType" />
-	</Subtypes>
 </DocEntity>
-

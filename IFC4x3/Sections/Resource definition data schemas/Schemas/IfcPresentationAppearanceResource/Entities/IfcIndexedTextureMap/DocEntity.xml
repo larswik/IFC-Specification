@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Liste von Indizes für Texturen" />
 		<DocLocalization Locale="en" Name="Indexed Texture Map" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="30c84939-93b7-4560-938b-31f1ad9bb843" DefinedType="IfcIndexedTriangleTextureMap" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="MappedTo" UniqueId="5678ee84-15aa-4bdd-823c-4a04f4455400" DefinedType="IfcTessellatedFaceSet" XsdFormat="hidden">
 			<Documentation>Reference to the _IfcTessellatedFaceSet_ to which it applies the texture map.</Documentation>
@@ -16,4 +13,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

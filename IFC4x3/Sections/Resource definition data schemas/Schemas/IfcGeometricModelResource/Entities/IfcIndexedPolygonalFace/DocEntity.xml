@@ -3,9 +3,6 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Indexed Polygonal Face" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="408c000d-5adf-4945-ad66-daf5ab8d6e6e" DefinedType="IfcIndexedPolygonalFaceWithVoids" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="CoordIndex" UniqueId="e98eb6ec-1d91-49a2-848d-43f835c2b769" DefinedType="IfcPositiveInteger" AggregationType="1" AggregationLower="3" AggregationUpper="?">
 			<Documentation>One-dimensional list with the indices for the three or more points, that define the vertices of the outer loop. If the tessellated face set is closed, indicated by _SELF\IfcTessellatedFaceSet.Closed_, then the points, defining the outer loop, shall connect counter clockwise, as seen from the outside of the body, so that the resulting normal will point outwards.
@@ -21,4 +18,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

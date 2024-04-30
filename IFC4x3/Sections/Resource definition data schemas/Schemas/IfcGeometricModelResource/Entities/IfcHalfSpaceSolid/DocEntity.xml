@@ -4,10 +4,6 @@
 		<DocLocalization Locale="de" Name="Halbraum Festkörper" />
 		<DocLocalization Locale="en" Name="Half Space Solid" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="14251490-6162-406c-952b-13435a945c71" DefinedType="IfcBoxedHalfSpace" />
-		<DocSubtype UniqueId="2b6553b3-e9ed-4dfc-9db9-eea04ef13fa9" DefinedType="IfcPolygonalBoundedHalfSpace" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="BaseSurface" UniqueId="110e5354-e95f-42b1-81d2-f4de74eb9085" DefinedType="IfcSurface" XsdFormat="attribute">
 			<Documentation>Surface defining side of half space.</Documentation>
@@ -21,4 +17,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

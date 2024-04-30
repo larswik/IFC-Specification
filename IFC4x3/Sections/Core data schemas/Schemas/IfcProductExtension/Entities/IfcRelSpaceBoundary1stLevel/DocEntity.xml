@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Rel Space Boundary1st Level" />
 		<DocLocalization Locale="fr" Name="Limites d&apos;espace de premier niveau" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="fcf3f77d-c44e-4c6a-88d7-98eb4dff7d35" DefinedType="IfcRelSpaceBoundary2ndLevel" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ParentBoundary" UniqueId="b82c885d-c05b-4881-9c67-820a0aa13e35" DefinedType="IfcRelSpaceBoundary1stLevel" AttributeFlags="1" XsdFormat="attribute">
 			<Documentation>Reference to the host, or parent, space boundary within which this inner boundary is defined.</Documentation>
@@ -17,4 +14,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

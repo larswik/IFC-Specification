@@ -7968,6 +7968,13 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="15b57948-7c87-4d6d-9055-1f75c257d18c" />
 					</Items>
 				</DocTemplateUsage>
+				<DocTemplateUsage Name="Body Voxel geometry" UniqueId="6e86fa12-7a9e-413b-820d-3b98e5091e7e">
+					<Documentation>An _IfcGeoScienceElement_ may be represented by an IfcVoxelGrid_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Voxel_Geometry_1XcKyD1H56fQHkAb0rHsrs" />
+					<Items>
+						<DocTemplateItem UniqueId="3967f405-c591-437b-a6ee-6b8a2623b6ba" />
+					</Items>
+				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7e0ad082-f4df-42ca-aba6-dfe477bbfabd" Type="IfcGeoScienceElement" />
 		</DocConceptRoot>
@@ -7987,14 +7994,13 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" />
 					</Items>
 				</DocTemplateUsage>
-				<DocTemplateUsage Name="Observation Assignment" UniqueId="377f5505-88a9-4448-84f4-8169bf9e648e">
+				<DocTemplateUsage Name="Observation Assignment" UniqueId="377f5505-88a9-4448-84f4-8169bf9e648e" Operator="or">
 					<Documentation>An _IfcGeoScienceObservation_ may be assigned to _IfcBorehole_, _IfcSpatialZone_ or _IfcSensor_.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Assignment_to_Product_2Gn4FzSQ96MQoPL52lkLa4" />
 					<Items>
 						<DocTemplateItem UniqueId="e49dc5fc-aba6-402b-b6ec-b6e0813e1fca" RuleParameters="RelatingProduct=IfcBorehole;" />
-						<DocTemplateItem UniqueId="d7d1e972-67bb-45bf-888b-1e87f5e11fb4" RuleParameters="RelatingProduct=IfcSensor;" />
-						<DocTemplateItem UniqueId="a629fe53-4e41-4a40-8fc5-221a070670bd" RuleParameters="RelatingProduct=IfcSpatialZone;" />
-						<DocTemplateItem UniqueId="436f73d3-6d07-4ede-a328-565b317f924c" />
+						<DocTemplateItem UniqueId="d7d1e972-67bb-45bf-888b-1e87f5e11fb4" RuleParameters="RelatingProduct=IfcSpatialZone;" />
+						<DocTemplateItem UniqueId="a629fe53-4e41-4a40-8fc5-221a070670bd" RuleParameters="RelatingProduct=IfcSensor;" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Axis 3D Geometry" UniqueId="063e1f7f-5c4b-46e3-b08d-9fb024e82183">

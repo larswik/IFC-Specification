@@ -5,12 +5,6 @@
 		<DocLocalization Locale="en" Name="Light Source" />
 		<DocLocalization Locale="fr" Name="Source de lumière" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="50ccedc2-67e7-4971-b946-461b939c9f1d" DefinedType="IfcLightSourceAmbient" />
-		<DocSubtype UniqueId="381532d8-cbfe-47ac-87a1-9570427e1676" DefinedType="IfcLightSourceDirectional" />
-		<DocSubtype UniqueId="c4d9ebd8-5647-44df-897c-f4cfaadf3ca4" DefinedType="IfcLightSourcePositional" />
-		<DocSubtype UniqueId="c5996967-314c-415e-aae7-7e171be2ceaf" DefinedType="IfcLightSourceGoniometric" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="150164ef-7d33-445f-8a1b-2d529f61d7a4" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The name given to the light source in presentation.</Documentation>
@@ -27,4 +21,3 @@ Definition from VRML97 - ISO/IEC 14772-1:1997: The color field specifies the spe
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

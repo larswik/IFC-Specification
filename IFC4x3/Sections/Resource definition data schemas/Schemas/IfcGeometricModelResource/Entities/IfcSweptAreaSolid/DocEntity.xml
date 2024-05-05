@@ -4,14 +4,6 @@
 		<DocLocalization Locale="de" Name="Festkörper - Entlang einem Pfad extrudiert" />
 		<DocLocalization Locale="en" Name="Swept Area Solid" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="212829ea-be2a-41ae-882d-cbcbcc89af9c" DefinedType="IfcExtrudedAreaSolid" />
-		<DocSubtype UniqueId="00e87347-436b-41b3-bfab-c09477823008" DefinedType="IfcRevolvedAreaSolid" />
-		<DocSubtype UniqueId="b8aa1c27-902d-49aa-8fa5-f8769c608c0e" DefinedType="IfcSurfaceCurveSweptAreaSolid" />
-		<DocSubtype UniqueId="238766a3-5214-4d50-97e5-f049d24e29c4" DefinedType="IfcFixedReferenceSweptAreaSolid" />
-		<DocSubtype UniqueId="f6d3c909-bd55-4ca2-a1dc-53c6c3b3a92a" DefinedType="IfcDirectrixCurveSweptAreaSolid" />
-		<DocSubtype UniqueId="8917af6f-a723-4f04-b416-5b5c34976664" DefinedType="IfcDirectrixDistanceSweptAreaSolid" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="SweptArea" UniqueId="1c1cfe35-c525-4b8e-967a-78258ff390f3" DefinedType="IfcProfileDef" XsdFormat="attribute">
 			<Documentation>The surface defining the area to be swept. It is given as a profile definition within the xy plane of the position coordinate system.</Documentation>
@@ -29,4 +21,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

@@ -5,8 +5,4 @@
 		<DocLocalization Locale="en" Name="Flow Segment Type" />
 		<DocLocalization Locale="fr" Name="Type de tronçon d&apos;installation fluides" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="172fd99e-0c03-422b-8ce0-d53cc8006068" DefinedType="IfcConveyorSegmentType" />
-	</Subtypes>
 </DocEntity>
-

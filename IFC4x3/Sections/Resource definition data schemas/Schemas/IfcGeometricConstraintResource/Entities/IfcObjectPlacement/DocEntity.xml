@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Object Placement" />
 		<DocLocalization Locale="fr" Name="Positionnement d&apos;objet" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="3bbca550-f7f4-4674-a3c1-6505a15a9e12" DefinedType="IfcGridPlacement" />
-		<DocSubtype UniqueId="f3dc67eb-1ef4-4b77-bbc0-8bbc30e14c51" DefinedType="IfcLocalPlacement" />
-		<DocSubtype UniqueId="8200edef-bcea-4517-9b59-fbb49bcf03c7" DefinedType="IfcLinearPlacement" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="PlacementRelTo" UniqueId="7bb09cb1-18c7-4ad5-a88d-f8ecccc28539" DefinedType="IfcObjectPlacement" AttributeFlags="1">
 			<Documentation>Reference to object placement that provides the relative placement with its placement in a grid, local coordinate system or linear referenced placement. If it is omitted, then in the case of linear placement it is established by the origin of horizontal alignment of the referenced IfcAlignment Axis. In the case of local placement it is established by the geometric representation context.</Documentation>
@@ -34,4 +29,3 @@ an object coordinate system for instances of _IfcProduct_.
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

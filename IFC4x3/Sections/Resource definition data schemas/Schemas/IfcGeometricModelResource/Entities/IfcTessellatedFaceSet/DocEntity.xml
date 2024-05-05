@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Tessellated Face Set" />
 		<DocLocalization Locale="fr" Name="Ensemble de faces tessellées" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="35324f0e-ff5e-47d0-9bb4-9a1c2dbaa971" DefinedType="IfcTriangulatedFaceSet" />
-		<DocSubtype UniqueId="435051c7-220d-4b62-9357-610a313a04f2" DefinedType="IfcFacetedFaceSet" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Coordinates" UniqueId="28b00035-2a37-4bda-aa0e-7845352fa060" DefinedType="IfcCartesianPointList3D" XsdFormat="attribute">
 			<Documentation>An ordered list of Cartesian points used by the coordinate index defined at the subtypes of _IfcTessellatedFaceSet_.</Documentation>
@@ -25,4 +21,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

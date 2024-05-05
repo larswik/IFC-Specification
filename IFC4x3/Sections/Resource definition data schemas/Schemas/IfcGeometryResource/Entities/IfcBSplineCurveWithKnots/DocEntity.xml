@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Bézier-Spline-Kurve mit (gegebenen) Kontrollpunkten" />
 		<DocLocalization Locale="en" Name="BSpline Curve With Knots" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e35b3255-9ed7-4da1-ba1c-9f904973ded3" DefinedType="IfcRationalBSplineCurveWithKnots" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="KnotMultiplicities" UniqueId="4dae82bb-9535-43aa-a1a7-baf777ce6fda" DefinedType="IfcInteger" AggregationType="1" AggregationLower="2" AggregationUpper="0">
 			<Documentation>The multiplicities of the knots. This list defines the number of times each knot in the knots list is to be repeated in constructing the knot array.</Documentation>
@@ -35,4 +32,3 @@ UpperIndexOnControlPoints, KnotMultiplicities, Knots)</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

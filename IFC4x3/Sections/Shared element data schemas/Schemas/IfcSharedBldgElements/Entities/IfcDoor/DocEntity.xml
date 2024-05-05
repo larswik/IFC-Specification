@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Door" />
 		<DocLocalization Locale="fr" Name="Porte" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="0f7841c9-6eb7-45cb-a24a-6f308d276c44" DefinedType="IfcDoorStandardCase" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="OverallHeight" UniqueId="82f1996a-2267-42e4-9a5b-d4f2a6e4f8e8" DefinedType="IfcPositiveLengthMeasure" AttributeFlags="1">
 			<Documentation>Overall measure of the height, it reflects the Z Dimension of a bounding box, enclosing the body of the door opening. If omitted, the _OverallHeight_ should be taken from the geometric representation of the _IfcOpening_ in which the door is inserted.
@@ -48,4 +45,3 @@ OR (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcObject.IsTyp
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

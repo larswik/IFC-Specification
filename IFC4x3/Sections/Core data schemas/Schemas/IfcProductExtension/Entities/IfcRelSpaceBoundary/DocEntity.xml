@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Rel Space Boundary" />
 		<DocLocalization Locale="fr" Name="Limite d&apos;espace" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e6c1f4b3-dd54-436b-908d-2f24a5deeced" DefinedType="IfcRelSpaceBoundary1stLevel" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="RelatingSpace" UniqueId="f8599c4e-f4c7-493b-acaf-453c795e6070" DefinedType="IfcSpaceBoundarySelect">
 			<Documentation>Reference to one spaces that is delimited by this boundary.</Documentation>
@@ -48,4 +45,3 @@ OR
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

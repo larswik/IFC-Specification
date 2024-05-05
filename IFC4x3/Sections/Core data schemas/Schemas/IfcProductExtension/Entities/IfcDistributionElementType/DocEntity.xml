@@ -5,9 +5,4 @@
 		<DocLocalization Locale="en" Name="Distribution Element Type" />
 		<DocLocalization Locale="fr" Name="Type d&apos;élément de distribution" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="0480977c-334b-43cb-845c-866ce3f66d78" DefinedType="IfcDistributionControlElementType" />
-		<DocSubtype UniqueId="54033af3-5c61-44e8-80c1-d35449c74f44" DefinedType="IfcDistributionFlowElementType" />
-	</Subtypes>
 </DocEntity>
-

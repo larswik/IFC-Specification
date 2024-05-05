@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Rel Assigns To Group" />
 		<DocLocalization Locale="fr" Name="Assignation à groupe" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="bd60a25e-98bc-4380-94be-31f0ad13ac55" DefinedType="IfcRelAssignsToGroupByFactor" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="RelatingGroup" UniqueId="1f95caf1-2cb2-4b4d-aaf4-d03e95cb784b" DefinedType="IfcGroup" XsdFormat="attribute">
 			<Documentation>Reference to group that contains all assigned group members.</Documentation>
@@ -20,4 +17,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

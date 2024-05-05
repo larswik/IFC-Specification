@@ -5,13 +5,6 @@
 		<DocLocalization Locale="en" Name="Solid Model" />
 		<DocLocalization Locale="fr" Name="Modèle solide" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f229e3fe-ff76-4f08-9947-0b2362a651e9" DefinedType="IfcManifoldSolidBrep" />
-		<DocSubtype UniqueId="2bbfeaa0-d950-4e7e-a929-9cc777c021bc" DefinedType="IfcSweptAreaSolid" />
-		<DocSubtype UniqueId="47d6ecb6-f946-4a91-bbb4-0467a703ab82" DefinedType="IfcCsgSolid" />
-		<DocSubtype UniqueId="eed9b593-f348-4416-9312-873182aa4c68" DefinedType="IfcSweptDiskSolid" />
-		<DocSubtype UniqueId="0518c058-8eca-4705-9485-d6532921c200" DefinedType="IfcSectionedSolid" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Dim" UniqueId="65293a52-f757-4527-aba2-4d7377723853" DefinedType="IfcDimensionCount">
 			<Documentation>The space dimensionality of this class, it is always 3.</Documentation>
@@ -19,4 +12,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

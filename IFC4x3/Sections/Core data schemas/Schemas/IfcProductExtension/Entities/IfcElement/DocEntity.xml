@@ -5,18 +5,6 @@
 		<DocLocalization Locale="en" Name="Element" />
 		<DocLocalization Locale="fr" Name="Élément" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="8c9040da-d2f2-4d62-aeb1-7236c7b09a12" DefinedType="IfcBuildingElement" />
-		<DocSubtype UniqueId="002ab573-355f-40d4-9350-10c9419afcec" DefinedType="IfcFurnishingElement" />
-		<DocSubtype UniqueId="06c99e85-450e-42be-94da-d337ae0bf1cb" DefinedType="IfcDistributionElement" />
-		<DocSubtype UniqueId="12e8a915-7bfc-45f0-91ab-f245250df0dd" DefinedType="IfcTransportElement" />
-		<DocSubtype UniqueId="c371bf34-b334-44ad-8a21-2e6cd7c1dcfc" DefinedType="IfcFeatureElement" />
-		<DocSubtype UniqueId="4df49aa9-7098-4ac4-bfb9-7b9520ab6bc3" DefinedType="IfcElementAssembly" />
-		<DocSubtype UniqueId="6d8f6504-a71c-4379-ab06-7768772b6aa2" DefinedType="IfcVirtualElement" />
-		<DocSubtype UniqueId="912913e0-34ab-4160-b27c-f75de437b6bf" DefinedType="IfcGeographicElement" />
-		<DocSubtype UniqueId="221a2ec2-146f-4239-a7f7-7d8365dab37b" DefinedType="IfcCivilElement" />
-		<DocSubtype UniqueId="274b1ac7-6d4f-4228-94ef-9fd70a37e01f" DefinedType="IfcGeotechnicalElement" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Tag" UniqueId="dcdb600f-7074-41a2-b876-9fb8a9bdb8ec" DefinedType="IfcIdentifier" AttributeFlags="1">
 			<Documentation>The tag (or label) identifier at the particular instance of a product, e.g. the serial number, or the position number. It is the identifier at the occurrence level.</Documentation>
@@ -67,4 +55,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

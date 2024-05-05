@@ -5,14 +5,9 @@
 		<DocLocalization Locale="en" Name="Material Usage Definition" />
 		<DocLocalization Locale="fr" Name="Définition d&apos;usage de matériau" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="3938f5e7-1487-4422-9c77-39c29a921f17" DefinedType="IfcMaterialProfileSetUsage" />
-		<DocSubtype UniqueId="bb89b4b7-bcca-4d1e-8a89-db5877d283ae" DefinedType="IfcMaterialLayerSetUsage" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="AssociatedTo" UniqueId="20912e32-b48d-4caa-9d16-c7b6f378f8a0" DefinedType="IfcRelAssociatesMaterial" AttributeFlags="32" AggregationType="3" AggregationLower="1" AggregationUpper="0" Inverse="RelatingMaterial">
 			<Documentation>Use of the _IfcMaterialUsageDefinition_ subtypes within the material association of an element occurrence. The association is established by the _IfcRelAssociatesMaterial_ relationship.</Documentation>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

@@ -3,10 +3,6 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Surface Curve" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="9b6b21c8-26a1-4359-8930-6f4f3de33ba8" DefinedType="IfcIntersectionCurve" />
-		<DocSubtype UniqueId="8d4fe6f7-a789-4cb2-bc80-3a792ba2459f" DefinedType="IfcSeamCurve" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Curve3D" UniqueId="8094bc56-8107-47d2-9c32-8c2105aba5ae" DefinedType="IfcCurve">
 			<Documentation>The curve which is the three-dimensional representation of the surface curve.</Documentation>
@@ -36,4 +32,3 @@ The master_representation takes one of the values _Curve3D_, _PCurve_S1_ or _PCu
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

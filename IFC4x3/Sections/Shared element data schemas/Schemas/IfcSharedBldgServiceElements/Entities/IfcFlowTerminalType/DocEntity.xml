@@ -5,10 +5,4 @@
 		<DocLocalization Locale="en" Name="Flow Terminal Type" />
 		<DocLocalization Locale="fr" Name="Type d&apos;élément terminal d&apos;installation fluides" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="4a43779a-ebdf-4027-9c22-ae9341a075d3" DefinedType="IfcSignalType" />
-		<DocSubtype UniqueId="e7f09bed-47d3-42b9-8b7b-bc2e3fd7b02a" DefinedType="IfcMobileTelecommunicationsApplianceType" />
-		<DocSubtype UniqueId="1bc0ca2f-a24e-49cf-b289-90f4ce1e1c01" DefinedType="IfcLiquidTerminalType" />
-	</Subtypes>
 </DocEntity>
-

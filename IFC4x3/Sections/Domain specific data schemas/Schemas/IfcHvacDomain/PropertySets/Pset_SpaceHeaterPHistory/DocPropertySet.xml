@@ -17,7 +17,7 @@
 		<DocProperty xsi:nil="true" href="UACurve_2nN9c0qWaHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="OutputCapacityCurve_2skUG0qWaHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="AirResistanceCurve_2vjDI0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Exponent_2zuF80qWaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CharacteristicExponent_2zuF80qWaHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="HeatOutputRate_31T7a0qWaHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>

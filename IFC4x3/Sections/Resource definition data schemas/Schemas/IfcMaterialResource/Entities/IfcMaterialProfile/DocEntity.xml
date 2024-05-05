@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Material Profile" />
 		<DocLocalization Locale="fr" Name="Matériau de profil" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="7472e833-1ae6-4693-80e1-fc774161b9be" DefinedType="IfcMaterialProfileWithOffsets" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="1b62c1d3-3352-4939-90c9-2f85a6eb8a8f" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The name by which the material profile is known.</Documentation>
@@ -41,4 +38,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

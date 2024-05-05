@@ -5,12 +5,6 @@
 		<DocLocalization Locale="en" Name="Representation Item" />
 		<DocLocalization Locale="fr" Name="Item de représentation" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="d8b1cb11-f38b-4b2b-b863-347735987f55" DefinedType="IfcTopologicalRepresentationItem" />
-		<DocSubtype UniqueId="b1ad9e4e-295c-4d5b-ae94-583b3e81ea02" DefinedType="IfcGeometricRepresentationItem" />
-		<DocSubtype UniqueId="8b9863fa-fc79-4121-99c1-b4b1804cc0a6" DefinedType="IfcMappedItem" />
-		<DocSubtype UniqueId="98af54d7-0473-4442-ae40-9676f51af881" DefinedType="IfcStyledItem" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="LayerAssignment" UniqueId="dfe686aa-bc7f-4a2e-a98a-a1bff75b1212" DefinedType="IfcPresentationLayerAssignment" AttributeFlags="32" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="AssignedItems">
 			<Documentation>Assignment of the representation item to a single or multiple layer(s). The _LayerAssignments_ can override a _LayerAssignments_ of the _IfcRepresentation_ it is used  within the list of _Items_.
@@ -28,4 +22,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

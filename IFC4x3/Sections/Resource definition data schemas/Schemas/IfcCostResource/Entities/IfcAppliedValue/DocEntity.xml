@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Applied Value" />
 		<DocLocalization Locale="fr" Name="Valeur appliquée" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="d060230f-003d-4654-9728-cb3861230258" DefinedType="IfcCostValue" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="f1f7e181-7ab7-42ee-8419-312a8e441f5e" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>A name or additional clarification given to a cost value.</Documentation>
@@ -62,4 +59,3 @@ For example, within the context of a bid submission, this may refer to an option
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

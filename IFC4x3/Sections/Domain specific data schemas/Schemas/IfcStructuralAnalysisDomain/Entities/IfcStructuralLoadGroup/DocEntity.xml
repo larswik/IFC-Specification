@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Lastgruppe / Lastkombination" />
 		<DocLocalization Locale="en" Name="Structural Load Group" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f0baf40b-89ad-4737-880b-bacce70cae15" DefinedType="IfcStructuralLoadCase" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="PredefinedType" UniqueId="5663480e-3310-47cf-9895-b66f3b6bc6fc" DefinedType="IfcLoadGroupTypeEnum">
 			<Documentation>Selects a predefined type for the load group.  It can be differentiated between load groups, load cases, load combinations, or userdefined grouping levels.</Documentation>
@@ -41,4 +38,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

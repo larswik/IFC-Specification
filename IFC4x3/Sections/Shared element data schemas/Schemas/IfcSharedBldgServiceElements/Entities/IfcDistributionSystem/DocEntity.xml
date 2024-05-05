@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Distribution System" />
 		<DocLocalization Locale="fr" Name="Système de distribution" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e20a476e-79c1-4c9b-acf6-88a5e5a43660" DefinedType="IfcDistributionCircuit" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="LongName" UniqueId="595fb1c1-bd79-44fe-8bb4-98094a918348" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>Long name for a distribution system, used for informal purposes. It should be used, if available, in conjunction with the inherited _Name_ attribute.\X\0D
@@ -26,4 +23,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

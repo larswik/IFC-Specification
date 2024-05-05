@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Presentation Layer Assignment" />
 		<DocLocalization Locale="fr" Name="Assignation de calque" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="521d82d8-ad9d-44da-aa0f-4d9e022493ea" DefinedType="IfcPresentationLayerWithStyle" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="87af29d2-be1e-4b15-b9ad-c509d2b4f7fa" DefinedType="IfcLabel">
 			<Documentation>Name of the layer.</Documentation>
@@ -36,4 +33,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

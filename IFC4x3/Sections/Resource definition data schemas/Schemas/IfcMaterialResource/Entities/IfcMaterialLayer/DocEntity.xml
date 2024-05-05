@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Material Layer" />
 		<DocLocalization Locale="fr" Name="Couche de matériau" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="bc567f09-80ee-489d-b228-d0cfeb6bef43" DefinedType="IfcMaterialLayerWithOffsets" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Material" UniqueId="5e1b64ef-4e51-4312-8c39-0c01567e2571" DefinedType="IfcMaterial" AttributeFlags="1" XsdFormat="attribute">
 			<Documentation>Optional reference to the material from which the layer is constructed. Note that if this value is not given, it does not denote a layer with no material (an air gap), it only means that the material is not specified at that point.</Documentation>
@@ -55,4 +52,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

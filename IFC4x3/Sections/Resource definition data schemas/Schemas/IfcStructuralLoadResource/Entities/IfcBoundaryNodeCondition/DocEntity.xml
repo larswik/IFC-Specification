@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Boundary Node Condition" />
 		<DocLocalization Locale="fr" Name="Condition de nœud limite" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="37e2646b-f58d-4140-9391-fe75d4454f18" DefinedType="IfcBoundaryNodeConditionWarping" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="TranslationalStiffnessX" UniqueId="28749803-afba-4c8e-af1b-b6633ca1fde5" DefinedType="IfcTranslationalStiffnessSelect" AttributeFlags="1">
 			<Documentation>Translational stiffness value in x-direction of the coordinate system defined by the instance which uses this resource object.</Documentation>
@@ -29,4 +26,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

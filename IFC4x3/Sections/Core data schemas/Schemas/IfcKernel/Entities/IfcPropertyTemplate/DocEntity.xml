@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Property Template" />
 		<DocLocalization Locale="fr" Name="Modèle de propriété" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="1c16223d-9ad7-4da9-95b0-e4375ece0c64" DefinedType="IfcComplexPropertyTemplate" />
-		<DocSubtype UniqueId="b6a55d1d-e147-4550-a210-37b65f83b877" DefinedType="IfcSimplePropertyTemplate" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="PartOfComplexTemplate" UniqueId="c8bb95e2-205f-47e2-988e-debdc6a2ef7c" DefinedType="IfcComplexPropertyTemplate" AttributeFlags="8" AggregationType="3" Inverse="HasPropertyTemplates">
 			<Documentation>Reference to a complex property templates. It should only be provided, if the _PropertyType_ of the referenced complex property template is set to &lt;small&gt;COMPLEX&lt;/small&gt;.</Documentation>
@@ -18,4 +14,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

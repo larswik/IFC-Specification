@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Beliebiges offenes Profil" />
 		<DocLocalization Locale="en" Name="Arbitrary Open Profile Def" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ab3ad4b1-a8fa-446d-995f-2b640a76adcc" DefinedType="IfcCenterLineProfileDef" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Curve" UniqueId="a0dddda9-00b8-467a-9d3d-53cbc87fef54" DefinedType="IfcBoundedCurve" XsdFormat="attribute">
 			<Documentation>Open bounded curve defining the profile.</Documentation>
@@ -25,4 +22,3 @@
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

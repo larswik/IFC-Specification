@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Root" />
 		<DocLocalization Locale="fr" Name="Racine" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ba2ca809-60d3-4360-9000-4cb4d92123fb" DefinedType="IfcPropertyDefinition" />
-		<DocSubtype UniqueId="37dd3b2d-b0d0-4eab-9a91-bbb881a707ce" DefinedType="IfcRelationship" />
-		<DocSubtype UniqueId="4e1a3bc1-c4ea-4a0a-9917-0c050e7972b0" DefinedType="IfcObjectDefinition" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="GlobalId" UniqueId="2ef91ad0-a87b-4049-910a-d9c2aea67739" DefinedType="IfcGloballyUniqueId" AttributeFlags="6">
 			<Documentation>Assignment of a globally unique identifier within the entire software world.</Documentation>
@@ -37,4 +32,3 @@
 		</DocUniqueRule>
 	</UniqueRules>
 </DocEntity>
-

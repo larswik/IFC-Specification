@@ -4,16 +4,6 @@
 		<DocLocalization Locale="de" Name="allgemeine Relation" />
 		<DocLocalization Locale="en" Name="Resource Level Relationship" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="c09b305b-7494-4d08-8c24-7d46c53d3fc9" DefinedType="IfcExternalReferenceRelationship" />
-		<DocSubtype UniqueId="8fea1e4e-4cc0-4bf6-8a7d-9a3fb3432f5b" DefinedType="IfcPropertyDependencyRelationship" />
-		<DocSubtype UniqueId="a45651f8-55fb-4389-b718-fbc6b33e43e3" DefinedType="IfcMaterialRelationship" />
-		<DocSubtype UniqueId="dfec020d-a65a-48d6-b507-f054176b0dde" DefinedType="IfcDocumentInformationRelationship" />
-		<DocSubtype UniqueId="1a105545-daac-4511-a05d-77958d1ee832" DefinedType="IfcCurrencyRelationship" />
-		<DocSubtype UniqueId="0f67b372-289d-4214-8cc3-dc47cf0499eb" DefinedType="IfcResourceConstraintRelationship" />
-		<DocSubtype UniqueId="4f754633-7a47-41e1-a5eb-324c9d318815" DefinedType="IfcApprovalRelationship" />
-		<DocSubtype UniqueId="0e06eb26-b8ef-4fd2-9b5f-eab18f1e8669" DefinedType="IfcResourceApprovalRelationship" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="f0cbdaa5-9876-4222-b747-25988a127a3b" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>A name used to identify or qualify the relationship.</Documentation>
@@ -23,4 +13,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

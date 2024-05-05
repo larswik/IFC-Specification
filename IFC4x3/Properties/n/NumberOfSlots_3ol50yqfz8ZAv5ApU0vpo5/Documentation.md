@@ -1,1 +1,1 @@
-Indicates the number of  slots.
+Indicates the number of slots.

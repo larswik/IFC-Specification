@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Constraint" />
 		<DocLocalization Locale="fr" Name="Contrainte" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="b100e56c-4aaa-4883-a15a-a840f4036192" DefinedType="IfcObjective" />
-		<DocSubtype UniqueId="913f866a-ba39-407c-bcdf-b4ae8078c5d5" DefinedType="IfcMetric" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="a96ada47-fcff-40e9-9a9c-b70ac0c99a51" DefinedType="IfcLabel">
 			<Documentation>A human-readable name to be used for the constraint.</Documentation>
@@ -49,4 +45,3 @@ When a value is provided for attribute UserDefinedGrade in parallel the attribut
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

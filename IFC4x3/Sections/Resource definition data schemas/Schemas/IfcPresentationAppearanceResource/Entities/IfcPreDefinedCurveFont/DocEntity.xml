@@ -4,8 +4,4 @@
 		<DocLocalization Locale="de" Name="Vordefinierter Liniensatz" />
 		<DocLocalization Locale="en" Name="Pre Defined Curve Font" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="aee7c33a-3934-4199-96d5-38ade813099a" DefinedType="IfcDraughtingPreDefinedCurveFont" />
-	</Subtypes>
 </DocEntity>
-

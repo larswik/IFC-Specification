@@ -5,13 +5,6 @@
 		<DocLocalization Locale="en" Name="Constructive Solid Geometry Primitive 3D" />
 		<DocLocalization Locale="fr" Name="Primitive 3D Csg" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="5897d1ea-ba0c-479f-be07-5c0fcb57c467" DefinedType="IfcBlock" />
-		<DocSubtype UniqueId="0f4cb0e9-7d10-4dda-b502-2ab41d683af9" DefinedType="IfcRectangularPyramid" />
-		<DocSubtype UniqueId="91334ea9-e3f9-4f6e-87d8-cde478a62f10" DefinedType="IfcRightCircularCylinder" />
-		<DocSubtype UniqueId="262775a5-6a98-46a4-b788-216bb5878e1d" DefinedType="IfcRightCircularCone" />
-		<DocSubtype UniqueId="ccd1437f-a61c-4dff-ad57-2637557bf1e4" DefinedType="IfcSphere" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Position" UniqueId="623bbeab-dc08-4cb6-83ef-232501104ec3" DefinedType="IfcAxis2Placement3D" XsdFormat="attribute">
 			<Documentation>The placement coordinate system to which the parameters of each individual CSG primitive apply.</Documentation>
@@ -22,4 +15,3 @@
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

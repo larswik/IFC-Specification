@@ -22,12 +22,12 @@ Note:
 1. The figures/ are shown as elevations in the XZ plane of the local placement of the window, looking into the direction of the positive Y axis.
 2. These figures/ are only shown as illustrations.</Documentation>
 	<Constants>
-		<DocPropertyConstant xsi:nil="true" href="BOTTOM_36cywyNE51ARW9f43wXc" />
-		<DocPropertyConstant xsi:nil="true" href="LEFT_1odPHBb6j8AvZ3injxBHq" />
+		<DocPropertyConstant xsi:nil="true" href="BOTTOM_36cywyNE51ARW9$f43wX$c" />
+		<DocPropertyConstant xsi:nil="true" href="LEFT_1odPHBb6j8AvZ$3injxBHq" />
 		<DocPropertyConstant xsi:nil="true" href="MIDDLE_1yyx89Hwj7BgE74aIYDCio" />
 		<DocPropertyConstant xsi:nil="true" href="RIGHT_0ZCUExWLT8_RNodDptIgFT" />
 		<DocPropertyConstant xsi:nil="true" href="TOP_1FopLPvff8OQ8Tt_DfB0dA" />
-		<DocPropertyConstant xsi:nil="true" href="OTHER_0SAtxxJj15wQA15w2MsIV" />
+		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
 	</Constants>

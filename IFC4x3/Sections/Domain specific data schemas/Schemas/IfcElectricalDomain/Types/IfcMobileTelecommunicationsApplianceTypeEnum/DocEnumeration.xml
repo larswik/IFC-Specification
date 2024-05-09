@@ -3,8 +3,8 @@
 	<Constants>
 		<DocConstant xsi:nil="true" href="E_UTRAN_NODE_B_1KWIbyg9bDUPPBSgVVFiPw" />
 		<DocConstant xsi:nil="true" href="REMOTERADIOUNIT_3wokmCviz6J8MbflM5lIXw" />
-		<DocConstant xsi:nil="true" href="ACCESSPOINT_3kKAN9sen0fUTPeoFkkx_" />
-		<DocConstant xsi:nil="true" href="BASETRANSCEIVERSTATION_1pHSP8WzFd97DM13mUwFi" />
+		<DocConstant xsi:nil="true" href="ACCESSPOINT_3kKAN9sen0$fUTPeoFkkx_" />
+		<DocConstant xsi:nil="true" href="BASETRANSCEIVERSTATION_1pH$SP8WzFd97DM13mUwFi" />
 		<DocConstant xsi:nil="true" href="REMOTEUNIT_3lDc3tX5L6FPR_Eg4uGpbl" />
 		<DocConstant xsi:nil="true" href="BASEBANDUNIT_3kDhHJvej3XQgF2cAXutHj" />
 		<DocConstant xsi:nil="true" href="MASTERUNIT_0Wc00NJM968vz1b0KYPd2T" />
@@ -14,8 +14,8 @@
 		<DocConstant xsi:nil="true" href="MSCSERVER_12_KCtwq9DoBSk4y_slwBM" />
 		<DocConstant xsi:nil="true" href="PACKETCONTROLUNIT_2oB1IQxVn7XQdFtqZRutym" />
 		<DocConstant xsi:nil="true" href="SERVICE_GPRS_SUPPORT_NODE_02d6z7eJjFjvrHxPpH6rYP" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_3UZXzKKD12RotG6dmTF8v" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_3UZX$zKKD12RotG6dmTF8v" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

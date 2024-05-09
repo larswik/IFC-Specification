@@ -2,8 +2,8 @@
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SignCommon" UniqueId="6b8ad37a-4faa-441b-b3f2-1b042d265af0" ApplicableType="IfcSign" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="Reference_2X2FHXMfzC082XYHVx4hrw" />
-		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Category_06lec0qRqHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Category_06lec0qRqHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TactileMarking_1z05xhBET6pvjbZKPdkuil" />
 	</Properties>
 </DocPropertySet>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Geometry_Fill_Area_Style_1hQdPNcv98Bs6d7jlRUfS" Name="Geometry Fill Area Style" UniqueId="6bfda9d9-5e6e-4920-bd86-9c7b6f6dea5c" Type="IfcFillAreaStyle">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Geometry_Fill_Area_Style_1h$QdPNcv98Bs6d7jlRUfS" Name="Geometry Fill Area Style" UniqueId="6bfda9d9-5e6e-4920-bd86-9c7b6f6dea5c" Type="IfcFillAreaStyle">
 	<Rules>
 		<DocModelRuleAttribute Name="Name">
 			<Rules>

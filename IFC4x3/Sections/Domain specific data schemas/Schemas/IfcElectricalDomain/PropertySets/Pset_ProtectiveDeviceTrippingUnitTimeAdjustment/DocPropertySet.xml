@@ -7,13 +7,13 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="AdjustmentValueType_3FkvY0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TimeAdjustmentRange_3O4zE0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TimeAdjustmentRangeStepValue_3VqtW0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TimeAdjustmentValues_3bCCA0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AdjustmentDesignation_3fzNQ0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CurrentForTimeDelay_3mW_u0qViHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="I2TApplicability_3rIA80qViHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="AdjustmentValueType_3FkvY0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TimeAdjustmentRange_3O4zE0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TimeAdjustmentRangeStepValue_3VqtW0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TimeAdjustmentValues_3bCCA0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AdjustmentDesignation_3fzNQ0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CurrentForTimeDelay_3mW_u0qViHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="I2TApplicability_3rIA80qViHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Pipe Segment Occurrence" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="InteriorRoughnessCoefficient_39TEw0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Colour_3G0sO0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Gradient_1pL7i0qVCHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InvertElevation_1vIbm0qVCHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="InteriorRoughnessCoefficient_39TEw0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Colour_3G0sO0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Gradient_1pL7i0qVCHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InvertElevation_1vIbm0qVCHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

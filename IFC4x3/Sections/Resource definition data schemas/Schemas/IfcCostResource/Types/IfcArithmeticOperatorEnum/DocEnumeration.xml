@@ -5,10 +5,10 @@
 		<DocLocalization Locale="fr" Name="Énumération d&apos;opérateur arithmétique" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="ADD_1IooWDNQ95YAPWdu0Jz7T" />
+		<DocConstant xsi:nil="true" href="ADD_1IooWDNQ95YAPWdu0Jz7T$" />
 		<DocConstant xsi:nil="true" href="DIVIDE_0ivNS3RULFAwrFmYODJAoG" />
 		<DocConstant xsi:nil="true" href="MULTIPLY_2wboDpVfz03OI67slXeQnZ" />
-		<DocConstant xsi:nil="true" href="SUBTRACT_16x9S33v3Z90YcnPolTRO" />
+		<DocConstant xsi:nil="true" href="SUBTRACT_1$6x9S33v3Z90YcnPolTRO" />
 		<DocConstant xsi:nil="true" href="MODULO_0RCXeadnPCge7Mvd_uagq2" />
 	</Constants>
 </DocEnumeration>

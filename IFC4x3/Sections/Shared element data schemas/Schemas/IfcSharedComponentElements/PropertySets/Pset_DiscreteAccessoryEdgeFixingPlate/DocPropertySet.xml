@@ -7,10 +7,10 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="EdgeFixingPlateLength_2DCPO0qT8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EdgeFixingPlateThickness_2IZk20qT8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EdgeFixingPlateFlangeWidthInPlaneZ_2Nx2i0qT8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EdgeFixingPlateFlangeWidthInPlaneX_2TINM0qT8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="EdgeFixingPlateLength_2DCPO0qT8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EdgeFixingPlateThickness_2IZk20qT8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EdgeFixingPlateFlangeWidthInPlaneZ_2Nx2i0qT8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EdgeFixingPlateFlangeWidthInPlaneX_2TINM0qT8HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

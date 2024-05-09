@@ -7,15 +7,15 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_2FaF60qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RefrigerantClass_0sT8u0qSiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExternalSurfaceArea_2myTs0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InternalSurfaceArea_2svxw0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InternalRefrigerantVolume_2yHGa0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InternalWaterVolume_31ebE0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalHeatTransferArea_36PmU0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalHeatTransferCoefficient_3Bn580qSmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_2FaF60qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="RefrigerantClass_0sT8u0qSiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ExternalSurfaceArea_2myTs0qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InternalSurfaceArea_2svxw0qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InternalRefrigerantVolume_2yHGa0qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InternalWaterVolume_31ebE0qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NominalHeatTransferArea_36PmU0qSmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NominalHeatTransferCoefficient_3Bn580qSmHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

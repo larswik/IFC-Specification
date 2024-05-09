@@ -6,23 +6,23 @@
 	<Constants>
 		<DocConstant xsi:nil="true" href="SINGLE_SWING_LEFT_2c15Bi3D1Fbx0f0fcepMb" />
 		<DocConstant xsi:nil="true" href="SINGLE_SWING_RIGHT_2kjIMmcrC78Bmu1WFivLs" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_SINGLE_SWING_2N_Q56xXCrxvwkvyTQhkN" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_SINGLE_SWING_OPPOSITE_LEFT_0Hu2gsT057reaSN7ApyRC" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_SINGLE_SWING_OPPOSITE_RIGHT_3wb6ANaT3YOSWm9Bqwg5Q" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_SINGLE_SWING_35LHikJIjFPvgHNdKwOqsb" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_SINGLE_SWING_OPPOSITE_LEFT_2p5mrd3m1AVeTJ94ICsAbV" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_SINGLE_SWING_OPPOSITE_RIGHT_3mbsEnlXzAhAtkFWtBdPAI" />
 		<DocConstant xsi:nil="true" href="DOUBLE_SWING_LEFT_3NmI3E7093qA8ojiRV4QQG" />
 		<DocConstant xsi:nil="true" href="DOUBLE_SWING_RIGHT_08bZ5kcPBRutPSB7pX68V" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_DOUBLE_SWING_2JIpggppv3NwwGxMEI7W2B" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_DOUBLE_SWING_1Ma2zLiIrCiP8NWQe1w67J" />
 		<DocConstant xsi:nil="true" href="SLIDING_TO_LEFT_2oVUJDWHv6w8iOXekZ5PdF" />
 		<DocConstant xsi:nil="true" href="SLIDING_TO_RIGHT_14NY8GjKXEDBv4xeXatXqe" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_SLIDING_1Of2XWu71BMeLCY4runo_O" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_SLIDING_2sGvFVw2LDqB3F2o49tNlt" />
 		<DocConstant xsi:nil="true" href="FOLDING_TO_LEFT_1T4cVGrs9DrRguwQFH2qZb" />
 		<DocConstant xsi:nil="true" href="FOLDING_TO_RIGHT_0ZD2msTujF2AZFJIXuu60T" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_FOLDING_1dlUnSSjT8l8gnZu7WsWsz" />
-		<DocConstant xsi:nil="true" href="REVOLVING_HORIZONTAL_0UBV4XRmrCdfBDXrILfVM7" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_FOLDING_1f8rpBLIn9yvASNim0UF_" />
+		<DocConstant xsi:nil="true" href="REVOLVING_1rWqAcSM1E1upJyCNxG7St" />
 		<DocConstant xsi:nil="true" href="ROLLINGUP_29Zie87T5t8en9M1_zlk6" />
 		<DocConstant xsi:nil="true" href="SWING_FIXED_LEFT_0fzKWfrqH3Vv14MFEUOdKS" />
 		<DocConstant xsi:nil="true" href="SWING_FIXED_RIGHT_1jERkOZBHCOemB9M9rpqlh" />
-		<DocConstant xsi:nil="true" href="DOUBLE_PANEL_LIFTING_VERTICAL_3LlpL0YsP8yuemFP0I48YN" />
+		<DocConstant xsi:nil="true" href="DOUBLE_DOOR_LIFTING_VERTICAL_3LlpL0YsP8yuemFP0I48YN" />
 		<DocConstant xsi:nil="true" href="LIFTING_HORIZONTAL_3VbTV0NSjFoggIwOXz6wnW" />
 		<DocConstant xsi:nil="true" href="LIFTING_VERTICAL_LEFT_3HrLHcQsz5LhsO1Ef08JlU" />
 		<DocConstant xsi:nil="true" href="LIFTING_VERTICAL_RIGHT_2uoEY2sEz13R_XTu4zl_Aq" />

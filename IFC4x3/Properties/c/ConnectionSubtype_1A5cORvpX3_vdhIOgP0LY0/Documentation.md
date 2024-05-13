@@ -1,4 +1,6 @@
-The physical port connection subtype that further qualifies the ConnectionType. The following values are recommended:ACPLUG: A, B, C, D, E, F, EF, G, H, I, J, K, L, M
+The physical port connection subtype that further qualifies the ConnectionType. The following values are recommended:
+
+ACPLUG: A, B, C, D, E, F, EF, G, H, I, J, K, L, M
 DIN: Mini3P, Mini4P, Mini5P, Mini6P, Mini7P, Mini8P, Mini9P
 DSub: DA15, DB25, DC37, DD50, DE9, DE15
 EIAJ: RC5720

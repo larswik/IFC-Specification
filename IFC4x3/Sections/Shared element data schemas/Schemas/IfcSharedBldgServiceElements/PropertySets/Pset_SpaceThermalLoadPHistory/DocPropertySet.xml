@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoadPHistory" UniqueId="3nlHS0qWiHuO00025QrE$V" ApplicableType="IfcSpace" PropertySetType="PSET_PERFORMANCEDRIVEN">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoadPHistory" UniqueId="3nlHS0qWiHuO00025QrE$V" ApplicableType="IfcSpatialElement" PropertySetType="PSET_PERFORMANCEDRIVEN">
 	<Localization>
 		<DocLocalization Locale="en" Name="Space Thermal Load PHistory" />
 		<DocLocalization Locale="ja-JP">
@@ -7,20 +7,20 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="People_3tilW0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Lighting_3whUY0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EquipmentSensible_3zgDa0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="VentilationIndoorAir_002pC0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="VentilationOutdoorAir_031YE0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RecirculatedAir_060HG0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExhaustAir_080I0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirExchangeRate_0BzlK0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DryBulbTemperature_0FYdm0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RelativeHumidity_0IXMo0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InfiltrationSensible_0LW5q0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalSensibleLoad_0OUqs0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalLatentLoad_0RTZu0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalRadiantLoad_0USIw0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="PeopleHistory_3tilW0qWiHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="LightingHistory_3whUY0qWiHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="EquipmentSensibleHistory_3zgDa0qWiHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="VentilationIndoorAirHistory_002pC0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="VentilationOutdoorAirHistory_031YE0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="RecirculatedAirHistory_060HG0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="ExhaustAirHistory_080I0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="AirExchangeRateTimeHistory_0BzlK0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="DryBulbTemperatureHistory_0FYdm0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="RelativeHumidityHistory_0IXMo0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="InfiltrationSensibleHistory_0LW5q0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="TotalSensibleLoadHistory_0OUqs0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="TotalLatentLoadHistory_0RTZu0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="TotalRadiantLoadHistory_0USIw0qWmHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>
 

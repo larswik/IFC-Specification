@@ -7067,14 +7067,18 @@ Representation identifier and type are the same as in single mapped representati
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Sectioned Solid Horizontal Geometry" UniqueId="11c247d9-bacc-422e-8484-9da0cbabd612">
 					<Documentation>The main Body geometry of IfcExcavation. Goes hand-in-hand with Guiding Curves Geometry. The parametric cross sections are placed along the Directrix. Between the control points the interpolation is related to the curve type used on the underlying segment where the rate of curvature change is the basis.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SectionedSolidHorizontal_1UlsKnHvEMBfv6swVDKBO" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SectionedSolidHorizontal_1Ul$sKnHvEMBfv6swVDKBO" />
 					<Items>
 						<DocTemplateItem UniqueId="573582d9-c188-4a8d-819f-3568f03dd0c7" />
+						<DocTemplateItem UniqueId="9546d6b5-b238-4f10-a541-2d9c4f27e6e7" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="dd6bfbbc-8431-4512-8e9f-b232cc5fff1b">
 					<Documentation>Whenever parametric geometry with cross sections (Sectioned Solid Horizontal Geometry) and guiding curves (Guiding Curves Geometry) is not possible, the segment shall be represented with Body Tessellation Geometry.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
+					<Items>
+						<DocTemplateItem UniqueId="da9e92d9-6846-4099-87a7-014690cbf1cf" />
+					</Items>
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="0a933071-cfcb-473a-ad7f-4979b2366992" Type="IfcExcavation" />
@@ -7920,9 +7924,10 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			<Concepts>
 				<DocTemplateUsage Name="Document Association" UniqueId="9696ad77-ec01-4445-9a4e-bfc54df14f21">
 					<Documentation>Documents may be associated with any type of _IfcGeoScienceFeature_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceGukyB" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceG$ukyB" />
 					<Items>
 						<DocTemplateItem UniqueId="5c701fb2-fbb9-46b9-91f2-e8ed3dab1963" />
+						<DocTemplateItem UniqueId="4d4877c7-ab99-488c-ba7c-cd1a3a79554e" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Dataset Association" UniqueId="0e271434-eb27-4953-8e3b-bbb881809fd6">
@@ -10565,13 +10570,13 @@ Figure 1 illustrates project relationships with spatial structures, elements, an
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Project Dataset Information" UniqueId="e947288e-15f5-4dcb-8e09-a39dcb995e2d">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Dataset_Information_1juQ9Rg1FX8QbBlGrSOgu" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Dataset_Information_1j$uQ9Rg1FX8QbBlGrSOgu" />
 					<Items>
 						<DocTemplateItem UniqueId="e1170aa4-751f-4de7-b936-8a1a853c30d7" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Project Global Positioning Geographic" UniqueId="d1c8c2c8-903f-4db1-8de9-5078995511e5">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Global_Positioning_Geographic_3rJ3aKTBj11wk7gKUHSOa" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Global_Positioning_Geographic_3rJ3aKTBj11wk7$gKUHSOa" />
 					<Items>
 						<DocTemplateItem UniqueId="f6b4e099-7563-4399-a9a1-b2e3e01d5023" />
 					</Items>

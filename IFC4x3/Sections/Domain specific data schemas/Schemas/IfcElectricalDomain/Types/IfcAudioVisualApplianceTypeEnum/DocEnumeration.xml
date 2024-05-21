@@ -18,9 +18,10 @@
 		<DocConstant xsi:nil="true" href="TUNER_0_EStDoNXF4Bw512qome7N" />
 		<DocConstant xsi:nil="true" href="COMMUNICATIONTERMINAL_1C$9BNNcj9mx0W2dT2QsBb" />
 		<DocConstant xsi:nil="true" href="RECORDINGEQUIPMENT_36UqHdggP9TuLcv1TqgpR2" />
-		<DocConstant xsi:nil="true" href="SIREN_3RQNBeym99uw43tIfckrf" />
-		<DocConstant xsi:nil="true" href="BEACON_3x3FKFVb7We_GgoMWDAFd" />
+		<DocConstant xsi:nil="true" href="SIREN_3RQNBeym99uw43tIf$ckrf" />
+		<DocConstant xsi:nil="true" href="BEACON_3x$3FKFVb7We_GgoMWDAFd" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_0$pjy5o5D4AO1puVPAZ73z" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
+

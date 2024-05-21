@@ -8,7 +8,7 @@
 			<Documentation>Array of logical values on voxels accessible by the same index as that of the corresponding voxel.</Documentation>
 			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels);</Derived>
 			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcLogical_0H4OYLG_f3dAXVfakPCGL" />
+				<DocDefinitionRef xsi:nil="true" href="IfcLogical_0H4OYLG_f3dAXVfa$kPCGL" />
 			</Definition>
 		</DocAttribute>
 	</Attributes>

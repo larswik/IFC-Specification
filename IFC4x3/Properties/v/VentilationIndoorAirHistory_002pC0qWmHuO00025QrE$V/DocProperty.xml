@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationIndoorAirHistory_002pC0qWmHuO00025QrEV" Name="VentilationIndoorAirHistory" UniqueId="002pC0qWmHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationIndoorAirHistory_002pC0qWmHuO00025QrE$V" Name="VentilationIndoorAirHistory" UniqueId="002pC0qWmHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcPowerMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Ventilation Indoor Air" />
 		<DocLocalization Locale="ja-JP" Name="室内の換気量">

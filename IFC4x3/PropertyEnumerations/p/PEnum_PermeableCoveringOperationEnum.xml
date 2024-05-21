@@ -4,10 +4,10 @@
 
 &gt;HISTORY&amp;nbsp; New enumeration in IFC2.0.</Documentation>
 	<Constants>
-		<DocPropertyConstant xsi:nil="true" href="GRILL_1j779ANv8D8UeV1xtfS4c" />
+		<DocPropertyConstant xsi:nil="true" href="GRILL_1$j779ANv8D8UeV1xtfS4c" />
 		<DocPropertyConstant xsi:nil="true" href="LOUVER_1ht_iuEcn5Dvw570S3rK7q" />
-		<DocPropertyConstant xsi:nil="true" href="SCREEN_22JYGR2XBGvl6VxFSGNig" />
-		<DocPropertyConstant xsi:nil="true" href="OTHER_0SAtxxJj15wQA15w2MsIV" />
+		<DocPropertyConstant xsi:nil="true" href="SCREEN_22$JYGR2XBGvl6VxFSGNig" />
+		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
 	</Constants>

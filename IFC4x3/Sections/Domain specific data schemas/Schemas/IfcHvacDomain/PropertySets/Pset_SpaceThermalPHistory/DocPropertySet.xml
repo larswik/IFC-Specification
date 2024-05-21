@@ -7,12 +7,12 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CoolingAirFlowRate_0d_fQ0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HeatingAirFlowRate_0hZXs0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="VentilationAirFlowRateHistory_0kYGu0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExhaustAirFlowRate_0nWw0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SpaceTemperatureHistory_0r5uM0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SpaceRelativeHumidity_0ugmo0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CoolingAirFlowRate_0d_fQ0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingAirFlowRate_0hZXs0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="VentilationAirFlowRateHistory_0kYGu0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ExhaustAirFlowRate_0nW$w0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SpaceTemperatureHistory_0r5uM0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SpaceRelativeHumidity_0ugmo0qWmHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

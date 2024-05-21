@@ -54,3 +54,4 @@ OR (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcObject.IsT
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
+

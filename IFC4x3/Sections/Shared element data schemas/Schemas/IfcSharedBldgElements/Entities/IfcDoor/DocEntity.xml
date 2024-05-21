@@ -45,3 +45,4 @@ OR (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcObject.IsTyp
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
+

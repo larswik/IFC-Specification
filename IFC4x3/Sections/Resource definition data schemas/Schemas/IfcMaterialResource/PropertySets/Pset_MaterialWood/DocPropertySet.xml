@@ -4,15 +4,15 @@
 		<DocLocalization Locale="en" Name="Material Wood" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Species_19J8e0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="StrengthGrade_1EgTI0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AppearanceGrade_1K1ny0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Layup_1PP6c0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Layers_1VMag0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Plies_1ZXcW0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MoistureContent_1dieM0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DimensionalChangeCoefficient_1htgC0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ThicknessSwelling_1merS0qUuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Species_19J8e0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="StrengthGrade_1EgTI0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AppearanceGrade_1K1ny0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Layup_1PP6c0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Layers_1VMag0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Plies_1ZXcW0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MoistureContent_1dieM0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="DimensionalChangeCoefficient_1htgC0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ThicknessSwelling_1merS0qUuHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

@@ -18,7 +18,7 @@
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute CardinalityMin="1" CardinalityMax="1" Name="RepresentationIdentifier" Identification="Identifier">
 											<Rules>
-												<DocModelRuleEntity xsi:nil="true" href="IfcLabel_1FlfrpXn6XWDZbdkjPKg" />
+												<DocModelRuleEntity xsi:nil="true" href="IfcLabel_1Flf$rpXn6XWDZbdkjPKg$" />
 											</Rules>
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">

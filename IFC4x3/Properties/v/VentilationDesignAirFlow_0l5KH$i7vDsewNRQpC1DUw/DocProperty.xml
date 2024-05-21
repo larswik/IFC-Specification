@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationDesignAirFlow_0l5KHi7vDsewNRQpC1DUw" Name="VentilationDesignAirFlow" UniqueId="2f15447f-b07e-4dda-8e97-6daccc04d7ba" PrimaryDataType="IfcVolumetricFlowRateMeasure" />
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationDesignAirFlow_0l5KH$i7vDsewNRQpC1DUw" Name="VentilationDesignAirFlow" UniqueId="2f15447f-b07e-4dda-8e97-6daccc04d7ba" PrimaryDataType="IfcVolumetricFlowRateMeasure" />
 

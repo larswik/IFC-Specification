@@ -38,3 +38,4 @@
 		<DocAttribute Name="UsedInStyles" UniqueId="a01b593c-80bc-4abc-851a-3da9bfb93c5d" DefinedType="IfcSurfaceStyleWithTextures" AttributeFlags="8" AggregationType="3" AggregationLower="0" AggregationUpper="0" Inverse="Textures" />
 	</Attributes>
 </DocEntity>
+

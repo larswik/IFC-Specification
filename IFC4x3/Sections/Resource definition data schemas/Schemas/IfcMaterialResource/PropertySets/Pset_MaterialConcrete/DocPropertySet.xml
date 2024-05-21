@@ -4,12 +4,12 @@
 		<DocLocalization Locale="en" Name="Material Concrete" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CompressiveStrength_3gEaM0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MaxAggregateSize_3mC2Q0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AdmixturesDescription_3tLpI0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Workability_3yj7y0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WaterImpermeability_01UJC0qUqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ProtectivePoreRatio_07RnG0qUqHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CompressiveStrength_3gEaM0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MaxAggregateSize_3mC2Q0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AdmixturesDescription_3tLpI0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Workability_3yj7y0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WaterImpermeability_01UJC0qUqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ProtectivePoreRatio_07RnG0qUqHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SLIDINGVERTICAL_26PxhoMc19AxEXHj63l4p" Name="SLIDINGVERTICAL" UniqueId="8667baf2-5a60-492b-b3bf-851b460ef133">
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SLIDINGVERTICAL_26PxhoMc19AxE$XHj63l4p" Name="SLIDINGVERTICAL" UniqueId="8667baf2-5a60-492b-b3bf-851b460ef133">
 	<Documentation>Panel is sliding vertically.
 
 ![sliding verti](../../figures/ifcwindowpaneloperationenum-fig10.gif)</Documentation>

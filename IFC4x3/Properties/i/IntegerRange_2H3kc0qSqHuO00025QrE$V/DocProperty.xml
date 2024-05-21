@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IntegerRange_2H3kc0qSqHuO00025QrEV" Name="IntegerRange" UniqueId="2H3kc0qSqHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcInteger">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IntegerRange_2H3kc0qSqHuO00025QrE$V" Name="IntegerRange" UniqueId="2H3kc0qSqHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcInteger">
 	<Localization>
 		<DocLocalization Locale="en" Name="Range" />
 	</Localization>

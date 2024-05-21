@@ -4,14 +4,14 @@
 		<DocLocalization Locale="en" Name="Pipe Connection Flanged" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="FlangeTable_2C4640qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlangeStandard_2Jq0M0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BoreSize_2QNdq0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlangeDiameter_2Y7Y60qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlangeThickness_2ftSO0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NumberOfBoltholes_2n1DG0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BoltSize_2sOXw0qV8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BoltholePitch_2yL_0qV8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="FlangeTable_2C4640qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FlangeStandard_2Jq0M0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BoreSize_2QNdq0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FlangeDiameter_2Y7Y60qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FlangeThickness_2ftSO0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NumberOfBoltholes_2n1DG0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BoltSize_2sOXw0qV8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BoltholePitch_2yL$_0qV8HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

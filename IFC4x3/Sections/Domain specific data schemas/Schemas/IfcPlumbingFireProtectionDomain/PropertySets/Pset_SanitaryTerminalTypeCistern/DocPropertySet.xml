@@ -7,12 +7,12 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CisternHeight_1g7jg0qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CisternCapacity_1uRFQ0qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsSingleFlush_1zoa40qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlushType_24yKy0qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlushRate_2LeSK0qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsAutomaticFlush_2SoDC0qW8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CisternHeight_1g7jg0qW8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CisternCapacity_1uRFQ0qW8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsSingleFlush_1zoa40qW8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FlushType_24yKy0qW8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FlushRate_2LeSK0qW8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsAutomaticFlush_2SoDC0qW8HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

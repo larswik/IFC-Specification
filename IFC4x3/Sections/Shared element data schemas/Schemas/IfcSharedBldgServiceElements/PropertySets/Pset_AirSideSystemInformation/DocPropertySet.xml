@@ -8,20 +8,18 @@
 	</Localization>
 	<Properties>
 		<DocProperty xsi:nil="true" href="Description_3Zrq848Q59lhSMKyRwz2po" />
-		<DocProperty xsi:nil="true" href="AirSideSystemType_3MAn_0qRqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirSideSystemDistributionType_3p_8I0qRqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalAirFlow_03Tys0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EnergyGainTotal_08rHW0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirFlowSensible_0Eola0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EnergyGainSensible_0KA4E0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EnergyLoss_0Qjhi0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InfiltrationDiversitySummer_0c2UQ0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InfiltrationDiversityWinter_0hPp40qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ApplianceDiversity_0nzQY0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HeatingTemperatureDelta_0zuMg0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CoolingTemperatureDelta_13rqk0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Ventilation_19pIo0qRuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FanPower_1Fmms0qRuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="AirSideSystemType_3MAn_0qRqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirSideSystemDistributionType_3p_8I0qRqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EnergyGainTotal_08rHW0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EnergyGainSensible_0KA4E0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EnergyLoss_0Qjhi0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InfiltrationDiversitySummer_0c2UQ0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="InfiltrationDiversityWinter_0hPp40qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ApplianceDiversity_0nzQY0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingTemperatureDelta_0zuMg0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CoolingTemperatureDelta_13rqk0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Ventilation_19pIo0qRuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FanPower_1Fmms0qRuHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

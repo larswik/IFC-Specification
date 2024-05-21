@@ -5,7 +5,7 @@
 		<DocAttribute Name="InnerTexCoordIndicies" UniqueId="95a80130-139b-46a6-8cd8-189282bb09c7" DefinedType="IfcPositiveInteger" AggregationType="1" AggregationFlag="2" AggregationLower="1" AggregationUpper="0">
 			<AggregationAttribute xsi:type="DocAttribute" UniqueId="7f548278-b9fa-4c68-8afd-0210abfe3226" AggregationType="1" AggregationFlag="2" AggregationLower="3" AggregationUpper="0" />
 			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_2ikebEnPFx9_KWvDzfxII" />
+				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_2ike$bEnPFx9_KWvDzfxII" />
 			</Definition>
 		</DocAttribute>
 	</Attributes>

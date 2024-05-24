@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Annotation_3D_Geometry_0F8JX6XL61wPgipwOorY7" Name="Annotation 3D Geometry" UniqueId="0f213846-fe15-4607-a66a-b33e98cb5887" Type="IfcAnnotation">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Annotation_3D_Geometry_0F8JX6$XL61wPgipwOorY7" Name="Annotation 3D Geometry" UniqueId="0f213846-fe15-4607-a66a-b33e98cb5887" Type="IfcAnnotation">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

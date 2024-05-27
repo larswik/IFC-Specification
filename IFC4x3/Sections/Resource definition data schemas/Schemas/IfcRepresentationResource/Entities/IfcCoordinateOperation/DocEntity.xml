@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Coordinate Operation" />
 		<DocLocalization Locale="fr" Name="Opération entre systèmes de coordonnées de référence" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="3fef1084-8a1d-4025-bd52-173f051d301a" DefinedType="IfcMapConversion" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="SourceCRS" UniqueId="3d781952-2086-40fd-a92a-802f85bb3c80" DefinedType="IfcCoordinateReferenceSystemSelect" XsdFormat="hidden">
 			<Documentation>Source coordinate reference system for the operation.</Documentation>

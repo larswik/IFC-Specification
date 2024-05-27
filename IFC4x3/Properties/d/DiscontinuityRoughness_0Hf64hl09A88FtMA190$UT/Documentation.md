@@ -3,4 +3,4 @@ a) small scale (several millimetres) - smooth or rough
 b) medium scale (several centimetres) - planar, stepped or undulating 
 c) large scale (several metres) - straight, curved or wavy. 
 
->NOTE Definition according to ISO EN 14689.
+>NOTE&nbsp;Definition according to ISO EN 14689.

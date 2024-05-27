@@ -4,8 +4,8 @@
 		<DocLocalization Locale="en" Name="Project Order Purchase Order" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="IsFOB_3ZPG00qVSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ShipMethod_3hlJi0qVSHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="IsFOB_3ZPG00qVSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ShipMethod_3hlJi0qVSHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

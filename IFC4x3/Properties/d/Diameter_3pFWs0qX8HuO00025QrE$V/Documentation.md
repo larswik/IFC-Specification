@@ -1,1 +1,3 @@
-Actual diameter of a fin for circular fins only.
+The Diameter of the object.
+
+For circular fins only.

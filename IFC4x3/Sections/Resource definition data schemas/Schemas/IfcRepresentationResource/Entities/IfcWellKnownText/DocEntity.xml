@@ -4,7 +4,7 @@
 		<DocAttribute Name="WellKnownText" UniqueId="64c67b4d-f548-4d88-b1fb-b770f4f5bc58" DefinedType="IfcWellKnownTextLiteral">
 			<Documentation>Text string according to ISO/IEC 13249. If _CoordinateReferenceSystem_ is populated, then the representation is a coordinate reference system according to ISO 19162.</Documentation>
 			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcWellKnownTextLiteral_0wdCngov5aunyq1KSG7S_" />
+				<DocDefinitionRef xsi:nil="true" href="IfcWellKnownTextLiteral_0$wdCngov5aunyq1KSG7S_" />
 			</Definition>
 		</DocAttribute>
 		<DocAttribute Name="CoordinateReferenceSystem" UniqueId="32a92b28-a350-4750-93a2-3b3207705c9f" DefinedType="IfcCoordinateReferenceSystem" AttributeFlags="1">

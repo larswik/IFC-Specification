@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Spatial Element" />
 		<DocLocalization Locale="fr" Name="Element spatial" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="0ed853b4-90ea-4543-8134-fc97d0cb8032" DefinedType="IfcSpatialZone" />
-		<DocSubtype UniqueId="3c4af36b-6e02-48aa-9641-68a1f1ee9b01" DefinedType="IfcSpatialStructureElement" />
-		<DocSubtype UniqueId="03e6aa67-a633-48b1-b92e-52354eada0e2" DefinedType="IfcExternalSpatialStructureElement" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="LongName" UniqueId="2bcb01eb-ff5e-4e42-a804-13d6364682a1" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>Long name for a spatial structure element, used for informal purposes. It should be used, if available, in conjunction with the inherited _Name_ attribute.

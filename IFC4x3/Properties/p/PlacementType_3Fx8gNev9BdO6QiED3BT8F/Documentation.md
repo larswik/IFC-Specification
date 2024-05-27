@@ -1,1 +1,1 @@
-Type of investigation to install sensors.
+Indicates the purpose of the sensor placement.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Spatial_Composition_2C3zBtSRjEReR30ApKl5A" Name="Spatial Composition" UniqueId="8c0fd2f7-71bb-4e6e-8fdb-0c02b352f14a" Type="IfcSpatialElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Spatial_Composition_2C3zBtSRjERe$R30ApKl5A" Name="Spatial Composition" UniqueId="8c0fd2f7-71bb-4e6e-8fdb-0c02b352f14a" Type="IfcSpatialElement">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;

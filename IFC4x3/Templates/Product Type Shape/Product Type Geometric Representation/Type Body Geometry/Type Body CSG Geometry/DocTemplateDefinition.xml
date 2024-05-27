@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_CSG_Geometry_3cgCgF6P4XAWUmEZvj5eg" Name="Type Body CSG Geometry" UniqueId="ff9aa32a-3c66-4484-a81e-c0e8f9b45a2a" Type="IfcTypeProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_CSG_Geometry_3$cgCgF6P4XAWUmEZvj5eg" Name="Type Body CSG Geometry" UniqueId="ff9aa32a-3c66-4484-a81e-c0e8f9b45a2a" Type="IfcTypeProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="RepresentationMaps">
 			<Rules>

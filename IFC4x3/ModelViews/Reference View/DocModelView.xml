@@ -183,7 +183,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="f9005c01-de55-45b4-a17a-7885a9458495">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="ef055a34-a109-4270-aee7-6d813a53edd5" RuleParameters="Order=9;PropertyName=AirFlowrateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="9" />
 										<DocTemplateItem UniqueId="e2831147-fa0e-4f1f-94cb-f7e9409bcb2d" RuleParameters="Order=10;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="10" />
@@ -217,7 +217,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="706f98f2-cd08-4a6f-bbeb-4eb4ffdd6990">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="3109eb67-1fe2-4b82-b8fa-88682bfbe2e2" RuleParameters="Order=3;QuantityName=TotalSurfaceArea;" Order="3" />
 									</Items>
@@ -273,7 +273,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="09c87af2-d52e-4b1c-a06d-745294896cf2">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="f0caf3be-e8e8-48c2-b6ac-cc6f4b0ce2f9" RuleParameters="Order=3;PropertyName=AirflowRateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="3" />
 										<DocTemplateItem UniqueId="7f4d9d19-c937-4885-b1b8-875e955daa9f" RuleParameters="Order=4;PropertyName=AirPressureRange;SetValue=IfcPressureMeasure;" Order="4" />
@@ -340,7 +340,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="f2e5d832-6531-4586-8208-9c0c840bad6f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="6105c567-dd30-43bd-9d66-f10392c52434" RuleParameters="Order=5;PropertyName=OperationalTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
 										<DocTemplateItem UniqueId="12c3b70b-3be2-4eb4-b93a-6ce280c64136" RuleParameters="Order=6;PropertyName=PrimaryAirflowRateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="6" />
@@ -568,10 +568,10 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="a7f10c4a-b999-4c09-9269-c8b3d76b88bf">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="e1f82589-e38a-4271-91e3-e05b3d6c8804">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="08dce4b7-940a-438e-a083-268eaee55847">
 									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Table_Value_0roKUmQhnB4ux7QMxo11SX" />
@@ -605,7 +605,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="7fb7e5e3-0e35-4235-aff0-1d6902dad702">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="faa73184-438f-417f-856c-7bff3059918b" RuleParameters="Order=2;QuantityName=CrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="1284bc82-602f-4c2a-884b-bf2afbef9a70" RuleParameters="Order=3;QuantityName=OuterSurfaceArea;" Order="3" />
@@ -702,7 +702,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="d206fb76-6ef6-46b5-aaa6-50164190f205">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="b634130e-470d-407e-b47c-b7d68206d7c1" RuleParameters="Order=6;PropertyName=NominalPartLoadRatio;SetValue=IfcReal;" Order="6" />
 										<DocTemplateItem UniqueId="cb91f1a3-640d-4da0-a33f-bce00412889c" RuleParameters="Order=7;PropertyName=WaterInletTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="7" />
@@ -732,7 +732,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="1d420478-803d-44d4-b0f8-e40956d255b7">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="f9c44a97-fc46-44a3-aded-65c4cdfbc62b" RuleParameters="Order=3;QuantityName=TotalSurfaceArea;" Order="3" />
 									</Items>
@@ -761,7 +761,7 @@ General requirements of software implementing the Reference Exchange:
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Composition" UniqueId="3dc5b493-557d-482d-8191-406e5e9cf962">
 					<Documentation>&gt; NOTE&amp;nbsp; By using the inverse relationship _IfcBuilding.Decomposes_ it references _IfcProject_ || _IfcSite_ || _IfcBuilding_ through _IfcRelAggregates.RelatingObject_. If it refers to another instance of _IfcBuilding_, the referenced _IfcBuilding_ needs to have a different and higher _CompositionType_, i.e. COMPLEX (if the other _IfcBuilding_ has ELEMENT), or ELEMENT (if the other _IfcBuilding_ has PARTIAL).</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjEReR30ApKl5A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjERe$R30ApKl5A" />
 					<Items>
 						<DocTemplateItem UniqueId="de28f014-ffc3-42ab-adbc-aaa2cdf6323d">
 							<Documentation>Direct assignment to project, if the building is the outermost spatial container, and no site information is provided for building projects</Documentation>
@@ -776,7 +776,7 @@ General requirements of software implementing the Reference Exchange:
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Decomposition" UniqueId="2oXiiXGHXAJubRosHMxM8y">
 					<Documentation>&gt; NOTE&amp;nbsp; By using the inverse relationship _IfcBuilding.IsDecomposedBy_ it references _IfcBuilding_ || _IfcBuildingStorey_ through _IfcRelAggregates.RelatedObjects_. If it refers to another instance of&amp;nbsp;_IfcBuilding_, the referenced _IfcBuilding_ needs to have a different and lower _CompositionType_, i.e. ELEMENT (if the other _IfcBuilding_ has COMPLEX), or PARTIAL (if the other _IfcBuilding_ has ELEMENT).</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 					<Items>
 						<DocTemplateItem UniqueId="2a199714-2d7c-4938-a277-777aae8da996">
 							<Documentation>Spatial decomposition into building stories.</Documentation>
@@ -796,7 +796,7 @@ General requirements of software implementing the Reference Exchange:
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="3Jr573wEv2tf73AZphU9qa">
 					<Documentation>&gt; NOTE&amp;nbsp; If there are building elements and/or other elements directly related to the _IfcBuilding_ (like a curtain wall spanning several stories), they are associated with the _IfcBuilding_ by using the objectified relationship _IfcRelContainedInSpatialStructure_. The _IfcBuilding_ references them by its inverse relationship _IfcBuilding.ContainsElements_, referencing any subtype of _IfcProduct_ (with the exception of other spatial structure element) by _IfcRelContainedInSpatialStructure.RelatedElements_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZjG59LPCtYlqeIWvl" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZj$G59LPCtYlqeIWvl" />
 					<Items>
 						<DocTemplateItem UniqueId="a8d5196d-fb7e-4ffe-b2ea-d3d1d08f2086" RuleParameters="Type=IfcElement;">
 							<Documentation>The building may contain elements directly (if those are not assigned to the individual building stories or spaces.</Documentation>
@@ -852,7 +852,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="b609df6e-85fe-42d2-8c4d-c488951fd940">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 									<Items>
 										<DocTemplateItem UniqueId="4c016f98-e663-4fe2-8330-3ee71bebd320" RuleParameters="Order=6;PropertyName=TenureModesAvailableNow;Value=IfcLabel;" Order="6" />
 										<DocTemplateItem UniqueId="67af83b4-0250-4c85-964d-e29e4c5de427" RuleParameters="Order=7;PropertyName=MarketSubCategoriesAvailableNow;Value=IfcLabel;" Order="7" />
@@ -861,7 +861,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="295b1a54-de4f-46e3-a9a8-5d45e88459cd">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="96454ad2-c5a0-40a2-b3b4-2223f916e698" RuleParameters="Order=8;PropertyName=RentalRatesInCategoryNow;SetValue=IfcMonetaryMeasure;" Order="8" />
 										<DocTemplateItem UniqueId="2abbef86-3ab2-43fe-a005-1b8a1ba29f5e" RuleParameters="Order=12;PropertyName=RentalRatesInCategoryFuture;SetValue=IfcMonetaryMeasure;" Order="12" />
@@ -923,7 +923,7 @@ General requirements of software implementing the Reference Exchange:
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="ba8a2dfc-a3c8-43f9-9568-a8b9088c5424">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="7e922615-a15f-44bd-adf0-594b34c7a099" RuleParameters="Order=3;QuantityName=FootprintArea;" Order="3" />
 										<DocTemplateItem UniqueId="d0c7cc6d-c01f-4f88-bc51-0e24882f4709" RuleParameters="Order=4;QuantityName=GrossFloorArea;" Order="4" />
@@ -954,7 +954,7 @@ General requirements of software implementing the Reference Exchange:
 
 * The _PlacementRelTo_ relationship of _IfcLocalPlacement_ shall point to the subtype of _IfcSpatialStructureElement_ that is referenced by the _Spatial Decomposition_ concept (usually of type _IfcSite_).
 * If the _IfcBuilding_ is the uppermost spatial structure element, the _PlacementRelTo_ shall not be set.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 					<Items>
 						<DocTemplateItem UniqueId="fef8deea-598f-4b35-88ad-5769c4ab2da6" RuleParameters="HasPlacement=IfcLocalPlacement;">
 							<Documentation>The _IfcBuilding_ shall be placed relative to another _IfcBuilding_ or an _IfcSite_.</Documentation>
@@ -962,7 +962,7 @@ General requirements of software implementing the Reference Exchange:
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="0f6cd84b-a507-4ff4-b4f3-4d1bd1c19b0d">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBhlYuukgoS" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBh$lYuukgoS" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -982,7 +982,7 @@ General requirements of software implementing the Reference Exchange:
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Predefined_Type_0b989XcDzD2fDaLbDNNAGX" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="440a3888-d68d-43de-baee-5209bca0149c" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7AJKdxDG2D1A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="e2baa13c-f21f-4235-ac87-22c64ca45a8a" Type="IfcBuilding" />
@@ -1085,7 +1085,7 @@ If no _IfcBuildingElementProxyType_ is attached (i.e. if only occurrence informa
 _IfcBuildingStorey_ needs to have a different and higher
  _CompositionType_, i.e. COMPLEX (if the other _IfcBuildingStorey_ has ELEMENT), or ELEMENT (if the other
  _IfcBuildingStorey_ has PARTIAL)._</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjEReR30ApKl5A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjERe$R30ApKl5A" />
 					<Items>
 						<DocTemplateItem UniqueId="29e59c09-5fbe-4ad5-b68e-0ea5ca1df1fb">
 							<Documentation>Assignment to the building, where the building storey is a part of.</Documentation>
@@ -1099,7 +1099,7 @@ _IfcBuildingStorey_ needs to have a different and higher
 					<Documentation>&gt; NOTE&amp;nbsp; By using the inverse relationship _IfcBuildingStorey.IsDecomposedBy_ it references _IfcBuildingStorey_ || _IfcSpace_ through _IfcRelAggregates.RelatedObjects_. If it refers to another instance of _IfcBuildingStorey_, the referenced _IfcBuildingStorey_ needs to have a different and lower _CompositionType_, i.e. ELEMENT (if the other _IfcBuildingStorey_ has COMPLEX), or PARTIAL (if the other _IfcBuildingStorey_ has ELEMENT).
 
 &gt; NOTE&amp;nbsp; Multi storey spaces shall be spatially contained by only a single building storey, usually it is the building storey where the base of the space lies.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 					<Items>
 						<DocTemplateItem UniqueId="56f5b214-b641-4342-aa1b-24513c349fd0">
 							<Documentation>Reference to the spaces that are assigned to this storey.</Documentation>
@@ -1123,7 +1123,7 @@ _IfcBuildingStorey_ needs to have a different and higher
 * _IfcBuildingStorey.ContainsElements_ -- referencing any subtype of _IfcProduct_ (with the exception of other spatial structure element) by _IfcRelContainedInSpatialStructure.RelatedElements_.
 
 Elements can also be referenced in an _IfcBuildingStorey_, for example, if they span through several storeys. This is expressed by using the objectified relationship _IfcRelReferencedInSpatialStructure_. Systems, such as building service or electrical distribution systems, zonal systems, or structural analysis systems, relate to _IfcBuildingStorey_ by using the objectified relationship _IfcRelServicesBuildings_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZjG59LPCtYlqeIWvl" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZj$G59LPCtYlqeIWvl" />
 					<Items>
 						<DocTemplateItem UniqueId="b5b0c8f1-8231-4989-af82-6b19b6c4f726" RuleParameters="Type=IfcElement;" />
 					</Items>
@@ -1172,7 +1172,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="4e3acfbe-afe1-4e54-98aa-dcb0536d1b80">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="817f06e6-6c33-4d20-b57c-6fdf92e79934" RuleParameters="Order=4;QuantityName=GrossFloorArea;" Order="4" />
 										<DocTemplateItem UniqueId="1d539ea0-b919-41d9-9145-3550a32eeff2" RuleParameters="Order=5;QuantityName=NetFloorArea;" Order="5" />
@@ -1202,10 +1202,10 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 
 * The _PlacementRelTo_ relationship of _IfcLocalPlacement_ shall point (if relative placement is used) to the _IfcSpatialStructureElement_ of type _IfcBuilding_, or of type _IfcBuildingStorey_ (e.g. to position a building storey relative to a building storey complex, or a partial building storey to a building storey).
 * If the relative placement is not used, the absolute placement is defined within the world coordinate system.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="c38a5dc9-19d5-4292-8344-7491dfa17db0">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBhlYuukgoS" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBh$lYuukgoS" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -1222,7 +1222,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Predefined_Type_0b989XcDzD2fDaLbDNNAGX" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="5f6fb7ae-4fcd-45ff-8e56-d87504fef240" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7AJKdxDG2D1A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="f2631c04-3b28-4469-baaa-b37c2155d44d" Type="IfcBuildingStorey" />
@@ -1246,7 +1246,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Group Assignment" UniqueId="4bd87d5b-1725-4a39-85ec-e9477ae94a1b">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvPL9D4sQnHatm9h2M3" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvP$L9D4sQnHatm9h2M3" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="bb600f62-d403-43f3-9d66-0ee2aa8462ba" Type="IfcBuildingSystem" />
@@ -1420,7 +1420,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="9989bb36-8f28-43cf-94f4-2e590cbdd1e0">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="7c521cf2-f82f-4308-b80a-512b392c0459" RuleParameters="Order=3;QuantityName=CrossSectionArea;" Order="3" />
 										<DocTemplateItem UniqueId="0147e250-184d-4684-8032-8a029cc2bd3e" RuleParameters="Order=4;QuantityName=OuterSurfaceArea;" Order="4" />
@@ -1512,7 +1512,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 						<DocTemplateItem UniqueId="e070c893-8416-42c3-be0f-84c83cbe7305" RuleParameters="PsetName=Pset_CableSegmentOccurrence;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="c154b533-f4a6-41ac-a244-9e5f5439c15c">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="e9240a69-694d-4b12-ad53-9df80b4e54e3" RuleParameters="Order=1;PropertyName=DesignAmbientTemperature;SetValue=IfcThermodynamicTemperatureMeasure;" Order="1" />
 									</Items>
@@ -1578,7 +1578,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="75e49907-35a8-405e-8fd6-953b967cfa92">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="96a920bd-15c2-490b-8918-66f4d5efe748" RuleParameters="Order=3;QuantityName=CrossSectionArea;" Order="3" />
 										<DocTemplateItem UniqueId="4620253f-683e-44ef-b68e-389aa6b258d7" RuleParameters="Order=4;QuantityName=OuterSurfaceArea;" Order="4" />
@@ -1797,7 +1797,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="bc992341-3fcf-45ab-840c-019342cecaf9">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="3fd3f9dd-2ebb-4571-9a54-5f4d7c57531e" RuleParameters="Order=3;PropertyName=OperationalTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="3" />
 										<DocTemplateItem UniqueId="2f853d29-369e-434c-b281-b2d533db3cde" RuleParameters="Order=4;PropertyName=AirflowRateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="4" />
@@ -1808,7 +1808,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 						<DocTemplateItem UniqueId="8e32ea96-5886-4a74-9ae4-4dcdd1bf8d19" RuleParameters="PsetName=Pset_CoilTypeHydronic;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="a21945a7-fd68-4088-8dac-984b9c62dc24">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="a36cc12e-a182-4c87-a1cb-67dfec526fd4" RuleParameters="Order=1;PropertyName=FluidPressureRange;SetValue=IfcPressureMeasure;" Order="1" />
 									</Items>
@@ -1926,7 +1926,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="4538b4d1-0a33-4474-be71-0e3dde3c8948">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="35c76b49-edc1-4a0e-b376-c8e7f4734f67" RuleParameters="Order=2;QuantityName=CrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="1a347b5b-ea10-47ec-a69f-9abb967a6915" RuleParameters="Order=3;QuantityName=OuterSurfaceArea;" Order="3" />
@@ -2274,7 +2274,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="6bd10697-c563-499d-9b8d-76920821f171">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="f35d7bc7-4496-4d3b-8bbf-37278d0b33d6" RuleParameters="Order=5;PropertyName=WaterPressureRange;SetValue=IfcPressureMeasure;" Order="5" />
 									</Items>
@@ -2415,7 +2415,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="49efde39-f15d-4071-8ae4-59ef2b6a429f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="64a05549-b8da-4213-aaf1-040d4b3693af" RuleParameters="Order=2;QuantityName=GrossArea;" Order="2" />
 										<DocTemplateItem UniqueId="6d56c538-23dd-47e2-9ff6-e8ebd6a91daa" RuleParameters="Order=3;QuantityName=NetArea;" Order="3" />
@@ -2497,7 +2497,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="1e70a142-acfc-4c6f-b7cb-73c6914a1f75">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="988feb8c-af71-4da3-a0cd-5934da8f55f8" RuleParameters="Order=4;QuantityName=GrossSideArea;" Order="4" />
 										<DocTemplateItem UniqueId="43649305-dbfd-4a9c-81aa-ca16b08d4b22" RuleParameters="Order=5;QuantityName=NetSideArea;" Order="5" />
@@ -2595,7 +2595,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="e2e88684-93bb-4c69-bf30-5f380317517c">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="30320f90-a9e7-40b1-aab2-4f46273022d7" RuleParameters="Order=12;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="12" />
 									</Items>
@@ -2700,7 +2700,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 						<DocTemplateItem UniqueId="b190916c-5a73-4b51-b44e-ec5f69368bf4" RuleParameters="QsetName=Qto_DistributionChamberElementBaseQuantities;">
 							<Concepts>
 								<DocTemplateUsage Name="Quantities" UniqueId="3275482d-a340-42e8-9690-c11371a323a0">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="a1b5c80e-087d-456e-8939-8721622adfa6" RuleParameters="Order=1;QuantityName=GrossSurfaceArea;" Order="1" />
 										<DocTemplateItem UniqueId="35b200c3-1c1a-4446-b567-06d5be50a1ce" RuleParameters="Order=2;QuantityName=NetSurfaceArea;" Order="2" />
@@ -2733,7 +2733,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 						<DocTemplateItem UniqueId="c0ce1106-eaeb-4cc4-8502-c3d1b1df84ee" RuleParameters="PsetName=Pset_ElectricalDeviceCommon;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="0c8f65d7-a9cd-4a6c-b3d9-fa9367964c69">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="a3974d7b-88db-4eb1-8ed5-02e5c988ad6c" RuleParameters="Order=1;PropertyName=RatedCurrent;SetValue=IfcElectricCurrentMeasure;" Order="1" />
 										<DocTemplateItem UniqueId="cdcb9bf5-30a9-495d-95c6-def3f8faa308" RuleParameters="Order=2;PropertyName=RatedVoltage;SetValue=IfcElectricVoltageMeasure;" Order="2" />
@@ -2764,7 +2764,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Component_to_Distribution_System_1onvxOOUP93vJsvqrxspFX" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Port Nesting" UniqueId="3rimmOo6H4CQoLKLxJG4WW">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w9EtqE92s8JFNQ8EuKWA" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w$9EtqE92s8JFNQ8EuKWA" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -2775,7 +2775,7 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 					</Exchanges>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Clearance Geometry" UniqueId="fc6a831d-921a-4fcd-873c-663584154cc5">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Clearance_Geometry_0Ft2E0dl11wR3Sy1Iztvi" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Clearance_Geometry_0Ft2E0dl11wR3Sy1$Iztvi" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="b0256111-eca6-4481-805e-f5050b07daa2" Type="IfcDistributionElement" />
@@ -2799,7 +2799,7 @@ The _Axis_ points in the direction of the physical connection away from the prod
 The _RefDirection_ points in the direction of the local X axis of the material profile, where the local Y axis points up if looking towards the _Axis_ where the local X axis points right.
 
 Upon connecting elements through ports with rigid connections, each object shall be aligned such that the effective _Location_, _Axis_, and _RefDirection_ of each port is aligned to be equal (with exception for circular profiles where the _RefDirection_ need not be equal).</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Port Connectivity" UniqueId="2bo4X9H8b9_xqkX$agnm9E">
 					<Documentation>**IfcDistributionPort** may be connected to other objects as follows using the indicated relationship:
@@ -2810,7 +2810,7 @@ Upon connecting elements through ports with rigid connections, each object shall
 Figure 1 illustrates distribution port connectivity.
 
 ![&quot;Connection Use Definition&quot;](../../figures/ifcdistributionport-connection.png &quot;Figure 1 &amp;mdash; Distribution port connectivity&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Connectivity_0MeHlCh55bRkmnAq5FQia" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Connectivity_0M$eHlCh55bRkmnAq5FQia" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -2842,7 +2842,7 @@ Figure 1 illustrates distribution port connectivity.
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Port to Distribution System" UniqueId="89e757b8-3d97-43c2-a57b-6e0afb4a2992">
 					<Documentation>The _IfcDistributionPort_ is assigned to the distribution system where it plays its role as inlet or outlet.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_to_Distribution_System_0bzWNJWzHC4A90p5chgeC" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_to_Distribution_System_0bzWNJWzHC4A90p5chge$C" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="5a6ab662-b3f4-401e-8fa1-339ba0e995ca" Type="IfcDistributionPort" />
@@ -2888,7 +2888,7 @@ Additionally, an _IfcDistributionSystem_ may in turn be assigned to an _IfcDistr
 Figure 1 illustrates a distribution system for an electrical circuit.
 
 ![&quot;Instance diagram for electrical circuit&quot;](../../figures/ifcdistributionsystem-01.png &quot;Figure 1 &amp;mdash; Distribution system assignment&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvPL9D4sQnHatm9h2M3" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvP$L9D4sQnHatm9h2M3" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="4e4edc87-eee9-472c-a30f-b887d1b0b3a5" Type="IfcDistributionSystem" />
@@ -3062,7 +3062,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="a0f58723-1188-443e-abf1-cdc6bb20f39f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="edac9580-2e78-4896-8594-300b6d4fb3ad" RuleParameters="Order=4;QuantityName=Area;" Order="4" />
 									</Items>
@@ -3148,7 +3148,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="33db09ba-a95f-4b68-a7a8-c9391c429167">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="1508c286-58b0-4d51-a1ad-72302dc38c84" RuleParameters="Order=4;PropertyName=PressureRange;SetValue=IfcPressureMeasure;" Order="4" />
 										<DocTemplateItem UniqueId="d44653af-e0b3-4eee-8644-68d17a98ccf4" RuleParameters="Order=5;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
@@ -3170,7 +3170,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="24b99adc-fbcd-48ff-a25c-fe69e79ee457">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="8ef19332-7975-441d-8426-269a6821d2c7" RuleParameters="Order=2;QuantityName=GrossCrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="534b8cc0-e73b-49d6-bcbd-45814e24e615" RuleParameters="Order=3;QuantityName=NetCrossSectionArea;" Order="3" />
@@ -3244,7 +3244,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="fd0b7d79-ec41-4dd7-ba16-9648e2d9ab25">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="77e047d8-2a4a-4573-92d7-474f68b23b4f" RuleParameters="Order=5;PropertyName=PressureRange;SetValue=IfcPressureMeasure;" Order="5" />
 										<DocTemplateItem UniqueId="db9a7af5-951e-4cfc-84a0-762393be6e97" RuleParameters="Order=6;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="6" />
@@ -3266,7 +3266,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="749ae70b-cab8-409e-81ae-c5cb5d0e6e14">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="baf69958-2bc3-4869-a093-24fb22d1f3d3" RuleParameters="Order=2;QuantityName=GrossCrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="c2f35357-f875-467f-9193-e7070f0c5a24" RuleParameters="Order=3;QuantityName=NetCrossSectionArea;" Order="3" />
@@ -3325,7 +3325,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="d86e1ea6-d530-4116-8e1e-bd0357c66f60">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="7e9b61f7-a450-451e-a239-e6dfb51a445e" RuleParameters="Order=6;PropertyName=AirFlowrateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="6" />
 										<DocTemplateItem UniqueId="8cb056f6-6b03-46ac-ab2b-cfcef2608270" RuleParameters="Order=7;PropertyName=WorkingPressureRange;SetValue=IfcPressureMeasure;" Order="7" />
@@ -3533,7 +3533,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="6aa1a540-e8f8-472d-b885-15724566380c">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="46e61bc1-7ef1-4b69-98c2-610e665c1be3" RuleParameters="Order=4;PropertyName=NominalSupplyVoltageOffset;SetValue=IfcElectricVoltageMeasure;" Order="4" />
 									</Items>
@@ -3850,7 +3850,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 						<DocTemplateItem UniqueId="48e17a35-b567-4a06-ae0c-8288b87670ee" RuleParameters="PsetName=Pset_ServiceLife;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="4de4a14e-d70b-4e3c-9a55-b22b52d6cd60">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="0f145c36-c079-45f6-8dd0-951b28f7037d" RuleParameters="Order=1;PropertyName=ServiceLifeDuration;SetValue=IfcDuration;" Order="1" />
 									</Items>
@@ -3895,7 +3895,7 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 
 * the spatial container (_IfcRelContainedInSpatialStructure_._RelatingSpatialStructure_)
 * the parent aggregation element (_IfcRelAggregates_._RelatingObject_), if it is an aggregated part</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 					<Items>
 						<DocTemplateItem UniqueId="f114e1ec-215e-4f81-b778-ae731c21d3ef" RuleParameters="HasPlacement=IfcLocalPlacement;">
 							<Documentation>Placement relative to the position and rotation of the container.</Documentation>
@@ -3934,17 +3934,17 @@ pictures).&lt;/small&gt;&lt;/td&gt;
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body Tessellation Geometry" UniqueId="ce779b85-4fbf-46dc-bcf0-ee657eccd537">
 					<Documentation>The default geometric representation of any _IfcElement_ within this model view is a single or multiple tessellated item. The supported tessellation is a triangulated face set, defined by indices into a Cartesian point list. Optionally normals per vertex can be included as well.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body SweptSolid PolyCurve Geometry" UniqueId="522f2b24-b397-458a-9c5c-be641cc2071a">
 					<Documentation>The _IfcElement_ can be geometrically represented by a single or multiple swept solid. In this case, both extruded and revolved solids are supported. The cross section of the swept solid is provided by a poly curve, having straight and circular arc segments. The cross section may have inner loops that result in holes of the resulting swept solid.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Mapped Geometry" UniqueId="3kn37wXUT6fBXOCUtvg$jY">
 					<Documentation>Any _IfcElement_ (so far no further constraints are defined at the level of its subtypes) may be represented using the &apos;MappedRepresentation&apos;. This shall be supported as it allows for reusing the geometry definition of a type at all occurrences of the same type. The results are more compact data sets.
 
 The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&apos;, and &apos;AdvancedSweptSolid&apos; geometric representation, shall apply to the _IfcRepresentationMap_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 					<Items>
 						<DocTemplateItem UniqueId="a837be9b-2b19-4fde-9bab-52a7896ca528" RuleParameters="Identifier=Surface;Type=MappedItem;" />
 						<DocTemplateItem UniqueId="e11e2ce9-4fdf-40cd-bdd6-9adf6efdf57e" RuleParameters="Identifier=Body;Type=MappedItem;" />
@@ -3959,7 +3959,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 					</Exchanges>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Containment" UniqueId="648282d7-f66b-43dc-9c2d-2ca98f6773d8">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3PeWY01HBmesKdP1dTP15" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3Pe$WY01HBmesKdP1dTP15" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Element Composition" UniqueId="1bc4288f-24ad-4398-802e-bc935868ed27">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Element_Composition_3A3sNYEHDFsue935nw3LGX" />
@@ -4094,7 +4094,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="d906ebee-3f82-4ddb-abff-aa3379fe0f5b">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="6a8304c1-313f-4314-bc79-83b5fff489be" RuleParameters="Order=5;PropertyName=OperationTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
 									</Items>
@@ -4258,7 +4258,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="aa2826df-f5d5-4e8e-9147-033b3f33068b">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="4c913426-e725-4f2d-8e21-388b56328b50" RuleParameters="Order=5;PropertyName=OperationTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
 									</Items>
@@ -4370,7 +4370,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="684aa1c3-2d36-48b9-8130-a80fa64c140b">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="48004abf-54c8-4c36-903e-a7055b3db95a" RuleParameters="Order=6;PropertyName=OperationTemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="6" />
 										<DocTemplateItem UniqueId="a6adcaae-ce46-4942-be1e-0476c3a852f6" RuleParameters="Order=7;PropertyName=FlowRateRange;SetValue=IfcVolumetricFlowRateMeasure;" Order="7" />
@@ -4659,7 +4659,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="25049bf9-a057-4f31-a36b-5fa1228716d1">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="ac8bafad-6a10-45c4-8817-37050ee205b4" RuleParameters="Order=4;QuantityName=CrossSectionArea;" Order="4" />
 										<DocTemplateItem UniqueId="d15285a3-5177-421d-8ba0-654e8687b493" RuleParameters="Order=5;QuantityName=OuterSurfaceArea;" Order="5" />
@@ -4782,7 +4782,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 			<Concepts>
 				<DocTemplateUsage Name="Group Assignment" UniqueId="90d7d5e3-5561-4236-8a58-6cf1a7b284eb">
 					<Documentation>The _IfcGroup_ establishes an arbitrary collection of objects by utilizing this concept.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvPL9D4sQnHatm9h2M3" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvP$L9D4sQnHatm9h2M3" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="c2b40a5e-66b3-4039-bc59-6b2b3adc4af7" Type="IfcGroup" />
@@ -5321,7 +5321,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="96226200-0a89-40fb-9d46-414e1b0b455b">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="bce71d1e-5965-4fa0-b3d7-8401e9488447" RuleParameters="Order=2;QuantityName=CrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="3938c0c7-28db-4ac6-9d90-c09d5a9d91b8" RuleParameters="Order=3;QuantityName=OuterSurfaceArea;" Order="3" />
@@ -5422,7 +5422,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 			<Concepts>
 				<DocTemplateUsage Name="Object User Identity" UniqueId="bee60286-4b6c-47c3-9294-e7161749bf49">
 					<Documentation>An attribute _Name_ and optionally _Description_ can be used for all subypes of _IfcObject_. For those subtypes, that have an object type definition, such as ifcBeam - IfcBeamType, the common _Name_ and optionally _Description_ is associated with the object type.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7AJKdxDG2D1A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="0QEbl_wsLDaPPQeB9BYToc">
 					<Documentation>This concepts utilizes the additional level of specializing objects. At the level of subtypes, an _PredefinedType_ enumeration attribute is introduced to select a more specific object occurrence category. If the current precompiled enumeration does not include the specific category, a user defined value can be set.</Documentation>
@@ -5576,7 +5576,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 			<Concepts>
 				<DocTemplateUsage Name="Classification Association" UniqueId="5b55bf60-cc1b-409c-8856-7981c54d29b0">
 					<Documentation>Any object occurrence or object type can have a reference to a specific classification reference, i.e. to a particular facet within a classification system.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Classification_Association_1A8aO9PNXCTQFYl_eRbxo" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Classification_Association_1A8aO9PNXCTQ$FYl_eRbxo" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="4402a3d2-e533-401d-997a-ca0e1b154c87" Type="IfcObjectDefinition" />
@@ -5588,7 +5588,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 					<Documentation>The local placement for _IfcOpeningElement_ is defined in its supertype _IfcProduct_. It is defined by the _IfcLocalPlacement_, which defines the local coordinate system that is referenced by all geometric representations.
 
 * The _PlacementRelTo_ relationship of _IfcLocalPlacement_ should point to the local placement of the same element, which is voided by the opening, i.e. referred to by _VoidsElement_._RelatingBuildingElement_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 					<Items>
 						<DocTemplateItem UniqueId="bdae2184-287d-4f7d-9e49-891d4453d065" RuleParameters="HasPlacement=IfcLocalPlacement;RelativeTo=IfcLocalPlacement;" />
 					</Items>
@@ -5639,7 +5639,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="f102aecf-fe22-4f0e-b664-dec171e85b27">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="0ab5bf42-85fd-4208-93fa-32c7fa62a813" RuleParameters="Order=4;QuantityName=Area;" Order="4" />
 									</Items>
@@ -5766,7 +5766,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="55493e22-fcf7-4c15-98f1-b45e728cf121">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="e7a2b394-2126-43f7-b4ac-7d4cd1ab01fd" RuleParameters="Order=2;QuantityName=CrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="ed54e364-9a16-459d-a214-02384dcddcca" RuleParameters="Order=3;QuantityName=OuterSurfaceArea;" Order="3" />
@@ -5846,7 +5846,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="94cf1036-a6eb-4033-aa8a-4b974a781cd8">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="6632335d-d8bb-4b8f-b9bf-3956b142ac76" RuleParameters="Order=4;PropertyName=PressureRange;SetValue=IfcPressureMeasure;" Order="4" />
 										<DocTemplateItem UniqueId="fc0ed77c-c11f-4685-9c42-6c6efdf8df07" RuleParameters="Order=5;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
@@ -5868,7 +5868,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="48f3c8c2-d454-4038-b96d-ff2313596b4a">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="df024704-7d00-40f9-9ed4-d52158075f52" RuleParameters="Order=2;QuantityName=GrossCrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="a47f621c-d14a-47d7-8f49-cb853b7940a8" RuleParameters="Order=3;QuantityName=NetCrossSectionArea;" Order="3" />
@@ -5958,7 +5958,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="b4e45b02-6bdf-4c53-bc44-7034591befe4">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="95ff1704-6fdc-4371-bcbd-4d9f44b1b585" RuleParameters="Order=4;PropertyName=PressureRange;SetValue=IfcPressureMeasure;" Order="4" />
 										<DocTemplateItem UniqueId="dd4391fa-776e-48fc-ab44-24ea36c00d2d" RuleParameters="Order=5;PropertyName=TemperatureRange;SetValue=IfcThermodynamicTemperatureMeasure;" Order="5" />
@@ -5980,7 +5980,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="b83bccfd-9ed7-40e5-aca8-1e7684d38885">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="a180c5d6-9adc-4eaa-847d-66930a785514" RuleParameters="Order=2;QuantityName=GrossCrossSectionArea;" Order="2" />
 										<DocTemplateItem UniqueId="33f0ff6e-2a8b-4eab-af75-d0520d6b63e2" RuleParameters="Order=3;QuantityName=NetCrossSectionArea;" Order="3" />
@@ -6057,7 +6057,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="adf126a7-aa28-47ce-88c0-91e894751abe">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="d168197d-505e-404f-86d9-56613864d0e1" RuleParameters="Order=3;QuantityName=GrossArea;" Order="3" />
 										<DocTemplateItem UniqueId="53a04f88-3cf6-4219-97dd-2ec147ea122f" RuleParameters="Order=4;QuantityName=NetArea;" Order="4" />
@@ -6103,7 +6103,7 @@ The same constraints, as given for &apos;Tessellation&apos;, &apos;SweptSolid&ap
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Grid_Attributes_2SUqSDbuf0_gTtH9j0M8W0" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Product Local Placement" UniqueId="8634309c-d5a5-4dc6-b825-c39231ed1741">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="FootPrint GeomSet Geometry" UniqueId="f036530f-76d6-4ec0-9040-b20a00f0537f">
 					<Documentation>The 2D geometric representation of _IfcGrid_ is defined using the &apos;GeometricCurveSet&apos; geometry. The following attribute values should be inserted
@@ -6165,10 +6165,10 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 &amp;nbsp;&lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBhlYuukgoS" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBh$lYuukgoS" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Containment" UniqueId="24fb04df-c6ef-41e2-afee-157b0270e9f9">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3PeWY01HBmesKdP1dTP15" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3Pe$WY01HBmesKdP1dTP15" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="fd1c3d66-5258-4759-987b-f77bd88b8c8c" Type="IfcPositioningElement" />
@@ -6177,7 +6177,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcPresentationLayerAssignment" />
 			<Concepts>
 				<DocTemplateUsage Name="Layer" UniqueId="9010c9e9-a2b4-422a-a533-633828f64e00">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Layer_2Px3KhQ9BUQe1b3_Zs3Jn" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Layer_2P$x3KhQ9BUQe1b3_Zs3Jn" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="06cc0696-9622-47fe-b07b-d92313b7373f" Type="IfcPresentationLayerAssignment" />
@@ -6242,7 +6242,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 
 * _IfcProject_.Decomposes -- shall be NIL, i.e. the _IfcProject_ shall be on top of the root of the spatial structure tree.
 * _IfcProject_.IsDecomposedBy -- referencing (_IfcSite_ || _IfcBuilding_ || _IfcSpatialZone_) by using _IfcRelAggregates_.RelatedObjects. The _IfcSite_, _IfcBuilding_, or _IfcSpatialZone_ being referenced shall be the root of the spatial structure.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 					<Items>
 						<DocTemplateItem UniqueId="1eacdeb9-91bf-4990-b7f9-76b63898df87">
 							<Documentation>If referenced, the site is the root of the spatial structure.</Documentation>
@@ -6270,7 +6270,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcPropertySingleValue" />
 			<Concepts>
 				<DocTemplateUsage Name="Values" UniqueId="099f1b2c-d7b2-45d5-95b0-a91a1bed3a7a">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Values_28jAgf2IL4VB09ZLxV7LE" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Values_28jAgf2IL4VB09$ZLxV7LE" />
 					<Items>
 						<DocTemplateItem UniqueId="a272ffa5-1f01-4210-ac12-aa9de4ff4597" RuleParameters="Value=IfcAbsorbedDoseMeasure;" />
 						<DocTemplateItem UniqueId="66b8e2c8-e2eb-4c9d-a5af-99cb2d99c34f" RuleParameters="Value=IfcAccelerationMeasure;" />
@@ -6470,7 +6470,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 						<DocTemplateItem UniqueId="a1e74bf8-8f09-4c60-884f-bd87ef8ea102" RuleParameters="PsetName=Pset_ProtectiveDeviceBreakerUnitTypeMotorProtection;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="590a0adc-7270-429b-9743-2d4c1522369f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 									<Items>
 										<DocTemplateItem UniqueId="7c923496-9d2b-479e-9d68-b448bae4630f" RuleParameters="Order=1;PropertyName=PerformanceClasses;Value=IfcLabel;" Order="1" />
 									</Items>
@@ -6694,7 +6694,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="2efe1871-2ae2-44bb-9089-8b06a4f0fe14">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="1325c8bb-5454-4a64-aa5d-d08c5b764ad0" RuleParameters="Order=2;PropertyName=AdjustmentRange;SetValue=IfcElectricCurrentMeasure;" Order="2" />
 									</Items>
@@ -6707,7 +6707,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="119cd19a-3886-46fe-866b-f81b013ebd02">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 									<Items>
 										<DocTemplateItem UniqueId="5ce51f85-18dc-4734-a693-7906a624b46e" RuleParameters="Order=4;PropertyName=AdjustmentValues;Value=IfcElectricCurrentMeasure;" Order="4" />
 									</Items>
@@ -6724,7 +6724,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="b66c4274-9da9-4c5c-8675-b009865e8a1f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="bbe593f8-1623-47cf-8d5e-5262b32afeba" RuleParameters="Order=2;PropertyName=AdjustmentRange;SetValue=IfcTimeMeasure;" Order="2" />
 									</Items>
@@ -6738,7 +6738,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="379dd754-34b1-41fb-99d5-5530779c13c9">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 									<Items>
 										<DocTemplateItem UniqueId="beb325d9-77c5-41e4-ab65-d8057479b90d" RuleParameters="Order=4;PropertyName=AdjustmentValues;Value=IfcTimeMeasure;" Order="4" />
 									</Items>
@@ -6841,7 +6841,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Properties" UniqueId="99dcf1cb-8435-4249-ae02-985eaeaec7c4">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="6e2ed971-7262-48e4-b129-eec86acc4c70" RuleParameters="Order=3;PropertyName=FlowRateRange;SetValue=IfcMassFlowRateMeasure;" Order="3" />
 										<DocTemplateItem UniqueId="22874f8f-c4ee-4cee-911e-90af1ef51af4" RuleParameters="Order=4;PropertyName=FlowResistanceRange;SetValue=IfcPressureMeasure;" Order="4" />
@@ -7063,7 +7063,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="62b0795e-ef64-4326-a0a0-767345bef570">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="cb3411c3-fc67-4410-b85c-c1c6a3ec95c9" RuleParameters="Order=3;QuantityName=GrossArea;" Order="3" />
 										<DocTemplateItem UniqueId="523b2956-e64d-454e-b3bc-dedd5ff4088a" RuleParameters="Order=4;QuantityName=NetArea;" Order="4" />
@@ -7099,7 +7099,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Containment" UniqueId="956a45b9-8630-4677-bc09-66457d7cef97" Override="true">
 					<Documentation>Since the _IfcRampFlight_ is always a component of _IfcRamp_ it shall not have an independent spatial containment relationship to a spatial structure.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3PeWY01HBmesKdP1dTP15" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3Pe$WY01HBmesKdP1dTP15" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="920aabcb-e71b-461a-be60-b94ae6bfc7f5" Type="IfcRampFlight" />
@@ -7128,7 +7128,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Reinforcing Bar Attributes" UniqueId="aad49c87-04eb-426d-9aa6-920a5506a3e6">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Reinforcing_Bar_Attributes_3oYIXghTD4BYiuJYSZCJX" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Reinforcing_Bar_Attributes_3oYIX$ghTD4BYiuJYSZCJX" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="c917364c-82f9-4077-9f64-406188506bbd" Type="IfcReinforcingBar" />
@@ -7138,7 +7138,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 			<Concepts>
 				<DocTemplateUsage Name="Body AdvancedSwept DiskSolid PolyCurve Geometry" UniqueId="89a66378-b01c-4745-86f1-5a6da4f5099f">
 					<Documentation>The default geometric item to exchange the body shape representation of reinforcing elements is the _IfcSweptDiskSolid_ using the _IfcIndexedPolyCurve_ to describe the _Directrix_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedSwept_DiskSolid_PolyCurve_Geometry_0S8aGf5H900B6VqnAV6h" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedSwept_DiskSolid_PolyCurve_Geometry_0S8aGf5H900B$$6VqnAV6h" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Element Voiding" UniqueId="a3745e10-c5a3-4e2e-9767-a333db83162f" Override="true" Suppress="true">
 					<Documentation>The various subtypes of _IfcReinforcingElement_ do not support the concept of voiding - there shall no voids (openings, cut-outs, recesses) being defined as shape features for reinforcing elements.</Documentation>
@@ -7251,7 +7251,7 @@ As shown in Figure 31, the &lt;em&gt;IfcGrid&lt;/em&gt; defines a
 						<DocTemplateItem UniqueId="04cdb78f-3927-48a2-a518-19c1c696b2b1" RuleParameters="QsetName=Qto_RoofBaseQuantities;">
 							<Concepts>
 								<DocTemplateUsage Name="Quantities" UniqueId="f1bec920-778d-49ee-b9b4-d07d9a5500a2">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="5e107aaa-3e39-4831-a239-e1987c4c1c5b" RuleParameters="Order=1;QuantityName=GrossArea;" Order="1" />
 										<DocTemplateItem UniqueId="9a901208-3b0f-4018-8e63-77bd9e94fa2f" RuleParameters="Order=2;QuantityName=NetArea;" Order="2" />
@@ -7293,7 +7293,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 			<Concepts>
 				<DocTemplateUsage Name="Identity" UniqueId="2M_U5z9wDAMRM3lcQ2XFFY">
 					<Documentation>_Globally unique ID, as compressed uuid, is assigned to each subtype of _IfcRoot_._</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Software_Identity_3tome8kTCm8N_GQceBpX" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Software_Identity_3tome8$kTCm8N_G$QceBpX" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="mandatory">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -7490,7 +7490,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Composition" UniqueId="a3feffdb-78e2-4c87-ad0a-9908857dac92">
 					<Documentation>By using the inverse relationship _IfcSite.Decomposes_ it references _IfcProject_ || _IfcSite_ through _IfcRelAggregates.RelatingObject_, If it refers to another instance of _IfcSite_, the referenced _IfcSite_ needs to have a different and higher _CompositionType_, i.e. COMPLEX (if the other _IfcSite_ has ELEMENT), or ELEMENT (if the other _IfcSite_ has PARTIAL).</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjEReR30ApKl5A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjERe$R30ApKl5A" />
 					<Items>
 						<DocTemplateItem UniqueId="f4982f7c-cdfd-4e8e-affd-8b6329314c36" RuleParameters="Spatial Composite=IfcProject;">
 							<Documentation>Direct assignment to project, if the site is the outermost spatial container (default)</Documentation>
@@ -7502,7 +7502,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Decomposition" UniqueId="3ORySf3lH44fgGTHTYqq8j">
 					<Documentation>By using the inverse relationship _IfcSite.IsDecomposedBy_ it references (em&gt;IfcSite || _IfcBuilding_ || _IfcSpace_ by _IfcRelAggregates.RelatedObjects_. If it refers to another instance of _IfcSite_, the referenced _IfcSite_ needs to have a different and lower _CompositionType_, i.e. ELEMENT (if the other _IfcSite_ has COMPLEX), or PARTIAL (if the other _IfcSite_ has ELEMENT).</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 					<Items>
 						<DocTemplateItem UniqueId="02e16a38-a26c-483b-82a2-a154ddf676a5" RuleParameters="Spatial Parts=IfcBuilding;">
 							<Documentation>Spatial decomposition into building.</Documentation>
@@ -7524,7 +7524,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 					</Exchanges>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="2LsrbzO3DDfuuiLAa83gNC">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZjG59LPCtYlqeIWvl" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZj$G59LPCtYlqeIWvl" />
 					<Items>
 						<DocTemplateItem UniqueId="5fd1fe15-6cf7-42dc-a264-79ed0fe88b12" RuleParameters="Type=IfcElement;">
 							<Documentation>The site may contain elements directly (if those are not assigned to the individual building, building stories or spaces</Documentation>
@@ -7583,7 +7583,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="34395528-cfac-4640-8162-2ee14806604f">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="d9d717dc-69af-4187-a696-7d1ec0fbeb6a" RuleParameters="Order=2;QuantityName=GrossArea;" Order="2" />
 									</Items>
@@ -7601,10 +7601,10 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 					</Exchanges>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Product Local Placement" UniqueId="b0b5cf45-fd54-4a1c-a911-3d43cca1b75f">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="44a01bfe-09a0-40d6-ac52-f0e458838f61">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBhlYuukgoS" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBh$lYuukgoS" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -7615,7 +7615,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 					</Exchanges>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="f100d9f5-790d-4932-b998-0071443c4888" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7AJKdxDG2D1A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="bff2aadb-6cc6-44d9-a532-2dd720adbb0e" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Typing_0rek4E8Dz0zAilsiyAPqJq" />
@@ -7728,7 +7728,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="e696ae4b-e725-4c4b-9794-9fea38ddbb6a">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="968fb0eb-a94d-4311-bf21-6fd5bd6ac68e" RuleParameters="Order=5;QuantityName=GrossArea;" Order="5" />
 										<DocTemplateItem UniqueId="35a427bb-0d80-400a-bf11-9b83627632a5" RuleParameters="Order=6;QuantityName=NetArea;" Order="6" />
@@ -7817,7 +7817,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="259e348b-b4e7-4fc7-b233-8637416a560b">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="e6953728-583a-4a09-9df4-a65b96b85a63" RuleParameters="Order=2;QuantityName=GrossArea;" Order="2" />
 									</Items>
@@ -7905,7 +7905,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 						<DocTemplateItem UniqueId="27c700b0-6caa-4c05-93a8-1983839af8e8" RuleParameters="PsetName=Pset_SpaceThermalLoad;">
 							<Concepts>
 								<DocTemplateUsage Name="Properties" UniqueId="2bd8a6d8-bd58-473c-952b-eadef719c2dc">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									<Items>
 										<DocTemplateItem UniqueId="a0019d4d-6fff-4951-a34f-73900a481de5" RuleParameters="Order=1;PropertyName=People;SetValue=IfcPowerMeasure;" Order="1" />
 										<DocTemplateItem UniqueId="a932cef8-98fa-4dbc-96bf-63ba201b740b" RuleParameters="Order=2;PropertyName=Lighting;SetValue=IfcPowerMeasure;" Order="2" />
@@ -7943,7 +7943,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="a8e2cf8c-d542-4eef-9471-5eee5a668fb0">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="15bd8155-6270-4e37-b1d0-63a724de4294" RuleParameters="Order=6;QuantityName=GrossFloorArea;" Order="6" />
 										<DocTemplateItem UniqueId="afe5ae41-7b4c-4d90-8440-0d196b4635bf" RuleParameters="Order=7;QuantityName=NetFloorArea;" Order="7" />
@@ -7974,7 +7974,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Decomposition" UniqueId="bc7cd9af-bb2f-42f7-b8a7-c8970e0afe8f">
 					<Documentation>By using the inverse relationship _IfcSpace.Decomposes_ it references _IfcSite_ || _IfcBuildingStorey_ by _IfcRelAggregates.RelatingObject_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 					<Items>
 						<DocTemplateItem UniqueId="a61a002f-d33a-4f70-bbac-9e900c14e79c" RuleParameters="Spatial Parts=IfcSite;">
 							<Documentation>Relation to the _IfcSite_ to which this space belongs to</Documentation>
@@ -7985,7 +7985,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="2U8PafLn11BhTQD48VuoP5">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZjG59LPCtYlqeIWvl" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZj$G59LPCtYlqeIWvl" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Reference_Exchange_3SsM4bYOvFyBAKwmAlwLEg" />
@@ -8000,7 +8000,7 @@ Figure 1 illustrates roof placement, with an _IfcRoof_ defining the local placem
 
 * The _PlacementRelTo_ relationship of _IfcLocalPlacement_ shall point to the local placement of the _IfcSpatialStructureElement_ of type _IfcBuildingStorey_ or _IfcSite_ if relative placement is used.
 * If the relative placement is not used, the absolute placement is defined within the world coordinate system.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="FootPrint GeomSet Geometry" UniqueId="fcddf0b1-ae2e-4ec0-855b-bc6e976107a8">
 					<Documentation>The following constraints apply to the 2D representation:
@@ -8023,7 +8023,7 @@ foot print of &lt;em&gt;IfcSpace&lt;/em&gt;.&lt;/blockquote&gt;&lt;/td&gt;
  &lt;/tr&gt;
 
 &lt;/table&gt;</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBhlYuukgoS" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="FootPrint_GeomSet_Geometry_2KLjRMfYf8jBh$lYuukgoS" />
 					<Items>
 						<DocTemplateItem UniqueId="24ea9e87-4fc7-472a-af69-77e872ec036c" RuleParameters="Identifier=FootPrint;Type=Curve2D;Items=IfcBoundedCurve;">
 							<Documentation>A single curve defining the outer boundary</Documentation>
@@ -8051,7 +8051,7 @@ foot print of &lt;em&gt;IfcSpace&lt;/em&gt;.&lt;/blockquote&gt;&lt;/td&gt;
 Figure 1 shows an extrusion of an arbitrary profile definition with voids into the swept area solid of _IfcSpace_.
 
 ![&quot;fig1&quot;](../../figures/ifcspace_standard-layout1.gif &quot;Figure 1 &amp;mdash; Space body swept solid&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 					<Items>
 						<DocTemplateItem UniqueId="4c537ab7-c544-4663-bc95-8c962404b405" RuleParameters="Identifier=Body;Type=SweptSolid;Geometry=IfcExtrudedAreaSolid;">
 							<Documentation>Only extruded area solid shall be used for the swept solid representation.</Documentation>
@@ -8059,7 +8059,7 @@ Figure 1 shows an extrusion of an arbitrary profile definition with voids into t
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="a18635bc-e7ab-4f06-9ea5-e92e6080b248" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7AJKdxDG2D1A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="7af6ece2-a562-4aa1-b752-f302f5782145" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Predefined_Type_0b989XcDzD2fDaLbDNNAGX" />
@@ -8239,16 +8239,16 @@ Figure 1 shows an extrusion of an arbitrary profile definition with voids into t
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Product Local Placement" UniqueId="b9986eb0-c34d-4c4e-be2e-cd9e035c57d5">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Composition" UniqueId="38b73d1a-f412-4ceb-a893-c14bbaf59d72">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjEReR30ApKl5A" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Composition_2C3zBtSRjERe$R30ApKl5A" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Decomposition" UniqueId="8289e647-2095-4fb2-9084-29bd95ec2a67">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Container" UniqueId="3f9784cb-257b-4ad1-ac5e-57677f6ac068">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZjG59LPCtYlqeIWvl" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Container_1XtGZj$G59LPCtYlqeIWvl" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="14e515b9-8f46-4b60-9507-4e757531744c" Type="IfcSpatialZone" />
@@ -8468,7 +8468,7 @@ Figure 1 shows an extrusion of an arbitrary profile definition with voids into t
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Spatial Containment" UniqueId="f17e7b31-4e53-48ee-8b33-468cf61b9dc6" Override="true">
 					<Documentation>Since the _IfcRampFlight_ is always a component of _IfcRamp_ it shall not have an independent spatial containment relationship to a spatial structure.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3PeWY01HBmesKdP1dTP15" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Spatial_Containment_3Pe$WY01HBmesKdP1dTP15" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="2151345f-9fb4-4510-be13-86ddd87a032d" Type="IfcStairFlight" />
@@ -8477,7 +8477,7 @@ Figure 1 shows an extrusion of an arbitrary profile definition with voids into t
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcSurfaceStyle" />
 			<Concepts>
 				<DocTemplateUsage Name="Surface Style" UniqueId="da2a7886-9553-4fd7-bc00-9c0380e50739">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrrpIILsus" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrr$pIILsus" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="e388063f-b4e3-4bc8-aadc-822624a636aa" Type="IfcSurfaceStyle" />
@@ -8680,7 +8680,7 @@ Figure 1 shows an extrusion of an arbitrary profile definition with voids into t
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="a9102c46-4bd7-4648-b61a-eab501f95ac2">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="08e873ed-34ea-4530-a6b4-3c86b572f81c" RuleParameters="Order=3;QuantityName=TotalSurfaceArea;" Order="3" />
 									</Items>
@@ -9206,7 +9206,7 @@ Figure 2 illustrates an example of referencing a representation multiple times m
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcVoidingFeature" />
 			<Concepts>
 				<DocTemplateUsage Name="Product Local Placement" UniqueId="a02d874d-8938-40e4-88a5-6437f5b3ea9a">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Reference Tessellation Geometry" UniqueId="03f9d54b-dbce-4e4a-8380-5e2b4b9ed91f">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Reference_Tessellation_Geometry_312dpK9_P6NwTksaODhjPW" />
@@ -9298,7 +9298,7 @@ Figure 2 illustrates an example of referencing a representation multiple times m
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="11a1b4ad-aa6c-4588-a3f6-7616ecc67225">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="1ada35c5-7219-4397-82e6-de17a8deda16" RuleParameters="Order=4;QuantityName=GrossFootprintArea;" Order="4" />
 										<DocTemplateItem UniqueId="f57cd44d-3dda-4012-8dd3-d9df17fab4e5" RuleParameters="Order=5;QuantityName=NetFootprintArea;" Order="5" />
@@ -9395,7 +9395,7 @@ Figure 2 illustrates an example of referencing a representation multiple times m
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcWindow" />
 			<Concepts>
 				<DocTemplateUsage Name="Window Attributes" UniqueId="42256660-4da8-4ebb-95f1-2718953b4cf9">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Window_Attributes_3u3TY5b1EAe5Nj0iIslY" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Window_Attributes_3u3TY$$5b1EAe5Nj0iIslY" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Property Sets for Objects" UniqueId="c0aacca3-18cd-4c20-bcac-acd4fce97d89">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Property_Sets_for_Objects_3tGbMc30vFCOIj99WTjYHX" />
@@ -9461,7 +9461,7 @@ Figure 2 illustrates an example of referencing a representation multiple times m
 									</Items>
 								</DocTemplateUsage>
 								<DocTemplateUsage Name="Quantities" UniqueId="3f6c8a39-0157-4870-a60c-876bca3ce4e1">
-									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+									<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 									<Items>
 										<DocTemplateItem UniqueId="66e72f27-eb85-4152-8ac3-3ba3a88a3d22" RuleParameters="Order=4;QuantityName=Area;" Order="4" />
 									</Items>
@@ -9521,7 +9521,7 @@ In case of a zone denoting a (fire) compartment, the following types should be u
 * **&apos;ElevatorShaft&apos;**: a collection of spaces within an elevator, potentially going through many storeys.
 * **&apos;RisingDuct&apos;**: A collection of vertical airspaces.
 * **&apos;RunningDuct&apos;**: A collection of horizontal airspaces.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvPL9D4sQnHatm9h2M3" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Group_Assignment_3rPvP$L9D4sQnHatm9h2M3" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="613b63bd-fa2a-4465-96dc-241f077b6c9a" Type="IfcZone" />

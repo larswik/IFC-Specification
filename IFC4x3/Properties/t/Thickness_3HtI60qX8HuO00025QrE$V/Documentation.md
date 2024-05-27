@@ -1,1 +1,1 @@
-Thickness of the fin.
+The geometric thickness of the object.

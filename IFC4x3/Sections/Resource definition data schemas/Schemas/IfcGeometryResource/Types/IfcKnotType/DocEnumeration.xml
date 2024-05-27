@@ -6,8 +6,8 @@
 	</Localization>
 	<Constants>
 		<DocConstant xsi:nil="true" href="UNIFORM_KNOTS_06DG3GqJj7beaKu_m42mZM" />
-		<DocConstant xsi:nil="true" href="QUASI_UNIFORM_KNOTS_3EzTMig1TC1xyyCbjSPaP" />
-		<DocConstant xsi:nil="true" href="PIECEWISE_BEZIER_KNOTS_3r1ZDYpH0Xw0AMdAVuy2E" />
+		<DocConstant xsi:nil="true" href="QUASI_UNIFORM_KNOTS_3EzTMig1TC1xyyCb$jSPaP" />
+		<DocConstant xsi:nil="true" href="PIECEWISE_BEZIER_KNOTS_3r$1ZDYpH0Xw0AMdAVuy2E" />
 		<DocConstant xsi:nil="true" href="UNSPECIFIED_3dvcLrlP9A9PK73nPLBkTo" />
 	</Constants>
 </DocEnumeration>

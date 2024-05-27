@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Material Combustion" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="SpecificHeatCapacity_2szxQ0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="N20Content_2yLG40qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="COContent_31iak0qUmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CO2Content_37g2o0qUmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="SpecificHeatCapacity_2szxQ0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="N20Content_2yLG40qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="COContent_31iak0qUmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CO2Content_37g2o0qUmHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

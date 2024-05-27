@@ -9,11 +9,10 @@
 		</DocAttribute>
 		<DocAttribute Name="Values" UniqueId="1cddb9c2-f8fb-4b48-85e6-0a77aeb6754e" DefinedType="IfcReal" AggregationType="2" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
 			<Documentation>Array of real values on voxels accessible by the same index as that of the corresponding voxel geometric representation.</Documentation>
-			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels);</Derived>
+			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels)</Derived>
 			<Definition>
 				<DocDefinitionRef xsi:nil="true" href="IfcReal_2f9SWbqk18tPNw3O_WZgJ2" />
 			</Definition>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
-

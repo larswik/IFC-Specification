@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Object Definition" />
 		<DocLocalization Locale="fr" Name="Définition d&apos;objet" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="9a053322-cebc-49d9-bef9-d06994de506c" DefinedType="IfcObject" />
-		<DocSubtype UniqueId="96a8285a-d353-4fe3-a540-8abd75a7fa61" DefinedType="IfcTypeObject" />
-		<DocSubtype UniqueId="e4a9ef10-bdac-45f5-8521-c8c332ba7686" DefinedType="IfcContext" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="HasAssignments" UniqueId="859eb111-bab2-4e75-81cf-fc73701e2068" DefinedType="IfcRelAssigns" AggregationType="3" Inverse="RelatedObjects">
 			<Documentation>Reference to the relationship objects, that assign (by an association relationship) other subtypes of IfcObject to this object instance. Examples are the association to products, processes, controls, resources or groups.</Documentation>

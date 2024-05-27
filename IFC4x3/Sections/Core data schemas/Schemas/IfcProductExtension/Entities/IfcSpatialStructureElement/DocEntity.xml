@@ -5,12 +5,6 @@
 		<DocLocalization Locale="en" Name="Spatial Structure Element" />
 		<DocLocalization Locale="fr" Name="Elément de la structure spatiale" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ae2170bb-ceb9-4c49-8ff9-845a434b1169" DefinedType="IfcBuilding" />
-		<DocSubtype UniqueId="f270dacf-366f-4ffe-9b9b-f9c781521fef" DefinedType="IfcBuildingStorey" />
-		<DocSubtype UniqueId="fc4ce9b9-0f1f-4964-b35e-e71d6a0cae04" DefinedType="IfcSpace" />
-		<DocSubtype UniqueId="b18c05d7-6169-4317-b902-ee339352f9a0" DefinedType="IfcSite" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="CompositionType" UniqueId="726de67f-b56e-4031-b779-84330e1d0483" DefinedType="IfcElementCompositionEnum" AttributeFlags="1">
 			<Documentation>Denotes, whether the predefined spatial structure element represents itself, or an aggregate (complex) or a part (part). The interpretation is given separately for each subtype of spatial structure element. If no _CompositionType_ is asserted, the dafault value &apos;&apos;ELEMENT&apos;&apos; applies.\X\0D

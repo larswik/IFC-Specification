@@ -3,9 +3,9 @@
 	<Documentation>Enumeration of possible relative position values. The position of something is the place where it is in relation to other things.</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="LEFT_1Y4NaW7br3hAChVB4_v9Qg" />
-		<DocPropertyConstant xsi:nil="true" href="RIGHT_2FXCmA4T8d9xfCHRgNVN" />
+		<DocPropertyConstant xsi:nil="true" href="RIGHT_2FXC$mA4T8d9xfCHRgN$VN" />
 		<DocPropertyConstant xsi:nil="true" href="MIDDLE_2pkj5DH25C2QhkuzELKbEw" />
-		<DocPropertyConstant xsi:nil="true" href="OTHER_0SAtxxJj15wQA15w2MsIV" />
+		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
 	</Constants>

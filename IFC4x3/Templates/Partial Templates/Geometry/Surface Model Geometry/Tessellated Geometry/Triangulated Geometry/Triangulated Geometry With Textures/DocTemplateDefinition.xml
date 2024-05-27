@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Triangulated_Geometry_With_Textures_2AbkPmnonDtfCwkEcMc3" Name="Triangulated Geometry With Textures" UniqueId="8a96e670-c72c-4dde-933a-b8e9bffd6983" Type="IfcTriangulatedFaceSet">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Triangulated_Geometry_With_Textures_2AbkPmnonDtfCwkEc$$Mc3" Name="Triangulated Geometry With Textures" UniqueId="8a96e670-c72c-4dde-933a-b8e9bffd6983" Type="IfcTriangulatedFaceSet">
 	<Rules>
 		<DocModelRuleAttribute Name="Coordinates">
 			<Rules>

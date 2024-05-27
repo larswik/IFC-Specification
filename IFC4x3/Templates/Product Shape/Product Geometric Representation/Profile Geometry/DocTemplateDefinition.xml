@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Profile_Geometry_3nRhE_uXFCvVVrLhjEW_L" Name="Profile Geometry" UniqueId="3nRhE_$uXFCvVVrLhjEW_L" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Profile_Geometry_3nRhE_$uXFCvVVrLhjEW_L" Name="Profile Geometry" UniqueId="3nRhE_$uXFCvVVrLhjEW_L" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

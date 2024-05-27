@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Axis_Geometry_3X3nGB2XBtfkCYO2N46Fn" Name="Type Axis Geometry" UniqueId="3X3nGB2$XBtfkCYO2N46Fn" Type="IfcElementType">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Axis_Geometry_3X3nGB2$XBtfkCYO2N46Fn" Name="Type Axis Geometry" UniqueId="3X3nGB2$XBtfkCYO2N46Fn" Type="IfcElementType">
 	<Rules>
 		<DocModelRuleAttribute Name="RepresentationMaps">
 			<Rules>

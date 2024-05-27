@@ -6,11 +6,11 @@
 	</Localization>
 	<Constants>
 		<DocConstant xsi:nil="true" href="ELECTRONIC_0PV8UqkIbF19ZO0PFmYTvX" />
-		<DocConstant xsi:nil="true" href="ELECTROMAGNETIC_0T5fMHqXBGv9mhwAuOiHY" />
+		<DocConstant xsi:nil="true" href="ELECTROMAGNETIC_0T5fMH$qXBGv9mhwAuOiHY" />
 		<DocConstant xsi:nil="true" href="RESIDUALCURRENT_0ES0rpNTv4rAvROgr0AzBp" />
 		<DocConstant xsi:nil="true" href="THERMAL_2JHrCJDfT0awiUifSSvZSJ" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_1E0IytEdb1ovgyGY9hZaMf" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

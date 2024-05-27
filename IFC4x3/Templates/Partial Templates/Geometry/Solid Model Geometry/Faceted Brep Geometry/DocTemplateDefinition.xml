@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Faceted_Brep_Geometry_2xLQILa992CA6_mDWrzHI" Name="Faceted Brep Geometry" UniqueId="bb55a495-9092-4230-afc6-fb0360d7d452" Type="IfcFacetedBrep">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Faceted_Brep_Geometry_2xLQILa992CA$6_mDWrzHI" Name="Faceted Brep Geometry" UniqueId="bb55a495-9092-4230-afc6-fb0360d7d452" Type="IfcFacetedBrep">
 	<Rules>
 		<DocModelRuleAttribute Name="Outer">
 			<Rules>

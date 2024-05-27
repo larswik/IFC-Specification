@@ -1,1 +1,1 @@
-Description of the finish applied to the faucet.
+Description of the (surface) finish of the object for informational purposes.

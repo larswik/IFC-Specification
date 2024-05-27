@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" Name="Area Quantity" UniqueId="1bh4T7Rlz3VfJYP3$Kux_6" Type="IfcQuantityArea">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" Name="Area Quantity" UniqueId="1bh4T7Rlz3VfJYP3$Kux_6" Type="IfcQuantityArea">
 	<Rules>
 		<DocModelRuleAttribute Name="Name" Identification="QuantityName">
 			<Rules>

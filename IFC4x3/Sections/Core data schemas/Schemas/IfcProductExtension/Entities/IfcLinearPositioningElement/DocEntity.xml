@@ -3,8 +3,5 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Linear Positioning Element" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="68841b3f-c74b-44ed-b852-0b6d4ba891b4" DefinedType="IfcAlignment" />
-	</Subtypes>
 </DocEntity>
 

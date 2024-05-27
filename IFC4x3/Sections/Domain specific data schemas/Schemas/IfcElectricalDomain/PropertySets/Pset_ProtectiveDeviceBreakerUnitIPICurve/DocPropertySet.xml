@@ -9,9 +9,9 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="VoltageLevel_0z6Ve0qVaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalCurrent_1Vh1C0qVaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BreakerUnitIPICurve_1e14u0qVaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="VoltageLevel_0z6Ve0qVaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NominalCurrent_1Vh1C0qVaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BreakerUnitIPICurve_1e14u0qVaHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

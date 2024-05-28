@@ -1,1 +1,1 @@
-Length of the exposed fault trace.
+Length range of the exposed fault trace.

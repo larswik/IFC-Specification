@@ -1,1 +1,1 @@
-Frequency at which an AC electric power system reaches its optimum operating condition.
+Frequency of the AC electric power supply when the device or system reaches its optimum operating condition.

@@ -4,8 +4,8 @@
 		<DocLocalization Locale="en" Name="Sensor Type Movement Sensor" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="MovementSensingType_3z3KG0qWKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SetPointMovement_09aPo0qWOHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="MovementSensingType_3z3KG0qWKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SetPointMovement_09aPo0qWOHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

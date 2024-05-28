@@ -13,12 +13,12 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_3DNpk0qWSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BuildableArea_3JLHo0qWSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SiteCoverageRatio_3O6T20qWSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FloorAreaRatio_3TTni0qWSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BuildingHeightLimit_3Yr6M0qWSHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalArea_3gb0e0qWSHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_3DNpk0qWSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BuildableArea_3JLHo0qWSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SiteCoverageRatio_3O6T20qWSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FloorAreaRatio_3TTni0qWSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BuildingHeightLimit_3Yr6M0qWSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalArea_3gb0e0qWSHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

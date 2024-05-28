@@ -4,12 +4,12 @@
 		<DocLocalization Locale="en" Name="Structural Curve Member Type Enum" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="RIGID_JOINED_MEMBER_1GZrPBWX2tQj7G7WCQxYj" />
-		<DocConstant xsi:nil="true" href="PIN_JOINED_MEMBER_0YiOLKFNT79MtYKwUraMg" />
-		<DocConstant xsi:nil="true" href="CABLE_0NLgLrROnEi9qyTUgxka7" />
+		<DocConstant xsi:nil="true" href="RIGID_JOINED_MEMBER_1GZrPBW$X2tQj7G7WCQxYj" />
+		<DocConstant xsi:nil="true" href="PIN_JOINED_MEMBER_0YiOLKFNT7$9MtYKwUraMg" />
+		<DocConstant xsi:nil="true" href="CABLE_0NLgLrROnEi9qyTU$gxka7" />
 		<DocConstant xsi:nil="true" href="TENSION_MEMBER_3ECXDZcyH3XusmhWNFI9rf" />
 		<DocConstant xsi:nil="true" href="COMPRESSION_MEMBER_2q_phmG6b4QOTCStVhzghT" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_3nAvZ7Rz91852J9wb5zUC" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_3n$AvZ7Rz91852J9wb5zUC" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_1CZOZva3r9jByBc2saXEHz" />
 	</Constants>
 </DocEnumeration>

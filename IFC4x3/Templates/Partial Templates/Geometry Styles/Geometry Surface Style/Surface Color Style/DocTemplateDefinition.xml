@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Surface_Color_Style_3gHpLYmULDnwrrpIILsus" Name="Surface Color Style" UniqueId="3gHpLYmULDnwrr$pIILsus" Type="IfcSurfaceStyle">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Surface_Color_Style_3gHpLYmULDnwrr$pIILsus" Name="Surface Color Style" UniqueId="3gHpLYmULDnwrr$pIILsus" Type="IfcSurfaceStyle">
 	<Rules>
 		<DocModelRuleAttribute Name="Styles">
 			<Rules>

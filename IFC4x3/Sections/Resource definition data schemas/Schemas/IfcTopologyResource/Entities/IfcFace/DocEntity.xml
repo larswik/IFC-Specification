@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Face" />
 		<DocLocalization Locale="fr" Name="Face" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="b9d64425-37d9-4d0d-847d-e6891f7d83c8" DefinedType="IfcFaceSurface" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Bounds" UniqueId="35969d0d-9b89-4823-9320-b7dc72f3ab94" DefinedType="IfcFaceBound" AggregationType="3" AggregationLower="1" AggregationUpper="0">
 			<Documentation>Boundaries of the face.</Documentation>

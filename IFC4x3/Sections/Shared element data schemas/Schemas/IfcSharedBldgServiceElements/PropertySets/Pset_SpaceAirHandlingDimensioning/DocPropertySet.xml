@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceAirHandlingDimensioning" UniqueId="7309b3e9-7792-41ca-a55f-8a993a16a8e7" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="CoolingDesignAirflow_0P_4O0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingDesignAirflow_0VxYS0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SensibleHeatGain_0cGHfXw5PB$gkctkiMORlw" />
+		<DocProperty xsi:nil="true" href="TotalHeatGain_0iSd_0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalHeatLoss_0nDpE0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CoolingDryBulb_23i_oDW4nDfBvb_ImqAD5i" />
+		<DocProperty xsi:nil="true" href="CoolingRelativeHumidity_0zkum0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingDryBulb_0iNnvmWFL0rwEbwP88DOoa" />
+		<DocProperty xsi:nil="true" href="HeatingRelativeHumidity_193hU0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="VentilationDesignAirFlow_0l5KH$i7vDsewNRQpC1DUw" />
+		<DocProperty xsi:nil="true" href="DesignAirFlow_0N8C4KOqD4dhxswz_7fyAN" />
+		<DocProperty xsi:nil="true" href="CeilingRAPlenum_1QLyG0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BoundaryAreaHeatLoss_1XVj80qWiHuO00025QrE$V" />
+	</Properties>
+</DocPropertySet>
+

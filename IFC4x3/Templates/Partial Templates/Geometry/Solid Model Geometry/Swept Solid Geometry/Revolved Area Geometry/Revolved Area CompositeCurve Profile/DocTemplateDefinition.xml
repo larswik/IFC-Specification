@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Revolved_Area_CompositeCurve_Profile_3_6DGd0591OX2MpMjZYJa" Name="Revolved Area CompositeCurve Profile" UniqueId="fe1bf350-9c01-4905-8842-5b35ad8e24e4" Type="IfcRevolvedAreaSolid">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Revolved_Area_CompositeCurve_Profile_3_6$DGd0591OX2MpMjZYJa" Name="Revolved Area CompositeCurve Profile" UniqueId="fe1bf350-9c01-4905-8842-5b35ad8e24e4" Type="IfcRevolvedAreaSolid">
 	<Rules>
 		<DocModelRuleAttribute Name="Position">
 			<Rules>

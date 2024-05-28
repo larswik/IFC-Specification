@@ -5,10 +5,10 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de garde corps" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="HANDRAIL_3vYMRiKQ94wuDU39BfbY" />
-		<DocConstant xsi:nil="true" href="GUARDRAIL_3png7FJ50kB3kbn49iJIo" />
+		<DocConstant xsi:nil="true" href="HANDRAIL_3vYMRiKQ94$wuDU39Bfb$Y" />
+		<DocConstant xsi:nil="true" href="GUARDRAIL_3pn$g7FJ50kB3kbn49iJIo" />
 		<DocConstant xsi:nil="true" href="BALUSTRADE_2S5vbF3p5Cw94cKtkzhtgB" />
-		<DocConstant xsi:nil="true" href="FENCE_08zOjllGn2Hu7NFXmALj0" />
+		<DocConstant xsi:nil="true" href="FENCE_08zOjllGn2Hu7NFXmA$Lj0" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_3AZOKsqTr1jBajGm9SF2AH" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_3VzpYveOL2MOxDWRx_nMNe" />
 	</Constants>

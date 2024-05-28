@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" Name="Bounded Value" UniqueId="0zPwBITXr4sQ2Uj$kn_bOo" Status="Official" Owner="System" Type="IfcPropertyBoundedValue">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" Name="Bounded Value" UniqueId="0zPwBITXr4sQ2Uj$kn_bOo" Status="Official" Owner="System" Type="IfcPropertyBoundedValue">
 	<Rules>
 		<DocModelRuleAttribute Name="Name" Identification="PropertyName">
 			<Rules>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceHVACDesign" UniqueId="1fbe6c05-10ea-46e1-b82c-e497f921b99f" ApplicableType="IfcSpatialElement,IfcSpatialZone,IfcZone" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="TemperatureSetPoint_11r$fQ7KjDlvSpQ7GrrYIJ" />
+		<DocProperty xsi:nil="true" href="TemperatureMax_3R51p1q1j1nB$j77VpxtSX" />
+		<DocProperty xsi:nil="true" href="TemperatureMin_0axtJG7wX0cAvo6TTj6AtN" />
+		<DocProperty xsi:nil="true" href="TemperatureSummerMax_0rAvWFO9T46xDQqTZIY75g" />
+		<DocProperty xsi:nil="true" href="TemperatureSummerMin_1EHskDhor4nBUoFSC6S$Bo" />
+		<DocProperty xsi:nil="true" href="TemperatureWinterMax_0Yn52YjwzE59Ibetj1A02E" />
+		<DocProperty xsi:nil="true" href="TemperatureWinterMin_2hL5w3nqP2ivONJzi0p2Qa" />
+		<DocProperty xsi:nil="true" href="HumiditySetPoint_1EvwdsIJzCchlD2WxBx7LQ" />
+		<DocProperty xsi:nil="true" href="HumidityMax_3k4hawTVb5Ahvmj2kU6M$L" />
+		<DocProperty xsi:nil="true" href="HumidityMin_2FMCtdeG12eO0syuCDdRg4" />
+		<DocProperty xsi:nil="true" href="HumiditySummer_33Q$I6qEfEqR6EBSPjSvTF" />
+		<DocProperty xsi:nil="true" href="HumidityWinter_2HWhTpDuvDQfU6PHZnzsch" />
+		<DocProperty xsi:nil="true" href="DiscontinuedHeating_26m100qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NaturalVentilation_2DJeU0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NaturalVentilationRate_2KTPM0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MechanicalVentilation_0b_MA3aeHFSwAPtjY25vZM" />
+		<DocProperty xsi:nil="true" href="MechanicalVentilationRate_2QQtQ0qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirConditioning_2VoC40qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirConditioningCentral_2blg80qWmHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirHandlingName_3V3178UIjCuAR8LYKkcIXJ" />
+	</Properties>
+</DocPropertySet>
+

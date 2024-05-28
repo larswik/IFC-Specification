@@ -5,8 +5,8 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de tronçon de tuyauterie" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="CULVERT_1XrzGiMe16OwaJpjuBmvU" />
-		<DocConstant xsi:nil="true" href="FLEXIBLESEGMENT_14CkfacYT8aOqsEru5guY" />
+		<DocConstant xsi:nil="true" href="CULVERT_1XrzGiMe16$OwaJpjuBmvU" />
+		<DocConstant xsi:nil="true" href="FLEXIBLESEGMENT_14CkfacYT8aOqs$Eru5guY" />
 		<DocConstant xsi:nil="true" href="RIGIDSEGMENT_1gvhWTjKPChwpQv3VGDWo5" />
 		<DocConstant xsi:nil="true" href="GUTTER_0WesM0Hej5xxpdQhS3orZT" />
 		<DocConstant xsi:nil="true" href="SPOOL_3gKLLxPuXAo8mMUgeMQZZh" />

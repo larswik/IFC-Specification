@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" Name="Body SweptSolid PolyCurve Geometry" UniqueId="38710ccd-8ff5-41ba-8fda-08300907a02e" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" Name="Body SweptSolid PolyCurve Geometry" UniqueId="38710ccd-8ff5-41ba-8fda-08300907a02e" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

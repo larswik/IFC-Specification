@@ -5,14 +5,6 @@
 		<DocLocalization Locale="en" Name="Object" />
 		<DocLocalization Locale="fr" Name="Objet" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="98e18a22-dc53-48f4-a980-3e0269144315" DefinedType="IfcActor" />
-		<DocSubtype UniqueId="3527e2dc-dcbc-44db-b9b8-fa0a79fb75a3" DefinedType="IfcControl" />
-		<DocSubtype UniqueId="63fda257-a063-4d05-9139-a046dc6e78ea" DefinedType="IfcGroup" />
-		<DocSubtype UniqueId="11d9972f-dc24-4fc8-b730-8694b23a23fe" DefinedType="IfcProcess" />
-		<DocSubtype UniqueId="3fafd594-f504-4bb5-b2cf-ef02ebb71f40" DefinedType="IfcProduct" />
-		<DocSubtype UniqueId="5ef6060a-53b7-4bcb-a425-2e400f21551b" DefinedType="IfcResource" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ObjectType" UniqueId="a2a49b49-46e4-4a0d-a311-916cc1dd4a25" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The type denotes a particular type that indicates the object further. The use has to be established at the level of instantiable subtypes. In particular it holds the user defined type, if the enumeration of the attribute _PredefinedType_ is set to USERDEFINED.</Documentation>

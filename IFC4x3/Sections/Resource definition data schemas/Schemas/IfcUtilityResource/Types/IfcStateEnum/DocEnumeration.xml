@@ -5,7 +5,7 @@
 		<DocLocalization Locale="fr" Name="Enumération des types d&apos;accessibilité à l&apos;objet" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="READWRITE_2KiMEmfvL1Dfc8CbRRM0G" />
+		<DocConstant xsi:nil="true" href="READWRITE_2KiMEmfvL1Dfc8Cb$RRM0G" />
 		<DocConstant xsi:nil="true" href="READONLY_2xO3TzBa96_xmzex0HsdWb" />
 		<DocConstant xsi:nil="true" href="LOCKED_3gK17gRTX2fhTuywmESe4v" />
 		<DocConstant xsi:nil="true" href="READWRITELOCKED_31_nJ27QL5RPsKesStt1Ag" />

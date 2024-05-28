@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcGeoScienceFeatureTypeEnum" UniqueId="b42aac0e-e587-414f-af6d-5e33d8915603">
+<DocEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IfcGeoScienceFeatureTypeEnum" Name="IfcGeoScienceFeatureTypeEnum" UniqueId="b42aac0e-e587-414f-af6d-5e33d8915603">
 	<Constants>
-		<DocConstant xsi:nil="true" href="DISCRETEDISCONTINUITY_1pU4duAq1AY8sa_Et9CHq" />
+		<DocConstant xsi:nil="true" href="DISCRETEDISCONTINUITY_1pU4duAq1AY8sa_Et9C$Hq" />
 		<DocConstant xsi:nil="true" href="FOLD_1d9W6iy25Fp8VZfJLka_AM" />
 		<DocConstant xsi:nil="true" href="FLUIDBODY_3cqOfBCEf8xQHN59I1DzuA" />
 		<DocConstant xsi:nil="true" href="PIEZOMETRICWATERLEVEL_29suKkT7H3bRPowoYfy9jE" />
@@ -13,8 +13,8 @@
 		<DocConstant xsi:nil="true" href="FAULT_2QdZLdMmj6pf3tQXnP_Cwb" />
 		<DocConstant xsi:nil="true" href="CONTACT_0lGuSDdmfBCubfswc1poV7" />
 		<DocConstant xsi:nil="true" href="PHYSICALPROPERTYDISTRIBUTION_0JNVWhdPzDpwj69EkBY6Sf" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_0pjy5o5D4AO1puVPAZ73z" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_0$pjy5o5D4AO1puVPAZ73z" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

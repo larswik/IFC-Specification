@@ -7,10 +7,10 @@
 	<Constants>
 		<DocConstant xsi:nil="true" href="ANTENNA_2NxVaT2un37eGptYYNi2SS" />
 		<DocConstant xsi:nil="true" href="COMPUTER_3Mi9kYrPv8_hkuEdgUkgKb" />
-		<DocConstant xsi:nil="true" href="FAX_33sZFTQOr1OfxGOvVij52" />
-		<DocConstant xsi:nil="true" href="GATEWAY_1VTSvVt1DgxZMZKrwMdVn" />
+		<DocConstant xsi:nil="true" href="FAX_33sZFTQOr1OfxGOvVi$j52" />
+		<DocConstant xsi:nil="true" href="GATEWAY_1$VTSvVt1DgxZMZKrwMdVn" />
 		<DocConstant xsi:nil="true" href="MODEM_0glbzo5SH2AQvCXPOMCa4P" />
-		<DocConstant xsi:nil="true" href="NETWORKAPPLIANCE_3igaChK212e8V0qGk6dk4" />
+		<DocConstant xsi:nil="true" href="NETWORKAPPLIANCE_3igaChK212$e8V0qGk6dk4" />
 		<DocConstant xsi:nil="true" href="NETWORKBRIDGE_3lMFivo7b6gv7wPLbKy4sB" />
 		<DocConstant xsi:nil="true" href="NETWORKHUB_1pcQHFqY5DS8jKD0rGQDj7" />
 		<DocConstant xsi:nil="true" href="PRINTER_3wfVZbbpPD7vovNEamYJcu" />
@@ -18,19 +18,19 @@
 		<DocConstant xsi:nil="true" href="ROUTER_0tjYD1MO1CAgbfdsyWki8X" />
 		<DocConstant xsi:nil="true" href="SCANNER_2xURHE_IjFOPfBOvPsfgej" />
 		<DocConstant xsi:nil="true" href="AUTOMATON_3why5PGaj8N987zKfGrmJ4" />
-		<DocConstant xsi:nil="true" href="INTELLIGENTPERIPHERAL_2mjWPtRknC3hMDqygXC7v" />
-		<DocConstant xsi:nil="true" href="IPNETWORKEQUIPMENT_2q3kehYT26vIgazniojM3" />
+		<DocConstant xsi:nil="true" href="INTELLIGENTPERIPHERAL_2mjWPtRknC3hMDqy$gXC7v" />
+		<DocConstant xsi:nil="true" href="IPNETWORKEQUIPMENT_2q3$kehYT26vIgazniojM3" />
 		<DocConstant xsi:nil="true" href="OPTICALNETWORKUNIT_0fZRGlHDPCnw7apmGPxVz_" />
-		<DocConstant xsi:nil="true" href="TELECOMMAND_0TtehCkBD8hekHcc9XC8b" />
+		<DocConstant xsi:nil="true" href="TELECOMMAND_0TtehCkBD8$hekHcc9XC8b" />
 		<DocConstant xsi:nil="true" href="TELEPHONYEXCHANGE_09mRY1xB5BIvH2UE1Y8llq" />
-		<DocConstant xsi:nil="true" href="TRANSITIONCOMPONENT_3jafOVQzEZxB20ilVPROk" />
+		<DocConstant xsi:nil="true" href="TRANSITIONCOMPONENT_3ja$fOVQzEZxB20ilVPROk" />
 		<DocConstant xsi:nil="true" href="TRANSPONDER_3vbzqAsKzFZvMBS_Wuczs8" />
 		<DocConstant xsi:nil="true" href="TRANSPORTEQUIPMENT_2Dmbs7npn2hA9G24XlxTvi" />
 		<DocConstant xsi:nil="true" href="OPTICALLINETERMINAL_0FNoMmV852re3_Z31dD8u6" />
-		<DocConstant xsi:nil="true" href="LINESIDEELECTRONICUNIT_3rnHFkT1FxuW70w_6BT_r" />
+		<DocConstant xsi:nil="true" href="LINESIDEELECTRONICUNIT_3rnHFk$T1FxuW70w_6BT_r" />
 		<DocConstant xsi:nil="true" href="RADIOBLOCKCENTER_1tk6TqabH1PxL221xuLrnU" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_3lrZTnZfX7g9adhf4PEnYC" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

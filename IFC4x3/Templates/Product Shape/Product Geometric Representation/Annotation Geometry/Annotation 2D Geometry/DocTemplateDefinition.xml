@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Annotation_2D_Geometry_01GMQdxoj86BB4IYcaS_V" Name="Annotation 2D Geometry" UniqueId="014166a7-ef2b-4818-bfcb-1128a691cf9f" Type="IfcAnnotation">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Annotation_2D_Geometry_01GMQdxoj86B$B4IYcaS_V" Name="Annotation 2D Geometry" UniqueId="014166a7-ef2b-4818-bfcb-1128a691cf9f" Type="IfcAnnotation">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>
@@ -85,7 +85,7 @@
 																			<Rules>
 																				<DocModelRuleEntity Name="IfcFillAreaStyle">
 																					<References>
-																						<DocTemplateDefinition xsi:nil="true" href="Geometry_Fill_Area_Style_1hQdPNcv98Bs6d7jlRUfS" />
+																						<DocTemplateDefinition xsi:nil="true" href="Geometry_Fill_Area_Style_1h$QdPNcv98Bs6d7jlRUfS" />
 																					</References>
 																				</DocModelRuleEntity>
 																			</Rules>

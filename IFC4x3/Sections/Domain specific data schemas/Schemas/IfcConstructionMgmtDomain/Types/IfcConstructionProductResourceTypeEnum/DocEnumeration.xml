@@ -5,10 +5,10 @@
 		<DocLocalization Locale="fr" Name="Énumération des types de ressource d&apos;un produit de construction" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="ASSEMBLY_1ogbiEJf1t9oXPyY1YKkd" />
-		<DocConstant xsi:nil="true" href="FORMWORK_0HX0oEgJn0TP6ebBC_zwM" />
+		<DocConstant xsi:nil="true" href="ASSEMBLY_1ogb$iEJf1t9oXPyY1YKkd" />
+		<DocConstant xsi:nil="true" href="FORMWORK_0HX0oEgJn0TP6ebB$C_zwM" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_3XV0T0GM59vAH1yZsxahCf" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hCQNM0fFbOE7YSfNTXGg" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0hC$QNM0fFbOE7YSfNTXGg" />
 	</Constants>
 </DocEnumeration>
 

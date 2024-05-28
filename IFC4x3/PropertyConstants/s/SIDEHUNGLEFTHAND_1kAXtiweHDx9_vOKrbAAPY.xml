@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SIDEHUNGLEFTHAND_1kAXtiweHDx9_vOKrbAAPY" Name="SIDEHUNGLEFTHAND" UniqueId="6e2a1dec-ea84-4dec-9fb9-614d6528a662">
+	<Documentation>Panel that opens to the left when viewed from the outside.
+
+![left hand](../../figures/ifcwindowpaneloperationenum-fig02.gif)</Documentation>
+</DocPropertyConstant>
+

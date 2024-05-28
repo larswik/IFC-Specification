@@ -3,9 +3,9 @@
 	<Documentation>Enumeration describing the ticket vending machine type.</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="TICKETREDEMPTIONMACHINE_2Tg3CEeL98wRGv0ditPUdL" />
-		<DocPropertyConstant xsi:nil="true" href="TICKETREFUNDINGMACHINE_1HU7fnlnBxB_DgQ7S3FhK" />
-		<DocPropertyConstant xsi:nil="true" href="TICKETVENDINGMACHINE_2MZgmWUAH8cgbT3UKfpxa" />
-		<DocPropertyConstant xsi:nil="true" href="OTHER_0SAtxxJj15wQA15w2MsIV" />
+		<DocPropertyConstant xsi:nil="true" href="TICKETREFUNDINGMACHINE_1HU7f$nlnBxB_DgQ7S3FhK" />
+		<DocPropertyConstant xsi:nil="true" href="TICKETVENDINGMACHINE_2MZgmWUAH8cgb$T3UKfpxa" />
+		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
 	</Constants>

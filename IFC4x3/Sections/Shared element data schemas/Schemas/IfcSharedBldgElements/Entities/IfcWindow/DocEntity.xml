@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Window" />
 		<DocLocalization Locale="fr" Name="Fenêtre" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="9fcdce23-6665-447a-8d11-a6d1749974f7" DefinedType="IfcWindowStandardCase" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="OverallHeight" UniqueId="4eab6bd3-dcea-4c3d-bb3c-069664b3bb8e" DefinedType="IfcPositiveLengthMeasure" AttributeFlags="1">
 			<Documentation>Overall measure of the height, it reflects the Z Dimension of a bounding box, enclosing the window opening. If omitted, the _OverallHeight_ should be taken from the geometric representation of the _IfcOpening_ in which the window is inserted. 

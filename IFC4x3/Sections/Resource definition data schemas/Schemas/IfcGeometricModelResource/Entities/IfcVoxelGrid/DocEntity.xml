@@ -16,14 +16,14 @@
 				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_1hN4je90v3Zw1QuJ1Tf3Ni" />
 			</Definition>
 		</DocAttribute>
-		<DocAttribute Name="NumberOfVoxelsY" UniqueId="70c30c22-0e2a-446d-8a02-31355e75c4e7" DefinedType="IfcPositiveInteger" AttributeFlags="1">
-			<Documentation>Number of voxels along the Y axis. If not given, the value from _NumberOfVoxelsX_ shall be taken.</Documentation>
+		<DocAttribute Name="NumberOfVoxelsY" UniqueId="70c30c22-0e2a-446d-8a02-31355e75c4e7" DefinedType="IfcPositiveInteger">
+			<Documentation>Number of voxels along the Y axis.</Documentation>
 			<Definition>
 				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_1hN4je90v3Zw1QuJ1Tf3Ni" />
 			</Definition>
 		</DocAttribute>
-		<DocAttribute Name="NumberOfVoxelsZ" UniqueId="bbb9efce-f6f6-4834-a122-fbef29b024bd" DefinedType="IfcPositiveInteger" AttributeFlags="1">
-			<Documentation>NumberOf voxels along the Z axis. If not given, the value from _NumberOfVoxelsX_ shall be taken.</Documentation>
+		<DocAttribute Name="NumberOfVoxelsZ" UniqueId="bbb9efce-f6f6-4834-a122-fbef29b024bd" DefinedType="IfcPositiveInteger">
+			<Documentation>NumberOf voxels along the Z axis.</Documentation>
 			<Definition>
 				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_1hN4je90v3Zw1QuJ1Tf3Ni" />
 			</Definition>
@@ -40,4 +40,3 @@ along X, then Y and finally Z.</Documentation>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

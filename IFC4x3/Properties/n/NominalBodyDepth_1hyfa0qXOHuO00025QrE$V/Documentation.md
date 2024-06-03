@@ -1,1 +1,1 @@
-Nominal or quoted length measured along the z-axis in the local coordinate system of the chamber of the  trap.
+Nominal or quoted length measured along the z-axis of the local coordinate system of the object.

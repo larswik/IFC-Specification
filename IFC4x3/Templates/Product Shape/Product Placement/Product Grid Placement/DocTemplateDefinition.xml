@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Grid_Placement_3XrC7kR9FHODwhtlgqpHa" Name="Product Grid Placement" UniqueId="e1d7f307-b9b2-4f45-837a-af7bead33464" Type="IfcProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Grid_Placement_3Xr$C7kR9FHODwhtlgqpHa" Name="Product Grid Placement" UniqueId="e1d7f307-b9b2-4f45-837a-af7bead33464" Type="IfcProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="ObjectPlacement">
 			<Rules>

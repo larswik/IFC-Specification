@@ -3,9 +3,6 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Sectioned Solid" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="d332cfb7-1e36-4844-95bf-2725303cdfc9" DefinedType="IfcSectionedSolidHorizontal" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Directrix" UniqueId="6b62fbb9-51d3-49e8-bef9-7c89794e944b" DefinedType="IfcCurve">
 			<Documentation>The curve used to define the sweeping operation.</Documentation>

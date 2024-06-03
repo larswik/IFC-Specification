@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Cartesian Point List" />
 		<DocLocalization Locale="fr" Name="Liste de points cartésiens" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="bf6b09ee-3450-4f25-bc10-23bc525c2bd9" DefinedType="IfcCartesianPointList3D" />
-		<DocSubtype UniqueId="645b4590-62a5-4ab7-af67-23b440eb4958" DefinedType="IfcCartesianPointList2D" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Dim" UniqueId="0d99431c-6c21-461a-b68d-f13d146d8595" DefinedType="IfcDimensionCount">
 			<Documentation>The space dimensionality of this class, either 2 or 3, depending on the sub type.</Documentation>

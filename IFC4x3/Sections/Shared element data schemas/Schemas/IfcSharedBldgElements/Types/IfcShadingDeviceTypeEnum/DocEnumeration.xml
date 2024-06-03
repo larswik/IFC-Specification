@@ -5,11 +5,11 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de protection solaire" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="JALOUSIE_1PaeLaIbAKRrJv1UbmMJW" />
-		<DocConstant xsi:nil="true" href="SHUTTER_2nk0sug5Fb9oRZA9knSc" />
-		<DocConstant xsi:nil="true" href="AWNING_2ztVqllCj8HhidFDnge6f" />
+		<DocConstant xsi:nil="true" href="JALOUSIE_1PaeLa$IbAKRrJv1UbmMJW" />
+		<DocConstant xsi:nil="true" href="SHUTTER_2nk0su$g5Fb9oRZ$A9knSc" />
+		<DocConstant xsi:nil="true" href="AWNING_2ztVqllCj8HhidFDnge$6f" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_0RPwn5y8b9axM5VsRtmKLg" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_2lPJhsobDgQOG0BCBVkuS" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_2lPJhso$bDgQOG0BCBVkuS" />
 	</Constants>
 </DocEnumeration>
 

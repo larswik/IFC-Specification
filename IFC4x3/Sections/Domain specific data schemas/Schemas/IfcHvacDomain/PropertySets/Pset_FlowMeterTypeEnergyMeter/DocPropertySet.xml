@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Flow Meter Type Energy Meter" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="NominalCurrent_0sDhk0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MaximumCurrent_0w_s_0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MultipleTarriff_10MBe0qUWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="NominalCurrent_0sDhk0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MaximumCurrent_0w_s_0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MultipleTarriff_10MBe0qUWHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

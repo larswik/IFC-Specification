@@ -4,8 +4,5 @@
 		<DocLocalization Locale="de" Name="Facettierte Boundary Representation" />
 		<DocLocalization Locale="en" Name="Faceted Brep" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="4bcadb55-99b8-4a05-8ba9-30c47bc7d96c" DefinedType="IfcFacetedBrepWithVoids" />
-	</Subtypes>
 </DocEntity>
 

@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Face Bound" />
 		<DocLocalization Locale="fr" Name="Contour de face" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="1d6b586e-5ab6-4710-9a40-06024f34b6cf" DefinedType="IfcFaceOuterBound" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Bound" UniqueId="851ba2e0-700c-4bb5-b663-1806386b9710" DefinedType="IfcLoop" XsdFormat="attribute">
 			<Documentation>The loop which will be used as a face boundary.</Documentation>

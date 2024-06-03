@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Spatial_Decomposition_1cVuH3xCvAZQOan_h15FW" Name="Spatial Decomposition" UniqueId="1cVuH3xCvAZQO$an_h15FW" Type="IfcObjectDefinition">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Spatial_Decomposition_1cVuH3xCvAZQO$an_h15FW" Name="Spatial Decomposition" UniqueId="1cVuH3xCvAZQO$an_h15FW" Type="IfcObjectDefinition">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;

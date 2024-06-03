@@ -36,9 +36,10 @@
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="IsLengthUnit" UniqueId="d422dca1-419e-4f59-998a-5c063594a9fe">
+		<DocWhereRule Name="MapUnitIsLength" UniqueId="d422dca1-419e-4f59-998a-5c063594a9fe">
 			<Documentation>The map unit shall be given, if present, as a length unit.</Documentation>
-			<Expression>NOT(EXISTS(MapUnit)) OR (MapUnit.UnitType = IfcUnitEnum.LENGTHUNIT)</Expression>
+			<Expression>NOT(EXISTS(SELF.MapUnit)) OR (SELF.MapUnit.UnitType = IfcUnitEnum.LENGTHUNIT)</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
+

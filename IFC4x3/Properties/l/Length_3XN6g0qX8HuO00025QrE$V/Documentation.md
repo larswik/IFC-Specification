@@ -1,1 +1,3 @@
-Length of the fin as measured parallel to the direction of airflow.
+The length of the object.
+
+As measured parallel to the direction of airflow.

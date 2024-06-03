@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Work Control" />
 		<DocLocalization Locale="fr" Name="Contrôle des travaux" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e4c0c418-1d37-4f1b-a39b-2421690fff8e" DefinedType="IfcWorkPlan" />
-		<DocSubtype UniqueId="3d4168a1-8435-4dc0-87e2-93f3e4088a2b" DefinedType="IfcWorkSchedule" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="CreationDate" UniqueId="0a22762a-7121-44bd-92cb-3bbd2bc1e0e2" DefinedType="IfcDateTime">
 			<Documentation>The date that the plan is created.</Documentation>

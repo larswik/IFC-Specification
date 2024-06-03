@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Project_Representation_Context_2D_1nCFWmgBDBGAZKgukal2M" Name="Project Representation Context 2D" UniqueId="7130f830-a8b3-4b40-a8d4-ab8ba4fef096" Type="IfcContext">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Project_Representation_Context_2D_1nCFWmgBDBGAZKguka$l2M" Name="Project Representation Context 2D" UniqueId="7130f830-a8b3-4b40-a8d4-ab8ba4fef096" Type="IfcContext">
 	<Rules>
 		<DocModelRuleAttribute Name="RepresentationContexts">
 			<Rules>
@@ -17,12 +17,12 @@
 						</DocModelRuleAttribute>
 						<DocModelRuleAttribute Name="CoordinateSpaceDimension">
 							<Rules>
-								<DocModelRuleEntity id="IfcDimensionCount_28czLz9gk2WggLWrwMKed" Name="IfcDimensionCount" UniqueId="889bd57d-26ab-8282-aa95-835e96528fe7">
+								<DocModelRuleEntity id="IfcDimensionCount_28czLz9gk2WggLWrwMKe$d" Name="IfcDimensionCount" UniqueId="889bd57d-26ab-8282-aa95-835e96528fe7">
 									<Rules>
 										<DocModelRuleConstraint>
 											<Expression xsi:type="DocOpStatement" Operation="compareequal">
 												<Reference xsi:type="DocOpReference">
-													<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcDimensionCount_28czLz9gk2WggLWrwMKed" />
+													<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcDimensionCount_28czLz9gk2WggLWrwMKe$d" />
 												</Reference>
 												<Value xsi:type="DocOpLiteral" Operation="loadstring" Literal="2" />
 											</Expression>

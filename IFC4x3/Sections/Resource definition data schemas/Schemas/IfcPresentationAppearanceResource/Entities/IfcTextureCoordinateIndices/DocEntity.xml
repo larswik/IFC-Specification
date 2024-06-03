@@ -5,7 +5,7 @@
 		<DocAttribute Name="TexCoordIndex" UniqueId="6dd1c5a8-39b8-4d40-8481-b8b08e210eb8" DefinedType="IfcPositiveInteger" AggregationType="1" AggregationLower="3" AggregationUpper="0">
 			<Documentation>List of index pointers into the _IfcTextureVertexList_ referenced by the inherited attribute _TexCoords_.</Documentation>
 			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_2ikebEnPFx9_KWvDzfxII" />
+				<DocDefinitionRef xsi:nil="true" href="IfcPositiveInteger_2ike$bEnPFx9_KWvDzfxII" />
 			</Definition>
 		</DocAttribute>
 		<DocAttribute Name="TexCoordsOf" UniqueId="2f3e2c4c-7245-428c-9305-1d43085997a7" DefinedType="IfcIndexedPolygonalFace">
@@ -30,14 +30,5 @@
 			</Definition>
 		</DocAttribute>
 	</Attributes>
-	<Tree>
-		<DocLine>
-			<DiagramLine>
-				<DocPoint X="0" Y="0" />
-				<DocPoint X="0" Y="0" />
-				<DocPoint X="0" Y="0" />
-			</DiagramLine>
-		</DocLine>
-	</Tree>
 </DocEntity>
 

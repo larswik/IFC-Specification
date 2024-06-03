@@ -37,7 +37,7 @@
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcPropertyBoundedValue">
 													<References>
-														<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+														<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 													</References>
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcPropertyEnumeratedValue">
@@ -47,7 +47,7 @@
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcPropertyListValue">
 													<References>
-														<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+														<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 													</References>
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcPropertyTableValue">
@@ -87,7 +87,7 @@
 																</DocModelRuleEntity>
 																<DocModelRuleEntity Name="IfcPropertyBoundedValue" Prefix="Type">
 																	<References>
-																		<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Ujkn_bOo" />
+																		<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 																	</References>
 																</DocModelRuleEntity>
 																<DocModelRuleEntity Name="IfcPropertyEnumeratedValue" Prefix="Type">
@@ -97,7 +97,7 @@
 																</DocModelRuleEntity>
 																<DocModelRuleEntity Name="IfcPropertyListValue" Prefix="Type">
 																	<References>
-																		<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhogfKj" />
+																		<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 																	</References>
 																</DocModelRuleEntity>
 																<DocModelRuleEntity Name="IfcPropertyTableValue" Prefix="Type">

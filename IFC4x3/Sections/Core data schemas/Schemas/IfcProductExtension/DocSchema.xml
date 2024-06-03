@@ -43,7 +43,7 @@
 				<DocDefinitionRef Name="IfcPolyline" UniqueId="324d4b14-35b0-41bd-80c4-71132d67e8cf" />
 				<DocDefinitionRef Name="IfcCurve" UniqueId="dc44c59d-1972-4de1-8dbe-e61dd20e2a65" />
 				<DocDefinitionRef Name="IfcCartesianPoint" UniqueId="627c02f8-35dd-40fb-8a1b-ad8e0c175f64" />
-				<DocDefinitionRef Name="IfcVector" UniqueId="cef04d14-c59d-42d3-8524-995e712a8b83" />
+				<DocDefinitionRef id="IfcVector_3Ey4qKnPr2quKacLvnAek3" Name="IfcVector" UniqueId="cef04d14-c59d-42d3-8524-995e712a8b83" />
 			</Definitions>
 		</DocSchemaRef>
 		<DocSchemaRef Name="IFCKERNEL" UniqueId="143123dd-37e6-4bc1-b974-d222428426b3">

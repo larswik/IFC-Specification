@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PIVOTHORIZONTAL_0z_Ui7_gzBuP9Stp1TDySs" Name="PIVOTHORIZONTAL" UniqueId="3df9eb07-faaf-4be1-925c-df305d37c736">
+	<Documentation>Panel is swinging horizontally (hinges are in the middle).
+
+![swinging hori](../../figures/ifcwindowpaneloperationenum-fig07.gif)</Documentation>
+</DocPropertyConstant>
+

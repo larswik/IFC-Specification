@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Sequential_Connectivity_39yHY0ZFP7gki1SSxG46n" Name="Sequential Connectivity" UniqueId="39yHY0ZFP7$gki1SSxG46n" Type="IfcProcess">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Sequential_Connectivity_39yHY0ZFP7$gki1SSxG46n" Name="Sequential Connectivity" UniqueId="39yHY0ZFP7$gki1SSxG46n" Type="IfcProcess">
 	<Rules>
 		<DocModelRuleAttribute Name="IsPredecessorTo">
 			<Rules>

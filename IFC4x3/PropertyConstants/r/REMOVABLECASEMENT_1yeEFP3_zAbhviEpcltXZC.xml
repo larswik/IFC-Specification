@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="REMOVABLECASEMENT_1yeEFP3_zAbhviEpcltXZC" Name="REMOVABLECASEMENT" UniqueId="7ca0e3d9-0fef-4a96-be6c-3b39afde18cc">
+	<Documentation>Panel is removable.
+
+![removable](../../figures/ifcwindowpaneloperationenum-fig11.gif)</Documentation>
+</DocPropertyConstant>
+

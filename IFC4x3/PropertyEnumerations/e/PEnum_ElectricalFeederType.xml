@@ -3,11 +3,11 @@
 	<Documentation>Enumeration of feeder line types.</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="ALONGTRACKFEEDER_3PlLCYRCL35g5ydawDpXv5" />
-		<DocPropertyConstant xsi:nil="true" href="BYPASSFEEDER_1iKNUOcrFcPjgo73ZABwn" />
+		<DocPropertyConstant xsi:nil="true" href="BYPASSFEEDER_1iK$NUOcrFcPjgo73ZABwn" />
 		<DocPropertyConstant xsi:nil="true" href="NEGATIVEFEEDER_3KOGhzo1n0dPtmuFaYF7kf" />
 		<DocPropertyConstant xsi:nil="true" href="POSITIVEFEEDER_3ez3dTh8z3beDSH_vdGdFO" />
-		<DocPropertyConstant xsi:nil="true" href="REINFORCINGFEEDER_2QR0LImi17KhybhVC5xCc" />
-		<DocPropertyConstant xsi:nil="true" href="OTHER_0SAtxxJj15wQA15w2MsIV" />
+		<DocPropertyConstant xsi:nil="true" href="REINFORCINGFEEDER_2QR0LImi17KhybhVC5x$Cc" />
+		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
 	</Constants>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" Name="Body Tessellation Geometry" UniqueId="5cfd4403-6545-4c6d-bc27-0a95a3d09950" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" Name="Body Tessellation Geometry" UniqueId="5cfd4403-6545-4c6d-bc27-0a95a3d09950" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>
@@ -39,7 +39,7 @@
 											<Rules>
 												<DocModelRuleEntity Name="IfcTriangulatedFaceSet">
 													<References>
-														<DocTemplateDefinition xsi:nil="true" href="Triangulated_Geometry_With_Textures_2AbkPmnonDtfCwkEcMc3" />
+														<DocTemplateDefinition xsi:nil="true" href="Triangulated_Geometry_With_Textures_2AbkPmnonDtfCwkEc$$Mc3" />
 													</References>
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcPolygonalFaceSet">

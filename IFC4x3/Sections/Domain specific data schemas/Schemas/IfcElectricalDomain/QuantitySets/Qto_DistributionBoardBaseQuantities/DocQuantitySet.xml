@@ -4,7 +4,7 @@
 		<DocLocalization Locale="en" Name="Electric Distribution Board Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossWeight_0TxcLLdz2ZArODjG93KwI" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_0T$xcLLdz2ZArODjG93KwI" />
 		<DocQuantity xsi:nil="true" href="NumberOfCircuits_276gz8d_D6HvrpIUgEPq52" />
 	</Quantities>
 </DocQuantitySet>

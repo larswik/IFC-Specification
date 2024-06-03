@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Distribution Element" />
 		<DocLocalization Locale="fr" Name="Elément de distribution" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="1e83c64e-65d8-49ee-944e-ee432105e5a9" DefinedType="IfcDistributionFlowElement" />
-		<DocSubtype UniqueId="9ebf5aaa-3443-476d-a40a-73564670571f" DefinedType="IfcDistributionControlElement" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="HasPorts" UniqueId="da8a54e0-2b6b-4b7e-91fb-2087561bccf5" DefinedType="IfcRelConnectsPortToElement" AggregationType="3" Inverse="RelatedElement">
 			<Documentation>Reference to the element to port connection relationship. The relationship then refers to the port which is contained in this element.

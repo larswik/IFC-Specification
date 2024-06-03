@@ -7,10 +7,10 @@
 	</Localization>
 	<Constants>
 		<DocConstant xsi:nil="true" href="PLANE_SURF_0X1AYFSQrAkvjhRurTD4IT" />
-		<DocConstant xsi:nil="true" href="CYLINDRICAL_SURF_0sSM1g1DORsILyXR9rIC" />
+		<DocConstant xsi:nil="true" href="CYLINDRICAL_SURF_0s$$SM1g1DORsILyXR9rIC" />
 		<DocConstant xsi:nil="true" href="CONICAL_SURF_3Xew5xQV56jfAfyyjd3tPy" />
 		<DocConstant xsi:nil="true" href="SPHERICAL_SURF_0Jq0d6MpD5HOrnRR6rZ1uI" />
-		<DocConstant xsi:nil="true" href="TOROIDAL_SURF_3L9PQMHKT1EeZC5umDOQ_" />
+		<DocConstant xsi:nil="true" href="TOROIDAL_SURF_3L9PQMHKT1EeZC5umDOQ_$" />
 		<DocConstant xsi:nil="true" href="SURF_OF_REVOLUTION_0tFNOKHOvBsANptFFFrVLI" />
 		<DocConstant xsi:nil="true" href="RULED_SURF_3kRAQ6BJ1AvhU6T3cIdFvy" />
 		<DocConstant xsi:nil="true" href="GENERALISED_CONE_34pPdKAJj8Jx2SCHJuPsRf" />

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_TransportElementCommon" UniqueId="b84b4ef3-0217-4d54-84e8-662fe260853c" ApplicableType="IfcTransportationDevice" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="Reference_2ZkamLdhP6IQpZJRqjyV$O" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CapacityPeople_003Z60qX8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CapacityWeight_05Qtm0qX8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FireExit_0Caee0qX8HuO00025QrE$V" />
+	</Properties>
+</DocPropertySet>
+

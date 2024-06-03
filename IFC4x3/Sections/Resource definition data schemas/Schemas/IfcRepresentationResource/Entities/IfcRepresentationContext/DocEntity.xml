@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Representation Context" />
 		<DocLocalization Locale="fr" Name="Contexte de représentation" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ca7761a8-39dd-45b5-97d6-1f3abfa6fea7" DefinedType="IfcGeometricRepresentationContext" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ContextIdentifier" UniqueId="98c7faf4-7709-4f0a-9ab4-c1e8c7d0f012" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The optional identifier of the representation context as used within a project.</Documentation>

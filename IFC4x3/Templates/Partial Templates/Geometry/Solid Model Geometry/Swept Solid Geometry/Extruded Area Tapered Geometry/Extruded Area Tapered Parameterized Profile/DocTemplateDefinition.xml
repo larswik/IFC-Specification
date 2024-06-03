@@ -6,7 +6,7 @@
 				<DocModelRuleEntity Name="IfcProfileDef" />
 				<DocModelRuleEntity Name="IfcParameterizedProfileDef">
 					<References>
-						<DocTemplateDefinition xsi:nil="true" href="Circle_Hollow_Profile_Definition_1x_XWKbULFvQPW_jwGsRX" />
+						<DocTemplateDefinition xsi:nil="true" href="Circle_Hollow_Profile_Definition_1x_XWKbULFvQ$PW_jwGsRX" />
 						<DocTemplateDefinition xsi:nil="true" href="Circle_Profile_Definition_25c_E6h2L6yg4R0FQsjtdj" />
 						<DocTemplateDefinition xsi:nil="true" href="Ellipse_Profile_Definition_3ik2ToDqvAiwpUGOvpaLea" />
 						<DocTemplateDefinition xsi:nil="true" href="Rectangle_Hollow_Profile_Definition_1IwJNB7iP26eOj4uYkSu0e" />
@@ -17,7 +17,7 @@
 						<DocTemplateDefinition xsi:nil="true" href="IShape_Profile_Definition_1k23A9IVb7OfzSmNhIhTu5" />
 						<DocTemplateDefinition xsi:nil="true" href="LShape_Profile_Definition_1QjH5TamDEIQiI7J16cSJ6" />
 						<DocTemplateDefinition xsi:nil="true" href="TShape_Profile_Definition_1A7qNhHKL93QKFFYsH1gee" />
-						<DocTemplateDefinition xsi:nil="true" href="UShape_Profile_Definition_042qRVrDT4Lx_BK8JPdUH" />
+						<DocTemplateDefinition xsi:nil="true" href="UShape_Profile_Definition_042qRVrDT4Lx_BK8J$PdUH" />
 						<DocTemplateDefinition xsi:nil="true" href="ZShape_Profile_Definition_0CQihQTnrC6gOT6YAP06y6" />
 					</References>
 				</DocModelRuleEntity>

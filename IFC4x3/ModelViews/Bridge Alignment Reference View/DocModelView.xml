@@ -14,7 +14,7 @@
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Alignment Attributes" UniqueId="4dae0db5-c264-487d-a0e5-5abc6f374eb2">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Attributes_18hxpYJj7aPJTwpcwiPO" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Attributes_18hx$pYJj7aPJT$wpcwiPO" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="e5c197c2-7836-40e9-acf9-f8f530b1cebb" Type="IfcAlignment" />

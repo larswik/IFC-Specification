@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="veränderliche Linienlast" />
 		<DocLocalization Locale="en" Name="Structural Curve Action" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f8230c76-1527-4d80-9d37-835fe4140454" DefinedType="IfcStructuralLinearAction" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ProjectedOrTrue" UniqueId="de505213-6b85-43ed-83d1-cdf5251aec7b" DefinedType="IfcProjectedOrTrueLengthEnum" AttributeFlags="1">
 			<Documentation>Defines whether load values are given per true length of the curve on which they act, or per length of the projection of the curve in load direction.  The latter is only applicable to loads which act in global coordinate directions.</Documentation>

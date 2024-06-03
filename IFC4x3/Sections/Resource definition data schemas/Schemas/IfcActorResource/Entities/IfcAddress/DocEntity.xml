@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Address" />
 		<DocLocalization Locale="fr" Name="Adresse" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e703e877-8b1c-4ceb-8410-c494ec086816" DefinedType="IfcPostalAddress" />
-		<DocSubtype UniqueId="40c9139d-e6c7-4866-b4a7-2229763caa53" DefinedType="IfcTelecomAddress" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Purpose" UniqueId="6717ebb1-12ab-48aa-9124-de2c4c2117b5" DefinedType="IfcAddressTypeEnum" AttributeFlags="1">
 			<Documentation>Identifies the logical location of the address.</Documentation>

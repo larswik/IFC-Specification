@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Clearance_Geometry_0Ft2E0dl11wR3Sy1Iztvi" Name="Clearance Geometry" UniqueId="0Ft2E0dl11wR3Sy1$Iztvi" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Clearance_Geometry_0Ft2E0dl11wR3Sy1$Iztvi" Name="Clearance Geometry" UniqueId="0Ft2E0dl11wR3Sy1$Iztvi" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

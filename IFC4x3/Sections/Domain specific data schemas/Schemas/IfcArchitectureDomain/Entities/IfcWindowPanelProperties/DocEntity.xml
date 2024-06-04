@@ -26,8 +26,7 @@
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="ApplicableToType" UniqueId="8bc68e4f-7262-49d5-bcf6-2317ff8e76cf">
-			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcDoorType_.
-&gt; NOTE&amp;nbsp; The deprecated entity _IfcWindowStyle_ is applicable as well.</Documentation>
+			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcWindowType_.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
  (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>

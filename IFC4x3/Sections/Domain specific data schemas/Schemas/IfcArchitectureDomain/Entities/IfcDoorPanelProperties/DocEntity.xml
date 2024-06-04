@@ -30,12 +30,7 @@
 &gt; NOTE&amp;nbsp; The deprecated entity _IfcDoorStyle_ is applicable as well.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
-(
- (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-  OR
- (&apos;IFCARCHITECTUREDOMAIN.IFCDOORSTYLE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-)</Expression>
+(&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

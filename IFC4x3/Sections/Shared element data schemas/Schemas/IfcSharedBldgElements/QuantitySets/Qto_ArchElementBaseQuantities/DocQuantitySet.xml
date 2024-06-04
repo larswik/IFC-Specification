@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_ArchElementBaseQuantities" UniqueId="6d2ec8d1-94b7-4690-9f1a-c235943611ca" ApplicableType="IfcArchElement">
+	<Quantities>
+		<DocQuantity xsi:nil="true" href="Length_2U468iDh12lfpRdFjlDGpa" />
+		<DocQuantity xsi:nil="true" href="Volume_2CqQYjJ9j9hh6$pEk2Cym9" />
+		<DocQuantity xsi:nil="true" href="CrossSectionArea_1BWpnfBwb1k82WvJ6vFVRf" />
+		<DocQuantity xsi:nil="true" href="OuterSurfaceArea_2mAoRzZ$z88A2WGwJTVhZx" />
+		<DocQuantity xsi:nil="true" href="InnerSurfaceArea_1bO4eo9tXEOBFCON4r8KnZ" />
+	</Quantities>
+</DocQuantitySet>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_GroundReinforcmentElementTypeBolt" UniqueId="a2581f98-2789-436b-9c18-a6bf9c46b294" ApplicableType="IfcGroundReinforcementElement/(.BOLT.)" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_GroundReinforcmentElementTypeBolt" UniqueId="a2581f98-2789-436b-9c18-a6bf9c46b294" ApplicableType="IfcGroundReinforcementElement/BOLT" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="BoltCrossSection_1CDdPMxFj0bw0JOlDAhTgq" />
 		<DocProperty xsi:nil="true" href="UserDefinedBoltCrossSection_3PBwEzgljAuh8A3E6FbVJY" />

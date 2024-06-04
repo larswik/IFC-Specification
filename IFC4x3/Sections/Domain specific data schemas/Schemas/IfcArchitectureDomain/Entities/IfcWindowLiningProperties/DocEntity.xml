@@ -77,16 +77,11 @@ If the _MullionThickness_ is set to zero (and the _MullionOffset_ set to a posit
 			<Expression>NOT(NOT(EXISTS(FirstMullionOffset)) AND EXISTS(SecondMullionOffset))</Expression>
 		</DocWhereRule>
 		<DocWhereRule Name="WR34" UniqueId="ca593b0c-1be5-435b-b453-61f96e7e22e5">
-			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcDoorType_.
+			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcWindowType_.
 &gt; NOTE&amp;nbsp; The deprecated entity _IfcWindowStyle_ is applicable as well.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
-(
- (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-  OR
- (&apos;IFCARCHITECTUREDOMAIN.IFCWINDOWSTYLE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-)</Expression>
+ (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>
-

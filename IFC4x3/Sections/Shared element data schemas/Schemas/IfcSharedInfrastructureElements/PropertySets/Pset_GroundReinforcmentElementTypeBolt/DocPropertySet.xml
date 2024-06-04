@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_GroundReinforcmentElementTypeBolt" UniqueId="a2581f98-2789-436b-9c18-a6bf9c46b294" ApplicableType="IfcGroundReinforcementElement/(.BOLT.)" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="BoltCrossSection_1CDdPMxFj0bw0JOlDAhTgq" />
+		<DocProperty xsi:nil="true" href="UserDefinedBoltCrossSection_3PBwEzgljAuh8A3E6FbVJY" />
+		<DocProperty xsi:nil="true" href="BoltType_0uYUldgMH5mRcvZ37CI2wI" />
+		<DocProperty xsi:nil="true" href="UserDefinedBoltType_0cO6caU4DF3fMAqIlI6j4X" />
+		<DocProperty xsi:nil="true" href="BoltDiameter_2CtNv1HnL2lBA_fBoeeXLD" />
+		<DocProperty xsi:nil="true" href="BoltLength_1H5Z$T2YX1fu0c7_lXRSF8" />
+		<DocProperty xsi:nil="true" href="GroutingType_2gToDgdT90Pvu0v1XANdjJ" />
+		<DocProperty xsi:nil="true" href="UserDefinedGroutingType_3xklYq_Gr9_8Vj6GCEyJXC" />
+		<DocProperty xsi:nil="true" href="HoleDiameter_2GN$WQ6b1BpetO1RE7phA4" />
+		<DocProperty xsi:nil="true" href="HoleLength_29Zk0kSL57MQM5XAzKvCEW" />
+		<DocProperty xsi:nil="true" href="LongitudinalInclination_3Z$M_GmZb1svkg1noG1s2m" />
+		<DocProperty xsi:nil="true" href="RadialInclination_27paS9aKT8DPqJm_ip39qg" />
+		<DocProperty xsi:nil="true" href="MechanicalTension_0NjLrbe5v3zuECrs8qsUAO" />
+		<DocProperty xsi:nil="true" href="LockingForce_0pLtPGaujDkwK16bnNbYZE" />
+		<DocProperty xsi:nil="true" href="CorrosionTreatment_3tiPdiQHXE1RcerDmwYVRN" />
+		<DocProperty xsi:nil="true" href="Deformability_1tVYnZVTn9oBtykLWbZYCL" />
+		<DocProperty xsi:nil="true" href="MassPerLength_1bxC00qVOHuO00025QrE$V" />
+	</Properties>
+</DocPropertySet>
+

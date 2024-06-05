@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ReinforcingMeshTypeSteelStraps" UniqueId="0b8e504d-07f3-4c01-87ef-8a556bed2340" ApplicableType="IfcReinforcingMesh/(.STEELSTRAPS.)">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ReinforcingMeshTypeSteelStraps" UniqueId="0b8e504d-07f3-4c01-87ef-8a556bed2340" ApplicableType="IfcReinforcingMesh/STEELSTRAPS">
 	<Properties>
 		<DocProperty xsi:nil="true" href="CorrosionTreatment_3tiPdiQHXE1RcerDmwYVRN" />
 		<DocProperty xsi:nil="true" href="BoltType_1hXaGNY9PBI8lNN9k3njm_" />

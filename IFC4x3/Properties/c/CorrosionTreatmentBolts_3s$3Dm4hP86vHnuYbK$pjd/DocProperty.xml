@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CorrosionTreatmentBolts_3s$3Dm4hP86vHnuYbK$pjd" Name="CorrosionTreatmentBolts" UniqueId="f6fc3370-12b6-481b-9471-e22954ff3b67" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ElementComponentCorrosionTreatment" />
+</DocProperty>
+

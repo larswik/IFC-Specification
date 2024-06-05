@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ArchElementTypeSegment" UniqueId="cdfe57bd-e790-4070-96a7-b23dec9da36a" ApplicableType="IfcArchElement/(.SEGMENT.)" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ArchElementTypeSegment" UniqueId="cdfe57bd-e790-4070-96a7-b23dec9da36a" ApplicableType="IfcArchElement/SEGMENT" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="LongitudinalJointType_043Isdhjv28ObjidKJA1er" />
 		<DocProperty xsi:nil="true" href="RadialJointType_0Td7PHpJb2JQKm0I0w16ak" />

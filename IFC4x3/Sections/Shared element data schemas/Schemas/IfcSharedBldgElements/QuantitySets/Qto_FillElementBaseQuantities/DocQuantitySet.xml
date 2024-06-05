@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_FillElementBaseQuantities" UniqueId="c4fe7edd-d4bf-4d0c-bfd3-cceb5943f1ab" ApplicableType="IfcFillElement">
+	<Quantities>
+		<DocQuantity xsi:nil="true" href="Thickness_13gGAsxojB8ezD5Qa2Ffa0" />
+		<DocQuantity xsi:nil="true" href="Volume_3BTACZ5pz0q8DXhIjEk40F" />
+	</Quantities>
+</DocQuantitySet>
+

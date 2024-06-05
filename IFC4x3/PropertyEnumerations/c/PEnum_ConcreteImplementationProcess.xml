@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_ConcreteImplementationProcess" Name="PEnum_ConcreteImplementationProcess" UniqueId="41998f7f-a64f-4919-8afa-518b36c68f60">
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="CAST_304K9vWFvBH9rYfqZSTLuw" />
+		<DocPropertyConstant xsi:nil="true" href="PRECAST_2uDtoW11nD2Bm4TyYCMV_1" />
+		<DocPropertyConstant xsi:nil="true" href="SPRAYED_DRY_3zQuFIQc5D_AZg9HF7zun_" />
+		<DocPropertyConstant xsi:nil="true" href="SPRAYED_WET_1K7hY64hDBQe59hbmdY$B6" />
+		<DocPropertyConstant xsi:nil="true" href="SLIPFORMED_1EMIC6hL56iBaWAE3$42Ol" />
+		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+	</Constants>
+</DocPropertyEnumeration>
+

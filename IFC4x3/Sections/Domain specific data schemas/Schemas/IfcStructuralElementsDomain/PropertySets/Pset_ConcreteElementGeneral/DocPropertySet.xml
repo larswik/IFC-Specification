@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ConcreteElementGeneral" UniqueId="1$B4S0qSiHuO00025QrE$V" ApplicableType="IfcBeam,IfcBuildingElementProxy,IfcChimney,IfcColumn,IfcFooting,IfcMember,IfcPile,IfcPlate,IfcRailing,IfcRamp,IfcRampFlight,IfcRoof,IfcSlab,IfcStair,IfcStairFlight,IfcWall,IfcCivilElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ConcreteElementGeneral" UniqueId="1$B4S0qSiHuO00025QrE$V" ApplicableType="IfcBeam,IfcBuildingElementProxy,IfcChimney,IfcColumn,IfcFooting,IfcMember,IfcPile,IfcPlate,IfcRailing,IfcRamp,IfcRampFlight,IfcRoof,IfcSlab,IfcStair,IfcStairFlight,IfcWall,IfcCivilElement,IfcArchElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
 		<DocLocalization Locale="de">
 			<Documentation>Generelle Eigenschaften die allen Betonbauteilen, einschließlich Stahlbetonbauteilen, gemeinsam sind. Dieser Eigenschaftssatz kann den verschiedenen Bauelementklassen (Subtypen von IfcBuildingElement) zugeordnet werden.</Documentation>
@@ -23,6 +23,8 @@
 		<DocProperty xsi:nil="true" href="ConcreteCoverAtMainBars_2u$Ks0qSiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="ConcreteCoverAtLinks_2_yow0qSiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="ReinforcementStrengthClass_2uZA8bB4j05BpoYRkzMMEO" />
+		<DocProperty xsi:nil="true" href="ReinforcementType_2$OfGxKXj3x8NK_1AVp3LA" />
+		<DocProperty xsi:nil="true" href="ConcreteImplementationProcess_2bnJgJFc5FsB4AzBRHVSaK" />
 	</Properties>
 </DocPropertySet>
 

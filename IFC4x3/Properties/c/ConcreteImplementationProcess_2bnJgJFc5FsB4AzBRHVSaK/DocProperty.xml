@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConcreteImplementationProcess_2bnJgJFc5FsB4AzBRHVSaK" Name="ConcreteImplementationProcess" UniqueId="a5c53a93-3e61-4fd8-b10a-f4b6d17dc914" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ConcreteImplementationProcess" />
+</DocProperty>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ArchElementTypeSteelRib" UniqueId="7dd87e3e-4db7-483b-bbcf-de0685d2f560" ApplicableType="IfcArchElement/(.STEELRIB.)">
+	<Properties>
+		<DocProperty xsi:nil="true" href="LongitudinalSpacing_2Fqc$pMNj5C8jRJPnj8nSC" />
+		<DocProperty xsi:nil="true" href="LongitudinalConnections_1azFwlJa58zglMh9JjImfr" />
+		<DocProperty xsi:nil="true" href="FootOfArchs_2qRbpwn216hwkxu4hPpUVh" />
+		<DocProperty xsi:nil="true" href="TypeOfReticularArch_08Yo2Ip_fAMRuKPkd8Ied2" />
+		<DocProperty xsi:nil="true" href="ApertureAngle_38nOUEagv6fRIMFNX0p$i4" />
+		<DocProperty xsi:nil="true" href="BoltType_2VFVwrp3T3Sf2eWFjBM4gw" />
+		<DocProperty xsi:nil="true" href="BoltLength_3Ps1tsw9XEKf28J8SUbez5" />
+		<DocProperty xsi:nil="true" href="CorrosionTreatmentBolt_1xde67awL7Rh31mz_tzn8x" />
+	</Properties>
+</DocPropertySet>
+

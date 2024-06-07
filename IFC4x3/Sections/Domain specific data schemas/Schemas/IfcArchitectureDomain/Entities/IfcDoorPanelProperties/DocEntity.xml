@@ -26,15 +26,10 @@
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="ApplicableToType" UniqueId="1899ca1c-6aab-48aa-84c9-331108dd28eb">
-			<Documentation>The _IfcDoorPanelProperties_ shall only be used in the context of an _IfcDoorType_.
-&gt; NOTE&amp;nbsp; The deprecated entity _IfcDoorStyle_ is applicable as well.</Documentation>
+			<Documentation>The _IfcDoorPanelProperties_ shall only be used in the context of an _IfcDoorType_.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
-(
- (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-  OR
- (&apos;IFCARCHITECTUREDOMAIN.IFCDOORSTYLE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-)</Expression>
+(&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

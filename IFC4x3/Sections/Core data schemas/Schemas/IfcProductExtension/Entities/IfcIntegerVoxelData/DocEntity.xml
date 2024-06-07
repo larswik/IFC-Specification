@@ -10,9 +10,7 @@
 		<DocAttribute Name="Values" UniqueId="920a9b45-a6a2-402e-82f1-1524d8e7700b" DefinedType="IfcInteger" AggregationType="2" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
 			<Documentation>Array of integer values on voxels accessible by the same index as that of the corresponding voxel geometric representation.</Documentation>
 			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels)</Derived>
-			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcInteger_3wu0Hj__nD9vk_ZJIPfGUc" />
-			</Definition>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
+

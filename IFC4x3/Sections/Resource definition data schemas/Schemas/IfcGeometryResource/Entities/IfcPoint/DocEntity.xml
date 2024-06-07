@@ -8,10 +8,7 @@
 	<Attributes>
 		<DocAttribute Name="Dim" UniqueId="637e4d5d-3def-47a6-9dc9-b72243a5ce1e" DefinedType="IfcDimensionCount">
 			<Documentation>The space dimensionality of this abstract class, handled by a function specific for concrete subtypes. Determined by the number of coordinate components in case of IfcCartesianPoint or by the dimensionality of the basis curve or surface in other cases.</Documentation>
-			<Derived>IfcDimensionCount := IfcPointDim(SELF)</Derived>
-			<Definition>
-				<DocDefined xsi:nil="true" href="IfcDimensionCount" />
-			</Definition>
+			<Derived>IfcPointDim(SELF)</Derived>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>

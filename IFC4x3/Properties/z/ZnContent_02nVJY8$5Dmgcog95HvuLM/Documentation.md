@@ -1,1 +1,1 @@
-Content of Zink. The unit must be defined in IfcPropertySingleValue.Unit.
+Content of Zink. The unit must be defined in _'IfcPropertySingleValue_._Unit'_.

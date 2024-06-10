@@ -1,1 +1,1 @@
-Content of Manganese. The unit must be defined in IfcPropertySingleValue.Unit.
+Content of Manganese. The unit must be defined in _'IfcPropertySingleValue_._Unit'_.

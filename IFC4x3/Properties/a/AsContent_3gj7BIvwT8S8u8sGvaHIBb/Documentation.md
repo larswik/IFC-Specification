@@ -1,1 +1,1 @@
-Content of Arsenic.
+Content of Arsenic. The unit must be defined in IfcPropertySingleValue.Unit.

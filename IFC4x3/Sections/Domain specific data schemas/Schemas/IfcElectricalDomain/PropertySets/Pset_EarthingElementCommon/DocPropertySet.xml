@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_EarthingElementCommon" UniqueId="44fbb1eb-8506-48dd-96cf-cda24593ad94" ApplicableType="IfcEarthingElement">
+	<Properties>
+		<DocProperty xsi:nil="true" href="Resistivity_094s6m6Ir5CRz5by$7A4qg" />
+		<DocProperty xsi:nil="true" href="ShortCircuitCurrent_1b3j84vif64PjMUuaJihze" />
+	</Properties>
+</DocPropertySet>
+

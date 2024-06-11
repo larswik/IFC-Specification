@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ISOBAR_3IJjq8889EewanR4cGwspS" Name="ISOBAR" UniqueId="d24edd08-2082-4ea3-a931-6c4990eb6cdc">
+	<Documentation>Annotation used to illustrate lines connecting points of equal pressure on a map or chart.
+
+&gt;EXAMPLE Typically used on weather maps or to show pressure gradient in spaces, chambers or externally.</Documentation>
+</DocConstant>
+

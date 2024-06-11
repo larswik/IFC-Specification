@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Composite Curve Segment" />
 		<DocLocalization Locale="fr" Name="Segment de courbe composite" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="bd454c89-dfe6-4f2d-8a45-35be91c45588" DefinedType="IfcReparametrisedCompositeCurveSegment" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="SameSense" UniqueId="5fada968-7c27-4344-9a3a-39128e5d33e9" DefinedType="IfcBoolean">
 			<Documentation>An indicator of whether or not the sense of the segment agrees with, or opposes, that of the parent curve. If _SameSense_ is false, the point with highest parameter value is taken as the first point of the segment.

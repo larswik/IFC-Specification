@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Product Representation" />
 		<DocLocalization Locale="fr" Name="Représentation du produit" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ebcb6bd3-eefc-4fb2-9824-dd9ec519f161" DefinedType="IfcProductDefinitionShape" />
-		<DocSubtype UniqueId="f423f22c-eca2-49f8-ab59-8cb07d0507cf" DefinedType="IfcMaterialDefinitionRepresentation" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="f47b1b8e-d821-4937-b8de-911c6c320a28" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The word or group of words by which the product representation is known.</Documentation>

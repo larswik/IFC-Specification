@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Object_User_Identity_31di66dFr7AJKdxDG2D1A" Name="Object User Identity" UniqueId="31di66dFr7$AJKdxDG2D1A" Type="IfcObject">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Object_User_Identity_31di66dFr7$AJKdxDG2D1A" Name="Object User Identity" UniqueId="31di66dFr7$AJKdxDG2D1A" Type="IfcObject">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;

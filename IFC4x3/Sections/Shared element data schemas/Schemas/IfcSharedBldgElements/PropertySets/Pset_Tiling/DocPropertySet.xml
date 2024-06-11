@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_Tiling" UniqueId="e8d2765a-c7e2-408a-9256-db6a20be13ee" ApplicableType="IfcPavement,IfcCovering">
+	<Properties>
+		<DocProperty xsi:nil="true" href="Permeability_3_l1K0qSyHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TileLength_046L_0qT0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TileWidth_09Tge0qT0HuO00025QrE$V" />
+	</Properties>
+</DocPropertySet>
+

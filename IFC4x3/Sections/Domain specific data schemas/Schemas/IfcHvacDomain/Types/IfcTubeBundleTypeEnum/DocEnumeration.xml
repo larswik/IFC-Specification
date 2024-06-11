@@ -5,8 +5,8 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de faisceau tubulaire" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="FINNED_39RYOSEDAqhSZh417HXd" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_2DKfO8U2PENgHL5aNF0XZ" />
+		<DocConstant xsi:nil="true" href="FINNED_39RYO$SEDAqhSZh417$HXd" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_2DKfO8U2PENgHL5aNF0X$Z" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_0x5s9AkHTE19tpJVn71Rcz" />
 	</Constants>
 </DocEnumeration>

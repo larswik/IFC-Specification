@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Verbindet idealisierte Tragelemente - Relation" />
 		<DocLocalization Locale="en" Name="Rel Connects Structural Member" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="96510db1-4540-45bc-b384-849bafafa5a1" DefinedType="IfcRelConnectsWithEccentricity" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="RelatingStructuralMember" UniqueId="29dc8e83-1a71-402e-a494-06876f1f1bae" DefinedType="IfcStructuralMember" XsdFormat="attribute">
 			<Documentation>Reference to an instance of IfcStructuralMember (or its subclasses) which is connected to the specified structural connection.</Documentation>

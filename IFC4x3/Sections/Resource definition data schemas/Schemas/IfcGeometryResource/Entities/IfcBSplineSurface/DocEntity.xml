@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="BSpline Surface" />
 		<DocLocalization Locale="fr" Name="Surface Bspline" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="76a5109a-bbae-4595-8a27-678a2f19edd1" DefinedType="IfcBSplineSurfaceWithKnots" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="UDegree" UniqueId="fa4795fe-5b45-439d-8feb-3e45270923c0" DefinedType="IfcInteger">
 			<Documentation>Algebraic degree of basis functions in _u_.</Documentation>

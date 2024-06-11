@@ -7,18 +7,18 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="FractionRadiantHeatTransfer_2Q7Qm0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FractionConvectiveHeatTransfer_2SW0O0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Effectiveness_2Wh2E0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SurfaceTemperature_2Z3ds0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SpaceAirTemperature_2c2Mu0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SpaceMeanRadiantTemperature_2fdFK0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AuxiliaryEnergySourceConsumption_2joHA0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="UACurve_2nN9c0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="OutputCapacityCurve_2skUG0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirResistanceCurve_2vjDI0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Exponent_2zuF80qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HeatOutputRate_31T7a0qWaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="FractionRadiantHeatTransfer_2Q7Qm0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FractionConvectiveHeatTransfer_2SW0O0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Effectiveness_2Wh2E0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SurfaceTemperature_2Z3ds0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SpaceAirTemperature_2c2Mu0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SpaceMeanRadiantTemperature_2fdFK0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AuxiliaryEnergySourceConsumption_2joHA0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="UACurve_2nN9c0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="OutputCapacityCurve_2skUG0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirResistanceCurve_2vjDI0qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CharacteristicExponent_2zuF80qWaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatOutputRate_31T7a0qWaHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

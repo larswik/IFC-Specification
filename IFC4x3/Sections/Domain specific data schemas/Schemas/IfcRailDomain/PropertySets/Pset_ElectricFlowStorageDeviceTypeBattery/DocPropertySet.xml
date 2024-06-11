@@ -8,6 +8,9 @@
 		<DocProperty xsi:nil="true" href="BatteryChargingType_1gCweXW9v248GPX0vRTL$f" />
 		<DocProperty xsi:nil="true" href="EncapsulationTechnologyCode_17B_9r6_5FWwAMTe_Dht3b" />
 		<DocProperty xsi:nil="true" href="OpenCircuitVoltage_2Qhz7hntj8tvEhto7ffFga" />
+		<DocProperty xsi:nil="true" href="RechargeTime_0t1t$3NL5CXB4ArojrVPpo" />
+		<DocProperty xsi:nil="true" href="RuntimeAtFullLoad_1Wa6XnYx56p8rACT$SifuH" />
+		<DocProperty xsi:nil="true" href="MaximumShortCircuitCurrent_13Pj5R2Dr2uufzGEqODIOX" />
 	</Properties>
 </DocPropertySet>
 

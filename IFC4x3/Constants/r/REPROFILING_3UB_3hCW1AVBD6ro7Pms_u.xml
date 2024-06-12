@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="REPROFILING_3UB_3hCW1AVBD6ro7Pms_u" Name="REPROFILING" UniqueId="de2fe0eb-3200-4a7c-b346-d721d9c36fb8" />
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="REPROFILING_3UB_3hCW1AVBD6ro7Pms_u" Name="REPROFILING" UniqueId="de2fe0eb-3200-4a7c-b346-d721d9c36fb8">
+	<Documentation>Tunnel profile laterally reprofiled, as corrective measure to restore the planned profile, typically to compensate for radial deformation or inaccurate excavation.</Documentation>
+</DocConstant>
 

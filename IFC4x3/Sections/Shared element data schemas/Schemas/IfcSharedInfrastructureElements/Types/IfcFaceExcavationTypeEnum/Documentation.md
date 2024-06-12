@@ -1,1 +1,1 @@
-This enumeration defines the different predefined types (methods) for face excavation that can specify an _IfcFaceExcavation_.
+This enumeration defines the different method predefined types for face excavation that can specify an _IfcFaceExcavation_.

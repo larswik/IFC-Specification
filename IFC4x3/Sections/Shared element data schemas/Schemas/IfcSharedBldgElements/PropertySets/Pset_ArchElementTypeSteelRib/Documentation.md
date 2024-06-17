@@ -1,1 +1,1 @@
-Properties for arch elements of type STEELRIB.
+Properties for arch elements of type _STEELRIB_.

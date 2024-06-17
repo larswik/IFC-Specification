@@ -15,7 +15,7 @@
 	<WhereRules>
 		<DocWhereRule Name="HasObjectType" UniqueId="c8515ad8-d2a8-4a06-a9cb-da9c1f3be613">
 			<Documentation>The attribute ObjectType shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>NOT EXISTS(PredefinedType) OR (PredefinedType &lt;&gt; IfcVirtualElementTypeEnum.USERDEFINED) OR EXISTS(SELF\IfcObject.ObjectType);</Expression>
+			<Expression>NOT EXISTS(PredefinedType) OR (PredefinedType &lt;&gt; IfcVirtualElementTypeEnum.USERDEFINED) OR EXISTS(SELF\IfcObject.ObjectType)</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

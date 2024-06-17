@@ -1,1 +1,1 @@
-Specified if particular connector, eg. Dowell, is used.
+Specified if particular connector, e.g. dowel, is used.

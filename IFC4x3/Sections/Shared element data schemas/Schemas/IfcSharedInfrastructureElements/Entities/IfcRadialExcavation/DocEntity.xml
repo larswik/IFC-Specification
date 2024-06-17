@@ -2,9 +2,7 @@
 <DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcRadialExcavation" UniqueId="346a9b51-8391-440e-977a-daf2d8282779" BaseDefinition="IfcUndergroundExcavation" EntityFlags="32">
 	<Attributes>
 		<DocAttribute Name="PredefinedType" UniqueId="5a9641cf-f7e3-4a2d-86d3-5c28a9d326b5" DefinedType="IfcRadialExcavationTypeEnum">
-			<Definition>
-				<DocEnumeration xsi:nil="true" href="IfcRadialExcavationTypeEnum" />
-			</Definition>
+			<Documentation>A list of types to further identify the radial excavation. Some property sets may be specifically applicable to one of these types.</Documentation>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>

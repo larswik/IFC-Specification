@@ -1,1 +1,1 @@
-Specified if particular connector, eg. Guiding rod, is used.
+Specified if particular connector, e.g. guiding rod, is used.

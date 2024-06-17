@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_SegmentJointType" Name="PEnum_SegmentJointType" UniqueId="a31fee3d-97fe-4548-a339-830178e29478">
-	<Documentation>Enumeration of the different types of joints for arch segments used for rings and arches.</Documentation>
+	<Documentation>Enumeration different joint types for arch segments used for rings and arches.</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="FLAT_0UA$v62_D5rOGjxDe1TS9C" />
 		<DocPropertyConstant xsi:nil="true" href="TONGUE_GROOVE_3$cx1SJoTDuQBpEoCXtIYt" />

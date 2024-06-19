@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Swept Surface" />
 		<DocLocalization Locale="fr" Name="Surface produite par extrusion d&apos;une courbe le long d&apos;une courbe" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="1d4d3621-dbca-493b-988d-8b2a5e209a7d" DefinedType="IfcSurfaceOfRevolution" />
-		<DocSubtype UniqueId="5a5d062a-a619-4a05-ac7f-c7d3c060e57d" DefinedType="IfcSurfaceOfLinearExtrusion" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="SweptCurve" UniqueId="8b9e9fbb-a7a2-4104-90fd-d098f43dd8c8" DefinedType="IfcProfileDef" XsdFormat="attribute">
 			<Documentation>The curve to be swept in defining the surface. The curve is defined as a profile within the position coordinate system.</Documentation>

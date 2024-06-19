@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Task Time" />
 		<DocLocalization Locale="fr" Name="Propriétés temporelles de tâche" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="6b02075b-8c18-4dde-b82e-06bde6dbdfcc" DefinedType="IfcTaskTimeRecurring" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="DurationType" UniqueId="397b58b9-0e87-4f6e-aa6e-b91fae6c6a4e" DefinedType="IfcTaskDurationEnum" AttributeFlags="1">
 			<Documentation>Enables to specify the type of duration values for _ScheduleDuration_, _ActualDuration_ and _RemainingTime_. The duration type is either work time or elapsed time.</Documentation>

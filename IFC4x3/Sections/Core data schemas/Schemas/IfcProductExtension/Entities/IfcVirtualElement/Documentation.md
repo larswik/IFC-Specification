@@ -10,3 +10,5 @@ The _IfcVirtualElement_ is mainly used to define a virtual boundary between two 
 
 { .change-ifc2x3}
 > IFC2x2 CHANGE&nbsp; The entity _IfcVirtualElement_ has been added. Upward compatibility for file based exchange is guaranteed.
+
+> IFC4.3.0.0-CHANGE Virtual elements can now be used for void provisions and clearance to replace existing functionality on _IfcBuildingElementProxy_.

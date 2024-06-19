@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Property" />
 		<DocLocalization Locale="fr" Name="Propriété" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e32a11ea-5ca4-43fa-a4c3-2b856cb51bed" DefinedType="IfcComplexProperty" />
-		<DocSubtype UniqueId="13fa34e0-6a71-4ef7-ac7a-20ca058ac8e1" DefinedType="IfcSimpleProperty" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="cec40e31-025d-4bcc-ae89-09d7916a8ee6" DefinedType="IfcIdentifier">
 			<Documentation>Name for this property. This label is the significant name string that defines the semantic meaning for the property.</Documentation>

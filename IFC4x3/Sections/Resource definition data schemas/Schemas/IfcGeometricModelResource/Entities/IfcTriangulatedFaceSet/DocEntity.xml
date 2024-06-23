@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Triangulated Face Set" />
 		<DocLocalization Locale="fr" Name="Ensemble de faces triangulées" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="74245ab1-5196-4ffb-a90f-e8958fb02a2c" DefinedType="IfcTriangulatedIrregularNetwork" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Normals" UniqueId="bd591519-475e-4a73-bfa1-93aa2832af2a" DefinedType="IfcParameterValue" AttributeFlags="1" AggregationType="1" AggregationLower="1" AggregationUpper="?">
 			<Documentation>An ordered list of three directions for normals. It is a two-dimensional list of directions provided by three parameter 

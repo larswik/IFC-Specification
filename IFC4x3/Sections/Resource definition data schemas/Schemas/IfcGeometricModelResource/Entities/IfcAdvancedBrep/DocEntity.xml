@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Advanced Brep" />
 		<DocLocalization Locale="fr" Name="Représentation frontière avancée" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="b8290d32-bfd9-4143-9937-f27a7e93244c" DefinedType="IfcAdvancedBrepWithVoids" />
-	</Subtypes>
 	<WhereRules>
 		<DocWhereRule Name="HasAdvancedFaces" UniqueId="30cb2b98-e6a0-4754-befa-6449e3a3fcca">
 			<Documentation>Each face of the advanced B-rep shall be of type _IfcAdvancedFace_.</Documentation>

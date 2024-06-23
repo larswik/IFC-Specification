@@ -29,7 +29,7 @@
 												<DocModelRuleEntity Name="IfcSweptAreaSolid">
 													<References>
 														<DocTemplateDefinition xsi:nil="true" href="Extruded_Area_CompositeCurve_Profile_0jBaLixr5DIPKOfJ5zpCyU" />
-														<DocTemplateDefinition xsi:nil="true" href="Revolved_Area_CompositeCurve_Profile_3_6DGd0591OX2MpMjZYJa" />
+														<DocTemplateDefinition xsi:nil="true" href="Revolved_Area_CompositeCurve_Profile_3_6$DGd0591OX2MpMjZYJa" />
 													</References>
 												</DocModelRuleEntity>
 											</Rules>

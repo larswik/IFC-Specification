@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Construction Material Resource Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossVolume_30poMMOJL2rB0xyTEd8wz" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_30poMMOJL2rB0$xyTEd8wz" />
 		<DocQuantity xsi:nil="true" href="NetVolume_3EY5xLcu9FDhkztmU94ZsX" />
 		<DocQuantity xsi:nil="true" href="GrossWeight_1JO2FNSBD94wMmbjBm7Ry1" />
-		<DocQuantity xsi:nil="true" href="NetWeight_0CV4Oktb2yfPHSeCZVAcP" />
+		<DocQuantity xsi:nil="true" href="NetWeight_0$CV4Oktb2yfPHSeCZVAcP" />
 	</Quantities>
 </DocQuantitySet>
 

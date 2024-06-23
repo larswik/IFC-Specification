@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Surface Style Shading" />
 		<DocLocalization Locale="fr" Name="Style d&apos;ombrage de surface" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="87fdddd6-30e5-46ee-a991-07c5ce5f9db2" DefinedType="IfcSurfaceStyleRendering" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="SurfaceColour" UniqueId="a2fe2d3a-9a84-4326-9016-dae00e0d0af9" DefinedType="IfcColourRgb" XsdFormat="attribute">
 			<Documentation>The colour used to render the surface. The surface colour for visualisation is defined by specifying the intensity of red, green and blue.</Documentation>

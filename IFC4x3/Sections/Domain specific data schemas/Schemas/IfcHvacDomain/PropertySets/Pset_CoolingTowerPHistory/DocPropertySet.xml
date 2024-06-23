@@ -4,11 +4,11 @@
 		<DocLocalization Locale="en" Name="Cooling Tower PHistory" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Capacity_1Akee0qSyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HeatTransferCoefficient_1DjNg0qSyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SumpHeaterPower_1Gi6i0qSyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="UACurve_1KG80qSyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Performance_1Nrta0qSyHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Capacity_1Akee0qSyHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatTransferCoefficient_1DjNg0qSyHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SumpHeaterPower_1Gi6i0qSyHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="UACurve_1KG$80qSyHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Performance_1Nrta0qSyHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

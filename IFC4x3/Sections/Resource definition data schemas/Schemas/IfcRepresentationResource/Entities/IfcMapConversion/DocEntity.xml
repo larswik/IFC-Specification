@@ -45,7 +45,7 @@ _XAxisAbscissa_ it provides the direction of the local x axis within the horizon
 			<Documentation>Both XAxisAbscissa and XAxisOrdinate must not be zero.</Documentation>
 			<Expression>(NOT EXISTS(XAxisAbscissa) AND NOT EXISTS(XAxisOrdinate)) OR
 (NOT EXISTS(XAxisAbscissa) AND XAxisOrdinate &lt;&gt; 0.0) OR
-(NOT EXISTS(XAxisOrdinate) AND XAxisAbscissa &lt;&gt; 0.0)
+(NOT EXISTS(XAxisOrdinate) AND XAxisAbscissa &lt;&gt; 0.0) OR
 (EXISTS(XAxisAbscissa) AND EXISTS(XAxisOrdinate) AND NOT (XAxisAbscissa = 0.0 AND XAxisOrdinate = 0.0))</Expression>
 		</DocWhereRule>
 	</WhereRules>

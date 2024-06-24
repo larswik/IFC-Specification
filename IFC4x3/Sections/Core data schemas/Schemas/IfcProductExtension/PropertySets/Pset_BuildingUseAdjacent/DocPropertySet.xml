@@ -7,10 +7,10 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="MarketCategory_0BEt00qSOHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MarketSubCategory_0GcBg0qSOHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="PlanningControlStatus_0MZfk0qSOHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NarrativeText_0SX7o0qSOHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="MarketCategory_0BEt00qSOHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MarketSubCategory_0GcBg0qSOHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="PlanningControlStatus_0MZfk0qSOHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NarrativeText_0SX7o0qSOHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

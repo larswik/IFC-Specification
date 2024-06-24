@@ -5,14 +5,6 @@
 		<DocLocalization Locale="en" Name="Construction Resource" />
 		<DocLocalization Locale="fr" Name="Ressource de construction" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f154a2f3-27e1-4dd1-bb1d-1a86812b3789" DefinedType="IfcConstructionEquipmentResource" />
-		<DocSubtype UniqueId="c848aa3f-18fc-4047-9462-dbcded9fc6d6" DefinedType="IfcLaborResource" />
-		<DocSubtype UniqueId="6a71a810-8698-4e0d-8aa8-dcff4de74d19" DefinedType="IfcCrewResource" />
-		<DocSubtype UniqueId="ee220085-8287-41f8-9370-149bc64cffa0" DefinedType="IfcSubContractResource" />
-		<DocSubtype UniqueId="c52681ba-dad2-484d-93f1-fb2fec3fb0d7" DefinedType="IfcConstructionProductResource" />
-		<DocSubtype UniqueId="1a49d58f-f445-4289-9ce8-34bbc0dbefe6" DefinedType="IfcConstructionMaterialResource" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Usage" UniqueId="a310105d-c221-4f71-b051-9391d731cec8" DefinedType="IfcResourceTime" AttributeFlags="1" XsdFormat="attribute">
 			<Documentation>Indicates the work, usage, and times scheduled and completed.  Some attributes on this object may have associated constraints or time series; see documentation of _IfcResourceTime_ for specific usage.  If the resource is nested, then certain values may be calculated based on the component resources as indicated at _IfcResourceTime_.

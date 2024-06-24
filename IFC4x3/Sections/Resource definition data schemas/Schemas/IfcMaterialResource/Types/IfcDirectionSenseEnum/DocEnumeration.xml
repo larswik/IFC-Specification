@@ -5,8 +5,8 @@
 		<DocLocalization Locale="fr" Name="Enumération des sens de direction" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="POSITIVE_1EOUy5dj1ThM_F_jmNSu0" />
-		<DocConstant xsi:nil="true" href="NEGATIVE_06tbyOQAb5mfRowgfZjwF" />
+		<DocConstant xsi:nil="true" href="POSITIVE_1$EOUy5dj1ThM_F_jmNSu0" />
+		<DocConstant xsi:nil="true" href="NEGATIVE_06tbyOQAb5mfRowgfZjw$F" />
 	</Constants>
 </DocEnumeration>
 

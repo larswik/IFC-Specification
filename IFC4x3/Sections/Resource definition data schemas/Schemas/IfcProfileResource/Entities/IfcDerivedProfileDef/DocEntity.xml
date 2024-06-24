@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Derived Profile Def" />
 		<DocLocalization Locale="fr" Name="Définition d&apos;un profil dérivé" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="8baec99e-1606-4114-b85e-74ed5cf3ec48" DefinedType="IfcMirroredProfileDef" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ParentProfile" UniqueId="a965069b-b250-483b-bca0-761cd8940d02" DefinedType="IfcProfileDef" XsdFormat="attribute">
 			<Documentation>The parent profile provides the origin of the transformation.</Documentation>

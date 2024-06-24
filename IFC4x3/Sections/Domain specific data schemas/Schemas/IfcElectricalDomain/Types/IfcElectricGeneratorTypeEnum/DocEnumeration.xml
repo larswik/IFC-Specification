@@ -5,11 +5,11 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de générateur électrique" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="CHP_0RnoL1oH0ouVGEGyNLJs" />
-		<DocConstant xsi:nil="true" href="ENGINEGENERATOR_06NT5JR3r09AbIWSGmqOH" />
+		<DocConstant xsi:nil="true" href="CHP_0R$noL1oH0ouVGE$GyNLJs" />
+		<DocConstant xsi:nil="true" href="ENGINEGENERATOR_06NT5JR3r0$9AbIWSGmqOH" />
 		<DocConstant xsi:nil="true" href="STANDALONE_0uFI_Tzt52lghsuVqcxw4R" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_0KBpqAB291i8HnjBCnVtaV" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

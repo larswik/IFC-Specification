@@ -18,7 +18,7 @@
 &gt; NOTE&amp;nbsp; for right-handed Cartesian coordinate systems this would establish the location along the z axis</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="XAxisAbscissa" UniqueId="fd51ced1-8bfd-4463-8c2d-da83ec682068" DefinedType="IfcReal" AttributeFlags="1">
-			<Documentation>Specifies the value along the easing axis of the end point of a vector indicating the position of the local x axis of the engineering coordinate reference system.
+			<Documentation>Specifies the value along the easting axis of the end point of a vector indicating the position of the local x axis of the engineering coordinate reference system.
 &gt; NOTE&amp;nbsp;1 for right-handed Cartesian coordinate systems this would establish the location along the x axis
 
 &gt; NOTE&amp;nbsp;2 together with the _XAxisOrdinate_ it provides the direction of the local x axis within the horizontal plane of the map coordinate system</Documentation>
@@ -40,6 +40,13 @@ _XAxisAbscissa_ it provides the direction of the local x axis within the horizon
 		<DocWhereRule Name="OnlyProjectedCRS" UniqueId="ac9fb308-c18a-436f-8ec4-d0591f1dca67">
 			<Documentation>_IfcCoordinateOperation_.TargetCRS is of type _IfcGeographicCRS_.</Documentation>
 			<Expression>&apos;IFCREPRESENTATIONRESOURCE.IFCPROJECTEDCRS&apos; IN TYPEOF(SELF\IfcCoordinateOperation.TargetCRS)</Expression>
+		</DocWhereRule>
+		<DocWhereRule Name="ValidXAxis" UniqueId="2b89ce8e-2a54-49b6-90e6-f9d6aa60b284">
+			<Documentation>Both XAxisAbscissa and XAxisOrdinate must not be zero.</Documentation>
+			<Expression>(NOT EXISTS(XAxisAbscissa) AND NOT EXISTS(XAxisOrdinate)) OR
+(NOT EXISTS(XAxisAbscissa) AND XAxisOrdinate &lt;&gt; 0.0) OR
+(NOT EXISTS(XAxisOrdinate) AND XAxisAbscissa &lt;&gt; 0.0)
+(EXISTS(XAxisAbscissa) AND EXISTS(XAxisOrdinate) AND NOT (XAxisAbscissa = 0.0 AND XAxisOrdinate = 0.0))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

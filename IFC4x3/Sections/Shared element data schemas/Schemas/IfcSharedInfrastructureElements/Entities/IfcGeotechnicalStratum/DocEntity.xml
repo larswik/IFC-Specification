@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcGeotechnicalStratum" UniqueId="faefb134-3800-4995-b222-b921d7e287bf" BaseDefinition="IfcGeotechnicalElement" EntityFlags="32">
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="49282b29-5083-4b1e-8140-4159b6f74092" DefinedType="IfcGeotechnicalStratumTypeEnum">
+		<DocAttribute Name="PredefinedType" UniqueId="49282b29-5083-4b1e-8140-4159b6f74092" DefinedType="IfcGeotechnicalStratumTypeEnum" AttributeFlags="1">
 			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
 
 &gt; NOTE If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
@@ -11,11 +11,11 @@
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="HasObjectType" UniqueId="99920485-44df-4488-afd0-9f0d0fe49b18">
-			<Documentation>Either the _PredefinedType_ attribute is unset or the attribute ObjectType shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>(PredefinedType &lt;&gt; IfcGeotechnicalStratumTypeEnum.USERDEFINED) OR 
-
-				EXISTS(SELF\IfcObject.ObjectType)</Expression>
+		<DocWhereRule Name="CorrectPredefinedType" UniqueId="99920485-44df-4488-afd0-9f0d0fe49b18">
+			<Documentation></Documentation>
+			<Expression>NOT(EXISTS(PredefinedType)) OR
+  (PredefinedType &lt;&gt; IfcGeotechnicalStratumTypeEnum.USERDEFINED) OR
+  ((PredefinedType = IfcGeotechnicalStratumTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcObject.ObjectType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

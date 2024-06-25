@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcFacilityPartCommon" UniqueId="7cdf39c9-eebf-4575-a208-dfab7b52147c" BaseDefinition="IfcFacilityPart" EntityFlags="32">
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="e01c890f-0104-4d79-9760-3a9519663b57" DefinedType="IfcFacilityPartCommonTypeEnum">
-			<Documentation>Type further identify the object. Some property sets may be specifically applicable to one of these types.</Documentation>
+		<DocAttribute Name="PredefinedType" UniqueId="e01c890f-0104-4d79-9760-3a9519663b57" DefinedType="IfcFacilityPartCommonTypeEnum" AttributeFlags="1">
+			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
+
+&gt;NOTE&amp;nbsp; If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
 			<Definition>
 				<DocEnumeration xsi:nil="true" href="IfcFacilityPartCommonTypeEnum" />
 			</Definition>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="HasObjectType" UniqueId="9081daab-b97e-4aaa-a5c7-d73055b91909">
-			<Documentation>The attribute _ObjectType_ shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>(PredefinedType &lt;&gt; IfcFacilityPartCommonTypeEnum.USERDEFINED) OR 
-
-EXISTS(SELF\IfcObject.ObjectType)</Expression>
+		<DocWhereRule Name="CorrectPredefinedType" UniqueId="9081daab-b97e-4aaa-a5c7-d73055b91909">
+			<Documentation>Either _PredefinedType_ is unset or the inherited attribute _ObjectType_ shall be provided, if the _PredefinedType_ is set to USERDEFINED or _PredefinedType_.</Documentation>
+			<Expression>NOT(EXISTS(PredefinedType)) OR
+  (PredefinedType &lt;&gt; IfcFacilityPartCommonTypeEnum.USERDEFINED) OR
+  ((PredefinedType = IfcFacilityPartCommonTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcObject.ObjectType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

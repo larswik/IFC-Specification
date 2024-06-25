@@ -5,10 +5,10 @@
 			<Documentation>Size of voxels in the X axis.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="VoxelSizeY" UniqueId="781db54c-ab64-4392-afd7-7d327e4f106a" DefinedType="IfcNonNegativeLengthMeasure">
-			<Documentation>Size of voxels in the Y axis. If not given, the value from _VoxelSizeX_ shall be taken.</Documentation>
+			<Documentation>Size of voxels in the Y axis.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="VoxelSizeZ" UniqueId="946806c3-1ace-4539-b0a5-5c2d882b98c8" DefinedType="IfcNonNegativeLengthMeasure">
-			<Documentation>Size of voxels in the Z axis. If not given, the value from _VoxelSizeX_ shall be taken.</Documentation>
+			<Documentation>Size of voxels in the Z axis.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="NumberOfVoxelsX" UniqueId="1062135e-7018-4ec4-9ef7-3ca487268280" DefinedType="IfcPositiveInteger">
 			<Documentation>Number of voxels along the X axis.</Documentation>

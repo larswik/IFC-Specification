@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HEXAGONAL_2Jr9$rap1CU8tgt$57FRl1" Name="HEXAGONAL" UniqueId="93d49ff5-9330-4c78-8dea-dff1473dbbc1" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HEXAGONAL_2Jr9$rap1CU8tgt$57FRl1" Name="HEXAGONAL" UniqueId="93d49ff5-9330-4c78-8dea-dff1473dbbc1">
+	<Documentation>Ring segment of type Hexagonal.</Documentation>
+</DocPropertyConstant>
 

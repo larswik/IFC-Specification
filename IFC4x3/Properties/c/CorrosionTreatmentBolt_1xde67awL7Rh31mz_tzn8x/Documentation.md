@@ -1,1 +1,1 @@
-Reuse CorrosionTreatmentBolt from #827.
+Specifies the corrosion treatment for the bolts.

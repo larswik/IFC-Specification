@@ -6,9 +6,10 @@
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="HasObjectType" UniqueId="e533e402-9d57-4728-be40-35448bd6e3d8">
+		<DocWhereRule Name="CorrectPredefinedType" UniqueId="e533e402-9d57-4728-be40-35448bd6e3d8">
 			<Documentation>The attribute ObjectType shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>(PredefinedType &lt;&gt; IfcImprovedGroundTypeEnum.USERDEFINED) OR EXISTS(SELF\IfcObject.ObjectType)</Expression>
+			<Expression>(PredefinedType &lt;&gt; IfcImprovedGroundTypeEnum.USERDEFINED) OR
+ ((PredefinedType = IfcImprovedGroundTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcObject.ObjectType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

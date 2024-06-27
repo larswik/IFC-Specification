@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_GroutingType" Name="PEnum_GroutingType" UniqueId="f1177ee1-379f-47ac-884b-daa3c4037125">
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="STDGROUTING_CEMENT_2kAtRNtPzAGuvRUx$m00Ut" />
+		<DocPropertyConstant xsi:nil="true" href="MICROFINE_CEMENT_0q7EBbumLEzxHkSNTzYeSX" />
+		<DocPropertyConstant xsi:nil="true" href="ULTRAFINE_CEMENT_3ZeYyajqf49enADIxCaO_r" />
+		<DocPropertyConstant xsi:nil="true" href="CHEMICAL_COMPONENT_2wTdLDoQX4lRKvsoJ3JeZX" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
+		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
+	</Constants>
+</DocPropertyEnumeration>
+

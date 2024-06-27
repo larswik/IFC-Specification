@@ -7,12 +7,10 @@
 		<DocAttribute Name="Unit" UniqueId="5db08de1-7f00-4e8e-bc9a-4805251143e8" DefinedType="IfcUnit" AttributeFlags="1">
 			<Documentation>An optional unit for the vector values that overrides the default Magnitude IfcLengthMeasure.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="Values" UniqueId="874f0372-758d-4610-a189-d8033d444f27" DefinedType="IfcVector" AggregationType="2" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
+		<DocAttribute Name="Values" UniqueId="874f0372-758d-4610-a189-d8033d444f27" DefinedType="IfcVector" AggregationType="2" AggregationFlag="1" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
 			<Documentation>Array of vector values on voxels accessible by the same index as that of the corresponding voxel geometric representation.</Documentation>
 			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels)</Derived>
-			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcVector_3Ey4qKnPr2quKacLvnAek3" />
-			</Definition>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
+

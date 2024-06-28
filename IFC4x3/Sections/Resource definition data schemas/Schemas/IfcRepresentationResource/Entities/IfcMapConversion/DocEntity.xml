@@ -37,7 +37,7 @@ _XAxisAbscissa_ it provides the direction of the local x axis within the horizon
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="OnlyProjectedCRS" UniqueId="ac9fb308-c18a-436f-8ec4-d0591f1dca67">
+		<DocWhereRule Name="TargetCRSProjected" UniqueId="ac9fb308-c18a-436f-8ec4-d0591f1dca67">
 			<Documentation>_IfcCoordinateOperation_.TargetCRS is of type _IfcGeographicCRS_.</Documentation>
 			<Expression>&apos;IFCREPRESENTATIONRESOURCE.IFCPROJECTEDCRS&apos; IN TYPEOF(SELF\IfcCoordinateOperation.TargetCRS)</Expression>
 		</DocWhereRule>
@@ -46,7 +46,7 @@ _XAxisAbscissa_ it provides the direction of the local x axis within the horizon
 			<Expression>(NOT EXISTS(XAxisAbscissa) AND NOT EXISTS(XAxisOrdinate)) OR
 (NOT EXISTS(XAxisAbscissa) AND XAxisOrdinate &lt;&gt; 0.0) OR
 (NOT EXISTS(XAxisOrdinate) AND XAxisAbscissa &lt;&gt; 0.0) OR
-(EXISTS(XAxisAbscissa) AND EXISTS(XAxisOrdinate) AND NOT (XAxisAbscissa = 0.0 AND XAxisOrdinate = 0.0))</Expression>
+(EXISTS(XAxisAbscissa) AND EXISTS(XAxisOrdinate) AND NOT ((XAxisAbscissa = 0.0) AND (XAxisOrdinate = 0.0)))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

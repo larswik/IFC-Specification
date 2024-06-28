@@ -14,7 +14,7 @@
 			<Documentation>A linear placement is always relative to a local placement which sets the georeferencing context i. e. provide the indirect reference to _IfcProject_ with assigned Project Global Positioning.
 
 &gt; HISTORY: New in IFC4.4.</Documentation>
-			<Expression>EXISTS(IfcObjectPlacement\PlacementRelTo) AND (&apos;IFCGEOMETRICCONSTRAINTRESOURCE.IFCLOCALPLACEMENT&apos; IN TYPEOF(IfcObjectPlacement\PlacementRelTo))</Expression>
+			<Expression>EXISTS(SELF\IfcObjectPlacement.PlacementRelTo) AND (&apos;IFCGEOMETRICCONSTRAINTRESOURCE.IFCLOCALPLACEMENT&apos; IN TYPEOF(SELF\IfcObjectPlacement.PlacementRelTo))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

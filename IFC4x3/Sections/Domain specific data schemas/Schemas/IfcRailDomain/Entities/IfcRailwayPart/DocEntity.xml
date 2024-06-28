@@ -5,9 +5,6 @@
 			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
 
 &gt;NOTE&amp;nbsp; If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
-			<Definition>
-				<DocEnumeration xsi:nil="true" href="IfcRailwayPartTypeEnum" />
-			</Definition>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcVoxelGrid" UniqueId="c0c89e7e-f8f9-4156-aa6b-c7d8f7e9b4f3" BaseDefinition="IfcSolidModel" EntityFlags="32">
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcVoxelGrid" UniqueId="c0c89e7e-f8f9-4156-aa6b-c7d8f7e9b4f3" BaseDefinition="IfcTessellatedItem" EntityFlags="32">
 	<Attributes>
 		<DocAttribute Name="VoxelSizeX" UniqueId="ceb76c5f-caa2-4d51-98ab-52b1142cb762" DefinedType="IfcNonNegativeLengthMeasure">
 			<Documentation>Size of voxels in the X axis.</Documentation>

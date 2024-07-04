@@ -1,1 +1,1 @@
-The pressure of  fluid.
+The pressure of fluid.

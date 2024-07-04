@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IfcWellKnownText" Name="IfcWellKnownText" UniqueId="49ee1879-3058-4d35-a8f4-8f48cf72015b" EntityFlags="32">
+	<Attributes>
+		<DocAttribute Name="WellKnownText" UniqueId="da204cd8-a8e5-4c54-933d-184ca2b7149c" DefinedType="IfcWellKnownTextLiteral">
+			<Documentation>The WKT literal this entity encapsulates.</Documentation>
+			<Definition>
+				<DocDefined xsi:nil="true" href="IfcWellKnownTextLiteral" />
+			</Definition>
+		</DocAttribute>
+		<DocAttribute Name="CoordinateReferenceSystem" UniqueId="115ec500-8fb5-4284-929a-e7fc08f11b09" DefinedType="IfcCoordinateReferenceSystem">
+			<Documentation>The _IfcCoordinateReferenceSystem_ for which this the WKT definition is provided.</Documentation>
+			<Definition>
+				<DocEntity xsi:nil="true" href="IfcCoordinateReferenceSystem" />
+			</Definition>
+		</DocAttribute>
+	</Attributes>
+</DocEntity>
+

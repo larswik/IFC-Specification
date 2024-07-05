@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SupportCommon" UniqueId="0319f2a1-60e1-4deb-996e-9bf765c4343f" ApplicableType="IfcBuiltSystem/TUNNEL_SUPPORT,IfcTunnelTypicalSection/EXCAVATIONSUPPORT" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="NumberOfBolts_0mWUnJjvz5Fw1qK0NbSRYD" />
+		<DocProperty xsi:nil="true" href="GroutingType_2gToDgdT90Pvu0v1XANdjJ" />
+		<DocProperty xsi:nil="true" href="UserDefinedGroutingType_3xklYq_Gr9_8Vj6GCEyJXC" />
+		<DocProperty xsi:nil="true" href="PlateType_1k0KQdYJT4WhtMu_7lyRTR" />
+		<DocProperty xsi:nil="true" href="Arrangement_2knBvrIPHFUBYQTIun1d_A" />
+		<DocProperty xsi:nil="true" href="LongitudinalSpacing_0dbSQlDqf0gx1Y4PXUaaxd" />
+		<DocProperty xsi:nil="true" href="RadialSpacing_3IFLBXGmnEuu5$jXs$lG3v" />
+		<DocProperty xsi:nil="true" href="HorizontalSpacing_1UHNsaYer7lfpt1uCNQwnz" />
+		<DocProperty xsi:nil="true" href="VerticalSpacing_0bD2dVmzLCt9$vqBHrS5Ib" />
+	</Properties>
+</DocPropertySet>
+

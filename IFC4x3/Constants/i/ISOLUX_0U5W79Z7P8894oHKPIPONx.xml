@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ISOLUX_0U5W79Z7P8894oHKPIPONx" Name="ISOLUX" UniqueId="1e1601c9-8c76-4820-9132-4546526585fb">
+	<Documentation>Annotation used to illustrate lines connecting points of equal illuminance or light intensity.
+
+&gt;EXAMPLE Typically used in lighting design or photometry to show the distribution of illumination levels and/or day lighting in a space or externally.</Documentation>
+</DocConstant>
+

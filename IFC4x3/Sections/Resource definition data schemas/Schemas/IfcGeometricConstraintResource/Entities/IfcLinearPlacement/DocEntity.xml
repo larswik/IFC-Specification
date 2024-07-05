@@ -9,5 +9,13 @@
 			<Documentation></Documentation>
 		</DocAttribute>
 	</Attributes>
+	<WhereRules>
+		<DocWhereRule Name="CorrectLinearPlacement" UniqueId="6442fccf-a367-4536-8a14-bf136804948d">
+			<Documentation>A linear placement is always relative to a local placement which sets the georeferencing context i. e. provide the indirect reference to _IfcProject_ with assigned Project Global Positioning.
+
+&gt; HISTORY: New in IFC4.4.</Documentation>
+			<Expression>EXISTS(SELF\IfcObjectPlacement.PlacementRelTo) AND (&apos;IFCGEOMETRICCONSTRAINTRESOURCE.IFCLOCALPLACEMENT&apos; IN TYPEOF(SELF\IfcObjectPlacement.PlacementRelTo))</Expression>
+		</DocWhereRule>
+	</WhereRules>
 </DocEntity>
 

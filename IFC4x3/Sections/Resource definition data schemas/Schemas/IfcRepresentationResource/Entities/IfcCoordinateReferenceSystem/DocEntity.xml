@@ -6,7 +6,7 @@
 		<DocLocalization Locale="fr" Name="Système de coordonnées de référence" />
 	</Localization>
 	<Attributes>
-		<DocAttribute Name="Name" UniqueId="c63d80a5-78a4-45e3-bf15-d9302cdb83f2" DefinedType="IfcLabel">
+		<DocAttribute Name="Name" UniqueId="c63d80a5-78a4-45e3-bf15-d9302cdb83f2" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>Name by which the coordinate reference system is identified.
 &gt; NOTE 1&amp;nbsp; The name shall be taken from the list recognized by the European Petroleum Survey Group EPSG. It should then be qualified by the EPSG name space, for example as &apos;EPSG:5555&apos;.
 { .extDef}

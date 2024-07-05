@@ -6,7 +6,11 @@
 		<DocLocalization Locale="fr" Name="Mobilier" />
 	</Localization>
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="ffe18e42-a9d5-4e8f-984d-86632f76b530" DefinedType="IfcFurnitureTypeEnum" AttributeFlags="1" />
+		<DocAttribute Name="PredefinedType" UniqueId="ffe18e42-a9d5-4e8f-984d-86632f76b530" DefinedType="IfcFurnitureTypeEnum" AttributeFlags="1">
+			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
+
+&gt;NOTE&amp;nbsp; If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
+		</DocAttribute>
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="CorrectPredefinedType" UniqueId="65e1e5c7-ede5-42e5-81f9-fe599a7064de">

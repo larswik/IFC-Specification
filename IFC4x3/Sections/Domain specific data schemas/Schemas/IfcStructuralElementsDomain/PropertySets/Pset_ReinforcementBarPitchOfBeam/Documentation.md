@@ -1,1 +1,1 @@
-The pitch length information of reinforcement  bar with the beam.
+The pitch length information of reinforcement bar with the beam.

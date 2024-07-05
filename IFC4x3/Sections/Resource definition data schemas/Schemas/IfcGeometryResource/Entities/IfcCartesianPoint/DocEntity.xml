@@ -9,10 +9,6 @@
 		<DocAttribute Name="Coordinates" UniqueId="4a8b21fa-0aa6-4d2a-b0ce-55d5777e3b0f" DefinedType="IfcLengthMeasure" AggregationType="1" AggregationLower="1" AggregationUpper="3">
 			<Documentation>The first, second, and third coordinate of the point location. If placed in a two or three dimensional rectangular Cartesian coordinate system, Coordinates[1] is the X coordinate, Coordinates[2] is the Y coordinate, and Coordinates[3] is the Z coordinate.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="Dim" UniqueId="c2afcb8b-ad08-4d95-85a2-a02e4d8a7167" DefinedType="IfcDimensionCount">
-			<Documentation>The space dimensionality of this class, determined by the number of coordinates in the List of Coordinates.</Documentation>
-			<Derived>HIINDEX(Coordinates)</Derived>
-		</DocAttribute>
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="CP2Dor3D" UniqueId="f356a020-47e4-4f2c-9fc7-c2f7c060caab">

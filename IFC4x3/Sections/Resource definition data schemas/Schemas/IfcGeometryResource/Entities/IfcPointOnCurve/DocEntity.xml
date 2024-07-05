@@ -12,10 +12,6 @@
 		<DocAttribute Name="PointParameter" UniqueId="5ee320ad-16c4-44d7-a272-c4c6f7d2deb2" DefinedType="IfcParameterValue">
 			<Documentation>The parameter value of the point location.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="Dim" UniqueId="46656360-14de-4bbe-ac9f-e3771d59a218" DefinedType="IfcDimensionCount">
-			<Documentation>The space dimensionality of this class, determined by the space dimensionality of the basis curve.</Documentation>
-			<Derived>BasisCurve.Dim</Derived>
-		</DocAttribute>
 	</Attributes>
 </DocEntity>
 

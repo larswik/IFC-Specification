@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Property Set Definition" />
 		<DocLocalization Locale="fr" Name="Définition d&apos;ensemble de propriété" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ac371977-a633-4911-8ef3-5fd156b7fb59" DefinedType="IfcPropertySet" />
-		<DocSubtype UniqueId="9f5ecc6a-0cee-4f85-8682-7d9ea83e3d4b" DefinedType="IfcPreDefinedPropertySet" />
-		<DocSubtype UniqueId="8babff16-3204-41fc-8852-07e8bedbfec2" DefinedType="IfcQuantitySet" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="DefinesType" UniqueId="5aee7ab3-dcb7-4abe-8fa5-d2b2f2c37083" DefinedType="IfcTypeObject" AggregationType="3" Inverse="HasPropertySets">
 			<Documentation>The type object to which the property set is assigned. The property set acts as a shared property set to all occurrences of the type object.

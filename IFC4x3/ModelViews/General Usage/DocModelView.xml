@@ -9165,7 +9165,7 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="c7ad266e-1918-4f78-b6a7-7c889a92e44f" Type="IfcObject" />
 		</DocConceptRoot>
-				<DocConceptRoot UniqueId="f26454ea-55a9-4d8f-a2a0-ab8a5561112d">
+		<DocConceptRoot UniqueId="f26454ea-55a9-4d8f-a2a0-ab8a5561112d">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcObjectDefinition" />
 			<Concepts>
 				<DocTemplateUsage Name="Classification Association" UniqueId="dcfad64e-cedb-4766-b609-cfe82ae3ae44">
@@ -14322,7 +14322,7 @@ A top-level task is declared within the _IfcProject_ using the _IfcRelDeclares_ 
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7eecb932-2b46-48ca-a42f-48c3aa508847" Type="IfcTendon" />
 		</DocConceptRoot>
-				<DocConceptRoot UniqueId="1HHBUDWXDA$9J6RdO8r3dF">
+		<DocConceptRoot UniqueId="1HHBUDWXDA$9J6RdO8r3dF">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcTendonAnchor" />
 			<Concepts>
 				<DocTemplateUsage Name="Object Typing" UniqueId="0tWD1X6NjFdRZQaFfuhxxr">

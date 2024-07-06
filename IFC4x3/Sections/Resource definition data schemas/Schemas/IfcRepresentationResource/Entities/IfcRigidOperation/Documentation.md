@@ -3,4 +3,3 @@ A rigid operation specifies an offset in the coordinate reference system. It doe
 >EXAMPLE If data is in truncated map coordinates (i.e., the map coordinates have the leading digits removed in x and y), then IfcRigidOperation simply translates the data in x and y to replace the ignored leading digits. This is also known as subtraction.
 
 >HISTORY New entity in IFC4X3_ADD1
-

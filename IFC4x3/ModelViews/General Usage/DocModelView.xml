@@ -8591,6 +8591,18 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="d3ea7113-50b5-4900-8450-14b3adc12a4d" Type="IfcLightFixture" />
 		</DocConceptRoot>
+		<DocConceptRoot UniqueId="ae2cc3c0-f317-43f8-b511-81a634bf06c3">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcLinearZone" />
+			<Concepts>
+				<DocTemplateUsage Name="Product Span Positioning" UniqueId="9bf4280c-10ed-422e-a8d3-1db9341463c5">
+					<Documentation>An _IfcLinearZone_ shall be defined using product span positioning, i.e. spanning a longitudinal subsection of an alignment.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Span_Positioning_0StAgVXTL2pvgl3zPZiKxe" />
+					<Items>
+						<DocTemplateItem UniqueId="6c33dda6-aaf2-4858-88ed-aea34d884bb4" />
+					</Items>
+				</DocTemplateUsage>
+			</Concepts>
+		</DocConceptRoot>
 		<DocConceptRoot UniqueId="273c1b6b-c95d-4551-bf2e-264a167469dc">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcMaterial" />
 			<Concepts>

@@ -4,8 +4,8 @@
 		<DocLocalization Locale="en" Name="Damper Type Control Damper" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="TorqueRange_2ZYo80qT4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ControlDamperOperation_2g6Pc0qT4HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="TorqueRange_2ZYo80qT4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ControlDamperOperation_2g6Pc0qT4HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

@@ -3,9 +3,9 @@
 	<Documentation>Terms to describe weathering/alteration of rock.
 &gt;NOTE Definition according to ISO 14689:2017, Table 3.</Documentation>
 	<Constants>
-		<DocPropertyConstant xsi:nil="true" href="FRESH_1zp9L2aZHEYACHzoiD9eS" />
-		<DocPropertyConstant xsi:nil="true" href="DISCOLOURED_2oEWbvEbD1w5KffhZUsUX" />
-		<DocPropertyConstant xsi:nil="true" href="DISINTEGRATED_3hot6fcZf2CgBmKXZ71ZN" />
+		<DocPropertyConstant xsi:nil="true" href="FRESH_1zp9L2aZHEYACHzoiD9e$S" />
+		<DocPropertyConstant xsi:nil="true" href="DISCOLOURED_2oEW$bvEbD1w5KffhZUsUX" />
+		<DocPropertyConstant xsi:nil="true" href="DISINTEGRATED_3hot6fcZf2CgBmK$XZ71ZN" />
 		<DocPropertyConstant xsi:nil="true" href="DECOMPOSED_10nTrIV_TBY8bGzeQdOhCP" />
 	</Constants>
 </DocPropertyEnumeration>

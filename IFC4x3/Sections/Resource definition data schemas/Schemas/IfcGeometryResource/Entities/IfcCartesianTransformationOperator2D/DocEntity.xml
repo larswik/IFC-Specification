@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Cartesian Transformation Operator 2D" />
 		<DocLocalization Locale="fr" Name="Opérateur 2D de transformation cartésienne" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="aadf18f6-e0d6-4db6-9087-3037f9496a77" DefinedType="IfcCartesianTransformationOperator2DnonUniform" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="U" UniqueId="cefc7e0a-b9de-444f-9bf4-f92852569b8e" DefinedType="IfcDirection" AggregationType="1" AggregationLower="2" AggregationUpper="2">
 			<Documentation>The list of mutually orthogonal, normalized vectors defining the transformation matrix T. They are derived from the explicit attributes Axis1 and Axis2 in that order.</Documentation>

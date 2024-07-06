@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ArchElementCommon" UniqueId="e5471b43-b60e-41ad-8d0a-9c5d63c919ba" ApplicableType="IfcArchElement">
+	<Properties>
+		<DocProperty xsi:nil="true" href="InnerRadius_0BzKrHVxX7DRQKw9ZKPhnG" />
+		<DocProperty xsi:nil="true" href="OuterRadius_3xvu9UFlDF_vR3H68vBS1w" />
+		<DocProperty xsi:nil="true" href="CentroidRadius_2diev9DK90Gvau__QLo_d5" />
+		<DocProperty xsi:nil="true" href="Thickness_3HtI60qX8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsLoadBearing_1Z0YsPaSfERxoftwuOR8uQ" />
+	</Properties>
+</DocPropertySet>
+

@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Rectangle Profile Def" />
 		<DocLocalization Locale="fr" Name="Définition de profil rectangulaire" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="1392e740-2469-4d33-ace3-7c583f013823" DefinedType="IfcRectangleHollowProfileDef" />
-		<DocSubtype UniqueId="3b35f392-de43-4100-90dd-05eaf445bb83" DefinedType="IfcRoundedRectangleProfileDef" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="XDim" UniqueId="cc30f80d-efff-497d-a442-14ef5a82594e" DefinedType="IfcPositiveLengthMeasure">
 			<Documentation>The extent of the rectangle in the direction of the x-axis.</Documentation>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CONTOURLINE_30oVU06B13Hw29vsovjfJn" Name="CONTOURLINE" UniqueId="c0c9f780-18b0-4347-a089-e76cb9b694f1">
+	<Documentation>Annotation used to illustrate lines connecting points of equal elevation or depth, on a map or chart.
+
+&gt;EXAMPLE Typically used in cartography, geography, or geology maps, where the spacing of lines at constant intervals of elevation may be used as an indication of slope.</Documentation>
+</DocConstant>
+

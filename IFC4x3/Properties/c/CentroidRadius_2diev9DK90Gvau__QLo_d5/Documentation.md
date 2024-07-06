@@ -1,1 +1,1 @@
-The centgroid radius of the element.
+The centroid radius of the element.

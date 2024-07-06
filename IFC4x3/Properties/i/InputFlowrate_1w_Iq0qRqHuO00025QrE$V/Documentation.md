@@ -1,1 +1,3 @@
-Maximum hydraulic flowrate requirement.
+Maximum input flowrate requirement.
+
+Hydraulic flowrate.

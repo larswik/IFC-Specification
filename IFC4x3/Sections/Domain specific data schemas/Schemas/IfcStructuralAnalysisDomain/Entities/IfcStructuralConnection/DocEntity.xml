@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Structural Connection" />
 		<DocLocalization Locale="fr" Name="Liaison structurelle" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="b9a5e9c8-8c4a-40be-8a78-88c8f7c0c7c6" DefinedType="IfcStructuralCurveConnection" />
-		<DocSubtype UniqueId="cc51e4ae-b56c-4ab9-bb23-813878582187" DefinedType="IfcStructuralPointConnection" />
-		<DocSubtype UniqueId="386b3aac-edc9-42e3-8683-7991adc37295" DefinedType="IfcStructuralSurfaceConnection" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="AppliedCondition" UniqueId="f73c29bd-73af-42d0-ba9a-8654e4da5996" DefinedType="IfcBoundaryCondition" AttributeFlags="1" XsdFormat="attribute">
 			<Documentation>Optional boundary conditions which define support conditions of this connection object, given in local coordinate directions of the connection object.  If left unspecified, the connection object is assumed to have no supports besides being connected with members.</Documentation>

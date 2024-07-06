@@ -7,9 +7,6 @@
 		<DocAttribute Name="EndPoint" UniqueId="35bec189-4986-450e-9533-35e814acaa79" DefinedType="IfcPlacement" AttributeFlags="1">
 			<Documentation>End point of gradient curve.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="RelativeElevation" UniqueId="1ca157d7-ec68-48f5-a916-71e72b2e57df" DefinedType="IfcLengthMeasure">
-			<Derived>IfcGradient(SELF)</Derived>
-		</DocAttribute>
 	</Attributes>
 </DocEntity>
 

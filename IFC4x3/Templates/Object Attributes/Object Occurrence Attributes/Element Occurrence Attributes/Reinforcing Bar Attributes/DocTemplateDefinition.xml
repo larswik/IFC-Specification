@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Reinforcing_Bar_Attributes_3oYIXghTD4BYiuJYSZCJX" Name="Reinforcing Bar Attributes" UniqueId="f289287f-aab7-4d10-b8ac-e1389c8cc4e1" Type="IfcReinforcingBar">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Reinforcing_Bar_Attributes_3oYIX$ghTD4BYiuJYSZCJX" Name="Reinforcing Bar Attributes" UniqueId="f289287f-aab7-4d10-b8ac-e1389c8cc4e1" Type="IfcReinforcingBar">
 	<Rules>
 		<DocModelRuleAttribute Name="Tag">
 			<Rules>

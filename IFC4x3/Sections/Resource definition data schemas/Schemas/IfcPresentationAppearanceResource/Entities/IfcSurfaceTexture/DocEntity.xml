@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Surface Texture" />
 		<DocLocalization Locale="fr" Name="Texture de surface" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="938dd83a-bdd0-4bd8-9fec-f4f764d2a76c" DefinedType="IfcPixelTexture" />
-		<DocSubtype UniqueId="05e1bef1-0dca-44b9-b273-3300acace959" DefinedType="IfcImageTexture" />
-		<DocSubtype UniqueId="8a3cdce7-d7b4-4c81-ab45-0fadbbb5ad59" DefinedType="IfcBlobTexture" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="RepeatS" UniqueId="083fc47c-3ee1-47b5-8bd3-40c028d4e31f" DefinedType="IfcBoolean">
 			<Documentation>The _RepeatS_ field specifies how the texture wraps in the S direction. If _RepeatS_ is TRUE (the default), the texture map is repeated outside the [0.0, 1.0] texture coordinate range in the S direction so that it fills the shape. If _RepeatS_ is FALSE, the texture coordinates are clamped in the S direction to lie within the [0.0, 1.0] range.</Documentation>

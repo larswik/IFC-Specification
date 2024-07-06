@@ -5,7 +5,7 @@
 		<DocLocalization Locale="fr" Name="Énumération des types de coût unitaire" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="BUDGET_2nJeJT1Gz9mhm54SiGMul" />
+		<DocConstant xsi:nil="true" href="BUDGET_2nJeJT1Gz9mh$m54SiGMul" />
 		<DocConstant xsi:nil="true" href="COSTPLAN_2Ke78X2Pb3RfccxSHAvPly" />
 		<DocConstant xsi:nil="true" href="ESTIMATE_1dChs7wiHDHwZtZbv5Sd2_" />
 		<DocConstant xsi:nil="true" href="TENDER_2zsL07oezEKPTCFHwXpIrC" />
@@ -13,7 +13,7 @@
 		<DocConstant xsi:nil="true" href="UNPRICEDBILLOFQUANTITIES_2rzMEfEpT3UBnemW4vkeSM" />
 		<DocConstant xsi:nil="true" href="SCHEDULEOFRATES_2QAGWU4wL1XvwCuS4ZFLyH" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_00UWm2RlT70uZVOAonWnuA" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

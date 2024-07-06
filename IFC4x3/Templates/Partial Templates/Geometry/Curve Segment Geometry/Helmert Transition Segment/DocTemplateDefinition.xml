@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Helmert_Transition_Segment_2GmQ8gyA1CgdJxW6bT3OO" Name="Helmert Transition Segment" UniqueId="90c1a22a-f0a0-4cfe-a9d3-ee01a5743618" Type="IfcCurveSegment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Helmert_Transition_Segment_2GmQ8gyA1C$gdJxW6bT3OO" Name="Helmert Transition Segment" UniqueId="90c1a22a-f0a0-4cfe-a9d3-ee01a5743618" Type="IfcCurveSegment">
 	<Rules>
 		<DocModelRuleAttribute Name="ParentCurve">
 			<Rules>

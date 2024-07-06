@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Coordinate Reference System in WKT" UniqueId="fae16b81-37f1-4caf-bf83-70c98acbd89e" Type="IfcCoordinateReferenceSystem">
+	<Rules>
+		<DocModelRuleAttribute Name="Name">
+			<Rules>
+				<DocModelRuleEntity id="IfcLabel_1LTHtPcLb07Q3petJOfH8D" Name="IfcLabel" UniqueId="55751dd9-9959-401d-a0f3-a374d8a5120d">
+					<Rules>
+						<DocModelRuleConstraint>
+							<Expression xsi:type="DocOpStatement" Operation="compareequal">
+								<Reference xsi:type="DocOpReference">
+									<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_1LTHtPcLb07Q3petJOfH8D" />
+								</Reference>
+								<Value xsi:type="DocOpLiteral" Operation="loadstring" Literal="WKT" />
+							</Expression>
+						</DocModelRuleConstraint>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="WellKnownText">
+			<Rules>
+				<DocModelRuleEntity Name="IfcWellKnownText">
+					<Rules>
+						<DocModelRuleAttribute Name="WellKnownText">
+							<Rules>
+								<DocModelRuleEntity Name="IfcWellKnownTextLiteral" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

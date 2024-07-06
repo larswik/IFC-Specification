@@ -18,7 +18,7 @@
 	<WhereRules>
 		<DocWhereRule Name="WR21" UniqueId="aa959d08-bbb9-4290-a1c6-2190087bcfb6">
 			<Documentation>The value of the count shall be greater than or equal to zero.</Documentation>
-			<Expression>CountValue &gt;= 0.</Expression>
+			<Expression>CountValue &gt;= 0</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

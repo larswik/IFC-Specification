@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcVoxelGrid" UniqueId="c0c89e7e-f8f9-4156-aa6b-c7d8f7e9b4f3" BaseDefinition="IfcSolidModel" EntityFlags="32">
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcVoxelGrid" UniqueId="c0c89e7e-f8f9-4156-aa6b-c7d8f7e9b4f3" BaseDefinition="IfcTessellatedItem" EntityFlags="32">
 	<Attributes>
 		<DocAttribute Name="VoxelSizeX" UniqueId="ceb76c5f-caa2-4d51-98ab-52b1142cb762" DefinedType="IfcNonNegativeLengthMeasure">
 			<Documentation>Size of voxels in the X axis.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="VoxelSizeY" UniqueId="781db54c-ab64-4392-afd7-7d327e4f106a" DefinedType="IfcNonNegativeLengthMeasure" AttributeFlags="1">
-			<Documentation>Size of voxels in the Y axis. If not given, the value from _VoxelSizeX_ shall be taken.</Documentation>
+		<DocAttribute Name="VoxelSizeY" UniqueId="781db54c-ab64-4392-afd7-7d327e4f106a" DefinedType="IfcNonNegativeLengthMeasure">
+			<Documentation>Size of voxels in the Y axis.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="VoxelSizeZ" UniqueId="946806c3-1ace-4539-b0a5-5c2d882b98c8" DefinedType="IfcNonNegativeLengthMeasure" AttributeFlags="1">
-			<Documentation>Size of voxels in the Z axis. If not given, the value from _VoxelSizeX_ shall be taken.</Documentation>
+		<DocAttribute Name="VoxelSizeZ" UniqueId="946806c3-1ace-4539-b0a5-5c2d882b98c8" DefinedType="IfcNonNegativeLengthMeasure">
+			<Documentation>Size of voxels in the Z axis.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="NumberOfVoxelsX" UniqueId="1062135e-7018-4ec4-9ef7-3ca487268280" DefinedType="IfcPositiveInteger">
 			<Documentation>Number of voxels along the X axis.</Documentation>
@@ -33,10 +33,5 @@
 along X, then Y and finally Z.</Documentation>
 		</DocAttribute>
 	</Attributes>
-	<WhereRules>
-		<DocWhereRule Name="CorrectGridSize" UniqueId="d21d238c-a7bf-4473-9503-e1f72b3552c2">
-			<Documentation>The size of the grid (_Voxels_ array) shall be equal to the product of the number of voxels in X, Y and Z directions.</Documentation>
-			<Expression>SIZEOF(Voxels) = NumberOfVoxelsX * NumberOfVoxelsY * NumberOfVoxelsZ</Expression>
-		</DocWhereRule>
-	</WhereRules>
 </DocEntity>
+

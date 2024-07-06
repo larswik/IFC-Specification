@@ -1,9 +1,9 @@
 (Lis : LIST [0:?] OF GENERIC : T;
       Low, U : INTEGER;
-      Condition : ARRAY OF BOOLEAN) : ARRAY OF GENERIC : T;
+      Condition : ARRAY OF BOOLEAN) : ARRAY OF OPTIONAL GENERIC : T;
   LOCAL
     LisIndex : INTEGER := Low;
-    Res : ARRAY [Low:U] OF GENERIC : T;
+    Res : ARRAY [Low:U] OF OPTIONAL GENERIC : T;
   END_LOCAL;
       
   IF (SIZEOF(QUERY(item <* Condition | item)) <> SIZEOF(Lis)) THEN

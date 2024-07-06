@@ -13,7 +13,7 @@
 			<Documentation>Position of this panel within the overall window style.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="FrameDepth" UniqueId="19f2e6ca-8d92-4ec8-a726-c4d44a0d2853" DefinedType="IfcPositiveLengthMeasure" AttributeFlags="1">
-			<Documentation>Depth of panel frame, measured from front face to back face horizontally (i.e. perpendicular to the window (elevation) plane.</Documentation>
+			<Documentation>Depth of panel frame, measured from front face to back face horizontally (i.e. perpendicular to the window (elevation) plane).</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="FrameThickness" UniqueId="27ea5ee4-1d5f-49c7-b4d6-d708649bb38a" DefinedType="IfcPositiveLengthMeasure" AttributeFlags="1">
 			<Documentation>Width of panel frame, measured from inside of panel (at glazing) to outside of panel (at lining), i.e. parallel to the window (elevation) plane.</Documentation>
@@ -26,15 +26,10 @@
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="ApplicableToType" UniqueId="8bc68e4f-7262-49d5-bcf6-2317ff8e76cf">
-			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcDoorType_.
-&gt; NOTE&amp;nbsp; The deprecated entity _IfcWindowStyle_ is applicable as well.</Documentation>
+			<Documentation>The _IfcWindowPanelProperties_ shall only be used in the context of an _IfcWindowType_.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
-(
- (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-  OR
- (&apos;IFCARCHITECTUREDOMAIN.IFCWINDOWSTYLE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-)</Expression>
+ (&apos;IFCSHAREDBLDGELEMENTS.IFCWINDOWTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

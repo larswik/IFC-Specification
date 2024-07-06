@@ -9,7 +9,7 @@
 		<DocWhereRule Name="FirstOperandType" UniqueId="16e6847d-fb1a-421c-a3f1-7098e6f5f521">
 			<Documentation>The first operand of the Boolean clipping operation shall be either an IfcSweptAreaSolid or (in case of more than one clipping) an IfcBooleanResult.</Documentation>
 			<Expression>(&apos;IFCGEOMETRICMODELRESOURCE.IFCSWEPTAREASOLID&apos; IN TYPEOF(FirstOperand)) OR 
-(&apos;IFCGEOMETRICMODELRESOURCE.IFCSWEPTDISCSOLID&apos; IN TYPEOF(FirstOperand)) OR 
+(&apos;IFCGEOMETRICMODELRESOURCE.IFCSWEPTDISKSOLID&apos; IN TYPEOF(FirstOperand)) OR 
 (&apos;IFCGEOMETRICMODELRESOURCE.IFCBOOLEANCLIPPINGRESULT&apos; IN TYPEOF(FirstOperand))</Expression>
 		</DocWhereRule>
 		<DocWhereRule Name="SecondOperandType" UniqueId="5b8c3cfd-f445-4b42-9c0e-67413340806f">

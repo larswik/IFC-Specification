@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_BoltType" Name="PEnum_BoltType" UniqueId="9a6cf967-b0a8-49b5-bb6e-4474edbf97e2">
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="GROUTED_2z5EEIt_f7$RsoBqMvjvYh" />
+		<DocPropertyConstant xsi:nil="true" href="ANCHORED_3zO8CyRyr5QBeQ0qXMctCC" />
+		<DocPropertyConstant xsi:nil="true" href="ANCHOREDWITHEXPANSIONCASING_1$$EEmQgzEGQhb6rPnB0LS" />
+		<DocPropertyConstant xsi:nil="true" href="COMBINATION_3u$Bs936PBggiSRuq$Oy03" />
+		<DocPropertyConstant xsi:nil="true" href="FRICTION_11NQ1Y5zvEOOVS1YRu38qm" />
+		<DocPropertyConstant xsi:nil="true" href="FITTING_32jIi99hrDp8r5IceH_pWI" />
+		<DocPropertyConstant xsi:nil="true" href="CABLE_0RQzQw$OD3UhDqCeAwtFHK" />
+		<DocPropertyConstant xsi:nil="true" href="WIRE_35FC$LBuHDcPj2xEr$QXUw" />
+		<DocPropertyConstant xsi:nil="true" href="SELFDRILLING_0y0adjTcL9ixRTiZyYpkgs" />
+		<DocPropertyConstant xsi:nil="true" href="GLASSFIBREREINFORCEDPLASTICS_2c0cCyuvn17O18hkdH9roJ" />
+		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
+		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+	</Constants>
+</DocPropertyEnumeration>
+

@@ -6,16 +6,18 @@
 		<DocLocalization Locale="fr" Name="Élément virtuel" />
 	</Localization>
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="89972bc8-05b7-43af-8ade-b8ac3769243a" DefinedType="IfcVirtualElementTypeEnum">
+		<DocAttribute Name="PredefinedType" UniqueId="89972bc8-05b7-43af-8ade-b8ac3769243a" DefinedType="IfcVirtualElementTypeEnum" AttributeFlags="1">
 			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
 
-				&gt;NOTE If the object has an associated IfcTypeObject with a PredefinedType, then this attribute shall not be used.</Documentation>
+&gt;NOTE&amp;nbsp; If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="HasObjectType" UniqueId="c8515ad8-d2a8-4a06-a9cb-da9c1f3be613">
-			<Documentation>The attribute ObjectType shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>NOT EXISTS(PredefinedType) OR (PredefinedType &lt;&gt; IfcVirtualElementTypeEnum.USERDEFINED) OR EXISTS(SELF\IfcObject.ObjectType);</Expression>
+		<DocWhereRule Name="CorrectPredefinedType" UniqueId="c8515ad8-d2a8-4a06-a9cb-da9c1f3be613">
+			<Documentation>Either the _PredefinedType_ attribute is unset, or the inherited attribute _ObjectType_ must be asserted when the value of _PredefinedType_ is set to USERDEFINED.</Documentation>
+			<Expression>NOT(EXISTS(PredefinedType)) OR
+  (PredefinedType &lt;&gt; IfcVirtualElementTypeEnum.USERDEFINED) OR
+  ((PredefinedType = IfcVirtualElementTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcObject.ObjectType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

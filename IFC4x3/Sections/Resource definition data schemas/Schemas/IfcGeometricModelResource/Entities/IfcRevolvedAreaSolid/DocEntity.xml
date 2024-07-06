@@ -21,7 +21,7 @@
 	<WhereRules>
 		<DocWhereRule Name="AxisStartInXY" UniqueId="a9e33584-c5f8-4d10-9735-557802c9e6cf">
 			<Documentation>The start of the axis shall lie in the XY plane of the position coordinate system.</Documentation>
-			<Expression>(&apos;IFC4X3_ADD2.IFCCARTESIANPOINT&apos; IN TYPEOF(Axis.Location)) AND (Axis.Location\IfcCartesianPoint.Coordinates[3] = 0.0)</Expression>
+			<Expression>(&apos;IFCGEOMETRYRESOURCE.IFCCARTESIANPOINT&apos; IN TYPEOF(Axis.Location)) AND (Axis.Location\IfcCartesianPoint.Coordinates[3] = 0.0)</Expression>
 		</DocWhereRule>
 		<DocWhereRule Name="AxisDirectionInXY" UniqueId="37af1dd7-3b31-40a3-864e-ab12bcd8bd97">
 			<Documentation>The direction of the axis shall be parallel to the XY plane of the position coordinate system.</Documentation>

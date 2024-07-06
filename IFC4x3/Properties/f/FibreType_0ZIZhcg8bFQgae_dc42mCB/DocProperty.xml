@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FibreType_0ZIZhcg8bFQgae_dc42mCB" Name="FibreType" UniqueId="234a3ae6-a889-4f6a-a928-fa79840b030b" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SprayedConcreteFibreType" />
+</DocProperty>
+

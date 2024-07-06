@@ -15,10 +15,6 @@
 		<DocAttribute Name="PointParameterV" UniqueId="8e50f05b-a118-43a2-89da-73538af766d3" DefinedType="IfcParameterValue">
 			<Documentation>The second parameter value of the point location.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="Dim" UniqueId="dc74b17c-6d54-4257-9dea-ce9933fd62a9" DefinedType="IfcDimensionCount">
-			<Documentation>The space dimensionality of this class, determined by the space dimensionality of the basis surface.</Documentation>
-			<Derived>BasisSurface.Dim</Derived>
-		</DocAttribute>
 	</Attributes>
 </DocEntity>
 

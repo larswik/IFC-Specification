@@ -8195,6 +8195,18 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="bc298ed4-a583-40a2-85e6-43fd9e2de885" Type="IfcHumidifier" />
 		</DocConceptRoot>
+		<DocConceptRoot Name="IfcImprovedGround" UniqueId="0f0c5bda-6ded-4ebd-9913-889c92e16196">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcImprovedGround" />
+			<Concepts>
+				<DocTemplateUsage Name="Material" UniqueId="d297d15b-e41f-46e5-b697-3cc579561f85">
+					<Documentation>Material used for improved ground elements.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Constituent_Set_3PRtzzvq9Dk9jT6ADgRVY4" />
+					<Items>
+						<DocTemplateItem UniqueId="268485f7-fadb-424e-be01-770b0890f6ba" />
+					</Items>
+				</DocTemplateUsage>
+			</Concepts>
+		</DocConceptRoot>
 		<DocConceptRoot UniqueId="1S$HuIM5f1VeDqWoSIYv6$">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcInterceptor" />
 			<Concepts>

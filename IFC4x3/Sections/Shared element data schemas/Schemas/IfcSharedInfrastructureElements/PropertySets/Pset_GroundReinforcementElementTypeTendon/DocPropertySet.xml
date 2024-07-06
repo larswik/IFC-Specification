@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_GroundReinforcementElementTypeTendon" UniqueId="60f2d618-8fd6-48c6-8891-30dbdeef4a99" ApplicableType="IfcGroundReinforcementElement/(.TENDON.)" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
-		<DocProperty xsi:nil="true" href="NominalDiameter_2EWhC0qX8HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NominalDiameter_30E560qVCHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="CrossSectionArea_2C5h6JkUbAiuupCKgQxX5Z" />
 		<DocProperty xsi:nil="true" href="SheathDiameter_3oEHCHEBvA8PGa16tDeoQ3" />
 		<DocProperty xsi:nil="true" href="TensionForce_3lnzOYG$X5VBKKmCOmDCiI" />

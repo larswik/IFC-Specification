@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcFaceExcavationTypeEnum" UniqueId="7e269072-dfd9-4350-a463-1dad3dbe400e" DiagramNumber="1">
+	<Constants>
+		<DocConstant xsi:nil="true" href="FULLFACE_23hNQtT7jEW82RLnkEK5XW" />
+		<DocConstant xsi:nil="true" href="STAGED_0G1o0dTaP2yQpif$L24MRg" />
+		<DocConstant xsi:nil="true" href="PILOTBORE_3X$C6tqFDC18JFwxqWADss" />
+		<DocConstant xsi:nil="true" href="SHAFT_3cR6ZIeV9FPRBSrtu7P$Gi" />
+		<DocConstant xsi:nil="true" href="CROSSCONNECTION_0HBMcuwpX2gedg0EWh55Yh" />
+		<DocConstant xsi:nil="true" href="REAMING_25nAeQUED8oBK_$O5qdDb8" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_0$pjy5o5D4AO1puVPAZ73z" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
+	</Constants>
+</DocEnumeration>
+

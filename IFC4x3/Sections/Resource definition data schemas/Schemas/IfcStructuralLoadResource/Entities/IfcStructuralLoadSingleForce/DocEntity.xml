@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Einzellast" />
 		<DocLocalization Locale="en" Name="Structural Load Single Force" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="5bff2e89-f47b-4074-8c6f-3ea9b8c57b1f" DefinedType="IfcStructuralLoadSingleForceWarping" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ForceX" UniqueId="8431526b-0b25-451b-a59f-07fb9e510a75" DefinedType="IfcForceMeasure" AttributeFlags="1">
 			<Documentation>Force value in x-direction.</Documentation>

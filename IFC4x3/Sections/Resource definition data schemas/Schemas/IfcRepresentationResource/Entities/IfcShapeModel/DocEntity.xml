@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Shape Model" />
 		<DocLocalization Locale="fr" Name="Modèle de forme" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="fe948891-ecb4-44f3-9bfa-ef2cff5ee112" DefinedType="IfcShapeRepresentation" />
-		<DocSubtype UniqueId="bc3960f4-14b5-44c7-9d74-cb9ab5b662b9" DefinedType="IfcTopologyRepresentation" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="OfShapeAspect" UniqueId="917251e4-e944-4d8c-adbb-eecf72e4e71c" DefinedType="IfcShapeAspect" AttributeFlags="8" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="ShapeRepresentations">
 			<Documentation>Reference to the shape aspect, for which it is the shape representation.</Documentation>

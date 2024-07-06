@@ -13,15 +13,15 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_04ga0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_09SAq0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Span_0PY8o0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Slope_0UvTS0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Roll_0Zgei0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsExternal_0eRpy0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ThermalTransmittance_0lbaq0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LoadBearing_0pmcg0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FireRating_0uXnw0qSGHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_00pQO0qSSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Status_09SAq0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Span_0PY8o0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Slope_0UvTS0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Roll_0Zgei0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsExternal_0eRpy0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ThermalTransmittance_0lbaq0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LoadBearing_0pmcg0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FireRating_0uXnw0qSGHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

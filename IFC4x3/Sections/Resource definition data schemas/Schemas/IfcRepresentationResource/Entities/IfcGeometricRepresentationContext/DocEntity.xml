@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Geometrische Repräsentation - Kontext" />
 		<DocLocalization Locale="en" Name="Geometric Representation Context" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="11431988-40cb-4dc2-b0c8-dde156b8d20f" DefinedType="IfcGeometricRepresentationSubContext" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="CoordinateSpaceDimension" UniqueId="9b485f73-0c6c-43ff-81b5-d7c39ee5ee67" DefinedType="IfcDimensionCount">
 			<Documentation>The integer dimension count of the coordinate space modeled in a geometric representation context.</Documentation>

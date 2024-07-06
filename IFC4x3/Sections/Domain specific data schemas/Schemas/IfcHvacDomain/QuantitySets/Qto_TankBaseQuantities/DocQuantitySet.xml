@@ -4,7 +4,7 @@
 		<DocLocalization Locale="en" Name="Tank Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossWeight_2DgyRToX6ifRSHPJIOPCo" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_2D$gyRToX6ifRSHPJIOPCo" />
 		<DocQuantity xsi:nil="true" href="NetWeight_0po45W9AL0j869JY4q3gta" />
 		<DocQuantity xsi:nil="true" href="TotalSurfaceArea_09I0_N2T97QeOrJ9qSxfeT" />
 	</Quantities>

@@ -295,7 +295,7 @@ The **IfcActionRequest** may have assignments of its own using the [IfcRelAssign
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="6c2cdceb-d003-4934-8389-d4ccf68ed1e3" Type="IfcAirTerminal" />
 		</DocConceptRoot>
-				<DocConceptRoot UniqueId="1Pxzk8yZ9F3Pr62EWQpZun">
+		<DocConceptRoot UniqueId="1Pxzk8yZ9F3Pr62EWQpZun">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcAirTerminalBox" />
 			<Concepts>
 				<DocTemplateUsage Name="Object Typing" UniqueId="0TBp0NoOD53espxF88riQX">

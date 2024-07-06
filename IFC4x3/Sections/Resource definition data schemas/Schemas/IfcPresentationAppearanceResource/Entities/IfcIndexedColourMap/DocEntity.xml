@@ -5,7 +5,7 @@
 		<DocLocalization Locale="en" Name="Indexed Colour Map" />
 	</Localization>
 	<Attributes>
-		<DocAttribute Name="MappedTo" UniqueId="46f7bd1c-d9b3-427b-b0c8-c3d9bcc29edd" DefinedType="IfcTessellatedFaceSet" XsdFormat="hidden">
+		<DocAttribute Name="MappedTo" UniqueId="46f7bd1c-d9b3-427b-b0c8-c3d9bcc29edd" DefinedType="IfcTessellatedItem" XsdFormat="hidden">
 			<Documentation>Reference to the _IfcTessellatedFaceSet_ to which it applies the colours and alpha channel.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="Opacity" UniqueId="95d4d17c-ac0b-4a8d-9c90-545c63064df1" Status="Official" DefinedType="IfcNormalisedRatioMeasure" AttributeFlags="1" XsdFormat="content">

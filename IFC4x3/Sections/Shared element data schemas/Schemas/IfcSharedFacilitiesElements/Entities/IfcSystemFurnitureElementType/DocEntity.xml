@@ -6,12 +6,15 @@
 		<DocLocalization Locale="fr" Name="Type d&apos;élément de l&apos;ameublement" />
 	</Localization>
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="c246be92-c357-473a-957f-6aefef35989b" DefinedType="IfcSystemFurnitureElementTypeEnum" AttributeFlags="1" />
+		<DocAttribute Name="PredefinedType" UniqueId="c246be92-c357-473a-957f-6aefef35989b" DefinedType="IfcSystemFurnitureElementTypeEnum" AttributeFlags="1">
+			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.</Documentation>
+		</DocAttribute>
 	</Attributes>
 	<WhereRules>
 		<DocWhereRule Name="CorrectPredefinedType" UniqueId="0efe4892-b53a-46e0-a993-37bbdd608e01">
-			<Expression>(PredefinedType &lt;&gt; IfcSystemFurnitureElementTypeEnum.USERDEFINED) OR
-((PredefinedType = IfcSystemFurnitureElementTypeEnum.USERDEFINED) AND EXISTS(SELF\IfcElementType.ElementType))</Expression>
+			<Expression>NOT(EXISTS(PredefinedType)) OR
+  (PredefinedType &lt;&gt; IfcSystemFurnitureElementTypeEnum.USERDEFINED) OR
+  ((PredefinedType = IfcSystemFurnitureElementTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcElementType.ElementType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

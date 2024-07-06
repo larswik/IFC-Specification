@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="External Reference" />
 		<DocLocalization Locale="fr" Name="Référence externe" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="407b8c7f-d121-422f-9629-d4b05c133814" DefinedType="IfcLibraryReference" />
-		<DocSubtype UniqueId="bf61cdb4-0976-46a7-ab54-f7dbde58d080" DefinedType="IfcClassificationReference" />
-		<DocSubtype UniqueId="23cfc837-f2be-48cc-b05d-540c1f352b82" DefinedType="IfcDocumentReference" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Location" UniqueId="d4dad48f-1dac-4cbb-99d0-7819c93da6c2" DefinedType="IfcURIReference" AttributeFlags="1">
 			<Documentation>Location, where the external source (classification, document or library) can be accessed by electronic means. The electronic location is provided as an URI, and would normally be given as an URL location string.

@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Structural Activity" />
 		<DocLocalization Locale="fr" Name="Activité structurelle" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ed6dec8f-c417-4aee-93ac-88d568889bee" DefinedType="IfcStructuralAction" />
-		<DocSubtype UniqueId="4a849529-1603-4d99-b9e9-015bf87ff19b" DefinedType="IfcStructuralReaction" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="AppliedLoad" UniqueId="8a68177b-4c60-4eb6-8903-ae9366cb2ac7" DefinedType="IfcStructuralLoad" XsdFormat="attribute">
 			<Documentation>Load or result resource object which defines the load type, direction, and load values.

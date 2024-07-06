@@ -6,7 +6,7 @@
 	</Localization>
 	<Constants>
 		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVERANDOMMEDIAAIRCOOLER_1UJhhTgw1Fw9asVNH6hmIb" />
-		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVERIGIDMEDIAAIRCOOLER_3fsIPQziHEhOzKLpVeBtc" />
+		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVERIGIDMEDIAAIRCOOLER_3fsIPQziHEhOzKLpV$eBtc" />
 		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVESLINGERSPACKAGEDAIRCOOLER_3_qHEcxzn74PbutyjSlBgh" />
 		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVEPACKAGEDROTARYAIRCOOLER_2Trlh27vD2b9GtpBxuzLhv" />
 		<DocConstant xsi:nil="true" href="DIRECTEVAPORATIVEAIRWASHER_2h4dCTJbTEIxx2jqXrP2yH" />
@@ -15,7 +15,7 @@
 		<DocConstant xsi:nil="true" href="INDIRECTEVAPORATIVECOOLINGTOWERORCOILCOOLER_3O50xGqrj8ZxJKanjt1owC" />
 		<DocConstant xsi:nil="true" href="INDIRECTDIRECTCOMBINATION_0bMk15blPCtQVQf0oawxLN" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_02XOOJd1HCL8C01oKVgzlm" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0FaLejbf8mgPdQlqvvD2p" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0F$aLejbf8mgPdQlqvvD2p" />
 	</Constants>
 </DocEnumeration>
 

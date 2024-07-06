@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_ResidualStrengthStructuralClass" Name="PEnum_ResidualStrengthStructuralClass" UniqueId="30a399cb-02a3-4a54-8e76-19a057525a21">
+	<Documentation>Residual strength structural class according o fib Model Code 2010, fibre reinforced concrete.</Documentation>
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="A_1n1cXjpnPF9Pr7eXfvEp5b" />
+		<DocPropertyConstant xsi:nil="true" href="B_2trCHsjuH3JR9heEuhAQhu" />
+		<DocPropertyConstant xsi:nil="true" href="C_2j1xDISq96pu0MmrsVKbUX" />
+		<DocPropertyConstant xsi:nil="true" href="D_0NG4NPQ8L7I9hRrtXaRA9F" />
+		<DocPropertyConstant xsi:nil="true" href="E_23CYZeuk5B1AEckvzA7Zoj" />
+	</Constants>
+</DocPropertyEnumeration>
+

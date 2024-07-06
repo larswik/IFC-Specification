@@ -180,7 +180,7 @@ The following interpretation of dimension parameter applies for circular beams:
 * _IfcCircleProfileDef.Radius_ interpreted as beam radius.
 
 ![&quot;standard beam&quot;](../../figures/ifcbeamstandardcase_sweptsolid-01.png &quot;Figure 1 &amp;mdash; Beam body extrusion&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXYwn" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXY$wn" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body SweptSolid Composite Geometry" UniqueId="a7818fc6-f5d1-43eb-a469-cdcbb4eb223f">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_Composite_Geometry_1kUSVCuZX0NOyEXxJwlpPh" />
@@ -225,13 +225,13 @@ Figure 1 illustrates a &apos;Clipping&apos; geometric representation with use of
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Single_1VEQWKHA1Fiut6tQe5OFnK" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="a799e465-9887-4420-920c-d7417bcfd6fc" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="3acdfbfd-4afd-46f6-9e67-b18d6e8d835d" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="aaedb76f-525a-4848-a7d8-92071f1ffe45" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="6ca75b2b-264e-4f1e-9edd-739184ff9e6a" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
@@ -249,7 +249,7 @@ Figure 1 illustrates a &apos;Clipping&apos; geometric representation with use of
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="7a5ea4d5-c528-4c52-8e60-07c9ad7e4b15" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="2cf61262-f641-457e-aa61-2f457786dc08" Type="IfcBeamStandardCase" />
@@ -282,7 +282,7 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcCableCarrierSegment" />
 			<Concepts>
 				<DocTemplateUsage Name="Port" UniqueId="172f08ce-3aeb-4d99-bf29-d7394fc162ec">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w9EtqE92s8JFNQ8EuKWA" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w$9EtqE92s8JFNQ8EuKWA" />
 					<Items>
 						<DocTemplateItem UniqueId="8a5c7e47-b0a8-42e0-9b1f-b224a854a698" RuleParameters="PortName=Head;Flow=SINK;SystemType=NOTDEFINED;">
 							<Documentation>Head connection.</Documentation>
@@ -299,7 +299,7 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcCableSegment" />
 			<Concepts>
 				<DocTemplateUsage Name="Port" UniqueId="697110d7-7979-4123-8d10-648bfbdcff67">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w9EtqE92s8JFNQ8EuKWA" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w$9EtqE92s8JFNQ8EuKWA" />
 					<Items>
 						<DocTemplateItem UniqueId="609a5b8f-8824-42ec-923c-7cc09c701162" RuleParameters="PortName=Input;SystemType=NOTDEFINED;Flow=SINK;">
 							<Documentation>The input end of the cable. While many cables may be bidirectional, port direction is indicated for connectivity purposes.</Documentation>
@@ -470,7 +470,7 @@ The following interpretation of dimension parameter applies for circular columns
 * _IfcCircleProfileDef.Radius_ interpreted as column radius.
 
 ![&quot;standard column&quot;](../../figures/ifccolumnstandardcase_sweptsolid-01.png &quot;Figure 1 &amp;mdash; Column body extrusion&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXYwn" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXY$wn" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body SweptSolid Composite Geometry" UniqueId="31e9779f-f646-4c80-88d5-0c3c37788933">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_Composite_Geometry_1kUSVCuZX0NOyEXxJwlpPh" />
@@ -515,13 +515,13 @@ Figure 1 illustrates a &apos;Clipping&apos; geometric representation with use of
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Element_Decomposition_2A9y5QnEfCgOpEVxkXoRpW" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="415aa731-db0e-45bf-91ec-e222e4db42b8" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="26d69847-c582-4929-a771-af03ebcc847a" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="496bf84f-c576-4114-9d79-2a6e0b8429ca" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="acb10ce9-8129-4300-88fa-964b6c1e2f66" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
@@ -536,7 +536,7 @@ Figure 1 illustrates a &apos;Clipping&apos; geometric representation with use of
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="642ae387-033c-47e8-8c4d-137c177b825a" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7ec67315-487c-4e11-bbcf-5531c98de693" Type="IfcColumnStandardCase" />
@@ -705,7 +705,7 @@ height. Distance to the centre line of the transom.&lt;/li&gt;
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcDuctSegment" />
 			<Concepts>
 				<DocTemplateUsage Name="Port" UniqueId="c4dd0fe5-4948-4337-9de4-37f8422ab2bd">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w9EtqE92s8JFNQ8EuKWA" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w$9EtqE92s8JFNQ8EuKWA" />
 					<Items>
 						<DocTemplateItem UniqueId="948966c7-f1d9-438a-86c5-35c0e621d8c2" RuleParameters="PortName=Inlet;SystemType=NOTDEFINED;Flow=SINK;">
 							<Documentation>The flow inlet.</Documentation>
@@ -722,7 +722,7 @@ height. Distance to the centre line of the transom.&lt;/li&gt;
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcElement" />
 			<Concepts>
 				<DocTemplateUsage Name="Product Grid Placement" UniqueId="b25546fb-9338-4344-a9d3-80cd240a4485">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Grid_Placement_3XrC7kR9FHODwhtlgqpHa" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Grid_Placement_3Xr$C7kR9FHODwhtlgqpHa" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="optional">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Design_Transfer_Exchange_34c6WDp8j0Cgdpp6il2Mz2" />
@@ -773,7 +773,7 @@ representation&lt;/p&gt;
 
 
 &lt;/table&gt;</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body AdvancedBrep Geometry" UniqueId="7ae12532-8b84-4a4b-9835-98cccfc8c7f6">
 					<Documentation>An _IfcElement_ (so far no further constraints are defined at the level of its subtypes or by view definitions) may be represented as a single or multiple boundary representation models, which include advanced surfaces, usually refered to as NURBS surfaces. The &apos;AdvancedBrep&apos; representation allows for the representation of complex free-form element shape.
@@ -815,7 +815,7 @@ Figure 2 illustrates an element assembly type used for wall framing.
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Single_1VEQWKHA1Fiut6tQe5OFnK" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Type Body CSG Geometry" UniqueId="cd2d595e-1cba-41d2-85d9-cdf87657ee36">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Type_Body_CSG_Geometry_3cgCgF6P4XAWUmEZvj5eg" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Type_Body_CSG_Geometry_3$cgCgF6P4XAWUmEZvj5eg" />
 					<Items>
 						<DocTemplateItem UniqueId="2c8b2518-6b58-4992-a8a7-86ef36c9893f" RuleParameters="RepresentationType=CSG;Geometry=IfcBlock;" />
 						<DocTemplateItem UniqueId="90a34506-8f20-4083-a12c-d97afa37d34e" RuleParameters="RepresentationType=CSG;Geometry=IfcRectangularPyramid;" />
@@ -885,7 +885,7 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Axis Geometry" UniqueId="3f8d786d-f433-413e-a57a-c05d9f91c908">
 					<Documentation>Standard representations are defined at the supertype _IfcDistributionFlowElement_. For parametric flow segments where [IfcMaterialProfileSetUsage](../../ifcmaterialresource/lexical/ifcmaterialprofilesetusage.htm) is defined and an &apos;Axis&apos; representation is defined, then the &apos;Body&apos; representation may be generated using the &apos;SweptSolid&apos; or &apos;AdvancedSweptSolid&apos; representation types by sweeping the profile(s) along the axis.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Axis_Geometry_0xznRVEP1B815da0HoROY" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Axis_Geometry_0xznRVEP1B$815da0HoROY" />
 					<Items>
 						<DocTemplateItem UniqueId="9a0b3d34-8f85-46ea-8894-685165796ec2" RuleParameters="RepresentationType=Curve3D;Geometry=IfcBoundedCurve;" />
 					</Items>
@@ -1063,7 +1063,7 @@ The following interpretation of dimension parameter applies for circular members
 * &lt;small&gt;&lt;em&gt;IfcCircleProfileDef.Radius&lt;/em&gt; interpreted as beam radius.&lt;/small&gt;
 
 ![&quot;standard member&quot;](../../figures/ifcbeamstandardcase_sweptsolid-01.png &quot;Figure 1 &amp;mdash; Member body extrusion&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXYwn" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXY$wn" />
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body SweptSolid Composite Geometry" UniqueId="6c10e162-434a-42f1-a00c-f18a9af7123a">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_Composite_Geometry_1kUSVCuZX0NOyEXxJwlpPh" />
@@ -1109,13 +1109,13 @@ Figure 1 illustrates an advanced geometric representation with use of _IfcBoolea
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Element_Decomposition_2A9y5QnEfCgOpEVxkXoRpW" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="905e7b4e-b5d6-4a07-bed1-8f3ee64b0a98" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="f4ed79bb-b70f-462c-9b13-b15701295d7d" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="bb4085e8-40c8-45f5-bda9-4d52fd4ccad8" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="6f4974d4-946b-4015-9b55-377c7e64605e" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
@@ -1130,7 +1130,7 @@ Figure 1 illustrates an advanced geometric representation with use of _IfcBoolea
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="53fd6576-191c-48a4-922c-d73726cb8c83" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="16b02525-f290-4f54-9091-9d1658eefed2" Type="IfcMemberStandardCase" />
@@ -1199,7 +1199,7 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="e12da311-a4f5-467d-9e80-54237699aa3b">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Profile_Geometry_3nRhE_uXFCvVVrLhjEW_L" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Profile_Geometry_3nRhE_$uXFCvVVrLhjEW_L" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="mandatory">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Design_Transfer_Exchange_34c6WDp8j0Cgdpp6il2Mz2" />
@@ -1231,7 +1231,7 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcPipeSegment" />
 			<Concepts>
 				<DocTemplateUsage Name="Port" UniqueId="d72b5121-09fb-44d1-90d5-6adb1685e5e9">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w9EtqE92s8JFNQ8EuKWA" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Port_Nesting_2w$9EtqE92s8JFNQ8EuKWA" />
 					<Items>
 						<DocTemplateItem UniqueId="235782d6-3121-44b4-baf2-c7918cd00823" RuleParameters="PortName=Inlet;Flow=SINK;SystemType=NOTDEFINED;">
 							<Documentation>The flow inlet.</Documentation>
@@ -1387,13 +1387,13 @@ As shown in Figure 106, the following conventions shall be met:
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Element_Decomposition_2A9y5QnEfCgOpEVxkXoRpW" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="329b769c-ae1f-4a35-8e83-a6292ca1b02d" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="a2c78c3b-0c0b-4f75-bbf5-4e2feaea178d" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="0c6c780e-1b39-4c4e-ac1e-9c0e201acbfa" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="d5076ed5-0abe-4e97-ac60-95857b1485c2" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
@@ -1411,7 +1411,7 @@ As shown in Figure 106, the following conventions shall be met:
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="ff08071f-ae7b-4965-bb87-8a3e81f78ecc" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="c0217d5c-bbd5-488a-a8c8-d73a445d543b" Type="IfcPlateStandardCase" />
@@ -1725,13 +1725,13 @@ Figure 2 illustrates slab material usage, where the following conventions shall 
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Element_Decomposition_2A9y5QnEfCgOpEVxkXoRpW" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="b36fe7ca-c9ff-4e57-8660-fa5addcbab27" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="b974d711-eb45-4a5c-bec5-6be67b863a50" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="fc9a3b31-a628-4c48-b858-3849179dbe1c" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="e3b2424b-920e-4003-a180-8663bb54a567" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
@@ -1746,7 +1746,7 @@ Figure 2 illustrates slab material usage, where the following conventions shall 
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="6161fa49-4929-413a-9f77-bbc85b3ae3c4" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="2547e681-a626-40f0-8c56-456d91283726" Type="IfcSlabStandardCase" />
@@ -2085,13 +2085,13 @@ Figure 2 illustrates a clipping for a curved wall using an _IfcHalfSpaceSolid_ a
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_CSG_Geometry_2WgtOmQML9NhwFqGRz9Pd2" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="9e1d04b6-aac0-4f21-9ca9-0fdf2343dff5" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="7fb8d403-b77f-46f9-bf5c-eaae967baa73" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZL1keQ23091w0k" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_PolyCurve_Geometry_0uSGpDZ$L1ke$Q23091w0k" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="cc4ef20e-c2e9-472b-9c0e-af85200879e9" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1SKG3PKLCRRmd2fMZq9bG" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Tessellation_Geometry_1S$KG3PKLCRRmd2fMZq9bG" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="d45528e9-455d-4d4f-8e6c-e58915f3a467" Suppress="true">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Single_1VEQWKHA1Fiut6tQe5OFnK" />
@@ -2103,7 +2103,7 @@ Figure 2 illustrates a clipping for a curved wall using an _IfcHalfSpaceSolid_ a
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_AdvancedBrep_Geometry_3yTZLrKF5BmBloE2E05I17" />
 				</DocTemplateUsage>
 				<DocTemplateUsage UniqueId="7b23283d-2c56-4262-b1ae-bc2823aee71d" Suppress="true">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="2ec0d4d4-3819-490f-87cd-8ee447c4257c" Type="IfcWallStandardCase" />
@@ -2204,7 +2204,7 @@ As shown in Figure 1, the profile defines the outer boundary to which the window
 * _IfcWindowLiningProperties.FirstMullionOffset_ starting at the left edge of the rectangle (along local z-axis) into the inner side of the rectangle, distance provided as percentage of overall width. Distance to the centre line of the mullion. _SecondMullionOffset_ defined accordingly.
 
 ![&quot;standard window&quot;](../../figures/ifcwindowstandardcase-01.png &quot;Figure 1 &amp;mdash; Window profile&quot;)</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Profile_Geometry_3nRhE_uXFCvVVrLhjEW_L" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Profile_Geometry_3nRhE_$uXFCvVVrLhjEW_L" />
 					<Exchanges>
 						<DocExchangeItem Applicability="export" Requirement="mandatory">
 							<Exchange xsi:type="DocExchangeDefinition" xsi:nil="true" href="Design_Transfer_Exchange_34c6WDp8j0Cgdpp6il2Mz2" />

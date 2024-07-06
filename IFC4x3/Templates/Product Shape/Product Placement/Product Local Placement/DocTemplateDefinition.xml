@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" Name="Product Local Placement" UniqueId="3Bw5jVUH9AGukt7cE$GB9j" Type="IfcProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Local_Placement_3Bw5jVUH9AGukt7cE$GB9j" Name="Product Local Placement" UniqueId="3Bw5jVUH9AGukt7cE$GB9j" Type="IfcProduct">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;

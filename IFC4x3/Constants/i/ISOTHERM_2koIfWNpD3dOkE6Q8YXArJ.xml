@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ISOTHERM_2koIfWNpD3dOkE6Q8YXArJ" Name="ISOTHERM" UniqueId="aec92a60-5f33-439d-8b8e-19a22284ad53">
+	<Documentation>Annotation used to illustrate lines connecting points of equal temperature on a map or chart.
+
+&gt;EXAMPLE Typically used in to show the heating or cooling distribution within a space or to show temperature distribution on a geographic map.</Documentation>
+</DocConstant>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UShape_Profile_Definition_042qRVrDT4Lx_BK8JPdUH" Name="U-Shape Profile Definition" UniqueId="040b46df-d4d7-4457-bf8b-5084ff667791" Type="IfcUShapeProfileDef">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UShape_Profile_Definition_042qRVrDT4Lx_BK8J$PdUH" Name="U-Shape Profile Definition" UniqueId="040b46df-d4d7-4457-bf8b-5084ff667791" Type="IfcUShapeProfileDef">
 	<Rules>
 		<DocModelRuleAttribute Name="ProfileType">
 			<Rules>

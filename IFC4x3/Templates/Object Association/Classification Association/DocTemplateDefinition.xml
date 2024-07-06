@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Classification_Association_1A8aO9PNXCTQFYl_eRbxo" Name="Classification Association" UniqueId="1A8aO9PNXCTQ$FYl_eRbxo" Type="IfcObjectDefinition">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Classification_Association_1A8aO9PNXCTQ$FYl_eRbxo" Name="Classification Association" UniqueId="1A8aO9PNXCTQ$FYl_eRbxo" Type="IfcObjectDefinition">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;
@@ -62,7 +62,7 @@
 																<DocModelRuleEntity Name="IfcText" />
 															</Rules>
 														</DocModelRuleAttribute>
-														<DocModelRuleAttribute Name="Location">
+														<DocModelRuleAttribute Name="Specification">
 															<Rules>
 																<DocModelRuleEntity Name="IfcURIReference" />
 															</Rules>

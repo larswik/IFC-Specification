@@ -1,1 +1,1 @@
-The nominal diameter of the segment.
+Nominal diameter or width of the object.

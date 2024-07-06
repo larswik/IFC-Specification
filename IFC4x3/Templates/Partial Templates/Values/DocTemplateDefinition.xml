@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Values_28jAgf2IL4VB09ZLxV7LE" Name="Values" UniqueId="28jAgf2IL4VB09$ZLxV7LE" Type="IfcSimpleProperty">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Values_28jAgf2IL4VB09$ZLxV7LE" Name="Values" UniqueId="28jAgf2IL4VB09$ZLxV7LE" Type="IfcSimpleProperty">
 	<Rules>
 		<DocModelRuleAttribute Name="Name" Identification="PropertyName">
 			<Rules>

@@ -5,6 +5,7 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de treillis" />
 	</Localization>
 	<Constants>
+		<DocConstant xsi:nil="true" href="STEELSTRAPS_3tBxsQu7XEn9Ysh_1vBFSC" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_2Hd4CtyFn0jR69Km8BDLCa" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_11joGh7RP0jAU3Acy06fWw" />
 	</Constants>

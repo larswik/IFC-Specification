@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SURVEY_0bUzI9_Mz1gOrZ$Cjje63Y" Name="SURVEY" UniqueId="257bd489-f96f-41a9-8d63-fccb6da060e2">
+	<Documentation>Annotation used for survey information, such as survey points, survey lines or survey areas.
+
+&gt;EXAMPLE Typically used in surveying or mapping to indicate the location, elevation, or other relevant data about a specific point or area.
+&gt;NOTE The shape representation of the _IfcAnnotation_ indicates if it is a survey point, survey line, survey area or any other type of representation connected to survey.</Documentation>
+</DocConstant>
+

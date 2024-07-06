@@ -7,11 +7,11 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="WorkStartTime_0Is3I0qXaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WorkFinishTime_0NdEY0qXaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WorkDayDuration_0S_ZC0qXaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WorkWeekDuration_0Yy1G0qXaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WorkMonthDuration_0djCW0qXaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="WorkStartTime_0Is3I0qXaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WorkFinishTime_0NdEY0qXaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WorkDayDuration_0S_ZC0qXaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WorkWeekDuration_0Yy1G0qXaHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WorkMonthDuration_0djCW0qXaHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

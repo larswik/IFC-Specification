@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LEADER_2LaYi9ivzC5xPCTYEno1so" Name="LEADER" UniqueId="95922b09-b39f-4c17-b64c-7623b1c81db2">
+	<Documentation>Annotation that includes a line or arrow.
+
+&gt;EXAMPLE Typically used to connect an object to a specific point of reference or to an explanation.</Documentation>
+</DocConstant>
+

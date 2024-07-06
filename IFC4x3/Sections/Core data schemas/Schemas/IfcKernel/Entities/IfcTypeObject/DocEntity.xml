@@ -5,11 +5,6 @@
 		<DocLocalization Locale="en" Name="Type Object" />
 		<DocLocalization Locale="fr" Name="Définition d&apos;un type d&apos;objet type" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="eb311362-23a8-451e-975a-d7313d037638" DefinedType="IfcTypeProduct" />
-		<DocSubtype UniqueId="6b04c3f5-296e-43e5-b634-d60924303562" DefinedType="IfcTypeProcess" />
-		<DocSubtype UniqueId="41661549-d007-43f8-b89f-a67c030c428e" DefinedType="IfcTypeResource" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ApplicableOccurrence" UniqueId="e324aef5-b4aa-4e62-86f1-0c332beee624" DefinedType="IfcIdentifier" AttributeFlags="1">
 			<Documentation>The attribute optionally defines the data type of the occurrence object, to which the assigned type object can relate. If not present, no instruction is given to which occurrence object the type object is applicable. The following conventions are used:

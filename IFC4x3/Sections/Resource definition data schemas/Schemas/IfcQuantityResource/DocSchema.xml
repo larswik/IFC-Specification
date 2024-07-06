@@ -19,6 +19,7 @@
 				<DocDefinitionRef Name="IfcSIUnit" UniqueId="d8b1d6af-a920-4bfe-9ae7-dabf6e0d8bb8" />
 				<DocDefinitionRef Name="IfcUnitEnum" UniqueId="029330bc-73c2-4727-8d84-0f465c528d42" />
 				<DocDefinitionRef Name="IfcTimeMeasure" UniqueId="c84e694e-553f-4b98-bb7b-3a01f4f700eb" />
+				<DocDefinitionRef Name="IfcNumericMeasure" UniqueId="d8b5416c-003b-4cfb-8da7-e2d12047da14" />
 			</Definitions>
 		</DocSchemaRef>
 	</SchemaRefs>

@@ -5,8 +5,5 @@
 		<DocLocalization Locale="en" Name="Flow Treatment Device" />
 		<DocLocalization Locale="fr" Name="Appareil de traitement de fluide" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="ab07e45f-62ca-4b41-9535-c97b586c601c" DefinedType="IfcElectricFlowTreatmentDevice" />
-	</Subtypes>
 </DocEntity>
 

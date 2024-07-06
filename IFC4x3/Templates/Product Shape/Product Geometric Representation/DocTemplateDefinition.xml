@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Geometric_Representation_0J_MaK6jH1rBgPGHgUoLd" Name="Product Geometric Representation" UniqueId="0J_MaK6jH1rBgPGHgUo$Ld" Type="IfcProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Product_Geometric_Representation_0J_MaK6jH1rBgPGHgUo$Ld" Name="Product Geometric Representation" UniqueId="0J_MaK6jH1rBgPGHgUo$Ld" Type="IfcProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

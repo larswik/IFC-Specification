@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaterialGranular" UniqueId="c36195dd-2ecf-4819-a868-5e1027bf70db" ApplicableType="IfcMaterial" PropertySetType="PSET_MATERIALDRIVEN">
+	<Properties>
+		<DocProperty xsi:nil="true" href="Grading_3hHDlpC554pggyHq6uRDZ7" />
+		<DocProperty xsi:nil="true" href="MaxGrainSize_3YDB6b_Sf2KuuKISWe02i6" />
+	</Properties>
+</DocPropertySet>
+

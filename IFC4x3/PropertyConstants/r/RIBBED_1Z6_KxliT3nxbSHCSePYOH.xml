@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RIBBED_1Z6_KxliT3nxbSHCSePYOH" Name="RIBBED" UniqueId="631be53b-bec7-43c7-b95c-44c728662611" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RIBBED_1Z6_KxliT3nxbSHCSePYOH" Name="RIBBED" UniqueId="631be53b-bec7-43c7-b95c-44c728662611">
+	<Documentation>A ribbed bar section.</Documentation>
+</DocPropertyConstant>
 

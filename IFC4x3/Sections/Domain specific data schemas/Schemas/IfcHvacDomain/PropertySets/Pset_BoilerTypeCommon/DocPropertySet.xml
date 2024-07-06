@@ -9,7 +9,7 @@ SoundLevel属性はIFC2x2 psetの付録で削除された：IfcSoundProperties�
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_1aef_0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Reference_00pQO0qSSHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="Status_1ephq0qSGHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="PressureRating_1rwwm0qSGHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="OperatingMode_1w5yc0qSGHuO00025QrE$V" />

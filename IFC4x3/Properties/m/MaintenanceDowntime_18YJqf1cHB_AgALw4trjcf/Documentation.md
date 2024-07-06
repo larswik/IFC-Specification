@@ -1,1 +1,1 @@
-Maintenance downtime proportion
+Maintenance downtime proportion.

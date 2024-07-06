@@ -7,8 +7,8 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CoolingDesignAirflow_0P_4O0qWiHuO00025QrE$V" />
-		<DocProperty xsi:nil="true" href="HeatingDesignAirflow_0VxYS0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CoolingDesignAirFlow_0P_4O0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingDesignAirFlow_0VxYS0qWiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TotalSensibleHeatGain_0bv0W0qWiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TotalHeatGain_0iSd_0qWiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TotalHeatLoss_0nDpE0qWiHuO00025QrE$V" />

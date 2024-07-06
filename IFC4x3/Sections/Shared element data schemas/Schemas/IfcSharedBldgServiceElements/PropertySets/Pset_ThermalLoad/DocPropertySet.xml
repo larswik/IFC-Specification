@@ -2,6 +2,7 @@
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ThermalLoad" UniqueId="24a750ef-61db-4ae9-be39-2bec99083dc1" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="OccupancyDiversity_0OoXU0qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LightingDiversity_0Wh9m0qRuHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="ApplianceDiversity_00MVq0qX4HuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="OutsideAirPerPerson_0Ul$Y0qX4HuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="ReceptacleLoadIntensity_0ajTc0qX4HuO00025QrE$V" />
@@ -9,6 +10,7 @@
 		<DocProperty xsi:nil="true" href="LightingLoadIntensity_0nEZ80qX4HuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="LightingPercentLoadToReturnAir_0toAc0qX4HuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TotalCoolingLoad_3VaQU0qX0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalHeatingLoad_3axl80qX0HuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="InfiltrationDiversitySummer_0c2UQ0qRuHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="InfiltrationDiversityWinter_0hPp40qRuHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="LoadSafetyFactor_06Jzu0qX4HuO00025QrE$V" />

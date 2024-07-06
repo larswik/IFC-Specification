@@ -9,6 +9,6 @@
 			<Documentation>녹색과 노란색 혼합 색상의 보호 접지 (PE) 도체는 IEC60446의 요구에 따라주의하여 사용.</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CoreColorsEnum" />
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CoreColoursEnum" />
 </DocProperty>
 

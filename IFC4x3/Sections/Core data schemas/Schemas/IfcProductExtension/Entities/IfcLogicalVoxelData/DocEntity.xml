@@ -4,12 +4,10 @@
 		<DocAttribute Name="ValueData" UniqueId="6fe09457-0fcd-47d4-986a-98343b6f51c8" DefinedType="IfcLogical" AggregationType="1" AggregationLower="1">
 			<Documentation>The values assigned to the voxels as raw logical typed data.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="Values" UniqueId="a33d9677-aac6-4fbf-bc1c-89f314eba8ac" DefinedType="IfcLogical" AggregationType="2" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
+		<DocAttribute Name="Values" UniqueId="a33d9677-aac6-4fbf-bc1c-89f314eba8ac" DefinedType="IfcLogical" AggregationType="2" AggregationFlag="1" AggregationLower="1" AggregationUpper="SELF\IfcVoxelData.GridSize">
 			<Documentation>Array of logical values on voxels accessible by the same index as that of the corresponding voxel geometric representation.</Documentation>
 			<Derived>IfcListToExpandedArray(ValueData,1,SELF\IfcVoxelData.GridSize,SELF\IfcProduct.Representation.Representations[1].Items[1]\IfcVoxelGrid.Voxels)</Derived>
-			<Definition>
-				<DocDefinitionRef xsi:nil="true" href="IfcLogical_0H4OYLG_f3dAXVfa$kPCGL" />
-			</Definition>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>
+

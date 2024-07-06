@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaterialSprayedConcrete" UniqueId="de4b0491-95f7-49df-8b65-89d918e51779" ApplicableType="IfcMaterial">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaterialSprayedConcrete" UniqueId="de4b0491-95f7-49df-8b65-89d918e51779" ApplicableType="IfcMaterial" PropertySetType="PSET_MATERIALDRIVEN">
 	<Properties>
 		<DocProperty xsi:nil="true" href="EarlyStrengthDevelopment_0xMZaUlN5EQRS7ruLVPHrd" />
 		<DocProperty xsi:nil="true" href="FibreType_0ZIZhcg8bFQgae_dc42mCB" />

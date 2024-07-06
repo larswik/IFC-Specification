@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaterialSprayedConcrete" UniqueId="de4b0491-95f7-49df-8b65-89d918e51779" ApplicableType="IfcMaterial" PropertySetType="PSET_MATERIALDRIVEN">
+	<Properties>
+		<DocProperty xsi:nil="true" href="EarlyStrengthDevelopment_0xMZaUlN5EQRS7ruLVPHrd" />
+		<DocProperty xsi:nil="true" href="FibreType_0ZIZhcg8bFQgae_dc42mCB" />
+		<DocProperty xsi:nil="true" href="FibreVolumeRatio_1lDCr_KiHEZxCLwJ6YMCr2" />
+		<DocProperty xsi:nil="true" href="FibreLength_2UeiJ9HTnA0RPlmDtOHWGq" />
+		<DocProperty xsi:nil="true" href="FibreDiameter_2AiOsSAiPEYh8W2tTL3V$g" />
+		<DocProperty xsi:nil="true" href="AspectRatio_1fn65ZfW93URZlaV1DMSyD" />
+		<DocProperty xsi:nil="true" href="ResidualTensileStrengthfR1k_2tdtfQJTvDgxR2fqlv2GfM" />
+		<DocProperty xsi:nil="true" href="ResidualTensileStrengthfR3k_3eVnIQ8sXBYxb3JbnYq3du" />
+		<DocProperty xsi:nil="true" href="ResidualTensileStrengthfLk_3rh_yPnNbC7RdUAuRCMnHg" />
+		<DocProperty xsi:nil="true" href="ResidualStrengthStructualClass_2M4sn4MkvDoPCXacy2_xw0" />
+		<DocProperty xsi:nil="true" href="CompressiveStrength24h_3zFO54k7zE$hbebMKr9wo_" />
+		<DocProperty xsi:nil="true" href="CompressiveStrength48h_2wVaHRlavFw8VGNtRRpVJa" />
+		<DocProperty xsi:nil="true" href="EnergyAbsportionCapacity7d_07C5C3$vz6oRj$ZmfzEQj0" />
+		<DocProperty xsi:nil="true" href="EnergyAbsportionCapacity28d_3UejlFN5n7GRaO5BEtDnYA" />
+	</Properties>
+</DocPropertySet>
+

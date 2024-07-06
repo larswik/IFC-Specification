@@ -20,6 +20,9 @@
 		<DocProperty xsi:nil="true" href="OperationalCriteria_2WvVW0qUGHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="PressureCurve_2csza0qUGHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="EfficiencyCurve_2oBmI0qUGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="EfficiencyPoint_2cbW2T9CPEk9B$EXGpp6o5" />
+		<DocProperty xsi:nil="true" href="StaticLoad_35jL348fLEw8Qtk01HBCmU" />
+		<DocProperty xsi:nil="true" href="DynamicLoad_1mwsvedSD15w8oYBVVJ6aM" />
 	</Properties>
 </DocPropertySet>
 

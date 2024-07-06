@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_FanTypeJet" UniqueId="11d84704-aa10-4514-aa7f-522b326565e1" ApplicableType="IfcFan/JET">
+	<Properties>
+		<DocProperty xsi:nil="true" href="NominalThrust_0473J1zsPCffpkaV4GfAVV" />
+		<DocProperty xsi:nil="true" href="EffectiveThrust_1ekGiZJAP4nBsEk83RlhQT" />
+	</Properties>
+</DocPropertySet>
+

@@ -3,10 +3,10 @@
 	<Properties>
 		<DocProperty xsi:nil="true" href="UnitRecharge_0CjjY8gGfAcQfADgdDjQOz" />
 		<DocProperty xsi:nil="true" href="UnitDischarge_2j9UjMlrj7DQqFFjx5YGf1" />
-		<DocProperty xsi:nil="true" href="PermeabilityHoz_0cGG3NyxfEXf7guGaaxUkx" />
-		<DocProperty xsi:nil="true" href="PermeabilityVert_1aKYiWegb7iPXpy4cjfbOY" />
-		<DocProperty xsi:nil="true" href="Transmissivity_1md2GJC9f2MflqkMhIDr4K" />
-		<DocProperty xsi:nil="true" href="StorageCoefficient_36wybY1X62RvbVDalUFnE" />
+		<DocProperty xsi:nil="true" href="HydraulicPermeabilityHorizontal_0cGG3NyxfEXf7guGaaxUkx" />
+		<DocProperty xsi:nil="true" href="HydraulicPermeabilityVertical_1aKYiWegb7iPXpy4cjfbOY" />
+		<DocProperty xsi:nil="true" href="Transmissivity_2iOpQUtFb9RODz2KOn3Z6g" />
+		<DocProperty xsi:nil="true" href="StorageCoefficient_36wybY1$X62RvbVDalUFnE" />
 	</Properties>
 </DocPropertySet>
 

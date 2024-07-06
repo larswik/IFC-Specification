@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaterialSolid" UniqueId="f5e361a5-695b-445a-a32c-a8cbd10864e9" ApplicableType="IfcMaterial">
+	<Properties>
+		<DocProperty xsi:nil="true" href="ZnContent_02nVJY8$5Dmgcog95HvuLM" />
+		<DocProperty xsi:nil="true" href="CuContent_0arger_T9BI8SOL5EIy2u7" />
+		<DocProperty xsi:nil="true" href="PbContent_1CZd8smoT6YPhHy6oCCq8c" />
+		<DocProperty xsi:nil="true" href="CrContent_0ijitX2mHAefsn6tigqyY3" />
+		<DocProperty xsi:nil="true" href="HgContent_1F_XTqiBD9dQNNlCtXJFbZ" />
+		<DocProperty xsi:nil="true" href="NiContent_1dnmq$hVHFi9E_V6sx8uof" />
+		<DocProperty xsi:nil="true" href="AsContent_3gj7BIvwT8S8u8sGvaHIBb" />
+		<DocProperty xsi:nil="true" href="CdContent_0qniTK$wv25vsXuAYWfca9" />
+		<DocProperty xsi:nil="true" href="MnContent_0o8MhlkZ53UQY$AE8JFW5B" />
+		<DocProperty xsi:nil="true" href="OrganicMatterContent_0CMY_nRMTF7vr$SfHyXInr" />
+		<DocProperty xsi:nil="true" href="TS_3TIrUqMFzEHxl56bjVXyxc" />
+	</Properties>
+</DocPropertySet>
+

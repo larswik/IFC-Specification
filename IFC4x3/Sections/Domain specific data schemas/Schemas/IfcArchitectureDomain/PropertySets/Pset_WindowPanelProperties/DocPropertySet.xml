@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_WindowPanelProperties" UniqueId="ea5affcd-c15f-4917-b5fa-5b91486d0301" ApplicableType="IfcPlate,IfcWindow" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="OperationType_33QLs5kbX0BxppsYy98anS" />
+		<DocProperty xsi:nil="true" href="PanelPosition_0G5K7RuE12_RhCLZLW5MP4" />
+		<DocProperty xsi:nil="true" href="FrameDepth_2CF8ENszP0TfWSzgwCUWWp" />
+		<DocProperty xsi:nil="true" href="FrameThickness_2WtA1SnpvExvPSRzEemyhx" />
+	</Properties>
+</DocPropertySet>
+

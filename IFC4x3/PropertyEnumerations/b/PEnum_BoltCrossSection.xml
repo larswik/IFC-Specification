@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_BoltCrossSection" Name="PEnum_BoltCrossSection" UniqueId="a0abea08-9b6f-45af-9178-afd7f28ae0cd">
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="SOLIDBAR_3Df3AZwFj9tRl3X73qCm9g" />
+		<DocPropertyConstant xsi:nil="true" href="HOLLOWBAR_3NrbPwFxz4pR$YwJ0YW5db" />
+		<DocPropertyConstant xsi:nil="true" href="RIBBED_3k5GpjHuPA6edpE71mX$qd" />
+		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
+		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+	</Constants>
+</DocPropertyEnumeration>
+

@@ -5,7 +5,7 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de transition" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="DISCONTINUOUS_3O6KUf0b28RaKUlExt9Ga" />
+		<DocConstant xsi:nil="true" href="DISCONTINUOUS_3O6KU$f0b28RaKUlExt9Ga" />
 		<DocConstant xsi:nil="true" href="CONTINUOUS_1vLzxjc2D5rvhXPoJyqO3l" />
 		<DocConstant xsi:nil="true" href="CONTSAMEGRADIENT_2NsQ9uL0H8VRVdecKRo3j0" />
 		<DocConstant xsi:nil="true" href="CONTSAMEGRADIENTSAMECURVATURE_33vP3DbVT3kwqCasa36Lvn" />

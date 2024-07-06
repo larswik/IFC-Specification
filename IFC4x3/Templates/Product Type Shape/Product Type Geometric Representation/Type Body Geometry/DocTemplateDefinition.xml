@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_Geometry_0wx2q0jBj7QgWX2AubRKn" Name="Type Body Geometry" UniqueId="0wx2q0jBj7QgWX$2AubRKn" Type="IfcTypeProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_Geometry_0wx2q0jBj7QgWX$2AubRKn" Name="Type Body Geometry" UniqueId="0wx2q0jBj7QgWX$2AubRKn" Type="IfcTypeProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="RepresentationMaps">
 			<Rules>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TILTANDTURNRIGHTHAND_344UylNvX4CAtXtafwxG83" Name="TILTANDTURNRIGHTHAND" UniqueId="c411ef2f-5f98-4430-ade1-de4a7aed0203">
+	<Documentation>Panel that opens to the right and is bottom hung.
+
+![right hand tilt and turn](../../figures/ifcwindowpaneloperationenum-fig03.gif)</Documentation>
+</DocPropertyConstant>
+

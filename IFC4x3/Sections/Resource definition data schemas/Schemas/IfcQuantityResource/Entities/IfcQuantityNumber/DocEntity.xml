@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcQuantityNumber" UniqueId="16fe07e3-f3f2-4c92-8bc0-95c6708673b1" BaseDefinition="IfcPhysicalSimpleQuantity" EntityFlags="32">
+	<Attributes>
+		<DocAttribute Name="NumberValue" UniqueId="e5559f5b-5313-4df8-9240-3050c87e3c33" DefinedType="IfcNumericMeasure">
+			<Documentation>Count measure value of this quantity.</Documentation>
+		</DocAttribute>
+		<DocAttribute Name="Formula" UniqueId="99e394a3-25d8-42e0-ac80-f0c6f24e92ec" DefinedType="IfcLabel" AttributeFlags="1">
+			<Documentation>A formula by which the quantity has been calculated. It can be assigned in addition to the actual value of the quantity. Formulas could be mathematic calculations (like width x height), database links, or a combination. The formula is for informational purposes only.
+
+&gt; IFC4 CHANGE Attribute added to the end of the attribute list.</Documentation>
+		</DocAttribute>
+	</Attributes>
+</DocEntity>
+

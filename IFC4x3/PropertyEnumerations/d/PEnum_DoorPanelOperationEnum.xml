@@ -5,7 +5,7 @@
 HISTORY&amp;nbsp; New property enumeration in IFC4.3.2.0 to replace the enumeration IfcDoorPanelOperationEnum</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="DOUBLE_ACTING_2FZDRPdMv0vfXhjhpXh6AU" />
-		<DocPropertyConstant xsi:nil="true" href="FIXED_PANEL_3J8UH1bTnCohldCc_wS9ca" />
+		<DocPropertyConstant xsi:nil="true" href="FIXEDPANEL_3J8UH1bTnCohldCc_wS9ca" />
 		<DocPropertyConstant xsi:nil="true" href="FOLDING_1xByMD_bD1yur1992AlMAr" />
 		<DocPropertyConstant xsi:nil="true" href="REVOLVING_2RUUdvObz0_fXaRggb2UxE" />
 		<DocPropertyConstant xsi:nil="true" href="ROLLINGUP_0cMJK7pTP3Evm2YCqJtI1q" />

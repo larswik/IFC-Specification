@@ -7,6 +7,7 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
+		<DocProperty xsi:nil="true" href="AirFlowType_22N32mXRjDo92Q01qpFItv" />
 		<DocProperty xsi:nil="true" href="AirFlowRate_29tKZHinXF9Pd1BmREa4Pc" />
 		<DocProperty xsi:nil="true" href="AirTerminalLocation_0Fi5g0qRyHuO00025QrE$V" />
 	</Properties>

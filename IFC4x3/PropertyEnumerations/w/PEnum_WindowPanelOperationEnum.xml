@@ -14,20 +14,19 @@ Note:
 
 &gt; HISTORY&amp;nbsp;  New enumeration in IFC2.0.</Documentation>
 	<Constants>
-		<DocPropertyConstant xsi:nil="true" href="SIDEHUNGRIGHTHAND_2dOE_Fm0z7yf9oze6zblxT" />
-		<DocPropertyConstant xsi:nil="true" href="SIDEHUNGLEFTHAND_1kAXtiweHDx9_vOKrbAAPY" />
-		<DocPropertyConstant xsi:nil="true" href="TILTANDTURNRIGHTHAND_344UylNvX4CAtXtafwxG83" />
-		<DocPropertyConstant xsi:nil="true" href="TILTANDTURNLEFTHAND_0wuqnGzML5VQ2aJ9PGmOZ6" />
-		<DocPropertyConstant xsi:nil="true" href="TOPHUNG_1mqVTr5gH6kuc1i6S_Kf08" />
 		<DocPropertyConstant xsi:nil="true" href="BOTTOMHUNG_1kSmsKeKb2QQq5orF0JU6x" />
-		<DocPropertyConstant xsi:nil="true" href="PIVOTHORIZONTAL_0z_Ui7_gzBuP9Stp1TDySs" />
-		<DocPropertyConstant xsi:nil="true" href="PIVOTVERTICAL_1g$PdhgyL9OfivuFz1oPS8" />
-		<DocPropertyConstant xsi:nil="true" href="SLIDINGHORIZONTAL_1ZK3oRLBD7_gxzKMS8TsCQ" />
-		<DocPropertyConstant xsi:nil="true" href="SLIDINGVERTICAL_26PxhoMc19AxE$XHj63l4p" />
-		<DocPropertyConstant xsi:nil="true" href="REMOVABLECASEMENT_1yeEFP3_zAbhviEpcltXZC" />
 		<DocPropertyConstant xsi:nil="true" href="FIXEDCASEMENT_2WAp5u1c55MPhgeNr77GPt" />
 		<DocPropertyConstant xsi:nil="true" href="OTHEROPERATION_39b4zcXO97tvZXUPR1kYeY" />
-		<DocPropertyConstant xsi:nil="true" href="NOTDEFINED_0jPqDBAQ13AQB5eFaJZXjR" />
+		<DocPropertyConstant xsi:nil="true" href="PIVOTHORIZONTAL_0z_Ui7_gzBuP9Stp1TDySs" />
+		<DocPropertyConstant xsi:nil="true" href="PIVOTVERTICAL_1g$PdhgyL9OfivuFz1oPS8" />
+		<DocPropertyConstant xsi:nil="true" href="REMOVABLECASEMENT_1yeEFP3_zAbhviEpcltXZC" />
+		<DocPropertyConstant xsi:nil="true" href="SIDEHUNGLEFTHAND_1kAXtiweHDx9_vOKrbAAPY" />
+		<DocPropertyConstant xsi:nil="true" href="SIDEHUNGRIGHTHAND_2dOE_Fm0z7yf9oze6zblxT" />
+		<DocPropertyConstant xsi:nil="true" href="SLIDINGHORIZONTAL_1ZK3oRLBD7_gxzKMS8TsCQ" />
+		<DocPropertyConstant xsi:nil="true" href="SLIDINGVERTICAL_26PxhoMc19AxE$XHj63l4p" />
+		<DocPropertyConstant xsi:nil="true" href="TILTANDTURNLEFTHAND_0wuqnGzML5VQ2aJ9PGmOZ6" />
+		<DocPropertyConstant xsi:nil="true" href="TILTANDTURNRIGHTHAND_344UylNvX4CAtXtafwxG83" />
+		<DocPropertyConstant xsi:nil="true" href="TOPHUNG_1mqVTr5gH6kuc1i6S_Kf08" />
 		<DocPropertyConstant xsi:nil="true" href="OTHER_0$SAtxxJj15wQA15w2MsIV" />
 		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
 		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />

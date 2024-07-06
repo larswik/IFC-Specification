@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RING_0Bdw3B_nLF5xDn3_ikasMK" Name="RING" UniqueId="0b9fa0cb-fb15-4f17-b371-0feb2e936594">
+	<Documentation>The ring is the basic unit for construction progress in tunneling, and the position of the TBM (Tunnel Boring Machine) can be determined by the ring number. 
+The rings are portions of cylinders with surfaces that can be either parallel or non-parallel, identified below:
+- parallel surfaces: straight ring
+- non parallel surfaces: tapered trapezoidal ring / tapered universal ring
+The ring is composed from _IfcArchElement_ of type _SEGMENT_.</Documentation>
+</DocConstant>
+

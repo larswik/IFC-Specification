@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceAirHandlingDimensioning" UniqueId="7309b3e9-7792-41ca-a55f-8a993a16a8e7" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
-		<DocProperty xsi:nil="true" href="CoolingDesignAirflow_0P_4O0qWiHuO00025QrE$V" />
-		<DocProperty xsi:nil="true" href="HeatingDesignAirflow_0VxYS0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CoolingDesignAirFlow_0P_4O0qWiHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HeatingDesignAirFlow_0VxYS0qWiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="SensibleHeatGain_0cGHfXw5PB$gkctkiMORlw" />
 		<DocProperty xsi:nil="true" href="TotalHeatGain_0iSd_0qWiHuO00025QrE$V" />
 		<DocProperty xsi:nil="true" href="TotalHeatLoss_0nDpE0qWiHuO00025QrE$V" />

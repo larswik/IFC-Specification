@@ -34,6 +34,9 @@
 		<DocAttribute Name="HasApprovals" UniqueId="a25de802-e2fe-47f2-adcd-e56cdc287d21" DefinedType="IfcResourceApprovalRelationship" AttributeFlags="1" AggregationType="3" Inverse="RelatedResourceObjects">
 			<Documentation>User-defined approvals for the property.</Documentation>
 		</DocAttribute>
+		<DocAttribute Name="PartOfMaterialOrProfileProperties" UniqueId="511c11c5-4e6a-45c4-9443-8abaa143e130" DefinedType="IfcExtendedProperties" AttributeFlags="32" AggregationType="3" Inverse="Properties">
+			<Documentation>Reference to the _IfcMaterialProperties_ by which the _IfcProperty_ is referenced.</Documentation>
+		</DocAttribute>
 	</Attributes>
 </DocEntity>
 

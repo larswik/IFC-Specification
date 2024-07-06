@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ReinforcingMeshCommon" UniqueId="e386ce44-d746-45b5-81db-bdf081cfcf98" ApplicableType="IfcReinforcingMesh" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="AreaDensity_2zXs$B2Bz2kxUwiWQyK1Os" />
+		<DocProperty xsi:nil="true" href="CorrosionTreatment_3tiPdiQHXE1RcerDmwYVRN" />
+		<DocProperty xsi:nil="true" href="NumberOfMeshLayers_1xLpRzB018EhsaurxTR7CZ" />
+		<DocProperty xsi:nil="true" href="OverlapLength_0vkCsg8vPFQRRT1mu2QiL9" />
+	</Properties>
+</DocPropertySet>
+

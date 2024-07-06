@@ -3,7 +3,9 @@
 	<Documentation>Enumeration of equipment used to uphold pressure during injection.</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="SINGLE_3KgVX7SpbEdw5z3YsTv3Q5" />
-		<DocPropertyConstant xsi:nil="true" href="DOUBLE_2K_S7o2NL2HRsUIVGxbnC" />
+		<DocPropertyConstant xsi:nil="true" href="DOUBLE_2K_S7o2NL2HRsUI$VGxbnC" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+		<DocPropertyConstant xsi:nil="true" href="NOTDEFINED_0jPqDBAQ13AQB5eFaJZXjR" />
 	</Constants>
 </DocPropertyEnumeration>
 

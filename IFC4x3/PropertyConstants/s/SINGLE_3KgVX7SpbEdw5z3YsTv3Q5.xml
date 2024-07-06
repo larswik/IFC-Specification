@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SINGLE_3KgVX7SpbEdw5z3YsTv3Q5" Name="SINGLE" UniqueId="d4a9f847-7339-4e9f-a17d-0e2d9de43685" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SINGLE_3KgVX7SpbEdw5z3YsTv3Q5" Name="SINGLE" UniqueId="d4a9f847-7339-4e9f-a17d-0e2d9de43685">
+	<Documentation>Single seal to restrict the flow of grout in one direction, volume after packer is grouted.</Documentation>
+</DocPropertyConstant>
 

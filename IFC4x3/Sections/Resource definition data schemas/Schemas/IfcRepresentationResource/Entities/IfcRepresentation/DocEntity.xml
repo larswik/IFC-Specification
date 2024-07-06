@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Representation" />
 		<DocLocalization Locale="fr" Name="Représentation" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="c7c105cd-a928-413c-82f0-76ecc0390210" DefinedType="IfcStyleModel" />
-		<DocSubtype UniqueId="20cf8a6b-5dd6-43b0-8bce-b1fe5f540a4a" DefinedType="IfcShapeModel" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ContextOfItems" UniqueId="6397c6c3-ac2a-4444-874a-e1a8248e1f7c" DefinedType="IfcRepresentationContext" XsdFormat="attribute">
 			<Documentation>Definition of the representation context for which the different subtypes of representation are valid.</Documentation>

@@ -5,9 +5,9 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de prise" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="AUDIOVISUALOUTLET_2R5Bl5DW1FqxBMYkiqKxp" />
+		<DocConstant xsi:nil="true" href="AUDIOVISUALOUTLET_2R5Bl5DW1FqxB$MYkiqKxp" />
 		<DocConstant xsi:nil="true" href="COMMUNICATIONSOUTLET_3y30dxNv92KOulAMzTEPrb" />
-		<DocConstant xsi:nil="true" href="POWEROUTLET_35Rgp9UZ9DUuAqwCw77HU" />
+		<DocConstant xsi:nil="true" href="POWEROUTLET_35Rgp9UZ9DUuAqwCw$77HU" />
 		<DocConstant xsi:nil="true" href="DATAOUTLET_3aJQund7b4yPCzYm9OGcuP" />
 		<DocConstant xsi:nil="true" href="TELEPHONEOUTLET_2bjn67z6vCLueePPMQ8s8x" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_0UTYGhXMD0AQWGqGFDipQW" />

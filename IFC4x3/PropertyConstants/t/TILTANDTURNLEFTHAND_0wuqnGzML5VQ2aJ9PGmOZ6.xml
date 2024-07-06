@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TILTANDTURNLEFTHAND_0wuqnGzML5VQ2aJ9PGmOZ6" Name="TILTANDTURNLEFTHAND" UniqueId="3ae34c50-f565-457d-a0a4-4c9650c188c6">
+	<Documentation>Panel that opens to the left and is bottom hung.
+
+![left turn and tilt](../../figures/ifcwindowpaneloperationenum-fig04.gif)</Documentation>
+</DocPropertyConstant>
+

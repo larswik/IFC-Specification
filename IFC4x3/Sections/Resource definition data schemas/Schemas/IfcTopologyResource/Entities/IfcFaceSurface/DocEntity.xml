@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Fläche - Topologie mit expliziter Geometrie" />
 		<DocLocalization Locale="en" Name="Face Surface" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="bce0b4c9-6566-410f-a46e-3d99a2d0dd29" DefinedType="IfcAdvancedFace" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="FaceSurface" UniqueId="7626166a-83c4-45cd-aaeb-d26d2f7279a4" DefinedType="IfcSurface" XsdFormat="attribute">
 			<Documentation>The surface which defines the internal shape of the face. This surface may be unbounded. The domain of the face is defined by this surface and the bounding loops in the inherited attribute SELF\FaceBounds.</Documentation>

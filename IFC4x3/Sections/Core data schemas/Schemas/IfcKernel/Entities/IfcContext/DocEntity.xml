@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Context" />
 		<DocLocalization Locale="fr" Name="Contexte" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="12e9da3e-91cd-40b9-a562-6c4273080ec3" DefinedType="IfcProject" />
-		<DocSubtype UniqueId="4cf349b3-56f5-4405-badc-5d14bce74222" DefinedType="IfcProjectLibrary" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ObjectType" UniqueId="bb969c4a-579c-4aa1-be1f-9fb4bd873fad" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>The object type denotes a particular type that indicates the object further. The use has to be established at the level of instantiable subtypes. 

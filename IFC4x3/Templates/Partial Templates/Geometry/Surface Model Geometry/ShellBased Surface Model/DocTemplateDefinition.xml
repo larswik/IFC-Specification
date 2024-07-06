@@ -58,7 +58,7 @@
 							<Rules>
 								<DocModelRuleEntity Name="IfcSurfaceStyle">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrrpIILsus" />
+										<DocTemplateDefinition xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrr$pIILsus" />
 									</References>
 								</DocModelRuleEntity>
 							</Rules>

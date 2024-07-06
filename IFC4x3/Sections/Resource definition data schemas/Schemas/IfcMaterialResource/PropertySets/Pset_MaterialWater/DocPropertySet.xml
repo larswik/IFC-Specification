@@ -4,13 +4,23 @@
 		<DocLocalization Locale="en" Name="Material Water" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="IsPotable_0XNIQ0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Hardness_0dKmU0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AlkalinityConcentration_0ii580qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AcidityConcentration_0o3Po0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ImpuritiesContent_0sERe0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DissolvedSolidsContent_0wcu0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="PHLevel_0mo80qUuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="IsPotable_0XNIQ0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Hardness_0dKmU0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AlkalinityConcentration_0ii580qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AcidityConcentration_0o3Po0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ImpuritiesContent_0sERe0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="DissolvedSolidsContent_0w$cu0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="PHLevel_0$mo80qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ElectricalConductivity_0JOFocHPD1Rxfnqm5NX9ca" />
+		<DocProperty xsi:nil="true" href="Temperature_0GSjm0qXCHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="Cl_1AyulzLmb7kh4MInlhCAEO" />
+		<DocProperty xsi:nil="true" href="NO3_2mojFkIZf0RgDdRrAmsAvG" />
+		<DocProperty xsi:nil="true" href="SO42_0U5FAS_db4URK3Zf0YMJDR" />
+		<DocProperty xsi:nil="true" href="HCO3_1Ov1VDlGf0wwH8$gwlFai2" />
+		<DocProperty xsi:nil="true" href="Na_1yejeoaXj1gAsLahNn8Fv1" />
+		<DocProperty xsi:nil="true" href="K_2jm5TRU9TFhudeUCIbbCmE" />
+		<DocProperty xsi:nil="true" href="Mg2_0IKcZxoxn5JhgLbQZ83Wbl" />
+		<DocProperty xsi:nil="true" href="Ca2_10wmfjd5PB5xuqHQBOdisp" />
 	</Properties>
 </DocPropertySet>
 

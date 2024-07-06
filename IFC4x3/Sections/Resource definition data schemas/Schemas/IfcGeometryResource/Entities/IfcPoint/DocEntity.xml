@@ -5,10 +5,11 @@
 		<DocLocalization Locale="en" Name="Point" />
 		<DocLocalization Locale="fr" Name="Point" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="42aa582a-f8ff-4ba3-b01e-c855781466d4" DefinedType="IfcCartesianPoint" />
-		<DocSubtype UniqueId="ab143eb1-5253-496c-bd8f-aec9f06b7375" DefinedType="IfcPointOnCurve" />
-		<DocSubtype UniqueId="c2d18a54-8716-4151-9d8c-a5f39bbdf8e6" DefinedType="IfcPointOnSurface" />
-	</Subtypes>
+	<Attributes>
+		<DocAttribute Name="Dim" UniqueId="637e4d5d-3def-47a6-9dc9-b72243a5ce1e" DefinedType="IfcDimensionCount">
+			<Documentation>The space dimensionality of this abstract class, handled by a function specific for concrete subtypes. Determined by the number of coordinate components in case of IfcCartesianPoint or by the dimensionality of the basis curve or surface in other cases.</Documentation>
+			<Derived>IfcPointDim(SELF)</Derived>
+		</DocAttribute>
+	</Attributes>
 </DocEntity>
 

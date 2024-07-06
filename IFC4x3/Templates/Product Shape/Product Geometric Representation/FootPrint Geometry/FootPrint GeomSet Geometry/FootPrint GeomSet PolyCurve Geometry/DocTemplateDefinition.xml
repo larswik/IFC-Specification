@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FootPrint_GeomSet_PolyCurve_Geometry_0xfYXlcTT42BeF7T8Pdxk" Name="FootPrint GeomSet PolyCurve Geometry" UniqueId="3ba6286f-99d7-4408-ba0f-1dd2199fbfee" Type="IfcProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FootPrint_GeomSet_PolyCurve_Geometry_0xfYXlcTT42BeF7T8Pdx$k" Name="FootPrint GeomSet PolyCurve Geometry" UniqueId="3ba6286f-99d7-4408-ba0f-1dd2199fbfee" Type="IfcProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>
@@ -21,12 +21,12 @@
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
 											<Rules>
-												<DocModelRuleEntity id="IfcLabel_1LF2OmKRaSPXEst5cOwAR" Name="IfcLabel" UniqueId="553c2630-51b9-1c66-13b6-dc5fe663a29b">
+												<DocModelRuleEntity id="IfcLabel_1LF2OmKRaSPXEst5$cOwAR" Name="IfcLabel" UniqueId="553c2630-51b9-1c66-13b6-dc5fe663a29b">
 													<Rules>
 														<DocModelRuleConstraint Name="Value=GeometricCurveSet" Description="Value=GeometricCurveSet">
 															<Expression xsi:type="DocOpStatement" Operation="compareequal">
 																<Reference xsi:type="DocOpReference">
-																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_1LF2OmKRaSPXEst5cOwAR" />
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_1LF2OmKRaSPXEst5$cOwAR" />
 																</Reference>
 																<Value xsi:type="DocOpLiteral" Literal="GeometricCurveSet" />
 															</Expression>

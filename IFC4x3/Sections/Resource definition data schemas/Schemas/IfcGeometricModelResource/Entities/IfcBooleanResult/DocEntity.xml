@@ -5,9 +5,6 @@
 		<DocLocalization Locale="en" Name="Boolean Result" />
 		<DocLocalization Locale="fr" Name="Résultat booléen" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="8f32808e-282c-4d21-a563-2ca210fb5149" DefinedType="IfcBooleanClippingResult" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Operator" UniqueId="970f0683-6cee-4eb2-9e10-0b31f03b0528" DefinedType="IfcBooleanOperator">
 			<Documentation>The Boolean operator used in the operation to create the result.</Documentation>

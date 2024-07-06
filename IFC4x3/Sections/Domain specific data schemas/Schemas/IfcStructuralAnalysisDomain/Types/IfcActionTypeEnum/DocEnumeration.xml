@@ -5,10 +5,10 @@
 		<DocLocalization Locale="fr" Name="Énumération des types d&apos;action" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="PERMANENT_G_0aQaI9XX71RQr8s9EAXo" />
-		<DocConstant xsi:nil="true" href="VARIABLE_Q_1Ci6hAtY1BAOeHrhY1kFb" />
+		<DocConstant xsi:nil="true" href="PERMANENT_G_0aQaI$9XX71RQr8s9$EAXo" />
+		<DocConstant xsi:nil="true" href="VARIABLE_Q_1Ci6hAtY1BAOeHr$hY1kFb" />
 		<DocConstant xsi:nil="true" href="EXTRAORDINARY_A_3RFMU_4Rv65BXHnJCSeHJM" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_3ghGlYpnEEPay974eoQ4A" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_3ghG$lYpnEEPay974eoQ4A" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_14HMmmoBr4fRrMUBjyb6BI" />
 	</Constants>
 </DocEnumeration>

@@ -4,7 +4,7 @@
 		<DocLocalization Locale="en" Name="Solar Device Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossWeight_0GIhJlcr1_OvDjxkjhZz8" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_0GI$hJlcr1_OvDjxkjhZz8" />
 		<DocQuantity xsi:nil="true" href="GrossArea_07WxT01B12WP6OkgfBTD0k" />
 	</Quantities>
 </DocQuantitySet>

@@ -6,7 +6,7 @@
 		<DocLocalization Locale="fr" Name="Opérateur booléen" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="UNION_2d1BggvrHB4PIVkoX8PQk" />
+		<DocConstant xsi:nil="true" href="UNION_2d1BggvrHB4PIVkoX8$PQk" />
 		<DocConstant xsi:nil="true" href="INTERSECTION_2LP7osmBD9BeXr14KatUZF" />
 		<DocConstant xsi:nil="true" href="DIFFERENCE_3OZeFZJ8r2ZePPiIXu27On" />
 	</Constants>

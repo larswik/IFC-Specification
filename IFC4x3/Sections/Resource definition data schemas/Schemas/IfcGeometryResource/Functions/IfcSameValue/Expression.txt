@@ -1,5 +1,5 @@
-	(Value1, Value2 : REAL; Epsilon : REAL)
-	: LOGICAL;
+  (Value1, Value2 : REAL; Epsilon : REAL)
+  : LOGICAL;
   LOCAL
     ValidEps    : REAL;
     DefaultEps  : REAL := 0.000001;

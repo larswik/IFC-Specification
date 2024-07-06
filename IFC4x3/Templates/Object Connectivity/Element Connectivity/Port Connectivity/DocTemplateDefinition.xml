@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Port_Connectivity_0MeHlCh55bRkmnAq5FQia" Name="Port Connectivity" UniqueId="0M$eHlCh55bRkmnAq5FQia" Type="IfcDistributionPort">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Port_Connectivity_0M$eHlCh55bRkmnAq5FQia" Name="Port Connectivity" UniqueId="0M$eHlCh55bRkmnAq5FQia" Type="IfcDistributionPort">
 	<Localization>
 		<DocLocalization Locale="tt">
 			<Documentation>&lt;TemplateRules operator=&quot;and&quot;&gt;

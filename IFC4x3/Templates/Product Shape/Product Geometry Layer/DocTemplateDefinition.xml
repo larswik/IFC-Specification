@@ -13,7 +13,7 @@
 											<Rules>
 												<DocModelRuleEntity Name="IfcPresentationLayerAssignment" UniqueId="d72af553-5df9-4830-8188-fbe5feb6e8f1">
 													<References>
-														<DocTemplateDefinition xsi:nil="true" href="Layer_2Px3KhQ9BUQe1b3_Zs3Jn" />
+														<DocTemplateDefinition xsi:nil="true" href="Layer_2P$x3KhQ9BUQe1b3_Zs3Jn" />
 													</References>
 												</DocModelRuleEntity>
 											</Rules>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RadialJointType_0Td7PHpJb2JQKm0I0w16ak" Name="RadialJointType" UniqueId="1d9c7651-cd39-424d-a530-01203a04692e" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SegmentJointType" />
+</DocProperty>
+

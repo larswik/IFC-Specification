@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ProtectiveDeviceTypeEarthingSwitch" UniqueId="f3c8bce8-1e29-4630-832d-62ba8eed79c4" ApplicableType="IfcProtectiveDevice/EARTHINGSWITCH">
+	<Properties>
+		<DocProperty xsi:nil="true" href="NumberOfPhases_1BIplyxBLFfuml0KvHZ1y2" />
+	</Properties>
+</DocPropertySet>
+

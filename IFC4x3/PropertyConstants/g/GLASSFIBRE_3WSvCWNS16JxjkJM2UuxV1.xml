@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GLASSFIBRE_3WSvCWNS16JxjkJM2UuxV1" Name="GLASSFIBRE" UniqueId="e0739320-5dc0-464f-bb6e-4d609ee3b7c1" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GLASSFIBRE_3WSvCWNS16JxjkJM2UuxV1" Name="GLASSFIBRE" UniqueId="e0739320-5dc0-464f-bb6e-4d609ee3b7c1">
+	<Documentation>Glassfibre.</Documentation>
+</DocPropertyConstant>
 

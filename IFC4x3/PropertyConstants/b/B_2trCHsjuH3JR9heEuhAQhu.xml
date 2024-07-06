@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="B_2trCHsjuH3JR9heEuhAQhu" Name="B" UniqueId="b7d4c476-b784-434d-b26b-a0ee2b29aaf8" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="B_2trCHsjuH3JR9heEuhAQhu" Name="B" UniqueId="b7d4c476-b784-434d-b26b-a0ee2b29aaf8">
+	<Documentation>Class B.</Documentation>
+</DocPropertyConstant>
 

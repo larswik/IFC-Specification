@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MACRO_POLYPROPYLEN_34oBiVetTFUwwVRAxaG5z9" Name="MACRO_POLYPROPYLEN" UniqueId="c4c8bb1f-a377-4f7b-ae9f-6caee4405f49" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MACRO_POLYPROPYLEN_34oBiVetTFUwwVRAxaG5z9" Name="MACRO_POLYPROPYLEN" UniqueId="c4c8bb1f-a377-4f7b-ae9f-6caee4405f49">
+	<Documentation>Macro polypropylen fibre.</Documentation>
+</DocPropertyConstant>
 

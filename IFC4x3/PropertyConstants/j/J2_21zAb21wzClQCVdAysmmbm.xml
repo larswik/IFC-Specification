@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="J2_21zAb21wzClQCVdAysmmbm" Name="J2" UniqueId="81f4a942-07af-4cbd-a31f-9caf36c30970" />
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="J2_21zAb21wzClQCVdAysmmbm" Name="J2" UniqueId="81f4a942-07af-4cbd-a31f-9caf36c30970">
+	<Documentation>Class J2.</Documentation>
+</DocPropertyConstant>
 

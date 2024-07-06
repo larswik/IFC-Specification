@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Complementary_Data_Composition_0MQ9I7W893NeanpjChteY" Name="Complementary Data Composition" UniqueId="16689487-8082-435e-893f-c73b4caf7a22" Type="IfcComplementaryData">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Complementary_Data_Composition_0MQ9I7W893Nea$npjChteY" Name="Complementary Data Composition" UniqueId="16689487-8082-435e-893f-c73b4caf7a22" Type="IfcComplementaryData">
 	<Rules>
 		<DocModelRuleAttribute Name="Decomposes" Identification="Decomposes">
 			<Rules>

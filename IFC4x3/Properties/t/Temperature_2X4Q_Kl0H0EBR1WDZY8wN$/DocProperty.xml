@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Temperature_2X4Q_Kl0H0EBR1WDZY8wN$" Name="Temperature" UniqueId="a111af94-bc04-4038-b6c1-80d8e223a5ff" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure" />
+

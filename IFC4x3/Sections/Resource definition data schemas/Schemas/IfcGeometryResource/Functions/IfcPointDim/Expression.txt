@@ -1,0 +1,16 @@
+ (Point : IfcPoint)
+ : IfcDimensionCount;
+ 
+  IF ('IFCGEOMETRYRESOURCE.IFCCARTESIANPOINT' IN TYPEOF(Point))
+    THEN RETURN(HIINDEX(Point\IfcCartesianPoint.Coordinates));
+  END_IF;
+  IF ('IFCGEOMETRYRESOURCE.IFCPOINTBYDISTANCEEXPRESSION' IN TYPEOF(Point))
+    THEN RETURN(Point\IfcPointByDistanceExpression.BasisCurve.Dim);
+  END_IF;
+  IF ('IFCGEOMETRYRESOURCE.IFCPOINTONCURVE' IN TYPEOF(Point))
+    THEN RETURN(Point\IfcPointOnCurve.BasisCurve.Dim);
+  END_IF;
+  IF ('IFCGEOMETRYRESOURCE.IFCPOINTONSURFACE' IN TYPEOF(Point))
+    THEN RETURN(Point\IfcPointOnSurface.BasisSurface.Dim);
+  END_IF;
+  RETURN (?);

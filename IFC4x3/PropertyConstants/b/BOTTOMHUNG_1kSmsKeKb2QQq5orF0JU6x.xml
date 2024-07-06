@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BOTTOMHUNG_1kSmsKeKb2QQq5orF0JU6x" Name="BOTTOMHUNG" UniqueId="6e730d94-a149-4269-ad05-cb53c04de1bb">
+	<Documentation>Panel is bottom hung.
+
+![bottom hung](../../figures/ifcwindowpaneloperationenum-fig06.gif)</Documentation>
+</DocPropertyConstant>
+

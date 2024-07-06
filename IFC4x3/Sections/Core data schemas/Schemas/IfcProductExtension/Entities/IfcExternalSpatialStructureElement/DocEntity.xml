@@ -5,8 +5,5 @@
 		<DocLocalization Locale="en" Name="External Spatial Structure Element" />
 		<DocLocalization Locale="fr" Name="Elément de la structure spatiale extérieure" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="998c5217-9c4a-4cb9-b147-7e0043f93cba" DefinedType="IfcExternalSpatialElement" />
-	</Subtypes>
 </DocEntity>
 

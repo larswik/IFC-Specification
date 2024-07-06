@@ -48,7 +48,31 @@
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="Items" Identification="Items">
 											<Rules>
-												<DocModelRuleEntity Name="IfcVoxelGrid" />
+												<DocModelRuleEntity Name="IfcVoxelGrid">
+													<Rules>
+														<DocModelRuleAttribute Name="HasColours">
+															<Rules>
+																<DocModelRuleEntity Name="IfcIndexedColourMap">
+																	<Rules>
+																		<DocModelRuleAttribute Name="Colours">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcColourRgbList">
+																					<Rules>
+																						<DocModelRuleAttribute Name="ColourList">
+																							<Rules>
+																								<DocModelRuleEntity Name="IfcNormalisedRatioMeasure" />
+																							</Rules>
+																						</DocModelRuleAttribute>
+																					</Rules>
+																				</DocModelRuleEntity>
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
 											</Rules>
 										</DocModelRuleAttribute>
 									</Rules>

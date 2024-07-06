@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_AdvancedSwept_DiskSolid_PolyCurve_Geometry_0S8aGf5H900B6VqnAV6h" Name="Body AdvancedSwept DiskSolid PolyCurve Geometry" UniqueId="1c224429-1512-4000-bfff-19fd3129f1ab" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_AdvancedSwept_DiskSolid_PolyCurve_Geometry_0S8aGf5H900B$$6VqnAV6h" Name="Body AdvancedSwept DiskSolid PolyCurve Geometry" UniqueId="1c224429-1512-4000-bfff-19fd3129f1ab" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

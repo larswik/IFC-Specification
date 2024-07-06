@@ -7,17 +7,17 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="SensibleEffectiveness_1WT8C0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalEffectiveness_1a20e0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TemperatureEffectiveness_1dcv40qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DefrostTemperatureEffectiveness_1iO4K0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HumidityEffectiveness_1lMpM0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SensibleHeatTransferRate_1pXrC0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LatentHeatTransferRate_1tit20qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalHeatTransferRate_1xHlU0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SensibleEffectivenessTable_1_sdw0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalEffectivenessTable_22RWM0qS0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirPressureDropCurves_260Oo0qS0HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="SensibleEffectiveness_1WT8C0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalEffectiveness_1a20e0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TemperatureEffectiveness_1dcv40qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="DefrostTemperatureEffectiveness_1iO4K0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HumidityEffectiveness_1lMpM0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SensibleHeatTransferRate_1pXrC0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LatentHeatTransferRate_1tit20qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalHeatTransferRate_1xHlU0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SensibleEffectivenessTable_1_sdw0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="TotalEffectivenessTable_22RWM0qS0HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AirPressureDropCurves_260Oo0qS0HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

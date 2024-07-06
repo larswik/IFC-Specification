@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Property" />
 		<DocLocalization Locale="fr" Name="Propriété" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e32a11ea-5ca4-43fa-a4c3-2b856cb51bed" DefinedType="IfcComplexProperty" />
-		<DocSubtype UniqueId="13fa34e0-6a71-4ef7-ac7a-20ca058ac8e1" DefinedType="IfcSimpleProperty" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="cec40e31-025d-4bcc-ae89-09d7916a8ee6" DefinedType="IfcIdentifier">
 			<Documentation>Name for this property. This label is the significant name string that defines the semantic meaning for the property.</Documentation>
@@ -37,6 +33,9 @@
 		</DocAttribute>
 		<DocAttribute Name="HasApprovals" UniqueId="a25de802-e2fe-47f2-adcd-e56cdc287d21" DefinedType="IfcResourceApprovalRelationship" AttributeFlags="1" AggregationType="3" Inverse="RelatedResourceObjects">
 			<Documentation>User-defined approvals for the property.</Documentation>
+		</DocAttribute>
+		<DocAttribute Name="PartOfMaterialOrProfileProperties" UniqueId="511c11c5-4e6a-45c4-9443-8abaa143e130" DefinedType="IfcExtendedProperties" AttributeFlags="32" AggregationType="3" Inverse="Properties">
+			<Documentation>Reference to the _IfcMaterialProperties_ by which the _IfcProperty_ is referenced.</Documentation>
 		</DocAttribute>
 	</Attributes>
 </DocEntity>

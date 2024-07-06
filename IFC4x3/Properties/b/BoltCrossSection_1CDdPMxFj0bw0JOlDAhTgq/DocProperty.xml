@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BoltCrossSection_1CDdPMxFj0bw0JOlDAhTgq" Name="BoltCrossSection" UniqueId="4c367656-ecfb-4097-a013-62f34aaddab4" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BoltCrossSection" />
+</DocProperty>
+

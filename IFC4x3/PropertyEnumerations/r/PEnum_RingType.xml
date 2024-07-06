@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_RingType" Name="PEnum_RingType" UniqueId="5b77ae29-cd7c-4855-a009-dd3c8328f12c">
+	<Documentation>Enumeration of the differennt types of rings for tunneling.</Documentation>
+	<Constants>
+		<DocPropertyConstant xsi:nil="true" href="UNIVERSAL_3Hj28uW759TQTfl6vNKcMr" />
+		<DocPropertyConstant xsi:nil="true" href="CONICAL_26RuieLNzFzgzGBCuts7cB" />
+		<DocPropertyConstant xsi:nil="true" href="PARALLEL_3lJJ0s6nr5eOwnkdiq2IaG" />
+		<DocPropertyConstant xsi:nil="true" href="PARALLEL_WITH_CORRECTIVE_RINGS_3CMdaJ0BDCQg7JquajrJyX" />
+		<DocPropertyConstant xsi:nil="true" href="SWISS_TBBING_3vXlScVwfBgv5kMIoxKGRM" />
+		<DocPropertyConstant xsi:nil="true" href="INVERT_SEGMENT_WITH_SHOTCRETE_0ioCsK3H1CjgP5V2Oh9RYy" />
+		<DocPropertyConstant xsi:nil="true" href="HEXAGONAL_2Jr9$rap1CU8tgt$57FRl1" />
+		<DocPropertyConstant xsi:nil="true" href="UNSET_01y959UgrAlvv6_W__S9Ap" />
+		<DocPropertyConstant xsi:nil="true" href="NOTKNOWN_0_n254Fb10hBW_0_XIj7Qe" />
+		<DocPropertyConstant xsi:nil="true" href="USERDEFINED_0Zv$AHCrH7DxadSqdf_R3O" />
+	</Constants>
+</DocPropertyEnumeration>
+

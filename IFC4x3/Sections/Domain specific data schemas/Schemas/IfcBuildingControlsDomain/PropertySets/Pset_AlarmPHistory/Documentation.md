@@ -1,1 +1,1 @@
-Properties for history of alarm values.  HISTORY: Added in IFC4.
+Properties for history of alarm values. HISTORY: Added in IFC4.

@@ -5,7 +5,7 @@
 		<DocLocalization Locale="fr" Name="Enumération des opérateurs logiques" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="LOGICALAND_2rSB8RdX96Bf3Jjyt4RGQ" />
+		<DocConstant xsi:nil="true" href="LOGICALAND_2rSB8RdX96Bf3Jjyt$4RGQ" />
 		<DocConstant xsi:nil="true" href="LOGICALOR_3W8fWu4mH79Rn6smiiz1Ks" />
 		<DocConstant xsi:nil="true" href="LOGICALXOR_14LcwTZcj2_fCgnDbLaVaj" />
 		<DocConstant xsi:nil="true" href="LOGICALNOTAND_2UyOUFiLTF0xjLfYhIcWIz" />

@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="gleichmäßige / veränderliche Flächenlast" />
 		<DocLocalization Locale="en" Name="Structural Surface Action" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="8c035ad7-c41a-43fe-9758-c54864df56d5" DefinedType="IfcStructuralPlanarAction" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="ProjectedOrTrue" UniqueId="2cd91061-4164-40c9-9628-113db3c9b6a0" DefinedType="IfcProjectedOrTrueLengthEnum" AttributeFlags="1">
 			<Documentation>Defines whether load values are given per true lengths of the surface on which they act, or per lengths of the projection of the surface in load direction.  The latter is only applicable to loads which act in global coordinate directions.</Documentation>

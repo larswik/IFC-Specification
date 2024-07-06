@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirFlowCurve_3XzvE1K1L4qhIMCR0uz5em" Name="AirFlowCurve" UniqueId="e1f79381-5015-44d2-b496-31b038f45a30" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcReal" />
+

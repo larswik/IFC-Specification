@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TensileStrength_0hLYMBp_XD19T1MBlKy5SN" Name="TensileStrength" UniqueId="2b56258b-cfe8-4d04-9741-58bbd4f05717" PropertyType="p_tablevalue" PrimaryDataType="IfcPositivePlaneAngleMeasure" SecondaryDataType="IfcPressureMeasure" />
+

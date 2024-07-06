@@ -2,12 +2,12 @@
 <DocEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcAlignmentCantSegmentTypeEnum" UniqueId="77d2a9ff-1eda-4ab7-9ebc-cbf870152c8f">
 	<Constants>
 		<DocConstant xsi:nil="true" href="BLOSSCURVE_0hYbIcTB5DJhg8TxL3hntC" />
-		<DocConstant xsi:nil="true" href="CONSTANTCANT_293sF9bKzF58CtLOqiX9A" />
-		<DocConstant xsi:nil="true" href="COSINECURVE_1EPwu89RnE2wALkEQYGUK" />
-		<DocConstant xsi:nil="true" href="HELMERTCURVE_1qak5zKIL9hepxekxNx60" />
-		<DocConstant xsi:nil="true" href="LINEARTRANSITION_0_mNESnIj88wTzLNr1a61" />
+		<DocConstant xsi:nil="true" href="CONSTANTCANT_293sF9bKzF58$CtLOqiX9A" />
+		<DocConstant xsi:nil="true" href="COSINECURVE_1EPwu89RnE2wA$LkEQYGUK" />
+		<DocConstant xsi:nil="true" href="HELMERTCURVE_1qak5zKIL9hepxekxNx$60" />
+		<DocConstant xsi:nil="true" href="LINEARTRANSITION_0_mNESnIj88wTzLNr1a6$1" />
 		<DocConstant xsi:nil="true" href="SINECURVE_3jBKjsnmX4QA73Bh_qTnj0" />
-		<DocConstant xsi:nil="true" href="VIENNESEBEND_2Z8G0iUzb0sQDw_7tEcwv" />
+		<DocConstant xsi:nil="true" href="VIENNESEBEND_2Z8G0iUzb0sQDw_7$tEcwv" />
 	</Constants>
 </DocEnumeration>
 

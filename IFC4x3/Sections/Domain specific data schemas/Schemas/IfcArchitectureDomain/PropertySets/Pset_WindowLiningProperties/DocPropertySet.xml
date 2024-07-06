@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_WindowLiningProperties" UniqueId="e9e1176b-aa47-4b9a-8115-cf28b5cf6541" ApplicableType="IfcMember,IfcWindow" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="LiningDepth_1atVjJ$Sv83QJrcnVw6dEN" />
+		<DocProperty xsi:nil="true" href="LiningThickness_2F6K$8L5H9ffpQ$GwVOHM9" />
+		<DocProperty xsi:nil="true" href="TransomThickness_1HhMZXQO53UghvJldSghYj" />
+		<DocProperty xsi:nil="true" href="MullionThickness_0JOZR$$rr36wx2ZT$auLC5" />
+		<DocProperty xsi:nil="true" href="FirstTransomOffset_0bwI_yex59aARczKSEUAUL" />
+		<DocProperty xsi:nil="true" href="SecondTransomOffset_2kBLHfMdz1sR5512bDOKd_" />
+		<DocProperty xsi:nil="true" href="FirstMullionOffset_3EXrkSznnAZeQvW3rVzop0" />
+		<DocProperty xsi:nil="true" href="SecondMullionOffset_03UAKEgVLDQg8tMaHW3vDr" />
+		<DocProperty xsi:nil="true" href="LiningOffset_043uIBEdfCSBmgT2Iqxz1k" />
+		<DocProperty xsi:nil="true" href="LiningToPanelOffsetX_2qOaLgNMvDYAhH_qO9ORRY" />
+		<DocProperty xsi:nil="true" href="LiningToPanelOffsetY_1ROGiXiRP7GRCBWrJKxDo1" />
+	</Properties>
+</DocPropertySet>
+

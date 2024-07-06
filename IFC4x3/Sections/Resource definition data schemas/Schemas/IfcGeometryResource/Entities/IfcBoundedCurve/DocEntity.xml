@@ -5,12 +5,5 @@
 		<DocLocalization Locale="en" Name="Bounded Curve" />
 		<DocLocalization Locale="fr" Name="Courbe englobée" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f26a9f3d-86ba-4b32-bb50-045cc530c642" DefinedType="IfcCompositeCurve" />
-		<DocSubtype UniqueId="b61b5d12-b5b5-4c03-82ac-4fb4822b9966" DefinedType="IfcPolyline" />
-		<DocSubtype UniqueId="3b90c35b-9fde-49ea-b300-129b7527f10e" DefinedType="IfcTrimmedCurve" />
-		<DocSubtype UniqueId="84721ed9-251f-4618-a628-9b0b4d93f5b4" DefinedType="IfcBSplineCurve" />
-		<DocSubtype UniqueId="41758c41-49aa-4e8b-a61e-ec6a47d94d66" DefinedType="IfcIndexedPolyCurve" />
-	</Subtypes>
 </DocEntity>
 

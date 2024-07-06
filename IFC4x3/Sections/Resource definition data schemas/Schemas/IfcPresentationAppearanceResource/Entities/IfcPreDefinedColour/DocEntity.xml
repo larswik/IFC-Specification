@@ -5,8 +5,5 @@
 		<DocLocalization Locale="en" Name="Pre Defined Colour" />
 		<DocLocalization Locale="fr" Name="Couleur pré-définie" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e452cda5-d528-4a8e-ac69-4f906dc878c6" DefinedType="IfcDraughtingPreDefinedColour" />
-	</Subtypes>
 </DocEntity>
 

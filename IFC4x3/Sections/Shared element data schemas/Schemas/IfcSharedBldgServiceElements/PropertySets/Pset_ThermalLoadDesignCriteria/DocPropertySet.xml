@@ -7,12 +7,12 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="OccupancyDiversity_0OoXU0qX4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="OutsideAirPerPerson_0UlY0qX4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ReceptacleLoadIntensity_0ajTc0qX4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AppliancePercentLoadToRadiant_0ggxg0qX4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LightingLoadIntensity_0nEZ80qX4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LightingPercentLoadToReturnAir_0toAc0qX4HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="OccupancyDiversity_0OoXU0qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="OutsideAirPerPerson_0Ul$Y0qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ReceptacleLoadIntensity_0ajTc0qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="AppliancePercentLoadToRadiant_0ggxg0qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LightingLoadIntensity_0nEZ80qX4HuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LightingPercentLoadToReturnAir_0toAc0qX4HuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Document_Association_1zhQwS02P4qwtdceGukyB" Name="Document Association" UniqueId="1zhQwS02P4qwtdceG$ukyB" Type="IfcObjectDefinition">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Document_Association_1zhQwS02P4qwtdceG$ukyB" Name="Document Association" UniqueId="1zhQwS02P4qwtdceG$ukyB" Type="IfcObjectDefinition">
 	<Rules>
 		<DocModelRuleAttribute Name="HasAssociations">
 			<Rules>

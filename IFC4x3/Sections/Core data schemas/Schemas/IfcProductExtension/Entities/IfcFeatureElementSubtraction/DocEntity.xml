@@ -4,10 +4,6 @@
 		<DocLocalization Locale="de" Name="Modifikator (geometrischer Körper) - Subtraktion" />
 		<DocLocalization Locale="en" Name="Feature Element Subtraction" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="134ba1d7-27ea-4af4-aedb-8bf6b9431a32" DefinedType="IfcOpeningElement" />
-		<DocSubtype UniqueId="18fc4215-47e1-4894-a026-cd55d8ae789a" DefinedType="IfcEarthworksCut" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="VoidsElements" UniqueId="094eb37f-0822-4b0d-9fcc-e87be21592b4" DefinedType="IfcRelVoidsElement" AttributeFlags="8" Inverse="RelatedOpeningElement">
 			<Documentation>Reference to the Voids Relationship that uses this Opening Element to create a void within an Element. The Opening Element can only be used to create a single void within a single Element.</Documentation>

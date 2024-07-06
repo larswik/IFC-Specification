@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IfcCoordinateReferenceSystem" Name="IfcCoordinateReferenceSystem" UniqueId="55d837bf-64b2-4c83-9324-044e57cbaa9f" EntityFlags="197">
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcCoordinateReferenceSystem" UniqueId="55d837bf-64b2-4c83-9324-044e57cbaa9f" EntityFlags="197">
 	<Localization>
 		<DocLocalization Locale="de" Name="Koordinatenbezugssystem" />
 		<DocLocalization Locale="en" Name="Coordinate Reference System" />
 		<DocLocalization Locale="fr" Name="Système de coordonnées de référence" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="065cabab-0e6e-4c55-92fa-b7a1fcf53185" DefinedType="IfcProjectedCRS" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="c63d80a5-78a4-45e3-bf15-d9302cdb83f2" DefinedType="IfcLabel" AttributeFlags="1">
 			<Documentation>Name by which the coordinate reference system is identified.
 &gt; NOTE 1&amp;nbsp; The name shall be taken from the list recognized by the European Petroleum Survey Group EPSG. It should then be qualified by the EPSG name space, for example as &apos;EPSG:5555&apos;.
 { .extDef}
+
 &gt; NOTE 2&amp;nbsp; The name shall be &apos;WKT&apos; if an EPSG code does not exist for the CRS.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="Description" UniqueId="57c4c379-aba3-4224-8587-dca78467e649" DefinedType="IfcText" AttributeFlags="1">
@@ -20,7 +18,6 @@
 
 { .extDef}
 &gt; NOTE&amp;nbsp; In case Name equals &apos;WKT&apos; the Description is well-known text that corresponds to ISO 19162 definition specifying the necessary parameters for the coordinate reference system.
-
 Example for ellipsoid:
 ELLIPSOID[&amp;lt;name&amp;gt;,&amp;lt;major axis&amp;gt;,&amp;lt;inverse flattening&amp;gt;,&amp;lt;length unit&amp;gt;]</Documentation>
 		</DocAttribute>
@@ -36,19 +33,17 @@ ELLIPSOID[&amp;lt;name&amp;gt;,&amp;lt;major axis&amp;gt;,&amp;lt;inverse flatte
 		<DocAttribute Name="HasCoordinateOperation" UniqueId="83795333-6df7-46ac-b61e-5101640f8615" DefinedType="IfcCoordinateOperation" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="SourceCRS" XsdFormat="attribute">
 			<Documentation>Indicates conversion between coordinate systems. In particular it refers to an _IfcCoordinateOperation_ between this coordinate reference system, and another Geographic coordinate reference system.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="HasWellKnownTextRepresentation" UniqueId="9b9f3bbc-d2fc-4157-a1c7-9a86730b2575" DefinedType="IfcWellKnownText" AttributeFlags="1" Inverse="CoordinateReferenceSystem">
-			<Documentation>Well known text (string) according to ISO 19162.
-
-&gt;NOTE If an EPSG code is given in _Name_, the WKT (if present) shall be the representation of the EPSG. In case of not matching, the EPSG code in _Name_ takes precedence.</Documentation>
+		<DocAttribute Name="WellKnownText" UniqueId="62de09ba-6cdd-4721-8b8f-2f1674dab9ba" DefinedType="IfcWellKnownText" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="CoordinateReferenceSystem">
+			<Documentation>Well Known Text (WKT) definition for this coordinate reference system inversely associated as a _IfcWellKnownText_ entity.</Documentation>
 			<Definition>
 				<DocEntity xsi:nil="true" href="IfcWellKnownText" />
 			</Definition>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="CoordinateSystemSpecified" UniqueId="72c056ab-f8e2-4c95-80f4-3a41604c4d90">
-			<Documentation>Ensures that the coordinate reference system is properly specified by either a reference to an EPSG code in _Name_ or a well known text in _HasWellKnownTextRepresentation_.</Documentation>
-			<Expression>EXISTS(SELF.Name) OR EXISTS(SELF.HasWellKnownTextRepresentation)</Expression>
+		<DocWhereRule Name="NameOrWKT" UniqueId="a8da59c5-e6e6-4f43-bb3c-8ad67c513a50">
+			<Documentation>Ensures that the coordinate reference system is properly specified by either a reference to an EPSG code in _Name_ or a well known text in _WellKnownText_.</Documentation>
+			<Expression>(HIINDEX(WellKnownText) = 1) OR EXISTS(Name)</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

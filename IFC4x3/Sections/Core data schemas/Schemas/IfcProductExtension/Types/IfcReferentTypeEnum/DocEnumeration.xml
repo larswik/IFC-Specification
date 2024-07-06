@@ -4,12 +4,16 @@
 		<DocLocalization Locale="en" Name="Referent Type Enum" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="STATION_3mZYci1kzBIfEoa0zx_hua" />
-		<DocConstant xsi:nil="true" href="REFERENCEMARKER_37hLLOhCD2TeXGmYxseRku" />
-		<DocConstant xsi:nil="true" href="LANDMARK_2T_Mjk41nC4Rw2antpeR1i" />
 		<DocConstant xsi:nil="true" href="BOUNDARY_3q7n1HNHLAyflKLDtQrdbK" />
 		<DocConstant xsi:nil="true" href="INTERSECTION_0zqNMuub18ohwzalcYuHnk" />
+		<DocConstant xsi:nil="true" href="KILOPOINT_04lMKO3TX7iuTAK7xaIR10" />
+		<DocConstant xsi:nil="true" href="LANDMARK_2T_Mjk41nC4Rw2antpeR1i" />
+		<DocConstant xsi:nil="true" href="MILEPOINT_29sFZrnybFQP2rA6f23AYS" />
 		<DocConstant xsi:nil="true" href="POSITION_0A_EeaX8fClRhysKUHwrUQ" />
+		<DocConstant xsi:nil="true" href="REFERENCEMARKER_37hLLOhCD2TeXGmYxseRku" />
+		<DocConstant xsi:nil="true" href="STATION_3mZYci1kzBIfEoa0zx_hua" />
+		<DocConstant xsi:nil="true" href="SUPERELEVATIONEVENT_2T_vCkBWTC2AFgqirchRJw" />
+		<DocConstant xsi:nil="true" href="WIDTHEVENT_1ygENDmMj2XA1ndX3MLrux" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_283KskxxL3VAyddoFEcTKp" />
 		<DocConstant xsi:nil="true" href="NOTDEFINED_1jVLeMcaf2cgAhlEsTekzr" />
 	</Constants>

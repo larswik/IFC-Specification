@@ -5,15 +5,15 @@
 		<DocLocalization Locale="fr" Name="Énumération des types de détecteur d&apos;incendie" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="BACKDRAFTDAMPER_2VEf7g1Y54TwyicSsVmBX" />
+		<DocConstant xsi:nil="true" href="BACKDRAFTDAMPER_2VEf7g1Y54TwyicSsVmB$X" />
 		<DocConstant xsi:nil="true" href="BALANCINGDAMPER_3GJyodiPHAp94LIsxFQnUq" />
 		<DocConstant xsi:nil="true" href="BLASTDAMPER_0BztmBNJfD6xCkPlB14kNO" />
 		<DocConstant xsi:nil="true" href="CONTROLDAMPER_1cBvSV2R10zewuubExwHqo" />
 		<DocConstant xsi:nil="true" href="FIREDAMPER_3EcfhgL9PAgPB6wI6sEXmK" />
-		<DocConstant xsi:nil="true" href="FIRESMOKEDAMPER_2BL9dtvyL6PZhjCjhLmbA" />
+		<DocConstant xsi:nil="true" href="FIRESMOKEDAMPER_2BL9dtvyL6$PZhjCjhLmbA" />
 		<DocConstant xsi:nil="true" href="FUMEHOODEXHAUST_045U_L3eHATw7d4IvEXW4O" />
 		<DocConstant xsi:nil="true" href="GRAVITYDAMPER_39OhZXYgL1UBWzZ5j453sb" />
-		<DocConstant xsi:nil="true" href="GRAVITYRELIEFDAMPER_1qZOWvAzFuutqmCex1ixs" />
+		<DocConstant xsi:nil="true" href="GRAVITYRELIEFDAMPER_1$qZOWvAzFuutqmCex1ixs" />
 		<DocConstant xsi:nil="true" href="RELIEFDAMPER_19K4iKGIfCTfZG8XqdS8QK" />
 		<DocConstant xsi:nil="true" href="SMOKEDAMPER_0BGiWBRXHATBL6_sf5upMp" />
 		<DocConstant xsi:nil="true" href="USERDEFINED_2YFyWr0CX3Auu3E1xLWZ3Q" />

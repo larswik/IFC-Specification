@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Material Thermal" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="SpecificHeatCapacity_078qY0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BoilingPoint_0Bvo0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FreezingPoint_0HtTs0qUuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ThermalConductivity_0Nqxw0qUuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="SpecificHeatCapacity_078qY0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BoilingPoint_0Bv$o0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FreezingPoint_0HtTs0qUuHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ThermalConductivity_0Nqxw0qUuHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

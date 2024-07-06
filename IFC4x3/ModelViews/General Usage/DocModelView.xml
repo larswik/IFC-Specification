@@ -1407,6 +1407,24 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="9bc66b52-5960-4cd6-b438-3de104c499fb" Type="IfcBoiler" />
 		</DocConceptRoot>
+		<DocConceptRoot Name="IfcBorehole" UniqueId="02be8c31-4b74-4eff-a505-a90b774165d5">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcBorehole" />
+			<Concepts>
+				<DocTemplateUsage Name="Axis 3D Geometry" UniqueId="bb314f22-9528-434d-96e6-a286be727168">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Axis_3D_Geometry_2ubDZB_q55xBeOSih6klyq" />
+					<Items>
+						<DocTemplateItem UniqueId="9633b9f7-722e-4d56-ac83-a672cbe73a0f" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Body Swept Solid Geometry" UniqueId="2836f72f-501d-49fd-a273-3022724bab06">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_Geometry_3BV1ZwpuDDiRuRm1EwJjPo" />
+					<Items>
+						<DocTemplateItem UniqueId="92f286c8-3527-4f92-81fd-b39db46c881e" />
+					</Items>
+				</DocTemplateUsage>
+			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="ca267b7a-1d4b-4f08-ac4b-65e44f3393ed" Type="IfcBorehole" />
+		</DocConceptRoot>
 		<DocConceptRoot Name="IfcBridge" UniqueId="e8c0bfaf-4cde-48ed-9e9d-8ec9dfd545d6">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcBridge" />
 			<Concepts>
@@ -7919,26 +7937,97 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="875d0a79-5db1-4ba4-be71-26b42a389a8f" Type="IfcGeographicElement" />
 		</DocConceptRoot>
-		<DocConceptRoot Name="IfcGeoScienceFeature" UniqueId="979f3ae0-6f6d-4e0a-9f78-f436e7a28607">
-			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceFeature" />
+		<DocConceptRoot Name="IfcGeoScienceElement" UniqueId="0d5cbb3e-38d3-4a9d-9242-662fda706048">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceElement" />
 			<Concepts>
-				<DocTemplateUsage Name="Document Association" UniqueId="9696ad77-ec01-4445-9a4e-bfc54df14f21">
-					<Documentation>Documents may be associated with any type of _IfcGeoScienceFeature_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceG$ukyB" />
+				<DocTemplateUsage Name="Excavation Cuttings" UniqueId="2ce84b61-b9d4-49ab-820b-f742ba77d006">
+					<Documentation>An _IfcGeoScienceElement_ may be voided (cut) by an _IfcExcavation_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Excavation_Cuttings_3Ri5n64lHBt8drrydLm7NE" />
 					<Items>
-						<DocTemplateItem UniqueId="5c701fb2-fbb9-46b9-91f2-e8ed3dab1963" />
-						<DocTemplateItem UniqueId="4d4877c7-ab99-488c-ba7c-cd1a3a79554e" />
+						<DocTemplateItem UniqueId="c46e0571-3d76-402e-bda6-3950172f143e" />
 					</Items>
 				</DocTemplateUsage>
-				<DocTemplateUsage Name="Dataset Association" UniqueId="0e271434-eb27-4953-8e3b-bbb881809fd6">
-					<Documentation>Documents may be associated with any type of _IfcGeoScienceFeature_.</Documentation>
+				<DocTemplateUsage Name="Document Association" UniqueId="57afd4e0-a4b9-4c7f-ab05-c987505f7376">
+					<Documentation>Documents may be associated with any type of _IfcGeoScienceElement_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceG$ukyB" />
+					<Items>
+						<DocTemplateItem UniqueId="8883069b-30b0-433f-8e95-005b466a2beb" />
+						<DocTemplateItem UniqueId="f9282423-e6d9-43a8-91fa-322558d20a53" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Dataset Association" UniqueId="3a936689-abb1-43c3-a517-0abbd59effc9">
+					<Documentation>Datasets may be associated with any type of _IfcGeoScienceElement_.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Dataset_Association_3nMq2ILqH9cgB0ymih6hXS" />
 					<Items>
-						<DocTemplateItem UniqueId="11551690-1396-4ffc-84ce-30675cb21fcc" />
+						<DocTemplateItem UniqueId="15a6fb54-d838-43c5-9bfc-e950a39ed24c" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Body Brep Geometry" UniqueId="98146db7-3a3a-4a72-b7d1-330f86934e7a">
+					<Documentation>Body Brep Geometry may be associated to any _IfcGeoScienceElement_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
+					<Items>
+						<DocTemplateItem UniqueId="805b7ec6-526a-4ad7-9232-ecd9583d00d6" />
+						<DocTemplateItem UniqueId="9fe6ec05-238e-49ad-888a-095eacb3cd20" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Surface Tessellation Geometry" UniqueId="3d9a6089-232c-46c9-aa56-ce25273a8954">
+					<Documentation>Surface Tesselation Geometry may be associated to any _IfcGeoScienceElement_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_Tessellation_Geometry_0gcN00aHT7P84eQ4tB7HA6" />
+					<Items>
+						<DocTemplateItem UniqueId="15b57948-7c87-4d6d-9055-1f75c257d18c" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Voxel Geometry" UniqueId="6e86fa12-7a9e-413b-820d-3b98e5091e7e">
+					<Documentation>An _IfcGeoScienceElement_ may be represented by an IfcVoxelGrid_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Voxel_Geometry_1XcKyD1H56fQHkAb0rHsrs" />
+					<Items>
+						<DocTemplateItem UniqueId="3967f405-c591-437b-a6ee-6b8a2623b6ba" />
 					</Items>
 				</DocTemplateUsage>
 			</Concepts>
-			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="8cb302b4-625c-4e6b-9af6-b2fbbd5f2868" Type="IfcGeoScienceFeature" />
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7e0ad082-f4df-42ca-aba6-dfe477bbfabd" Type="IfcGeoScienceElement" />
+		</DocConceptRoot>
+		<DocConceptRoot Name="IfcGeoScienceObservation" UniqueId="99efba22-85a4-44e1-9c6b-43c34560aa44">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceObservation" />
+			<Concepts>
+				<DocTemplateUsage Name="Observation Composition" UniqueId="f9189054-b6de-41d0-8c9e-b9b65480502e">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Composition_0MQ9I7W893Nea$npjChteY" />
+					<Items>
+						<DocTemplateItem UniqueId="741018cc-fe6d-49d4-9927-d334fc71663b" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Observation Decomposition" UniqueId="8a99a0d6-cc48-4b8c-a768-44a7571097ee">
+					<Documentation>An _IfcGeoScienceObservation_ can be decomposed by other _IFcGeoScienceObservation_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZ$uJ" />
+					<Items>
+						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Observation Assignment" UniqueId="377f5505-88a9-4448-84f4-8169bf9e648e" Operator="or">
+					<Documentation>An _IfcGeoScienceObservation_ may be assigned to _IfcBorehole_, _IfcSpatialZone_ or _IfcSensor_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Assignment_to_Product_2Gn4FzSQ96MQoPL52lkLa4" />
+					<Items>
+						<DocTemplateItem UniqueId="e49dc5fc-aba6-402b-b6ec-b6e0813e1fca" RuleParameters="RelatingProduct=IfcBorehole;" />
+						<DocTemplateItem UniqueId="d7d1e972-67bb-45bf-888b-1e87f5e11fb4" RuleParameters="RelatingProduct=IfcSpatialZone;" />
+						<DocTemplateItem UniqueId="a629fe53-4e41-4a40-8fc5-221a070670bd" RuleParameters="RelatingProduct=IfcSensor;" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Axis 3D Geometry" UniqueId="063e1f7f-5c4b-46e3-b08d-9fb024e82183">
+					<Documentation>An _IfcGeoScienceObservation_ may be represented by a curve in 3D space.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Axis_3D_Geometry_2ubDZB_q55xBeOSih6klyq" />
+					<Items>
+						<DocTemplateItem UniqueId="10ba6db9-1747-4f80-9ea0-6d8ee0468d81" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Body Voxel Geometry" UniqueId="78fcd09c-d3fa-4b4c-a3d6-6be3d3c697d3">
+					<Documentation>An _IfcGeoScienceObservation_ may be represented by an IfcVoxelGrid_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Voxel_Geometry_1XcKyD1H56fQHkAb0rHsrs" />
+					<Items>
+						<DocTemplateItem UniqueId="6398162f-0d20-4527-934c-6281bd3e4393" />
+					</Items>
+				</DocTemplateUsage>
+			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7c73b930-47a7-45f2-94ec-3d9ed2b45c36" Type="IfcGeoScienceObservation" />
 		</DocConceptRoot>
 		<DocConceptRoot Name="IfcGeotechnicalElement" UniqueId="f115edc8-cb36-4dd0-8c85-9d7cf9216d69">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeotechnicalElement" />
@@ -15036,6 +15125,16 @@ shown above.&lt;/li&gt;
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="cf9070cd-5366-4855-92f6-525d5d3f4192" Type="IfcVoidingFeature" />
+		</DocConceptRoot>
+		<DocConceptRoot Name="IfcVoxelData" UniqueId="3c7591fa-d060-4397-85f6-d97d2b2e45c3">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcVoxelData" />
+			<Concepts>
+				<DocTemplateUsage Name="Body Voxel Geometry" UniqueId="2a65ce22-5fb8-4640-b0af-a5a8f85734b4">
+					<Documentation>Body Voxel Geometry may be associated to any _IfcVoxelData_. The _IfcVoxelData_ instance shall be assigned (_IfcRelAssignsToProduct_) to an object that is represented by the same _IfcVoxelGrid_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" Name="Body Voxel Geometry" UniqueId="b8142801-74a0-461d-a0ef-db72f813bd43" Type="IfcVoxelData" />
+				</DocTemplateUsage>
+			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="5d7d751e-2da0-4cb3-a434-ac432f89762f" Type="IfcVoxelData" />
 		</DocConceptRoot>
 		<DocConceptRoot UniqueId="19BQ85LFr2dAHOBNvbNvox">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcWall" />

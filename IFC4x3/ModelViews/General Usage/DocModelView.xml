@@ -7940,7 +7940,7 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 		<DocConceptRoot Name="IfcGeoScienceElement" UniqueId="0d5cbb3e-38d3-4a9d-9242-662fda706048">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceElement" />
 			<Concepts>
-				<DocTemplateUsage Name="Earthworks Cuttings" UniqueId="2ce84b61-b9d4-49ab-820b-f742ba77d006">
+				<DocTemplateUsage Name="Excavation Cuttings" UniqueId="2ce84b61-b9d4-49ab-820b-f742ba77d006">
 					<Documentation>An _IfcGeoScienceElement_ may be voided (cut) by an _IfcExcavation_.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Excavation_Cuttings_3Ri5n64lHBt8drrydLm7NE" />
 					<Items>
@@ -7949,20 +7949,25 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Document Association" UniqueId="57afd4e0-a4b9-4c7f-ab05-c987505f7376">
 					<Documentation>Documents may be associated with any type of _IfcGeoScienceElement_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceGukyB" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceG$ukyB" />
 					<Items>
 						<DocTemplateItem UniqueId="8883069b-30b0-433f-8e95-005b466a2beb" />
+						<DocTemplateItem UniqueId="f9282423-e6d9-43a8-91fa-322558d20a53" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Dataset Association" UniqueId="3a936689-abb1-43c3-a517-0abbd59effc9">
 					<Documentation>Datasets may be associated with any type of _IfcGeoScienceElement_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" Name="Dataset Association" UniqueId="91bb9aba-2da8-4109-bea1-16cc27e57f2a" Type="IfcGeoScienceElement" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Dataset_Association_3nMq2ILqH9cgB0ymih6hXS" />
+					<Items>
+						<DocTemplateItem UniqueId="15a6fb54-d838-43c5-9bfc-e950a39ed24c" />
+					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body Brep Geometry" UniqueId="98146db7-3a3a-4a72-b7d1-330f86934e7a">
 					<Documentation>Body Brep Geometry may be associated to any _IfcGeoScienceElement_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHpQ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Brep_Geometry_2FkIFrk2r8qgqfrdZAHp$Q" />
 					<Items>
 						<DocTemplateItem UniqueId="805b7ec6-526a-4ad7-9232-ecd9583d00d6" />
+						<DocTemplateItem UniqueId="9fe6ec05-238e-49ad-888a-095eacb3cd20" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Surface Tessellation Geometry" UniqueId="3d9a6089-232c-46c9-aa56-ce25273a8954">
@@ -7972,7 +7977,7 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="15b57948-7c87-4d6d-9055-1f75c257d18c" />
 					</Items>
 				</DocTemplateUsage>
-				<DocTemplateUsage Name="Body Voxel geometry" UniqueId="6e86fa12-7a9e-413b-820d-3b98e5091e7e">
+				<DocTemplateUsage Name="Voxel Geometry" UniqueId="6e86fa12-7a9e-413b-820d-3b98e5091e7e">
 					<Documentation>An _IfcGeoScienceElement_ may be represented by an IfcVoxelGrid_.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Voxel_Geometry_1XcKyD1H56fQHkAb0rHsrs" />
 					<Items>
@@ -7986,14 +7991,14 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceObservation" />
 			<Concepts>
 				<DocTemplateUsage Name="Observation Composition" UniqueId="f9189054-b6de-41d0-8c9e-b9b65480502e">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Composition_0MQ9I7W893NeanpjChteY" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Composition_0MQ9I7W893Nea$npjChteY" />
 					<Items>
 						<DocTemplateItem UniqueId="741018cc-fe6d-49d4-9927-d334fc71663b" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Observation Decomposition" UniqueId="8a99a0d6-cc48-4b8c-a768-44a7571097ee">
 					<Documentation>An _IfcGeoScienceObservation_ can be decomposed by other _IFcGeoScienceObservation_.</Documentation>
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZuJ" />
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZ$uJ" />
 					<Items>
 						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" />
 					</Items>

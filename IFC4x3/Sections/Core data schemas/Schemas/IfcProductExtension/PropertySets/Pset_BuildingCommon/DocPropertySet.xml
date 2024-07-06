@@ -13,20 +13,22 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_3mjCS0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="BuildingID_3rUNi0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsPermanentID_3wFYy0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ConstructionMethod_30kC0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FireProtectionClass_03Bm20qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SprinklerProtection_07Mnu0qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SprinklerProtectionAutomatic_0C7z80qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="OccupancyType_0GI__0qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="GrossPlannedArea_0L4AE0qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NetPlannedArea_0PFC40qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NumberOfStoreys_0TQDw0qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="YearOfConstruction_0XbFm0qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="YearOfLastRefurbishment_0cMR00qSKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsLandmarked_0gXSs0qSKHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_00pQO0qSSHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="BuildingID_3rUNi0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsPermanentID_3wFYy0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ConstructionMethod_3$0kC0qSGHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="FireProtectionClass_03Bm20qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SprinklerProtection_07Mnu0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="SprinklerProtectionAutomatic_0C7z80qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="OccupancyType_0GI__0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="GrossPlannedArea_0L4AE0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NetPlannedArea_0PFC40qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="NumberOfStoreys_0TQDw0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="YearOfConstruction_0XbFm0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="YearOfLastRefurbishment_0cMR00qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="IsLandmarked_0gXSs0qSKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ElevationOfRefHeight_2NCeO6qW97WvcuUYvV8Wxf" />
+		<DocProperty xsi:nil="true" href="ElevationOfTerrain_0XCfx2I4T8YQefsZ57NzAZ" />
 	</Properties>
 </DocPropertySet>
 

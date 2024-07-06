@@ -4,7 +4,7 @@
 		<DocLocalization Locale="en" Name="Global Or Local Enum" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="GLOBAL_COORDS_26bVDTPDDXxbaDwKjNnbX" />
+		<DocConstant xsi:nil="true" href="GLOBAL_COORDS_26bVDT$PDDXxbaDwKjNnbX" />
 		<DocConstant xsi:nil="true" href="LOCAL_COORDS_170WjH9f1AveGLwRAHSlXJ" />
 	</Constants>
 </DocEnumeration>

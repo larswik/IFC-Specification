@@ -17,9 +17,6 @@
 			<Documentation>Offset parallel to the basis curve after applying DistanceAlong, OffsetLateral, and OffsetVertical to reach locations for the case of a tangentially discontinuous basis curve.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="BasisCurve" UniqueId="34db6f8c-9ffe-48a5-8dc4-c64009e04d63" DefinedType="IfcCurve" />
-		<DocAttribute Name="Dim" UniqueId="d323dd4b-31c3-49e2-a83b-0374e7f9420d" DefinedType="IfcDimensionCount">
-			<Derived>BasisCurve.Dim</Derived>
-		</DocAttribute>
 	</Attributes>
 </DocEntity>
 

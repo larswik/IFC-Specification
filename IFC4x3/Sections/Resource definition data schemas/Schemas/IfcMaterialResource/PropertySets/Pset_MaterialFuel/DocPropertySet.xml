@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Material Fuel" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CombustionTemperature_0_tS20qUqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CarbonContent_14qw60qUqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LowerHeatingValue_1ACEm0qUqHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HigherHeatingValue_1EzQ00qUqHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CombustionTemperature_0_tS20qUqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="CarbonContent_14qw60qUqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LowerHeatingValue_1ACEm0qUqHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HigherHeatingValue_1EzQ00qUqHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

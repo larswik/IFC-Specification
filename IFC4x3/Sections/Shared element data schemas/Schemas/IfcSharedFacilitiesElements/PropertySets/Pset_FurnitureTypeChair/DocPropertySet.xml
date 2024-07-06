@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Furniture Type Chair" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="SeatingHeight_3AeHu0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HighestSeatingHeight_3Gbly0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LowestSeatingHeight_3W5aW0qUWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="SeatingHeight_3AeHu0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="HighestSeatingHeight_3Gbly0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="LowestSeatingHeight_3W5aW0qUWHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

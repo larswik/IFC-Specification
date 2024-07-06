@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Filter PHistory" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="CountedEfficiency_0rK5g0qUKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WeightedEfficiency_0vV7W0qUKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ParticleMassHolding_0yTsY0qUKHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CountedEfficiency_0rK5g0qUKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="WeightedEfficiency_0vV7W0qUKHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ParticleMassHolding_0yTsY0qUKHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

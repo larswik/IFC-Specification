@@ -5,4 +5,10 @@
 		<DocLocalization Locale="en" Name="Tessellated Item" />
 		<DocLocalization Locale="fr" Name="Tessellation" />
 	</Localization>
+	<Attributes>
+		<DocAttribute Name="HasColours" UniqueId="91135fdb-fb22-4f3b-8316-c13c64b911c0" DefinedType="IfcIndexedColourMap" AttributeFlags="32" AggregationType="3" AggregationLower="0" AggregationUpper="1" Inverse="MappedTo" XsdFormat="attribute">
+			<Documentation>Reference to the indexed colour map providing the corresponding colour RGB values to the faces of the subtypes of _IfcTessellatedFaceSet_.</Documentation>
+		</DocAttribute>
+	</Attributes>
 </DocEntity>
+

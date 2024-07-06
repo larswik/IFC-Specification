@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Mapped_Geometry_3iTV8STL4dxyWvZebtBcw" Name="Mapped Geometry" UniqueId="3i$TV8STL4dxyWvZebtBcw" Type="IfcProduct">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Mapped_Geometry_3i$TV8STL4dxyWvZebtBcw" Name="Mapped Geometry" UniqueId="3i$TV8STL4dxyWvZebtBcw" Type="IfcProduct">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

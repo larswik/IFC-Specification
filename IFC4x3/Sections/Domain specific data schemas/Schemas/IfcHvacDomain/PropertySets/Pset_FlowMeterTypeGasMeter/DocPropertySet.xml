@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Flow Meter Type Gas Meter" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="GasType_1CtHA0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ConnectionSize_1SN5k0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MaximumFlowRate_1a7000qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MaximumPressureLoss_1euBG0qUWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="GasType_1CtHA0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="ConnectionSize_1SN5k0qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MaximumFlowRate_1a7000qUWHuO00025QrE$V" />
+		<DocProperty xsi:nil="true" href="MaximumPressureLoss_1euBG0qUWHuO00025QrE$V" />
 	</Properties>
 </DocPropertySet>
 

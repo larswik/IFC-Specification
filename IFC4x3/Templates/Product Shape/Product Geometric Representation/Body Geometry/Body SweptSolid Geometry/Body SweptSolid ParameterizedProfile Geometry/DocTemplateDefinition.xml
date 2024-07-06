@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXYwn" Name="Body SweptSolid ParameterizedProfile Geometry" UniqueId="1d8079be-98fb-4c3e-a202-49fb218bfeb1" Type="IfcElement">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Body_SweptSolid_ParameterizedProfile_Geometry_0TW7c_cFjCFg82IViXY$wn" Name="Body SweptSolid ParameterizedProfile Geometry" UniqueId="1d8079be-98fb-4c3e-a202-49fb218bfeb1" Type="IfcElement">
 	<Rules>
 		<DocModelRuleAttribute Name="Representation">
 			<Rules>

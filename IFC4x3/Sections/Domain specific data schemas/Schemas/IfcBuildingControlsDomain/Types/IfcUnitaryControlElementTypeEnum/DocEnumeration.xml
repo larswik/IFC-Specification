@@ -5,18 +5,18 @@
 		<DocLocalization Locale="fr" Name="Enumération des types d&apos;élément de contrôle unitaire" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="ALARMPANEL_0rGB8rTL5_f5siTA4u6ea" />
+		<DocConstant xsi:nil="true" href="ALARMPANEL_0r$GB8rTL5_f5siTA4u6ea" />
 		<DocConstant xsi:nil="true" href="CONTROLPANEL_1vNi8mLzj4DAVlUwMgIEm1" />
 		<DocConstant xsi:nil="true" href="GASDETECTIONPANEL_165ZiLRLb1ThFw1Nj2dVms" />
-		<DocConstant xsi:nil="true" href="INDICATORPANEL_1mVIXzXX12rvwTYyEMUEi" />
-		<DocConstant xsi:nil="true" href="MIMICPANEL_26XtjEXVfEQBcAOIY84K" />
+		<DocConstant xsi:nil="true" href="INDICATORPANEL_1mVIXzXX12rvwT$YyEMUEi" />
+		<DocConstant xsi:nil="true" href="MIMICPANEL_26XtjEXVfE$QBcAOIY84K$" />
 		<DocConstant xsi:nil="true" href="HUMIDISTAT_3wryyM1q54quNbmnMMQ0hM" />
-		<DocConstant xsi:nil="true" href="THERMOSTAT_3ZYfFZgp9ECgnxojwFvGO" />
+		<DocConstant xsi:nil="true" href="THERMOSTAT_3ZYfFZgp9ECgnx$ojwFvGO" />
 		<DocConstant xsi:nil="true" href="WEATHERSTATION_0lptav3pjAuhVqFoEbuN2i" />
 		<DocConstant xsi:nil="true" href="COMBINED_1gpEuyovbELeGtwTCmxvEi" />
 		<DocConstant xsi:nil="true" href="BASESTATIONCONTROLLER_3TbvPkEmv1cuYtYxifjfLW" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_2haeH1VRj3bBb9wTJU5Qy" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_2haeH1VRj3bBb9wTJU5Q$y" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

@@ -5,10 +5,6 @@
 		<DocLocalization Locale="en" Name="Physical Quantity" />
 		<DocLocalization Locale="fr" Name="Quantité physique" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="a86d6250-008f-4a4c-b4e2-cf5c873cb373" DefinedType="IfcPhysicalSimpleQuantity" />
-		<DocSubtype UniqueId="11a80a91-de9b-445a-8440-1fd0ac33e8ac" DefinedType="IfcPhysicalComplexQuantity" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="Name" UniqueId="6e61090c-7c36-4a29-84d9-f1404b4270d3" DefinedType="IfcLabel">
 			<Documentation>Name of the element quantity or measure. The name attribute has to be made recognizable by further agreements.</Documentation>

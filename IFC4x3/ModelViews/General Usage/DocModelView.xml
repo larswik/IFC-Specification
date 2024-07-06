@@ -14284,37 +14284,6 @@ A top-level task is declared within the _IfcProject_ using the _IfcRelDeclares_ 
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="afcd0ee6-4a97-414e-b59c-a945f6775860" Type="IfcTaskType" />
 		</DocConceptRoot>
-		<DocConceptRoot UniqueId="1HHBUDWXDA$9J6RdO8r3dF">
-			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcTendonAnchor" />
-			<Concepts>
-				<DocTemplateUsage Name="Object Typing" UniqueId="0tWD1X6NjFdRZQaFfuhxxr">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Typing_0rek4E8Dz0zAilsiyAPqJq" />
-					<Items>
-						<DocTemplateItem UniqueId="d1ce5fe9-4d55-4122-a53b-a31a6120ffd6" RuleParameters="RelatingType=IfcTendonAnchorType;" />
-					</Items>
-				</DocTemplateUsage>
-				<DocTemplateUsage Name="Property Sets" UniqueId="1oO5voX7bEbBdU5tANHjvM">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Property_Sets_for_Objects_3tGbMc30vFCOIj99WTjYHX" />
-				</DocTemplateUsage>
-				<DocTemplateUsage Name="Quantity Sets" UniqueId="0pIpRL3GX0fgz7Hd6ZLPTr">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Quantity_Sets_1cKZcEPNb4O8oq9YbQpwp7" />
-					<Items>
-						<DocTemplateItem UniqueId="67fb1e5f-a2be-4ec9-b036-e0f5dd9ec248" RuleParameters="QsetName=Qto_ReinforcingElementBaseQuantities;TemplateType=QTO_TYPEDRIVENOVERRIDE;" />
-					</Items>
-				</DocTemplateUsage>
-				<DocTemplateUsage Name="Placement" UniqueId="ce8cfd65-7c6e-46f3-9dd7-2bb242183c9c">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
-				</DocTemplateUsage>
-				<DocTemplateUsage Name="Body Geometry" UniqueId="60ed48e7-ae53-4af1-bae1-77bd85b76a8b">
-					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Geometry_34HhqMBUDBbxDFH4Qi2wt2" />
-					<Items>
-						<DocTemplateItem UniqueId="a08cdbad-b7fd-49d0-b3c7-9f0a9eb04737" RuleParameters="RepresentationType=SweptSolid;Geometry=IfcSweptDiskSolid;" />
-						<DocTemplateItem UniqueId="97f4bdab-a0c8-4c7e-9a91-87405bae11fe" RuleParameters="RepresentationType=MappedRepresentation;Geometry=IfcMappedItem;" />
-					</Items>
-				</DocTemplateUsage>
-			</Concepts>
-			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="40a4c90d-4d9b-406a-89cd-4db23740d7fd" Type="IfcTendonAnchor" />
-		</DocConceptRoot>
 		<DocConceptRoot UniqueId="2v_xF90910JP7FnwYYspMt">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcTendon" />
 			<Concepts>
@@ -14352,6 +14321,37 @@ A top-level task is declared within the _IfcProject_ using the _IfcRelDeclares_ 
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7eecb932-2b46-48ca-a42f-48c3aa508847" Type="IfcTendon" />
+		</DocConceptRoot>
+		<DocConceptRoot UniqueId="1HHBUDWXDA$9J6RdO8r3dF">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcTendonAnchor" />
+			<Concepts>
+				<DocTemplateUsage Name="Object Typing" UniqueId="0tWD1X6NjFdRZQaFfuhxxr">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Object_Typing_0rek4E8Dz0zAilsiyAPqJq" />
+					<Items>
+						<DocTemplateItem UniqueId="d1ce5fe9-4d55-4122-a53b-a31a6120ffd6" RuleParameters="RelatingType=IfcTendonAnchorType;" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Property Sets" UniqueId="1oO5voX7bEbBdU5tANHjvM">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Property_Sets_for_Objects_3tGbMc30vFCOIj99WTjYHX" />
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Quantity Sets" UniqueId="0pIpRL3GX0fgz7Hd6ZLPTr">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Quantity_Sets_1cKZcEPNb4O8oq9YbQpwp7" />
+					<Items>
+						<DocTemplateItem UniqueId="67fb1e5f-a2be-4ec9-b036-e0f5dd9ec248" RuleParameters="QsetName=Qto_ReinforcingElementBaseQuantities;TemplateType=QTO_TYPEDRIVENOVERRIDE;" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Placement" UniqueId="ce8cfd65-7c6e-46f3-9dd7-2bb242183c9c">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Product_Local_Placement_3Bw5jVUH9AGukt7cEGB9j" />
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Body Geometry" UniqueId="60ed48e7-ae53-4af1-bae1-77bd85b76a8b">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_Geometry_34HhqMBUDBbxDFH4Qi2wt2" />
+					<Items>
+						<DocTemplateItem UniqueId="a08cdbad-b7fd-49d0-b3c7-9f0a9eb04737" RuleParameters="RepresentationType=SweptSolid;Geometry=IfcSweptDiskSolid;" />
+						<DocTemplateItem UniqueId="97f4bdab-a0c8-4c7e-9a91-87405bae11fe" RuleParameters="RepresentationType=MappedRepresentation;Geometry=IfcMappedItem;" />
+					</Items>
+				</DocTemplateUsage>
+			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="40a4c90d-4d9b-406a-89cd-4db23740d7fd" Type="IfcTendonAnchor" />
 		</DocConceptRoot>
 		<DocConceptRoot Name="IfcTendonType" UniqueId="fec63430-767c-4817-b3e3-132214bfb8ac">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcTendonType" />

@@ -23,8 +23,8 @@
 			<Documentation>Only bounded curves of type _IfcCompositeCurve_, _IfcPolyline_, and _IfcIndexedPolyCurve_  are valid boundary curves.</Documentation>
 			<Expression>SIZEOF(TYPEOF(PolygonalBoundary) * [
   &apos;IFCGEOMETRYRESOURCE.IFCPOLYLINE&apos;, 
-  &apos;IFCGEOMETRYRESOURCE.IFCCOMPOSITECURVE&apos;,
-    &apos;IFCGEOMETRYRESOURCE.IFCINDEXEDPOLYCURVE&apos;]
+  &apos;IFCGEOMETRYRESOURCE.IFCCOMPOSITECURVE&apos;, 
+  &apos;IFCGEOMETRYRESOURCE.IFCINDEXEDPOLYCURVE&apos;]
 ) = 1</Expression>
 		</DocWhereRule>
 	</WhereRules>

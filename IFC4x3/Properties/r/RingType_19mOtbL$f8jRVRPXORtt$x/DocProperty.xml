@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RingType_19mOtbL$f8jRVRPXORtt$x" Name="RingType" UniqueId="49c18de5-57fa-48b5-b7db-66161bdf7ffb" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_RingType" />
+</DocProperty>
+

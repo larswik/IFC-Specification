@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcMarinePart" UniqueId="fbd088e5-d90c-428b-a5be-7785fd66a756" BaseDefinition="IfcFacilityPart" EntityFlags="32">
 	<Attributes>
-		<DocAttribute Name="PredefinedType" UniqueId="a2ed32ca-8522-4758-ae1e-bc597d2c8dfa" DefinedType="IfcMarinePartTypeEnum">
-			<Documentation>Specifies the type for which the value is selected from a predefined type enumeration. This type may associate additional specific property sets.</Documentation>
+		<DocAttribute Name="PredefinedType" UniqueId="a2ed32ca-8522-4758-ae1e-bc597d2c8dfa" DefinedType="IfcMarinePartTypeEnum" AttributeFlags="1">
+			<Documentation>A list of types to further identify the object. Some property sets may be specifically applicable to one of these types.
+
+&gt;NOTE&amp;nbsp; If the object has an associated _IfcTypeObject_ with a _PredefinedType_, then this attribute shall not be used.</Documentation>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>
-		<DocWhereRule Name="HasObjectType" UniqueId="c7b2555a-f836-43b6-a6ec-d3554375bca1">
-			<Documentation>The attribute _ObjectType_ shall be given if the predefined type is set to USERDEFINED.</Documentation>
-			<Expression>(PredefinedType &lt;&gt;IfcMarinePartTypeEnum.USERDEFINED) OR 
-
-EXISTS(SELF\IfcObject.ObjectType)</Expression>
+		<DocWhereRule Name="CorrectPredefinedType" UniqueId="c7b2555a-f836-43b6-a6ec-d3554375bca1">
+			<Documentation>Either _PredefinedType_ is unset or the inherited attribute _ObjectType_ shall be provided, if the _PredefinedType_ is set to USERDEFINED or _PredefinedType_.</Documentation>
+			<Expression>NOT(EXISTS(PredefinedType)) OR
+  (PredefinedType &lt;&gt; IfcMarinePartTypeEnum.USERDEFINED) OR
+  ((PredefinedType = IfcMarinePartTypeEnum.USERDEFINED) AND EXISTS (SELF\IfcObject.ObjectType))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

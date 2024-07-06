@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CONCAVE_CONVEX_2ce5d2r5bFARqt407gptBA" Name="CONCAVE_CONVEX" UniqueId="a6a059c2-d459-4f29-bd37-1001eacf72ca">
+	<Documentation>Joint of type Concave-Convex connecting 2 rings segments or arches.</Documentation>
+</DocPropertyConstant>
+

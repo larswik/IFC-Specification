@@ -1,1 +1,1 @@
-A device that senses or detects electrical conductance.  HISTORY: Added in IFC4.
+A device that senses or detects electrical conductance. HISTORY: Added in IFC4.

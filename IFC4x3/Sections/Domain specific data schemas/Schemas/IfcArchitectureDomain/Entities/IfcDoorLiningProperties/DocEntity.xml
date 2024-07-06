@@ -87,15 +87,10 @@ If the _TransomThickness_ is set to zero (and the _TransomOffset_ set to a posit
 (NOT(EXISTS(CasingDepth)) AND NOT(EXISTS(CasingThickness)))</Expression>
 		</DocWhereRule>
 		<DocWhereRule Name="WR35" UniqueId="bfb619fb-8159-4c87-8dfe-ac3758071285">
-			<Documentation>The _IfcDoorLiningProperties_ shall only be used in the context of an _IfcDoorType_.
-&gt; NOTE&amp;nbsp; The deprecated entity _IfcDoorStyle_ is applicable as well.</Documentation>
+			<Documentation>The _IfcDoorLiningProperties_ shall only be used in the context of an _IfcDoorType_.</Documentation>
 			<Expression>(EXISTS(SELF\IfcPropertySetDefinition.DefinesType[1])) 
 AND 
-(
- (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-  OR
- (&apos;IFCARCHITECTUREDOMAIN.IFCDOORSTYLE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))
-)</Expression>
+ (&apos;IFCSHAREDBLDGELEMENTS.IFCDOORTYPE&apos; IN TYPEOF(SELF\IfcPropertySetDefinition.DefinesType[1]))</Expression>
 		</DocWhereRule>
 	</WhereRules>
 </DocEntity>

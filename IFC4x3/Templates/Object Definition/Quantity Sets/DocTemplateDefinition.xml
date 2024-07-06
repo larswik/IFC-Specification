@@ -40,7 +40,7 @@
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcQuantityArea">
 													<References>
-														<DocTemplateDefinition xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3Kux_6" />
+														<DocTemplateDefinition xsi:nil="true" href="Area_Quantity_1bh4T7Rlz3VfJYP3$Kux_6" />
 													</References>
 												</DocModelRuleEntity>
 												<DocModelRuleEntity Name="IfcQuantityVolume">

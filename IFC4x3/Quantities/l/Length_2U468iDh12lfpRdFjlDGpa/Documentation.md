@@ -1,3 +1,3 @@
-Volume of the element.
+The length of the object.
 
-Total volume of the arch element.
+The axis arch length from the profile center of gravity.

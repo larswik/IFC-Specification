@@ -1,1 +1,1 @@
-Volume of the wall, without taking into account the openings and the connection geometry.
+Total gross volume of the object. Openings, recesses, enclosed objects and projections are not taken into account.

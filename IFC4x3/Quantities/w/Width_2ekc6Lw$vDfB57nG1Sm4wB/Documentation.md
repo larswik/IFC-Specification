@@ -1,1 +1,3 @@
-Total nominal width (or thickness) of the wall measured perpendicular to the wall path. It should only be provided, if it is constant along the wall path.
+The width of the object. Only given, if the object has constant thickness (prismatic).
+
+Measured perpendicular to the wall path. It should only be provided, if it is constant along the wall path.

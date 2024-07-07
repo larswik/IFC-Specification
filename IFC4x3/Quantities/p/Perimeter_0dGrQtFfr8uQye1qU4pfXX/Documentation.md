@@ -1,1 +1,1 @@
-Perimeter of the air terminal face plate.
+Perimeter of the object.

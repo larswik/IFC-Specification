@@ -8602,6 +8602,7 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 					</Items>
 				</DocTemplateUsage>
 			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="4770f794-6808-4e60-bdd3-fee5a06edfda" Type="IfcLinearZone" />
 		</DocConceptRoot>
 		<DocConceptRoot UniqueId="273c1b6b-c95d-4551-bf2e-264a167469dc">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcMaterial" />

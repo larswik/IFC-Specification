@@ -1,1 +1,3 @@
-The length of the arch element.
+Volume of the element.
+
+Total volume of the arch element.

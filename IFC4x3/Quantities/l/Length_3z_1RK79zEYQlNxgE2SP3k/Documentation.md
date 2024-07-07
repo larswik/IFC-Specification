@@ -1,1 +1,3 @@
-Total length of the column not taking into account any cut-out's or other processing features.
+The length of the object.
+
+Not taking into account any cut-out's or other processing features.

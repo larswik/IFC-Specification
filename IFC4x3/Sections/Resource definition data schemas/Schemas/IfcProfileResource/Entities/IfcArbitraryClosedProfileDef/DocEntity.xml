@@ -4,9 +4,6 @@
 		<DocLocalization Locale="de" Name="Beliebiges geschlossenes Profil" />
 		<DocLocalization Locale="en" Name="Arbitrary Closed Profile Def" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="e1f99bb3-d228-419d-bcce-0238b78e97b3" DefinedType="IfcArbitraryProfileDefWithVoids" />
-	</Subtypes>
 	<Attributes>
 		<DocAttribute Name="OuterCurve" UniqueId="e5eb7078-ed29-401a-9e78-e38beec339ff" DefinedType="IfcCurve" XsdFormat="attribute">
 			<Documentation>Bounded curve, defining the outer boundaries of the arbitrary profile.</Documentation>

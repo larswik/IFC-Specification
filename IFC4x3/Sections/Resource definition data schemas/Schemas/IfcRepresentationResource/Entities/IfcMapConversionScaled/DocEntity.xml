@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="IfcMapConversionScaled" UniqueId="83e0579c-9d01-4732-a3fe-26bec1ca5afc" BaseDefinition="IfcMapConversion" EntityFlags="32">
+	<Attributes>
+		<DocAttribute Name="FactorX" UniqueId="1e31fd9d-a3ba-4594-a0ee-bb90b3b66a1f" DefinedType="IfcReal">
+			<Documentation>Factor X by which the length measures in local engineering CS have to be multiplied to get map coordinates</Documentation>
+		</DocAttribute>
+		<DocAttribute Name="FactorY" UniqueId="2f876a26-b379-4b74-98aa-f3d1e6850d5c" DefinedType="IfcReal">
+			<Documentation>Factor Y by which the length measures in local engineering CS have to be multiplied to get map coordinates</Documentation>
+		</DocAttribute>
+		<DocAttribute Name="FactorZ" UniqueId="3a4b8279-0d6a-4c8b-aab0-d5c84293a3ab" DefinedType="IfcReal">
+			<Documentation>Factor Z by which the length measures in local engineering CS have to be multiplied to get map coordinates</Documentation>
+		</DocAttribute>
+	</Attributes>
+</DocEntity>
+

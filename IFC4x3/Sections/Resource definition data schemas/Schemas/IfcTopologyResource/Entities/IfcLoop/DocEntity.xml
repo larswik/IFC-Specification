@@ -5,10 +5,5 @@
 		<DocLocalization Locale="en" Name="Loop" />
 		<DocLocalization Locale="fr" Name="Boucle" />
 	</Localization>
-	<Subtypes>
-		<DocSubtype UniqueId="f158f069-0240-4eb2-950d-b79129c03a9d" DefinedType="IfcPolyLoop" />
-		<DocSubtype UniqueId="b1643e51-38f0-4ec3-9bcc-b0eaa012261a" DefinedType="IfcVertexLoop" />
-		<DocSubtype UniqueId="7744544c-6ce3-4be1-8b9d-e59e769cf01a" DefinedType="IfcEdgeLoop" />
-	</Subtypes>
 </DocEntity>
 

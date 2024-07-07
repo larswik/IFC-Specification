@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Circle_Hollow_Profile_Definition_1x_XWKbULFvQPW_jwGsRX" Name="Circle Hollow Profile Definition" UniqueId="7bfa1814-95e5-4fe5-afd9-83eb7a4366e1" Type="IfcCircleHollowProfileDef">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Circle_Hollow_Profile_Definition_1x_XWKbULFvQ$PW_jwGsRX" Name="Circle Hollow Profile Definition" UniqueId="7bfa1814-95e5-4fe5-afd9-83eb7a4366e1" Type="IfcCircleHollowProfileDef">
 	<Rules>
 		<DocModelRuleAttribute Name="ProfileType">
 			<Rules>

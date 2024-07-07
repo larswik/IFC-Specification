@@ -5,9 +5,9 @@
 		<DocLocalization Locale="fr" Name="Énumération des types d&apos;appareil audiovisuel" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="AMPLIFIER_3VSkJfHLv4Z8L1pcD8jbh" />
-		<DocConstant xsi:nil="true" href="CAMERA_0tHQLVlj60QIYwlkDA8Jf" />
-		<DocConstant xsi:nil="true" href="DISPLAY_1MgZ1AKaf4whulF36vYLM" />
+		<DocConstant xsi:nil="true" href="AMPLIFIER_3VSkJfHLv4Z8L1$pcD8jbh" />
+		<DocConstant xsi:nil="true" href="CAMERA_0$tHQLVlj60QIYwlkDA8Jf" />
+		<DocConstant xsi:nil="true" href="DISPLAY_1MgZ1AKaf4whulF$36vYLM" />
 		<DocConstant xsi:nil="true" href="MICROPHONE_0bUCovL_H1xPLhNyHpEjqz" />
 		<DocConstant xsi:nil="true" href="PLAYER_0w82yczSXFdetv9cf8fN90" />
 		<DocConstant xsi:nil="true" href="PROJECTOR_14nV9zYtP39f_OOIB9OA43" />
@@ -16,10 +16,10 @@
 		<DocConstant xsi:nil="true" href="SWITCHER_0s65qe4WrAnuwm0DZBHJyj" />
 		<DocConstant xsi:nil="true" href="TELEPHONE_0uCggSLLzEPP06H49UfbfF" />
 		<DocConstant xsi:nil="true" href="TUNER_0_EStDoNXF4Bw512qome7N" />
-		<DocConstant xsi:nil="true" href="COMMUNICATIONTERMINAL_1C9BNNcj9mx0W2dT2QsBb" />
+		<DocConstant xsi:nil="true" href="COMMUNICATIONTERMINAL_1C$9BNNcj9mx0W2dT2QsBb" />
 		<DocConstant xsi:nil="true" href="RECORDINGEQUIPMENT_36UqHdggP9TuLcv1TqgpR2" />
-		<DocConstant xsi:nil="true" href="USERDEFINED_0pjy5o5D4AO1puVPAZ73z" />
-		<DocConstant xsi:nil="true" href="NOTDEFINED_0hF15nkf79uy7wMtnpxz" />
+		<DocConstant xsi:nil="true" href="USERDEFINED_0$pjy5o5D4AO1puVPAZ73z" />
+		<DocConstant xsi:nil="true" href="NOTDEFINED_0$hF15nkf79uy7wMtnpx$z" />
 	</Constants>
 </DocEnumeration>
 

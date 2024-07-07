@@ -5,8 +5,8 @@
 		<DocLocalization Locale="fr" Name="Enumération des types de profil" />
 	</Localization>
 	<Constants>
-		<DocConstant xsi:nil="true" href="CURVE_1pVszbF69BVeDVkAjJVjh" />
-		<DocConstant xsi:nil="true" href="AREA_0g1KgAnBL8Rwy2XNDXUWJ" />
+		<DocConstant xsi:nil="true" href="CURVE_1pVszbF69BVeDVkAjJ$Vjh" />
+		<DocConstant xsi:nil="true" href="AREA_0g1KgAnBL8Rwy$2XNDXUWJ" />
 	</Constants>
 </DocEnumeration>
 

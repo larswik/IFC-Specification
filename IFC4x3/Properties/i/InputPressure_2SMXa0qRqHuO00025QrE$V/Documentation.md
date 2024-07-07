@@ -1,1 +1,3 @@
-Maximum input control air pressure requirement.
+Maximum input or design pressure for the object.
+
+Control air pressure.

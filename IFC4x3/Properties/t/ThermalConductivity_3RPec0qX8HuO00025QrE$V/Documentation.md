@@ -1,1 +1,1 @@
-The thermal conductivity of the fin.
+The thermal conductivity of the object.

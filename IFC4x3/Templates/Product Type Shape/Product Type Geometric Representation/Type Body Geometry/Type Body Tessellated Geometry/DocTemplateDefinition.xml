@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_Tessellated_Geometry_1gta73PTDnBmgJWHRIkaf" Name="Type Body Tessellated Geometry" UniqueId="1gta$73PTDnBmgJWHRIkaf" Type="IfcElementType">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type_Body_Tessellated_Geometry_1gta$73PTDnBmgJWHRIkaf" Name="Type Body Tessellated Geometry" UniqueId="1gta$73PTDnBmgJWHRIkaf" Type="IfcElementType">
 	<Rules>
 		<DocModelRuleAttribute Name="RepresentationMaps">
 			<Rules>
@@ -114,7 +114,7 @@
 																			<Rules>
 																				<DocModelRuleEntity Name="IfcSurfaceStyle">
 																					<References>
-																						<DocTemplateDefinition xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrrpIILsus" />
+																						<DocTemplateDefinition xsi:nil="true" href="Surface_Color_Style_3gHpLYmULDnwrr$pIILsus" />
 																					</References>
 																				</DocModelRuleEntity>
 																			</Rules>

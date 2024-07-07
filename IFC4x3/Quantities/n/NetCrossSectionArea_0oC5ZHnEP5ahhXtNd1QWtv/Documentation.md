@@ -1,1 +1,3 @@
-Area of the cross section of the duct, excluding the interior flow space.
+Area of the cross section of the object.
+
+Excluding the interior flow space.

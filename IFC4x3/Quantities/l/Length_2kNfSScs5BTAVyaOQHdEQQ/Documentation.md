@@ -1,1 +1,3 @@
-Total length of the stair flight along the walking line.
+The length of the object.
+
+Measured along the walking line.

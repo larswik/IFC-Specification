@@ -1,1 +1,1 @@
-Nominal width (or thickness) of the slab. Only given, if the slab is prismatic (constant thickess).
+The width of the object. Only given, if the object has constant thickness (prismatic).

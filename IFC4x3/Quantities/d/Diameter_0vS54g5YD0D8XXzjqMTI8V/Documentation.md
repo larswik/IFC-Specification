@@ -1,1 +1,1 @@
-Actual diameter of sample or segment.
+The Diameter of the object.

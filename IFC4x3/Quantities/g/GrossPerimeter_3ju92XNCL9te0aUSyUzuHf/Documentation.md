@@ -1,1 +1,3 @@
-Perimeter of the outer contour of the building story without taking interior slab openings into account.
+Gross perimeter at the outer contour of the object.
+
+Without taking interior slab openings into account.

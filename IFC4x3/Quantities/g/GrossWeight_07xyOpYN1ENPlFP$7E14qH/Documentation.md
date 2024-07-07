@@ -1,1 +1,1 @@
-Total gross weight of the plate without add-on parts, not taking into account possible processing features (cut-out's, etc.) or openings and recesses.
+Total Gross Weight of the object without any add-on parts and not taking into account possible processing features (cut-out's, etc.) or openings and recesses.

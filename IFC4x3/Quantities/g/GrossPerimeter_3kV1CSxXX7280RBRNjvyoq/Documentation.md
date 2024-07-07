@@ -1,1 +1,3 @@
-Perimeter of the site boundary, measured in horizontal projection.
+Gross perimeter at the outer contour of the object.
+
+Measured in horizontal projection.

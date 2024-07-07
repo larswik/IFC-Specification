@@ -1,1 +1,3 @@
-Total nominal length of the wall along the wall center line (even if different to the wall path).
+The length of the object.
+
+Along center line (even if different to the wall path).

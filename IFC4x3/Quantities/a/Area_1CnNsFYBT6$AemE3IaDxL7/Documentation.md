@@ -1,1 +1,1 @@
-Measured plan area
+Calculated area for the object.

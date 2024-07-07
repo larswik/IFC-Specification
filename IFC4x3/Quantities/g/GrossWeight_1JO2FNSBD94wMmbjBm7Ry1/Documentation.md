@@ -1,1 +1,3 @@
-Total gross weight of the material, including material placed and wasted.
+Total Gross Weight of the object without any add-on parts and not taking into account possible processing features (cut-out's, etc.) or openings and recesses.
+
+Including material placed and wasted.

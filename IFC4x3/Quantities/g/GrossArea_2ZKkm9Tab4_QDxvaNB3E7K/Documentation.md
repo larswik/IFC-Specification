@@ -1,1 +1,3 @@
-Total area of the extruded area of the plate. Openings, recesses and projections are not taken into account. Only given, if the plate is prismatic.
+Gross Area of the object. Openings, recesses, projections and cut-outs are not taken into account.
+
+Indicates the extruded area of the element. Only given, if the element is prismatic.

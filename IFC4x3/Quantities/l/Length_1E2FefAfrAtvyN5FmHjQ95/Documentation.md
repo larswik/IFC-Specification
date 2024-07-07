@@ -1,1 +1,1 @@
-Total length of reinforcing.
+The length of the object.

@@ -1,1 +1,1 @@
-Thickness of the ramp flight. It should only be provided, if it is constant.
+The width of the object. Only given, if the object has constant thickness (prismatic).

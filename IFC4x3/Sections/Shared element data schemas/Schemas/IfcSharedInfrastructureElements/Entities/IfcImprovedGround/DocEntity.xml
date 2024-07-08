@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IfcImprovedGround" Name="IfcImprovedGround" UniqueId="92c17199-1655-4d3b-b443-7f88b06fcbce" BaseDefinition="IfcEarthworksElement" EntityFlags="32">
+<DocEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IfcImprovedGround" Name="IfcImprovedGround" UniqueId="76e203c4-2460-48ea-8897-ae90f643cdfe" BaseDefinition="IfcEarthworksElement" EntityFlags="32">
 	<Attributes>
 		<DocAttribute Name="PredefinedType" UniqueId="0baed532-201f-49e9-96f6-937cb88ca5af" DefinedType="IfcImprovedGroundTypeEnum">
 			<Documentation>Identifies the predefined type (methods) of improving the ground. This type may associate additional specific property sets.</Documentation>

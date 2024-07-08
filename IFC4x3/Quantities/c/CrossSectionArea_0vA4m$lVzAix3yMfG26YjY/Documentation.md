@@ -1,1 +1,1 @@
-Area of the cross section.
+Total area of the cross section (or profile) of the object.

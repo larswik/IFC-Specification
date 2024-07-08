@@ -1,1 +1,1 @@
-Characteristic length
+The length of the object.

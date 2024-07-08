@@ -1,1 +1,1 @@
-Actual inner diameter of segment.
+The actual inner diameter of the object.

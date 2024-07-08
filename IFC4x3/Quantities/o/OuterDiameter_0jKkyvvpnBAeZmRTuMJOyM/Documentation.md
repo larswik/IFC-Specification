@@ -1,1 +1,1 @@
-Actual outer diameter of segment.
+The actual outer diameter of the object.

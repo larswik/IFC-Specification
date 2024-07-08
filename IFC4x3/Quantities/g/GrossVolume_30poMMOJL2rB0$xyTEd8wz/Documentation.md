@@ -1,1 +1,3 @@
-Total gross volume of the material, including material placed and wasted.
+Total gross volume of the object. Openings, recesses, enclosed objects and projections are not taken into account.
+
+Including material placed and wasted.

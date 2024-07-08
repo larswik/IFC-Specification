@@ -1,1 +1,1 @@
-Total gross volume of the pile, not taking into account possible processing features (cut-out's, etc.) or openings and recesses.
+Total gross volume of the object. Openings, recesses, enclosed objects and projections are not taken into account.

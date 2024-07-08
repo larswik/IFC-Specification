@@ -1,1 +1,1 @@
-Gross area of the site covered by the element.
+Gross area of the site covered by the building(s).

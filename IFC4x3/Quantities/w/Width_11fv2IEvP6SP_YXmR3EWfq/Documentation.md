@@ -1,1 +1,1 @@
-Nominal width (or thickness) of the plate. Only given, if the covering is prismatic (constant thickess).
+The width of the object. Only given, if the object has constant thickness (prismatic).

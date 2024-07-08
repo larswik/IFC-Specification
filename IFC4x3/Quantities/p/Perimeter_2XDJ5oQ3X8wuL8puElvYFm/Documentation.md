@@ -1,1 +1,1 @@
-Total perimeter of the outer lining of the door.
+Perimeter of the object.

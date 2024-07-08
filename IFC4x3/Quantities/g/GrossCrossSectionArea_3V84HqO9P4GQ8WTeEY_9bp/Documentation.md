@@ -1,1 +1,3 @@
-Area of the cross section, including the duct itself and the interior flow space.
+Area of the cross section.
+
+Including the duct itself and the interior flow space.

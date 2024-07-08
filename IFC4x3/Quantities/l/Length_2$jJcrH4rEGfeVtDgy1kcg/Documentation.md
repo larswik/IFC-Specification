@@ -1,1 +1,3 @@
-Actual length of upper edge of slice.
+The length of the object.
+
+Of upper edge of slice.

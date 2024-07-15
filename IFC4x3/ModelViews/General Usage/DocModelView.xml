@@ -7978,7 +7978,7 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Voxel Geometry" UniqueId="6e86fa12-7a9e-413b-820d-3b98e5091e7e">
-					<Documentation>An _IfcGeoScienceElement_ may be represented by an IfcVoxelGrid_.</Documentation>
+					<Documentation>An _IfcGeoScienceElement_ may be represented by an _IfcVoxelGrid_.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Voxel_Geometry_1XcKyD1H56fQHkAb0rHsrs" />
 					<Items>
 						<DocTemplateItem UniqueId="3967f405-c591-437b-a6ee-6b8a2623b6ba" />

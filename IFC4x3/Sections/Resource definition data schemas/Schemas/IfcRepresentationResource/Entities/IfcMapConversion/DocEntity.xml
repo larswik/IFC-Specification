@@ -36,5 +36,10 @@ _XAxisAbscissa_ it provides the direction of the local x axis within the horizon
 			<Documentation>Scale to be used, when the units of the CRS are not identical to the units of the engineering coordinate system. If omited, the value of 1.0 is assumed.</Documentation>
 		</DocAttribute>
 	</Attributes>
+	<WhereRules>
+		<DocWhereRule Name="TargetCRSOnlyProjected" UniqueId="ac9fb308-c18a-436f-8ec4-d0591f1dca67">
+			<Expression>&apos;IFCREPRESENTATIONRESOURCE.IFCPROJECTEDCRS&apos; IN TYPEOF(SELF\IfcCoordinateOperation.TargetCRS)</Expression>
+		</DocWhereRule>
+	</WhereRules>
 </DocEntity>
 

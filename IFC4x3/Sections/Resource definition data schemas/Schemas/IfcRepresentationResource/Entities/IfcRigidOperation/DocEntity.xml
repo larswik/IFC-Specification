@@ -10,7 +10,7 @@
 		<DocAttribute Name="Height" UniqueId="caad8793-db34-4377-b751-b1591d8f3fe3" DefinedType="IfcLengthMeasure" AttributeFlags="1">
 			<Documentation>Translation above (positive) or below (negative) the coordinate surface.
 
->NOTE In case of _IfcGeographicCRS_, _Height_ is a translation relative to the geodetic datum ellipsoid's surface. In case of a _IfcProjectedCRS_, _Height_ is a translation relative to the vertical datum.</Documentation>
+&gt;NOTE In case of _IfcGeographicCRS_, _Height_ is a translation relative to the geodetic datum ellipsoid&apos;s surface. In case of a _IfcProjectedCRS_, _Height_ is a translation relative to the vertical datum.</Documentation>
 		</DocAttribute>
 	</Attributes>
 	<WhereRules>

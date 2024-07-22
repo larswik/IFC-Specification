@@ -18,7 +18,7 @@
 
 	(* one representation is either Curve2D or 3D *)
 	IF SIZEOF(AlignmentRepresentations) = 1 THEN
-		IF SIZEOF(AlignmentRepresentations.Items) <> 1 THEN
+		IF SIZEOF(QUERY(rep <* AlignmentRepresentations | SIZEOF(rep.Items) <> 1)) = 0 THEN
 			RETURN (FALSE);
 		END_IF;
 		IF SIZEOF(QUERY(twoDee <* AlignmentRepresentations | twoDee.RepresentationType = 'Curve2D')) = 1 THEN

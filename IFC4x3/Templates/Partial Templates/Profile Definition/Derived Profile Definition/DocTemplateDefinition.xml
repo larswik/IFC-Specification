@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Derived Profile Definition" UniqueId="14b1735a-50b0-5814-aeb3-a220257f368c" Status="Sample" Type="IfcProfileDef">
+	<Localization>
+		<DocLocalization Locale="en" />
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="ProfileType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProfileTypeEnum" />
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="ProfileName">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

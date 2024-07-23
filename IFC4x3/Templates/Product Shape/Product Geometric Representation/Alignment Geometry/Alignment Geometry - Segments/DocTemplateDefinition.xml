@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Geometry - Segments" UniqueId="abf80a4a-ba16-5f19-af81-57ff190331ef" Status="Sample" Type="IfcAlignmentSegment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;This concept template applies to segments of all type of alignment layout: &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt; and &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;RepresentationIdentifier&lt;/em&gt; = &apos;Axis&apos;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;RepresentationType&lt;/em&gt; = &apos;Segment&apos;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When defining the list of segments for the business logic (i.e., &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;strong&gt;zero-length segment&lt;/strong&gt; shall be added, at the end of the list of segments for &lt;em&gt;IfcAlignmentSegment.DesignParameters&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;If the geometry definition is also present, then each of the zero-length segments shall have a &lt;em&gt;IfcCurveSegment&lt;/em&gt; counterpart - of length zero.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;```
+concept {
+    IfcAlignmentSegment:Representation -&amp;gt; IfcProductDefinitionShape
+    IfcAlignmentSegment:DesignParameters -&amp;gt; IfcAlignmentHorizontalSegment
+    IfcAlignmentSegment:DesignParameters -&amp;gt; IfcAlignmentVerticalSegment
+    IfcAlignmentSegment:DesignParameters -&amp;gt; IfcAlignmentCantSegment
+    IfcProductDefinitionShape:Representations -&amp;gt; IfcShapeRepresentation_0&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Representation">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProductDefinitionShape">
+					<Rules>
+						<DocModelRuleAttribute Name="Representations">
+							<Rules>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="RepresentationIdentifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="RepresentationIdentifier[Value] = &apos;Axis&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="RepresentationType[Value] = &apos;Segment&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcCurveSegment" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="DesignParameters">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAlignmentHorizontalSegment" />
+				<DocModelRuleEntity Name="IfcAlignmentVerticalSegment" />
+				<DocModelRuleEntity Name="IfcAlignmentCantSegment" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

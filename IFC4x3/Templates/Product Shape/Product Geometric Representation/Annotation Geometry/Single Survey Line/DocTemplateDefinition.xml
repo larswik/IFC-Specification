@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Single Survey Line" UniqueId="e4b71e85-e5f3-53bb-bac9-65ef6c08bb6e" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Geometry representation of a single survey line. It can be a 2D or a 3D line, therefore using &lt;em&gt;IfcPolyline&lt;/em&gt;, or &lt;em&gt;IfcIndexedPolyCurve&lt;/em&gt;, or &lt;em&gt;IfcGradientCurve&lt;/em&gt;, or &lt;em&gt;IfcCompositeCurve&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Representation">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProductDefinitionShape">
+					<Rules>
+						<DocModelRuleAttribute Name="Representations">
+							<Rules>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="ContextOfItems">
+											<Rules>
+												<DocModelRuleEntity Name="IfcGeometricRepresentationContext" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Annotation&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Curve&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items" Identification="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcPolyline" />
+												<DocModelRuleEntity Name="IfcIndexedPolyCurve" />
+												<DocModelRuleEntity Name="IfcGradientCurve" />
+												<DocModelRuleEntity Name="IfcCompositeCurve" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

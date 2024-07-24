@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="STEELSTRAPS_3tBxsQu7XEn9Ysh_1vBFSC" Name="STEELSTRAPS" UniqueId="f72fbd9a-e078-4ec4-98b6-afe0792cf70c" />
+<DocConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="STEELSTRAPS_3tBxsQu7XEn9Ysh_1vBFSC" Name="STEELSTRAPS" UniqueId="f72fbd9a-e078-4ec4-98b6-afe0792cf70c">
+	<Documentation>Straps that bind steel reinforcing meshes.</Documentation>
+</DocConstant>
 

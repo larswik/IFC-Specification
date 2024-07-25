@@ -7986,6 +7986,10 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="3967f405-c591-437b-a6ee-6b8a2623b6ba" />
 					</Items>
 				</DocTemplateUsage>
+				<DocTemplateUsage Name="Borehole Assignment" UniqueId="b1a6ef95-8767-456a-99f6-fcbfabe379af">
+					<Documentation>An _IfcGeoScienceFeature_ may be assigned to an _IfcBorehole_ where each _IfcGeoScienceFeature_ represents one interpreted homogeneous unit (e.g. an interpreted material) in the _IfcBorehole_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Assignment_to_Product_2Gn4FzSQ96MQoPL52lkLa4" />
+				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7e0ad082-f4df-42ca-aba6-dfe477bbfabd" Type="IfcGeoScienceElement" />
 		</DocConceptRoot>

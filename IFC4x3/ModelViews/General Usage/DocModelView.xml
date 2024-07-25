@@ -10588,10 +10588,10 @@ The following constraints apply to the 2D representation:
 				<DocTemplateUsage Name="Project Representation Context" UniqueId="06xo1mPkj8AQGMi369hcMt">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Representation_Context_0usiRmcNn5H9lAjZ9hcZvB" />
 					<Items>
-						<DocTemplateItem UniqueId="8b2ee625-6f83-4c83-ac00-70b497c35c4d" RuleParameters="ContextIdentifier=Model;ContextType=3D;">
+						<DocTemplateItem UniqueId="8b2ee625-6f83-4c83-ac00-70b497c35c4d" RuleParameters="ContextIdentifier=3D;ContextType=Model;">
 							<Documentation>Context for all 3D geometry.</Documentation>
 						</DocTemplateItem>
-						<DocTemplateItem UniqueId="d36560c4-0689-4d06-8168-bb475f992e79" RuleParameters="ContextIdentifier=Plan;ContextType=2D;">
+						<DocTemplateItem UniqueId="d36560c4-0689-4d06-8168-bb475f992e79" RuleParameters="ContextIdentifier=2D;ContextType=Plan;">
 							<Documentation>Context for all 2D annotations.</Documentation>
 						</DocTemplateItem>
 					</Items>

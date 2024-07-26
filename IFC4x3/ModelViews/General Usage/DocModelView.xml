@@ -1519,12 +1519,14 @@ The shared profile definition is defined by assigning an _IfcMaterialProfileSet_
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcBorehole" />
 			<Concepts>
 				<DocTemplateUsage Name="Axis 3D Geometry" UniqueId="bb314f22-9528-434d-96e6-a286be727168">
+					<Documentation>An _IfcBorehole_ may be represented by a curve in 3D space representing the drilling axis.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Axis_3D_Geometry_2ubDZB_q55xBeOSih6klyq" />
 					<Items>
 						<DocTemplateItem UniqueId="9633b9f7-722e-4d56-ac83-a672cbe73a0f" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Body Swept Solid Geometry" UniqueId="2836f72f-501d-49fd-a273-3022724bab06">
+					<Documentation>An _IfcBorehole_ may be represented by a swept solid.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Body_SweptSolid_Geometry_3BV1ZwpuDDiRuRm1EwJjPo" />
 					<Items>
 						<DocTemplateItem UniqueId="92f286c8-3527-4f92-81fd-b39db46c881e" />
@@ -8104,6 +8106,10 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 						<DocTemplateItem UniqueId="3967f405-c591-437b-a6ee-6b8a2623b6ba" />
 					</Items>
 				</DocTemplateUsage>
+				<DocTemplateUsage Name="Borehole Assignment" UniqueId="b1a6ef95-8767-456a-99f6-fcbfabe379af">
+					<Documentation>An _IfcGeoScienceFeature_ may be assigned to an _IfcBorehole_ where each _IfcGeoScienceFeature_ represents one interpreted homogeneous unit (e.g. an interpreted material) in the _IfcBorehole_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Assignment_to_Product_2Gn4FzSQ96MQoPL52lkLa4" />
+				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7e0ad082-f4df-42ca-aba6-dfe477bbfabd" Type="IfcGeoScienceElement" />
 		</DocConceptRoot>
@@ -8111,16 +8117,17 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceObservation" />
 			<Concepts>
 				<DocTemplateUsage Name="Observation Composition" UniqueId="f9189054-b6de-41d0-8c9e-b9b65480502e">
+					<Documentation>An _IfcGeoScienceObservation_ may decompose another _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Composition_0MQ9I7W893Nea$npjChteY" />
 					<Items>
-						<DocTemplateItem UniqueId="741018cc-fe6d-49d4-9927-d334fc71663b" />
+						<DocTemplateItem UniqueId="741018cc-fe6d-49d4-9927-d334fc71663b" RuleParameters="RelatingObject=IfcGeoScienceObservation;" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Observation Decomposition" UniqueId="8a99a0d6-cc48-4b8c-a768-44a7571097ee">
-					<Documentation>An _IfcGeoScienceObservation_ can be decomposed by other _IFcGeoScienceObservation_.</Documentation>
+					<Documentation>An _IfcGeoScienceObservation_ may be decomposed by other _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZ$uJ" />
 					<Items>
-						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" />
+						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" RuleParameters="RelatedObjects=IfcGeoScienceObservation;" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Observation Assignment" UniqueId="377f5505-88a9-4448-84f4-8169bf9e648e" Operator="or">
@@ -8145,6 +8152,14 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 					<Items>
 						<DocTemplateItem UniqueId="6398162f-0d20-4527-934c-6281bd3e4393" />
 					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Dataset Association" UniqueId="4cc0090e-38cd-4d62-b277-886fc6ba0b02">
+					<Documentation>Datasets may be associated with any type of _IfcGeoScienceObservation_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Dataset_Association_3nMq2ILqH9cgB0ymih6hXS" />
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Document Association" UniqueId="363249a8-23cc-482f-a0d7-7835cfdcd184">
+					<Documentation>Documents may be associated with any type of _IfcGeoScienceObservation_.</Documentation>
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Document_Association_1zhQwS02P4qwtdceG$ukyB" />
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="7c73b930-47a7-45f2-94ec-3d9ed2b45c36" Type="IfcGeoScienceObservation" />

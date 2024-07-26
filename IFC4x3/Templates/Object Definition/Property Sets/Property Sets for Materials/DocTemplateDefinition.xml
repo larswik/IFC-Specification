@@ -58,8 +58,6 @@ concept {
 							</Rules>
 						</DocModelRuleAttribute>
 					</Rules>
-						</DocModelRuleAttribute>
-					</Rules>
 				</DocModelRuleEntity>
 			</Rules>
 		</DocModelRuleAttribute>

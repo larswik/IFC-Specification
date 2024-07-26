@@ -80,7 +80,7 @@
 - REVISION</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="DocumentInfoForObjects" UniqueId="999d5137-72f3-4f77-84c9-a46462336d47" DefinedType="IfcRelAssociatesDocument" AttributeFlags="32" AggregationType="3" Inverse="RelatingDocument">
-			<Documentation>The document information with which objects are associated.
+			<Documentation>The objects to which the document information applies.
 { .change-ifc2x4}
 &gt; IFC4 CHANGE&amp;nbsp; New inverse attribute.</Documentation>
 		</DocAttribute>

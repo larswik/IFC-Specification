@@ -4,7 +4,9 @@
 		<DocAttribute Name="Description" UniqueId="ca30fa31-ac3e-4469-ae6f-26d92e6ff6b2" DefinedType="IfcText" AttributeFlags="1">
 			<Documentation>Description of the dataset reference for informational purposes.</Documentation>
 		</DocAttribute>
-		<DocAttribute Name="ReferencedDataset" UniqueId="b967d95b-2e3b-44f4-9251-a812c28ce43c" DefinedType="IfcDatasetInformation" AttributeFlags="1" />
+		<DocAttribute Name="ReferencedDataset" UniqueId="b967d95b-2e3b-44f4-9251-a812c28ce43c" DefinedType="IfcDatasetInformation" AttributeFlags="1">
+			<Documentation>Information about the referenced dataset.</Documentation>
+		</DocAttribute>
 		<DocAttribute Name="Filter" UniqueId="3ec84a91-b491-4f35-ae65-fb5089d202df" DefinedType="IfcText" AttributeFlags="1">
 			<Documentation>An optional text as e.g. SQL, XQuery etc to filter out data when only a subset is relevant for the dataset reference.</Documentation>
 		</DocAttribute>

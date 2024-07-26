@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Layout__Horizontal_Vertical_and_Cant_2V8Y3_cEnQ$OB$FD2mkym2" Name="Alignment Layout - Horizontal, Vertical and Cant" UniqueId="9f2220fe-98ec-5afd-82ff-3cd0b0bbcc02" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Nesting relationships between &lt;em&gt;IfcAlignment&lt;/em&gt; and the three layouts, with respective segments, that may define it (i.e., &lt;em&gt;IfcAlignmentHorizontal&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCant&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;When defining the list of segments for the business logic (i.e., &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;strong&gt;zero-length segment&lt;/strong&gt; shall be added, at the end of the list of segments for &lt;em&gt;IfcAlignmentSegment.DesignParameters&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;If the geometry definition is also present, then each of the zero-length segments shall have a &lt;em&gt;IfcCurveSegment&lt;/em&gt; counterpart - of length zero.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsNestedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelNests">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAlignmentHorizontal">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentSegment">
+																	<Rules>
+																		<DocModelRuleAttribute Name="DesignParameters">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcAlignmentHorizontalSegment" />
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcAlignmentVertical">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentSegment">
+																	<Rules>
+																		<DocModelRuleAttribute Name="DesignParameters">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcAlignmentVerticalSegment" />
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcAlignmentCant">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentSegment">
+																	<Rules>
+																		<DocModelRuleAttribute Name="DesignParameters">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcAlignmentCantSegment" />
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

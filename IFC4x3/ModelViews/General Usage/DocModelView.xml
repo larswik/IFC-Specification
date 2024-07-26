@@ -15276,7 +15276,7 @@ shown above.&lt;/li&gt;
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcVoxelData" />
 			<Concepts>
 				<DocTemplateUsage Name="Body Voxel Geometry" UniqueId="2a65ce22-5fb8-4640-b0af-a5a8f85734b4">
-					<Documentation>Body Voxel Geometry may be associated to any _IfcVoxelData_. The _IfcVoxelData_ instance shall be assigned (_IfcRelAssignsToProduct_) to an object that is represented by the same _IfcVoxelGrid_.</Documentation>
+					<Documentation>An _IfcVoxelData_ instance requires exactly one Body Voxel Geometry. The _IfcVoxelData_ instance shall be assigned (_IfcRelAssignsToProduct_) to a product that is represented by the same Body Voxel Geometry instance. _IfcVoxelData_ is not part of direct project spatial and object decomposition i. e. spatial structure and element decomposition and shall therefore not itself be contained in spatial structure. It should be declared in the project.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" Name="Body Voxel Geometry" UniqueId="b8142801-74a0-461d-a0ef-db72f813bd43" Type="IfcVoxelData" />
 				</DocTemplateUsage>
 			</Concepts>

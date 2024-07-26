@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Survey Elements Nesting" UniqueId="d56d815c-26a9-5877-992f-be25876deb54" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The ordered arrangement of survey annotations, such as point, lines, curves.&lt;/p&gt;
+&lt;p&gt;For set of survey elements where the order of items is not relevant (e.g., point clouds or collections of survey string lines), the Survey Elements Grouping template can be used.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE  Having an &lt;em&gt;IfcAnnotation&lt;/em&gt; nesting a list of &lt;em&gt;IfcAnnotation&lt;/em&gt;&apos;s, properties can be associated to the each annotation of the list (i.e., to each point and line) as well as to the annotation collecting all survey elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsNestedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelNests">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAnnotation">
+									<Rules>
+										<DocModelRuleAttribute Name="PredefinedType">
+											<Rules>
+												<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+													<Rules>
+														<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

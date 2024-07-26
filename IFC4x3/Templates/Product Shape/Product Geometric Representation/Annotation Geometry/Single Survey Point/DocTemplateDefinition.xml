@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Single Survey Point" UniqueId="f93a9736-c813-58e1-b005-98de267abcee" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Geometry representation of a single survey point.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Representation">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProductDefinitionShape">
+					<Rules>
+						<DocModelRuleAttribute Name="Representations">
+							<Rules>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="ContextOfItems">
+											<Rules>
+												<DocModelRuleEntity Name="IfcGeometricRepresentationContext" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Annotation&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Point&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items" Identification="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcCartesianPoint" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

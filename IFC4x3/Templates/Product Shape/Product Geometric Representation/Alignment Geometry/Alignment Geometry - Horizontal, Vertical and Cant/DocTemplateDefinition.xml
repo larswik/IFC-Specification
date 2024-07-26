@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Geometry - Horizontal, Vertical and Cant" UniqueId="e338408d-8ac0-5f45-8f3f-4b30e332611c" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;This concept template applies to alignments defined by an horizontal, a vertical and a cant layouts.&lt;/p&gt;
+&lt;p&gt;For the &lt;em&gt;IfcCompositeCurve&lt;/em&gt;:
+* &lt;em&gt;RepresentationIdentifier&lt;/em&gt; = &apos;FootPrint&apos;
+* &lt;em&gt;RepresentationType&lt;/em&gt; = &apos;Curve2D&apos;&lt;/p&gt;
+&lt;p&gt;For the &lt;em&gt;IfcSegmentedReferenceCurve&lt;/em&gt;:
+* &lt;em&gt;RepresentationIdentifier&lt;/em&gt; = &apos;Axis&apos;
+* &lt;em&gt;RepresentationType&lt;/em&gt; = &apos;Curve3D&apos;&lt;/p&gt;
+&lt;p&gt;When defining the list of segments for the business logic (i.e., &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;strong&gt;zero-length segment&lt;/strong&gt; shall be added, at the end of the list of segments for &lt;em&gt;IfcAlignmentSegment.DesignParameters&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;If the geometry definition is also present, then each of the zero-length segments shall have a &lt;em&gt;IfcCurveSegment&lt;/em&gt; counterpart - of length zero.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Representation">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProductDefinitionShape">
+					<Rules>
+						<DocModelRuleAttribute Name="Representations">
+							<Rules>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;FootPrint&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Curve2D&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcCompositeCurve">
+													<Rules>
+														<DocModelRuleAttribute Name="Segments">
+															<Rules>
+																<DocModelRuleEntity Name="IfcCurveSegment" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Axis&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Curve3D&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcSegmentedReferenceCurve">
+													<Rules>
+														<DocModelRuleAttribute Name="BaseCurve">
+															<Rules>
+																<DocModelRuleEntity Name="IfcGradientCurve">
+																	<Rules>
+																		<DocModelRuleAttribute Name="BaseCurve">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcCompositeCurve">
+																					<Rules>
+																						<DocModelRuleAttribute Name="Segments">
+																							<Rules>
+																								<DocModelRuleEntity Name="IfcCurveSegment" />
+																							</Rules>
+																						</DocModelRuleAttribute>
+																					</Rules>
+																				</DocModelRuleEntity>
+																			</Rules>
+																		</DocModelRuleAttribute>
+																		<DocModelRuleAttribute Name="Segments">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcCurveSegment" />
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+														<DocModelRuleAttribute Name="Segments">
+															<Rules>
+																<DocModelRuleEntity Name="IfcCurveSegment" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

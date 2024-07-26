@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Set Of Survey Points" UniqueId="175de56c-b149-587f-a3b8-500a0bff615a" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Geometry representation of a set of survey points. They can be 2D points or 3D points. The set of points may not form a closed surface or a survey line.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE  When a single &lt;em&gt;IfcAnnotation&lt;/em&gt; is represented by multiple survey points, it is not possible to associate properties to the single geometrical points of the set, but only to the whole annotation. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Representation">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProductDefinitionShape">
+					<Rules>
+						<DocModelRuleAttribute Name="Representations">
+							<Rules>
+								<DocModelRuleEntity Name="IfcShapeRepresentation">
+									<Rules>
+										<DocModelRuleAttribute Name="ContextOfItems">
+											<Rules>
+												<DocModelRuleEntity Name="IfcGeometricRepresentationContext" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Annotation&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel">
+													<Rules>
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Point&apos;" />
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Items" Identification="Items">
+											<Rules>
+												<DocModelRuleEntity Name="IfcCartesianPointList2D" />
+												<DocModelRuleEntity Name="IfcCartesianPointList3D" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

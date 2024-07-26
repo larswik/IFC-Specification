@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Survey Elements Grouping" UniqueId="91dff210-fc85-5d8d-bdd8-75165c47e1fd" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The assignment of survey annotations, such as point and lines, to a group. The template can be used when the order of the elements is irrelevant, for example for point clouds or collections of survey string lines.&lt;/p&gt;
+&lt;p&gt;For ordered list of survey elements, use the Survey Elements Nesting template.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE  Having an &lt;em&gt;IfcGroup&lt;/em&gt; grouping a list of &lt;em&gt;IfcAnnotation&lt;/em&gt;&apos;s, properties can be associated to each annotation (i.e., to each point and line) as well as to the group collecting all survey elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasAssignments" Identification="IsAssigned">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAssignsToGroup">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingGroup">
+							<Rules>
+								<DocModelRuleEntity Name="IfcGroup">
+									<Rules>
+										<DocModelRuleAttribute Name="Name" Identification="GroupName">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="Name">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

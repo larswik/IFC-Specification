@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Property Sets for Profiles" UniqueId="4f34550f-f02a-56ec-b9aa-a6b9aaaa318a" Status="Sample" Type="IfcProfileDef">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The concept template &lt;em&gt;Property Sets for Profiles&lt;/em&gt; describes how a profile can be related to a single or multiple property sets. A property set contains a single or multiple properties. The data type of an individual property can be one of single, enumerated, value, table, reference or list value, and combination of property occurrences.&lt;/p&gt;
+&lt;p&gt;NOTE: An &lt;em&gt;IfcProfileDef&lt;/em&gt; is not an &lt;em&gt;IfcObject&lt;/em&gt;. For legacy reasons, this concept is listed under &lt;em&gt;Object Definition&lt;/em&gt;. In future versions of the standard the various property set association mechanisms will likely be unified.&lt;/p&gt;
+&lt;p&gt;Property Sets applicable to this template will carry the &lt;em&gt;IfcPropertySetTemplateTypeEnum&lt;/em&gt; &quot;PSET_PROFILEDRIVEN&quot;.&lt;/p&gt;
+&lt;p&gt;```
+concept {
+    IfcProfileDef:HasProperties -&amp;gt; IfcProfileProperties:ProfileDefinition&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasProperties">
+			<Rules>
+				<DocModelRuleEntity Name="IfcProfileProperties">
+					<Rules>
+						<DocModelRuleAttribute Name="Name" Identification="PsetName">
+							<Rules>
+								<DocModelRuleEntity Name="IfcIdentifier" />
+							</Rules>
+						</DocModelRuleAttribute>
+						<DocModelRuleAttribute Name="Description">
+							<Rules>
+								<DocModelRuleEntity Name="IfcText" />
+							</Rules>
+						</DocModelRuleAttribute>
+						<DocModelRuleAttribute Name="Properties" Identification="Properties">
+							<Rules>
+								<DocModelRuleEntity Name="IfcPropertySingleValue" />
+								<DocModelRuleEntity Name="IfcPropertyBoundedValue" />
+								<DocModelRuleEntity Name="IfcPropertyEnumeratedValue" />
+								<DocModelRuleEntity Name="IfcPropertyListValue" />
+								<DocModelRuleEntity Name="IfcPropertyTableValue" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

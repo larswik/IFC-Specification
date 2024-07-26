@@ -7997,14 +7997,14 @@ The material is attached by the _RelatingMaterial_ attribute on the [IfcRelAssoc
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcGeoScienceObservation" />
 			<Concepts>
 				<DocTemplateUsage Name="Observation Composition" UniqueId="f9189054-b6de-41d0-8c9e-b9b65480502e">
-					<Documentation>An _IfcGeoScienceObservation may decompose another _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
+					<Documentation>An _IfcGeoScienceObservation_ may decompose another _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Composition_0MQ9I7W893Nea$npjChteY" />
 					<Items>
 						<DocTemplateItem UniqueId="741018cc-fe6d-49d4-9927-d334fc71663b" RuleParameters="RelatingObject=IfcGeoScienceObservation;" />
 					</Items>
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Observation Decomposition" UniqueId="8a99a0d6-cc48-4b8c-a768-44a7571097ee">
-					<Documentation>An _IfcGeoScienceObservation may be decomposed by other _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
+					<Documentation>An _IfcGeoScienceObservation_ may be decomposed by other _IfcGeoScienceObservation_. This may be the case e.g. when several different types of tests have been performed in an _IfcBorehole_ at different depths and each type of test is decomposed into sub-tests at different depth ranges.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Complementary_Data_Decomposition_2dPaQJZv96NvJhXffrZ$uJ" />
 					<Items>
 						<DocTemplateItem UniqueId="f2cc8888-a994-4699-99a1-916859eb8ff9" RuleParameters="RelatedObjects=IfcGeoScienceObservation;" />

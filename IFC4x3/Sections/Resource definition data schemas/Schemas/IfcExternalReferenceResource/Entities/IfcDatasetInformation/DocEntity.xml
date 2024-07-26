@@ -5,7 +5,7 @@
 			<Documentation>An optional attribute for referencing a schema that defines the possible content and structure of the dataset (e.g. xsd).</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="DatasetInfoForObjects" UniqueId="b516123d-f0a9-4d8d-b03f-d43496183c16" DefinedType="IfcRelAssociatesDataset" AggregationType="3" Inverse="RelatingDataset">
-			<Documentation>The dataset information with which objects are associated.</Documentation>
+			<Documentation>The objects to which the dataset information applies.</Documentation>
 		</DocAttribute>
 		<DocAttribute Name="HasDatasetReferences" UniqueId="1f81c734-937e-4527-a11f-96acc2d06105" DefinedType="IfcDatasetReference" AggregationType="3" Inverse="ReferencedDataset">
 			<Documentation>The dataset references to which the document applies.</Documentation>

@@ -530,6 +530,60 @@ The **IfcActionRequest** may have assignments of its own using the [IfcRelAssign
 						<DocTemplateItem UniqueId="0598115b-43cc-43ad-8a41-dbcd5ca83279" />
 					</Items>
 				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Aggregation To Project" UniqueId="cf2ad581-5f73-4f92-ae9d-24b391e1dd31">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Aggregation_To_Project_1MEMw1fUTIaA4$xGhgfkna" />
+					<Items>
+						<DocTemplateItem UniqueId="8d72b7b8-bb4f-44a9-9600-c47cc1a3e010" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Layout - Horizontal, Vertical and Cant " UniqueId="0f1d2e7a-b790-460d-917d-b39d861a9010">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Layout__Horizontal_Vertical_and_Cant_2V8Y3_cEnQ$OB$FD2mkym2" />
+					<Items>
+						<DocTemplateItem UniqueId="32c0fd97-d7ac-49b1-a977-c5e71f2856b5" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Layout - Reusing Horizontal Layout" UniqueId="d8c14fa6-4395-44fe-87c3-656e230ade60">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Layout__Reusing_Horizontal_Layout_0no0rXgd1VtA7awvJZU8Nw" />
+					<Items>
+						<DocTemplateItem UniqueId="1c08d360-36da-42be-9a82-b7bd91fee749" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Geometry - Horizontal" UniqueId="868c7f90-c335-43d6-9f24-0686ad82a8f2">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Geometry__Horizontal_3LXVAJawzPPBdDBLmm0u65" />
+					<Items>
+						<DocTemplateItem UniqueId="ca810572-56e5-42aa-aac3-e0c946c90907" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Geometry - Horizontal and Vertical" UniqueId="bbbac2ee-0e90-4d6e-9bae-2608b9b0934d">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Geometry__Horizontal_and_Vertical_1L33qYzorPxwRD$oEvnvm$" />
+					<Items>
+						<DocTemplateItem UniqueId="51b6cee4-25ee-4fa2-9680-bc00819355e3" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Geometry - Horizontal, Vertical and Cant " UniqueId="6f89fa08-e83a-4d37-8897-039af4154f2c">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Geometry__Horizontal_Vertical_and_Cant_3ZE42DYi1VHOy$Ip3ZCc4S" />
+					<Items>
+						<DocTemplateItem UniqueId="e9144cec-d592-48fb-b536-f701e09eb81f" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Spatial Reference" UniqueId="6a306d5f-edd8-44d7-b6c0-89f628b982ad">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Spatial_Reference_0HnloJcazUjh0IPz5Z2WL7" />
+					<Items>
+						<DocTemplateItem UniqueId="804485ea-558c-43ac-9bf9-8b9962a2aafc" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Alignment Grouping" UniqueId="dafe9e85-3900-46fc-8728-9a530cfb3450">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Grouping_3zfyWD_85Q_BYIEWtuHH76" />
+					<Items>
+						<DocTemplateItem UniqueId="2d63bc86-ad5c-487b-a7f3-4ef652715bb1" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Property Sets for Objects" UniqueId="6e3dda07-be29-4546-aa16-e498dddc0291">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Property_Sets_for_Objects_3tGbMc30vFCOIj99WTjYHX" />
+					<Items>
+						<DocTemplateItem UniqueId="c8868890-ab3b-4c76-8e55-0628836d33ac" RuleParameters="PsetName=Pset_LinearReferencingMethod;" />
+					</Items>
+				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="425ea152-03b9-4561-a5c8-8bc3b50f9289" Type="IfcAlignment" />
 		</DocConceptRoot>
@@ -556,6 +610,15 @@ The **IfcActionRequest** may have assignments of its own using the [IfcRelAssign
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="98a8569d-942a-4a37-88b8-5ed70956158f" Type="IfcAlignmentHorizontal" />
+		</DocConceptRoot>
+		<DocConceptRoot UniqueId="0p3OhlOk58VBbdKPN1ZPO$">
+			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcAlignmentSegment" />
+			<Concepts>
+				<DocTemplateUsage UniqueId="3FfC2m4F5CMhYIaGhy8K3o">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Alignment_Geometry__Segments_2h_0fAkXPV6Q_1L$yP0p7l" />
+				</DocTemplateUsage>
+			</Concepts>
+			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="99cd3f9a-3a71-49b1-8b5e-fb0a2b90690e" Type="IfcAlignmentSegment" />
 		</DocConceptRoot>
 		<DocConceptRoot Name="IfcAlignmentVertical" UniqueId="0399907a-9c3c-49ef-80f1-806a7c984006">
 			<ApplicableEntity xsi:type="DocEntity" xsi:nil="true" href="IfcAlignmentVertical" />
@@ -601,6 +664,51 @@ The **IfcActionRequest** may have assignments of its own using the [IfcRelAssign
 						<DocTemplateItem UniqueId="ee8a18ee-f45b-4b07-ac4f-d11fd1b40bfa" RuleParameters="Identifier=Annotation;Type=GeometricSet;Items=IfcGeometricSet;">
 							<Documentation>Any point, curve or surface representing the annotation.</Documentation>
 						</DocTemplateItem>
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Single Survey Point" UniqueId="147e71bc-5c28-4694-840f-6ea5be189fef">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Single_Survey_Point_3vEfSso1DOuR05cDucUhpk" />
+					<Items>
+						<DocTemplateItem UniqueId="9544bf97-5540-4b9c-9ef8-293d1a4df548" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Single Survey Point Linearly Placed" UniqueId="4eb4812d-2a27-45ee-8d25-29f44361e09d">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Single_Survey_Point_Linearly_Placed_3OYcAmhnXRNPC$Tkt4Zee7" />
+					<Items>
+						<DocTemplateItem UniqueId="874dc10c-8abb-4b0c-b7bd-c817e90c636e" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Set Of Survey Points" UniqueId="57c2c0a3-55cd-40f5-ac00-ffcb60f0e610">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Set_Of_Survey_Points_0NNULiiKbOVwEuK0eB$s5Q" />
+					<Items>
+						<DocTemplateItem UniqueId="efb4bb76-b6d6-4518-b81b-0a948ab37169" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Single Survey Line" UniqueId="17f7e020-5dfe-461c-b249-c63adb23ec08">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Single_Survey_Line_3ajnw5vVDJkxh9PUzi2Bjk" />
+					<Items>
+						<DocTemplateItem UniqueId="16bf0545-4d68-4392-95fa-f3c1ceaf91dd" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Survey Elements Grouping" UniqueId="1631942b-145d-43e2-be12-49d8f971bb39">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Survey_Elements_Grouping_2Ht$8G$8LTZRtOTHPSH_7z" />
+					<Items>
+						<DocTemplateItem UniqueId="77caf627-39b7-4d3c-8e83-549a2a4e308d" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Survey Elements Nesting" UniqueId="18b6f381-3800-42f2-b64f-0bba62da4617">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Survey_Elements_Nesting_3LRO5S9gbOTvallYM7RUjK" />
+					<Items>
+						<DocTemplateItem UniqueId="7169c285-3f76-4e75-8a50-dd72810d5912" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Property Sets for Objects" UniqueId="096f40b4-d08a-48b5-a9de-d45575c256d6">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Property_Sets_for_Objects_3tGbMc30vFCOIj99WTjYHX" />
+					<Items>
+						<DocTemplateItem UniqueId="6446fcbe-0425-4b04-95f7-1eec71ab00db" RuleParameters="PsetName=Pset_AnnotationLineOfSight;" />
+						<DocTemplateItem UniqueId="3043fc85-d2f1-4f7e-8fc5-c168f1885919" RuleParameters="PsetName=Pset_SoundAttenuation;" />
+						<DocTemplateItem UniqueId="ec81b996-c02d-4704-8e45-d745b6e3b900" RuleParameters="PredefinedType=CONTOURLINE;PsetName=Pset_AnnotationContourLine;" />
+						<DocTemplateItem UniqueId="ce2381fa-6981-421c-b10d-8078c2d7833d" RuleParameters="PredefinedType=SURVEY;PsetName=Pset_AnnotationSurveyArea;" />
 					</Items>
 				</DocTemplateUsage>
 			</Concepts>
@@ -2060,6 +2168,12 @@ Elements can also be referenced in an _IfcBuildingStorey_, for example, if they 
 				<DocTemplateUsage Name="Surface 3D Geometry" UniqueId="e18a7464-340a-445f-ab6c-3d1fe994c8e4">
 					<Documentation>Some _IfcBuildingElement_ may be represented by an surface as an abstract geometric representation. See each subtype for specific guidance.</Documentation>
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Surface_3D_Geometry_2zWfWzETL1ifxeyxs7TzCL" />
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Material Set" UniqueId="77f86863-266c-462c-a8a7-7a228fc9b0a4">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Set_0caab3Is5PigUIHQoMpysa" />
+					<Items>
+						<DocTemplateItem UniqueId="2988ed91-f7eb-4812-a83b-4bad5f6f789d" />
+					</Items>
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="3b67fb81-a19a-4b42-9eb6-623eb4fdad37" Type="IfcBuildingElement" />
@@ -4852,6 +4966,12 @@ The assignment of types to distribution element occurrences is vital for providi
 				</DocTemplateUsage>
 				<DocTemplateUsage Name="Component to Distribution System" UniqueId="55bb52a2-9c7b-4956-b219-61cfe5b97b00">
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Component_to_Distribution_System_1onvxOOUP93vJsvqrxspFX" />
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Material Set" UniqueId="72132f66-b19c-49a9-b90a-5abe3c7b7614">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Material_Set_0caab3Is5PigUIHQoMpysa" />
+					<Items>
+						<DocTemplateItem UniqueId="074874fd-e5bc-4271-b065-abd079d08596" />
+					</Items>
 				</DocTemplateUsage>
 			</Concepts>
 			<ApplicableTemplate xsi:type="DocTemplateDefinition" UniqueId="bca85539-d6bc-49b4-8764-7ffa2887a997" Type="IfcDistributionElement" />
@@ -10506,6 +10626,24 @@ Figure 1 illustrates project relationships with spatial structures, elements, an
 					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Representation_Context_2D_1nCFWmgBDBGAZKguka$l2M" />
 					<Items>
 						<DocTemplateItem UniqueId="4e051762-ab94-4192-aeee-d1f9706c0342" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Project Global Positioning Mapped" UniqueId="d72f25b4-c617-4d1e-8d90-75c28c80640a">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Global_Positioning_Mapped_0JQ3WWC0jGq8WHK7Wemcwd" />
+					<Items>
+						<DocTemplateItem UniqueId="7a4a5849-dc96-45fe-877b-8112c4fcdae2" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Project Global Positioning Geographic" UniqueId="e8bf9c11-41bd-4efe-a016-9956eb704d58">
+					<Definition xsi:type="DocTemplateDefinition" xsi:nil="true" href="Project_Global_Positioning_Geographic_0cDif64JPKYvcF$uBj0eVt" />
+					<Items>
+						<DocTemplateItem UniqueId="b6cc3d7e-cee6-481e-9a3f-bbd86842d50f" />
+					</Items>
+				</DocTemplateUsage>
+				<DocTemplateUsage Name="Property Sets for Contexts" UniqueId="14e18b7d-514c-4784-a941-3a659f44a8bb">
+					<Definition xsi:type="DocTemplateDefinition" UniqueId="4aea27a9-686f-4b29-9ce8-8776e3ddf6ca" />
+					<Items>
+						<DocTemplateItem UniqueId="405531a2-bcef-4288-a92d-6a95e3fa11b9" />
 					</Items>
 				</DocTemplateUsage>
 			</Concepts>

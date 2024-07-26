@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Grouping_3zfyWD_85Q_BYIEWtuHH76" Name="Alignment Grouping" UniqueId="fda7c80d-f881-5af8-b892-3a0df84511c6" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en" />
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasAssignments" Identification="IsAssigned">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAssignsToGroup">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingGroup">
+							<Rules>
+								<DocModelRuleEntity Name="IfcGroup" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="Name">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

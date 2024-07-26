@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Project_Global_Positioning_Mapped_0JQ3WWC0jGq8WHK7Wemcwd" Name="Project Global Positioning Mapped" UniqueId="13683820-300b-50d0-8811-507828c26ea7" Status="Sample" Type="IfcProject">
+	<Localization>
+		<DocLocalization Locale="en" />
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="RepresentationContexts">
+			<Rules>
+				<DocModelRuleEntity Name="IfcGeometricRepresentationContext">
+					<Rules>
+						<DocModelRuleAttribute Name="HasCoordinateOperation" Identification="HasGlobalPosition">
+							<Rules>
+								<DocModelRuleEntity Name="IfcRigidOperation">
+									<Rules>
+										<DocModelRuleAttribute Name="FirstCoordinate" Identification="FirstCoordinate">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLengthMeasure" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="SecondCoordinate" Identification="SecondCoordinate">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLengthMeasure" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="Height" Identification="Height">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLengthMeasure" />
+											</Rules>
+										</DocModelRuleAttribute>
+										<DocModelRuleAttribute Name="TargetCRS">
+											<Rules>
+												<DocModelRuleEntity Name="IfcProjectedCRS">
+													<Rules>
+														<DocModelRuleAttribute Name="Name" Identification="CRSName">
+															<Rules>
+																<DocModelRuleEntity Name="IfcLabel" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="ObjectType">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="LongName">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

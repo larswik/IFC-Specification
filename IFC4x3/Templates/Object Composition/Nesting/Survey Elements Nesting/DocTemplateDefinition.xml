@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Survey_Elements_Nesting_3LRO5S9gbOTvallYM7RUjK" Name="Survey Elements Nesting" UniqueId="d56d815c-26a9-5877-992f-be25876deb54" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The ordered arrangement of survey annotations, such as point, lines, curves.&lt;/p&gt;
+&lt;p&gt;For set of survey elements where the order of items is not relevant (e.g., point clouds or collections of survey string lines), the Survey Elements Grouping template can be used.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE  Having an &lt;em&gt;IfcAnnotation&lt;/em&gt; nesting a list of &lt;em&gt;IfcAnnotation&lt;/em&gt;&apos;s, properties can be associated to the each annotation of the list (i.e., to each point and line) as well as to the annotation collecting all survey elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsNestedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelNests">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAnnotation">
+									<Rules>
+										<DocModelRuleAttribute Name="PredefinedType">
+											<Rules>
+												<DocModelRuleEntity id="IfcAnnotationTypeEnum_0hz5Bwl513SB4k7OHyakz1" Name="IfcAnnotationTypeEnum" UniqueId="2bf452fa-bc50-4370-b12e-1d847c92ef41">
+													<Rules>
+														<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcAnnotationTypeEnum_0hz5Bwl513SB4k7OHyakz1" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" SURVEY" />
+															</Expression>
+														</DocModelRuleConstraint>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity id="IfcAnnotationTypeEnum_1JumVV2WH3F9fMFxSF4hpw" Name="IfcAnnotationTypeEnum" UniqueId="53e307df-0a04-433c-9a56-3fb70f12bcfa">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY">
+							<Expression xsi:type="DocOpStatement" Operation="compareequal">
+								<Reference xsi:type="DocOpReference">
+									<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcAnnotationTypeEnum_1JumVV2WH3F9fMFxSF4hpw" />
+								</Reference>
+								<Value xsi:type="DocOpLiteral" Literal=" SURVEY" />
+							</Expression>
+						</DocModelRuleConstraint>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Material_Set_0caab3Is5PigUIHQoMpysa" Name="Material Set" UniqueId="26924943-4b61-59b2-a792-45ac96cfcda4" Status="Sample" Type="IfcObjectDefinition">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Composite or multiple materials may be described using a material set. There are three types of material sets to choose from:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Layer sets - layered materials with a thickness that fills a boundary&lt;/li&gt;
+&lt;li&gt;Profile sets - when materials are extruded along a profiled shape&lt;/li&gt;
+&lt;li&gt;Constituent sets - when materials are either homogenously mixed, or arbitrarily placed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EXAMPLE A wall or slab may use a layer set. A beam, column, pipe, or duct may use a profile set, even if it only has one profile. Composite beams may be made out of multiple profiles. Concrete may use a constituent set for portions of sand and cement. A window frame may also use a constituent set for one material for its frame and another material for its glazing portion.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The material is defined by either &lt;em&gt;IfcMaterialLayerSet&lt;/em&gt;, &lt;em&gt;IfcMaterialProfileSet&lt;/em&gt;, or &lt;em&gt;IfcMaterialConstituentSet&lt;/em&gt; and related using &lt;em&gt;IfcRelAssociatesMaterial&lt;/em&gt;.RelatingMaterial. Independent of the material used, each layer, profile, or constituent within the set may be identified using a name and category.&lt;/p&gt;
+&lt;p&gt;```
+concept {
+    IfcObjectDefinition:HasAssociations -&amp;gt; IfcRelAssociatesMaterial:RelatedObjects
+    IfcRelAssociatesMaterial:RelatingMaterial -&amp;gt; IfcMaterialLayerSet
+    IfcRelAssociatesMaterial:RelatingMaterial -&amp;gt; IfcMaterialProfileSet
+    IfcRelAssociatesMaterial:RelatingMaterial -&amp;gt; IfcMaterialConstituentSet&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasAssociations">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAssociatesMaterial">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingMaterial">
+							<Rules>
+								<DocModelRuleEntity Name="IfcMaterialLayerSet">
+									<Rules>
+										<DocModelRuleAttribute Name="MaterialLayers">
+											<Rules>
+												<DocModelRuleEntity Name="IfcMaterialLayer">
+													<Rules>
+														<DocModelRuleAttribute Name="Name" Identification="Name">
+															<Rules>
+																<DocModelRuleEntity Name="IfcLabel" />
+															</Rules>
+														</DocModelRuleAttribute>
+														<DocModelRuleAttribute Name="Material">
+															<Rules>
+																<DocModelRuleEntity Name="IfcMaterial" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcMaterialProfileSet">
+									<Rules>
+										<DocModelRuleAttribute Name="MaterialProfiles">
+											<Rules>
+												<DocModelRuleEntity Name="IfcMaterialProfile">
+													<Rules>
+														<DocModelRuleAttribute Name="Name" Identification="Name">
+															<Rules>
+																<DocModelRuleEntity Name="IfcLabel" />
+															</Rules>
+														</DocModelRuleAttribute>
+														<DocModelRuleAttribute Name="Material">
+															<Rules>
+																<DocModelRuleEntity Name="IfcMaterial" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcMaterialConstituentSet">
+									<Rules>
+										<DocModelRuleAttribute Name="MaterialConstituents">
+											<Rules>
+												<DocModelRuleEntity Name="IfcMaterialConstituent">
+													<Rules>
+														<DocModelRuleAttribute Name="Name" Identification="Name">
+															<Rules>
+																<DocModelRuleEntity Name="IfcLabel" />
+															</Rules>
+														</DocModelRuleAttribute>
+														<DocModelRuleAttribute Name="Material">
+															<Rules>
+																<DocModelRuleEntity Name="IfcMaterial" />
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

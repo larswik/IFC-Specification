@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Spatial_Reference_0HnloJcazUjh0IPz5Z2WL7" Name="Alignment Spatial Reference" UniqueId="11c6fc93-9a4f-5eb6-b012-67d1630a0547" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;```
+concept {
+    IfcAlignment:ReferencedInStructures -&amp;gt; IfcRelReferencedInSpatialStructure:RelatedElements
+    IfcAlignment:Name -&amp;gt; IfcLabel_0
+    IfcRelReferencedInSpatialStructure:RelatingStructure -&amp;gt; IfcSpatialElement:ReferencesElements&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="ReferencedInStructures">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelReferencedInSpatialStructure">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingStructure" Identification="RelatingStructure">
+							<Rules>
+								<DocModelRuleEntity Name="IfcSpatialElement" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="Name" Identification="AlignmentName">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Property Sets for Materials" UniqueId="7e40347e-a51a-5174-a526-e72995bfca9a" Status="Sample" Type="IfcMaterialDefinition">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The concept template &lt;em&gt;Property Sets for Materials&lt;/em&gt; describes how a material can be related to a single or multiple property sets. A property set contains a single or multiple properties. The data type of an individual property can be one of single, enumerated, value, table, reference or list value, and combination of property occurrences.&lt;/p&gt;
+&lt;p&gt;NOTE: An IfcMaterial is not an IfcObject. For legacy reasons, this concept is listed under &lt;em&gt;Object Definition&lt;/em&gt;. In future versions of the standard the various property set association mechanisms will likely be unified. In the current version of this template, there is no mechanism to further guide the applicability in a way similar to how applicability can be tailored to individual predefined types of leaf entities of IfcObject that feature the PredefinedType attribute. In future versions of the standard there will likely be the possibility to make property sets applicable to specific categories of IfcMaterial.&lt;/p&gt;
+&lt;p&gt;Property Sets applicable to this template will carry the IfcPropertySetTemplateTypeEnum &quot;PSET_MATERIALDRIVEN&quot;.&lt;/p&gt;
+&lt;p&gt;```
+concept {
+    IfcMaterialDefinition:HasProperties -&amp;gt; IfcMaterialProperties:Material&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasProperties">
+			<Rules>
+				<DocModelRuleEntity Name="IfcMaterialProperties">
+					<Rules>
+						<DocModelRuleAttribute Name="Name" Identification="PsetName">
+							<Rules>
+								<DocModelRuleEntity Name="IfcIdentifier" />
+							</Rules>
+						</DocModelRuleAttribute>
+						<DocModelRuleAttribute Name="Description">
+							<Rules>
+								<DocModelRuleEntity Name="IfcText" />
+							</Rules>
+						</DocModelRuleAttribute>
+						<DocModelRuleAttribute Name="Properties" Identification="Properties">
+							<Rules>
+								<DocModelRuleEntity Name="IfcPropertySingleValue">
+									<References>
+										<DocTemplateDefinition xsi:nil="true" href="Single_Value_1cLVRGAQX7k8yzoVpfoQOW" />
+									</References>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcPropertyBoundedValue">
+									<References>
+										<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
+									</References>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcPropertyEnumeratedValue">
+									<References>
+										<DocTemplateDefinition xsi:nil="true" href="Enumerated_Value_31IA2Pmr53g99cNptWj5gL" />
+									</References>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcPropertyListValue">
+									<References>
+										<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
+									</References>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcPropertyTableValue">
+									<References>
+										<DocTemplateDefinition xsi:nil="true" href="Table_Value_0roKUmQhnB4ux7QMxo11SX" />
+									</References>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

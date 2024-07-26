@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Property Sets for Contexts" UniqueId="618ab00c-3ca2-568c-aa01-06d6c50b53fc" Status="Sample" Type="IfcContext">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The concept template &lt;em&gt;Property Sets for Contexts&lt;/em&gt; describes how an context can be related to a single or multiple property sets. A property set contains a single or multiple properties. The data types of an individual property are single value, enumerated value, bounded value, table value, reference value, list value, and combination of property occurrences.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsDefinedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelDefinesByProperties">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingPropertyDefinition">
+							<Rules>
+								<DocModelRuleEntity Name="IfcPropertySet">
+									<Rules>
+										<DocModelRuleAttribute Name="HasProperties" Identification="Properties">
+											<Rules>
+												<DocModelRuleEntity Name="IfcPropertySingleValue">
+													<References>
+														<DocTemplateDefinition xsi:nil="true" href="Single_Value_1cLVRGAQX7k8yzoVpfoQOW" />
+													</References>
+												</DocModelRuleEntity>
+												<DocModelRuleEntity Name="IfcPropertyBoundedValue">
+													<References>
+														<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
+													</References>
+												</DocModelRuleEntity>
+												<DocModelRuleEntity Name="IfcPropertyEnumeratedValue">
+													<References>
+														<DocTemplateDefinition xsi:nil="true" href="Enumerated_Value_31IA2Pmr53g99cNptWj5gL" />
+													</References>
+												</DocModelRuleEntity>
+												<DocModelRuleEntity Name="IfcPropertyListValue">
+													<References>
+														<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
+													</References>
+												</DocModelRuleEntity>
+												<DocModelRuleEntity Name="IfcPropertyTableValue">
+													<References>
+														<DocTemplateDefinition xsi:nil="true" href="Table_Value_0roKUmQhnB4ux7QMxo11SX" />
+													</References>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

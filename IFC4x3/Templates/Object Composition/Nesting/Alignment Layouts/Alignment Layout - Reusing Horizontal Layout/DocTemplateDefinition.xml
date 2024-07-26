@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Layout__Reusing_Horizontal_Layout_0no0rXgd1VtA7awvJZU8Nw" Name="Alignment Layout - Reusing Horizontal Layout" UniqueId="31c80d61-aa70-5fdc-a1e4-eb94e37885fa" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Nesting and aggregation relationships between &lt;em&gt;IfcAlignment&lt;/em&gt;&apos;s and their layouts, in the case where multiple alignments re-use the same horizontal layout definition.&lt;/p&gt;
+&lt;p&gt;In the diagram below is an example of a &lt;em&gt;parent&lt;/em&gt; alignment, with the horizontal layout, and two &lt;em&gt;child&lt;/em&gt; alignments, one with a vertical layout, and the other with a vertical and a cant layout; both re-using the definition of the horizontal layout from the &lt;em&gt;parent&lt;/em&gt; alignment.&lt;/p&gt;
+&lt;p&gt;When defining the list of segments for the business logic (i.e., &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;strong&gt;zero-length segment&lt;/strong&gt; shall be added, at the end of the list of segments for &lt;em&gt;IfcAlignmentSegment.DesignParameters&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;If the geometry definition is also present, then each of the zero-length segments shall have a &lt;em&gt;IfcCurveSegment&lt;/em&gt; counterpart - of length zero.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsNestedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelNests">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAlignmentHorizontal">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentSegment">
+																	<Rules>
+																		<DocModelRuleAttribute Name="DesignParameters">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcAlignmentHorizontalSegment" />
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="IsDecomposedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAggregates">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAlignment">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentVertical">
+																	<Rules>
+																		<DocModelRuleAttribute Name="IsNestedBy">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcRelNests">
+																					<Rules>
+																						<DocModelRuleAttribute Name="RelatedObjects">
+																							<Rules>
+																								<DocModelRuleEntity Name="IfcAlignmentSegment">
+																									<Rules>
+																										<DocModelRuleAttribute Name="DesignParameters">
+																											<Rules>
+																												<DocModelRuleEntity Name="IfcAlignmentVerticalSegment" />
+																											</Rules>
+																										</DocModelRuleAttribute>
+																									</Rules>
+																								</DocModelRuleEntity>
+																							</Rules>
+																						</DocModelRuleAttribute>
+																					</Rules>
+																				</DocModelRuleEntity>
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+								<DocModelRuleEntity Name="IfcAlignment">
+									<Rules>
+										<DocModelRuleAttribute Name="IsNestedBy">
+											<Rules>
+												<DocModelRuleEntity Name="IfcRelNests">
+													<Rules>
+														<DocModelRuleAttribute Name="RelatedObjects">
+															<Rules>
+																<DocModelRuleEntity Name="IfcAlignmentVertical">
+																	<Rules>
+																		<DocModelRuleAttribute Name="IsNestedBy">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcRelNests">
+																					<Rules>
+																						<DocModelRuleAttribute Name="RelatedObjects">
+																							<Rules>
+																								<DocModelRuleEntity Name="IfcAlignmentSegment">
+																									<Rules>
+																										<DocModelRuleAttribute Name="DesignParameters">
+																											<Rules>
+																												<DocModelRuleEntity Name="IfcAlignmentVerticalSegment" />
+																											</Rules>
+																										</DocModelRuleAttribute>
+																									</Rules>
+																								</DocModelRuleEntity>
+																							</Rules>
+																						</DocModelRuleAttribute>
+																					</Rules>
+																				</DocModelRuleEntity>
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+																<DocModelRuleEntity Name="IfcAlignmentCant">
+																	<Rules>
+																		<DocModelRuleAttribute Name="IsNestedBy">
+																			<Rules>
+																				<DocModelRuleEntity Name="IfcRelNests">
+																					<Rules>
+																						<DocModelRuleAttribute Name="RelatedObjects">
+																							<Rules>
+																								<DocModelRuleEntity Name="IfcAlignmentSegment">
+																									<Rules>
+																										<DocModelRuleAttribute Name="DesignParameters">
+																											<Rules>
+																												<DocModelRuleEntity Name="IfcAlignmentCantSegment" />
+																											</Rules>
+																										</DocModelRuleAttribute>
+																									</Rules>
+																								</DocModelRuleEntity>
+																							</Rules>
+																						</DocModelRuleAttribute>
+																					</Rules>
+																				</DocModelRuleEntity>
+																			</Rules>
+																		</DocModelRuleAttribute>
+																	</Rules>
+																</DocModelRuleEntity>
+															</Rules>
+														</DocModelRuleAttribute>
+													</Rules>
+												</DocModelRuleEntity>
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

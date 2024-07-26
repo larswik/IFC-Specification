@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Aggregation_To_Project_1MEMw1fUTIaA4$xGhgfkna" Name="Alignment Aggregation To Project" UniqueId="56396e81-a5e7-5290-a13f-ed0aeaa6ec64" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;Every &lt;em&gt;IfcAlignment&lt;/em&gt; must be related to &lt;em&gt;IfcProject&lt;/em&gt; using the &lt;em&gt;IfcRelAggregates&lt;/em&gt; relationship - either directly or indirectly. The indirect case is when a child alignment is aggregated to a parent alignment. In this case, only the parent alignment must be related to &lt;em&gt;IfcProject&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;```
+concept {
+    IfcAlignment:Decomposes -&amp;gt; IfcRelAggregates:RelatedObjects
+    IfcAlignment:Name -&amp;gt; IfcLabel
+    IfcRelAggregates:RelatingObject -&amp;gt; IfcProject:IsDecomposedBy&lt;/p&gt;
+&lt;pre&gt;&lt;/pre&gt;
+&lt;p&gt;}
+```&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="Decomposes">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAggregates">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingObject">
+							<Rules>
+								<DocModelRuleEntity Name="IfcProject" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="Name" Identification="AlignmentName">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

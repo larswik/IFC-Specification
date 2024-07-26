@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Layouts" UniqueId="bb43034c-7c71-5187-b8ee-c5d0c9266c6f" Status="Sample" Type="IfcAlignment">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;A single alignment may be described by one ore more of the following layouts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a horizontal layout (&lt;em&gt;IfcAlignmentHorizontal&lt;/em&gt;), defined in the x/y plane of the engineering coordinate system.&lt;/li&gt;
+&lt;li&gt;an accompanying vertical layout (&lt;em&gt;IfcAlignmentVertical&lt;/em&gt;), defined along the horizontal layout in the distance along / z coordinate space.&lt;/li&gt;
+&lt;li&gt;an accompanying cant layout (&lt;em&gt;IfcAlignmentCant&lt;/em&gt;), defined as lateral inclination along the horizontal layout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These 3 layouts may be used in different configurations. See &lt;strong&gt;Alignment Layout - Horizontal, Vertical and Cant&lt;/strong&gt; and &lt;strong&gt;Alignment Layout - Reusing Horizontal Layout&lt;/strong&gt; for details.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="IsNestedBy">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelNests">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatedObjects">
+							<Rules>
+								<DocModelRuleEntity Name="IfcAlignmentHorizontal" />
+								<DocModelRuleEntity Name="IfcAlignmentVertical" />
+								<DocModelRuleEntity Name="IfcAlignmentCant" />
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

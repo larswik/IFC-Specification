@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Survey_Elements_Grouping_2Ht$8G$8LTZRtOTHPSH_7z" Name="Survey Elements Grouping" UniqueId="91dff210-fc85-5d8d-bdd8-75165c47e1fd" Status="Sample" Type="IfcAnnotation">
+	<Localization>
+		<DocLocalization Locale="en">
+			<Documentation>&lt;p&gt;The assignment of survey annotations, such as point and lines, to a group. The template can be used when the order of the elements is irrelevant, for example for point clouds or collections of survey string lines.&lt;/p&gt;
+&lt;p&gt;For ordered list of survey elements, use the Survey Elements Nesting template.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE  Having an &lt;em&gt;IfcGroup&lt;/em&gt; grouping a list of &lt;em&gt;IfcAnnotation&lt;/em&gt;&apos;s, properties can be associated to each annotation (i.e., to each point and line) as well as to the group collecting all survey elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;</Documentation>
+		</DocLocalization>
+	</Localization>
+	<Rules>
+		<DocModelRuleAttribute Name="HasAssignments" Identification="IsAssigned">
+			<Rules>
+				<DocModelRuleEntity Name="IfcRelAssignsToGroup">
+					<Rules>
+						<DocModelRuleAttribute Name="RelatingGroup">
+							<Rules>
+								<DocModelRuleEntity Name="IfcGroup">
+									<Rules>
+										<DocModelRuleAttribute Name="Name" Identification="GroupName">
+											<Rules>
+												<DocModelRuleEntity Name="IfcLabel" />
+											</Rules>
+										</DocModelRuleAttribute>
+									</Rules>
+								</DocModelRuleEntity>
+							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="PredefinedType">
+			<Rules>
+				<DocModelRuleEntity id="IfcAnnotationTypeEnum_0O8Aku1XrCNBYUO_8WUFjz" Name="IfcAnnotationTypeEnum" UniqueId="1820abb8-061d-4c5c-b89e-63e22078fb7d">
+					<Rules>
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY">
+							<Expression xsi:type="DocOpStatement" Operation="compareequal">
+								<Reference xsi:type="DocOpReference">
+									<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcAnnotationTypeEnum_0O8Aku1XrCNBYUO_8WUFjz" />
+								</Reference>
+								<Value xsi:type="DocOpLiteral" Literal=" SURVEY" />
+							</Expression>
+						</DocModelRuleConstraint>
+					</Rules>
+				</DocModelRuleEntity>
+			</Rules>
+		</DocModelRuleAttribute>
+		<DocModelRuleAttribute Name="Name">
+			<Rules>
+				<DocModelRuleEntity Name="IfcLabel" />
+			</Rules>
+		</DocModelRuleAttribute>
+	</Rules>
+</DocTemplateDefinition>
+

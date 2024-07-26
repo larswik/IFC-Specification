@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Layout - Horizontal, Vertical and Cant" UniqueId="9f2220fe-98ec-5afd-82ff-3cd0b0bbcc02" Status="Sample" Type="IfcAlignment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Layout__Horizontal_Vertical_and_Cant_2V8Y3_cEnQ$OB$FD2mkym2" Name="Alignment Layout - Horizontal, Vertical and Cant" UniqueId="9f2220fe-98ec-5afd-82ff-3cd0b0bbcc02" Status="Sample" Type="IfcAlignment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;Nesting relationships between &lt;em&gt;IfcAlignment&lt;/em&gt; and the three layouts, with respective segments, that may define it (i.e., &lt;em&gt;IfcAlignmentHorizontal&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentCant&lt;/em&gt;).&lt;/p&gt;

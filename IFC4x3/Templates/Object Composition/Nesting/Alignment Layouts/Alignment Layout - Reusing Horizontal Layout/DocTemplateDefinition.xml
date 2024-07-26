@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Layout - Reusing Horizontal Layout" UniqueId="31c80d61-aa70-5fdc-a1e4-eb94e37885fa" Status="Sample" Type="IfcAlignment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Layout__Reusing_Horizontal_Layout_0no0rXgd1VtA7awvJZU8Nw" Name="Alignment Layout - Reusing Horizontal Layout" UniqueId="31c80d61-aa70-5fdc-a1e4-eb94e37885fa" Status="Sample" Type="IfcAlignment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;Nesting and aggregation relationships between &lt;em&gt;IfcAlignment&lt;/em&gt;&apos;s and their layouts, in the case where multiple alignments re-use the same horizontal layout definition.&lt;/p&gt;

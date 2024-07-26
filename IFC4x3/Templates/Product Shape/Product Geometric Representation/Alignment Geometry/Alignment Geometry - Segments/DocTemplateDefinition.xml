@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Geometry - Segments" UniqueId="abf80a4a-ba16-5f19-af81-57ff190331ef" Status="Sample" Type="IfcAlignmentSegment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Geometry__Segments_2h_0fAkXPV6Q_1L$yP0p7l" Name="Alignment Geometry - Segments" UniqueId="abf80a4a-ba16-5f19-af81-57ff190331ef" Status="Sample" Type="IfcAlignmentSegment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;This concept template applies to segments of all type of alignment layout: &lt;em&gt;IfcAlignmentHorizontalSegment&lt;/em&gt;, &lt;em&gt;IfcAlignmentVerticalSegment&lt;/em&gt; and &lt;em&gt;IfcAlignmentCantSegment&lt;/em&gt;.&lt;/p&gt;
@@ -35,18 +35,32 @@ concept {
 									<Rules>
 										<DocModelRuleAttribute Name="RepresentationIdentifier">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_3AA2hVB$TAmgqryt9E3pcw" Name="IfcLabel" UniqueId="ca282adf-2ff7-4ac2-ad35-f3724e0f39ba">
 													<Rules>
-														<DocModelRuleConstraint Description="RepresentationIdentifier[Value] = &apos;Axis&apos;" />
+														<DocModelRuleConstraint Description="RepresentationIdentifier[Value] = &apos;Axis&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_3AA2hVB$TAmgqryt9E3pcw" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Axis&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationType">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_2yxd2c$Q1FVAglVQPEEU6v" Name="IfcLabel" UniqueId="bcee70a6-fda0-4f7c-aaaf-7da64e39e1b9">
 													<Rules>
-														<DocModelRuleConstraint Description="RepresentationType[Value] = &apos;Segment&apos;" />
+														<DocModelRuleConstraint Description="RepresentationType[Value] = &apos;Segment&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_2yxd2c$Q1FVAglVQPEEU6v" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Segment&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>

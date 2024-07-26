@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Geometry - Horizontal" UniqueId="d585f293-93af-5964-b9cd-2d5c30038185" Status="Sample" Type="IfcAlignment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Geometry__Horizontal_3LXVAJawzPPBdDBLmm0u65" Name="Alignment Geometry - Horizontal" UniqueId="d585f293-93af-5964-b9cd-2d5c30038185" Status="Sample" Type="IfcAlignment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;This concept template applies to alignments defined only by an horizontal layout.&lt;/p&gt;
@@ -39,18 +39,32 @@ concept {
 									<Rules>
 										<DocModelRuleAttribute Name="RepresentationIdentifier">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_0x42H6XF9FO9LIHis1LGwJ" Name="IfcLabel" UniqueId="3b102446-84f2-4f60-9552-46cd81550e93">
 													<Rules>
-														<DocModelRuleConstraint Description="RepresentationIdentifier[Value] = &apos;Axis&apos;" />
+														<DocModelRuleConstraint Description="RepresentationIdentifier[Value] = &apos;Axis&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_0x42H6XF9FO9LIHis1LGwJ" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Axis&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationType">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_319gNp$Zv7UvIUON2Puk0y" Name="IfcLabel" UniqueId="c126a5f3-fe3e-477b-949e-617099e2e03c">
 													<Rules>
-														<DocModelRuleConstraint Description="RepresentationType[Value] = &apos;Curve2D&apos;" />
+														<DocModelRuleConstraint Description="RepresentationType[Value] = &apos;Curve2D&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_319gNp$Zv7UvIUON2Puk0y" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Curve2D&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>

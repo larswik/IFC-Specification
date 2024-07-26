@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Single Survey Point Linearly Placed" UniqueId="d88a62b0-af18-5b5d-933f-76edc48e8a07" Status="Sample" Type="IfcAnnotation">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Single_Survey_Point_Linearly_Placed_3OYcAmhnXRNPC$Tkt4Zee7" Name="Single Survey Point Linearly Placed" UniqueId="d88a62b0-af18-5b5d-933f-76edc48e8a07" Status="Sample" Type="IfcAnnotation">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;Geometry representation of a single survey point linearly placed along a curve.&lt;/p&gt;
@@ -22,18 +22,32 @@
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationIdentifier" Identification="Identifier">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_1rqi$YDyT1PhHV0Ow7_bnJ" Name="IfcLabel" UniqueId="75d2cfe2-37c7-4166-b45f-018e87fa5c53">
 													<Rules>
-														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Annotation&apos;" />
+														<DocModelRuleConstraint Description="Identifier[Value] = &apos;Annotation&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_1rqi$YDyT1PhHV0Ow7_bnJ" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Annotation&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>
 										</DocModelRuleAttribute>
 										<DocModelRuleAttribute Name="RepresentationType" Identification="Type">
 											<Rules>
-												<DocModelRuleEntity Name="IfcLabel">
+												<DocModelRuleEntity id="IfcLabel_3trizY5G97mgzxLksvOpI5" Name="IfcLabel" UniqueId="f7d6cf62-1502-47c2-af7b-56edb9633485">
 													<Rules>
-														<DocModelRuleConstraint Description="Type[Value] = &apos;Point&apos;" />
+														<DocModelRuleConstraint Description="Type[Value] = &apos;Point&apos;">
+															<Expression xsi:type="DocOpStatement" Operation="compareequal">
+																<Reference xsi:type="DocOpReference">
+																	<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcLabel_3trizY5G97mgzxLksvOpI5" />
+																</Reference>
+																<Value xsi:type="DocOpLiteral" Literal=" &apos;Point&apos;" />
+															</Expression>
+														</DocModelRuleConstraint>
 													</Rules>
 												</DocModelRuleEntity>
 											</Rules>
@@ -53,9 +67,16 @@
 		</DocModelRuleAttribute>
 		<DocModelRuleAttribute Name="PredefinedType">
 			<Rules>
-				<DocModelRuleEntity Name="IfcAnnotationTypeEnum">
+				<DocModelRuleEntity id="IfcAnnotationTypeEnum_1_FoGN_ODCcux30YBXV9TS" Name="IfcAnnotationTypeEnum" UniqueId="7e3f2417-f983-4c9b-8ec3-0222e17c975c">
 					<Rules>
-						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY" />
+						<DocModelRuleConstraint Description="PredefinedType[Value] = SURVEY">
+							<Expression xsi:type="DocOpStatement" Operation="compareequal">
+								<Reference xsi:type="DocOpReference">
+									<EntityRule xsi:type="DocModelRuleEntity" xsi:nil="true" href="IfcAnnotationTypeEnum_1_FoGN_ODCcux30YBXV9TS" />
+								</Reference>
+								<Value xsi:type="DocOpLiteral" Literal=" SURVEY" />
+							</Expression>
+						</DocModelRuleConstraint>
 					</Rules>
 				</DocModelRuleEntity>
 			</Rules>

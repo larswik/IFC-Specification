@@ -32,30 +32,32 @@ concept {
 							<Rules>
 								<DocModelRuleEntity Name="IfcPropertySingleValue">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="Single_Value_3MfV0W6ZvUcB29k_1LeDIE" />
+										<DocTemplateDefinition xsi:nil="true" href="Single_Value_1cLVRGAQX7k8yzoVpfoQOW" />
 									</References>
 								</DocModelRuleEntity>
 								<DocModelRuleEntity Name="IfcPropertyBoundedValue">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_17vZz$W_DUdQo8k3WrgK7G" />
+										<DocTemplateDefinition xsi:nil="true" href="Bounded_Value_0zPwBITXr4sQ2Uj$kn_bOo" />
 									</References>
 								</DocModelRuleEntity>
 								<DocModelRuleEntity Name="IfcPropertyEnumeratedValue">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="Enumerated_Value_1MIlWW4iXU4eU0CtYZRywq" />
+										<DocTemplateDefinition xsi:nil="true" href="Enumerated_Value_31IA2Pmr53g99cNptWj5gL" />
 									</References>
 								</DocModelRuleEntity>
 								<DocModelRuleEntity Name="IfcPropertyListValue">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="List_Value_2sR_$RrbrMWB$5TzYb_eQ4" />
+										<DocTemplateDefinition xsi:nil="true" href="List_Value_2E4BQ8aNbEEesoQhog$fKj" />
 									</References>
 								</DocModelRuleEntity>
 								<DocModelRuleEntity Name="IfcPropertyTableValue">
 									<References>
-										<DocTemplateDefinition xsi:nil="true" href="Table_Value_0p5_$6cK1RtO1fnMgZn8OM" />
+										<DocTemplateDefinition xsi:nil="true" href="Table_Value_0roKUmQhnB4ux7QMxo11SX" />
 									</References>
 								</DocModelRuleEntity>
 							</Rules>
+						</DocModelRuleAttribute>
+					</Rules>
 						</DocModelRuleAttribute>
 					</Rules>
 				</DocModelRuleEntity>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Spatial Reference" UniqueId="11c6fc93-9a4f-5eb6-b012-67d1630a0547" Status="Sample" Type="IfcAlignment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Spatial_Reference_0HnloJcazUjh0IPz5Z2WL7" Name="Alignment Spatial Reference" UniqueId="11c6fc93-9a4f-5eb6-b012-67d1630a0547" Status="Sample" Type="IfcAlignment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;```

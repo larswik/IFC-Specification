@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Alignment Aggregation To Project" UniqueId="56396e81-a5e7-5290-a13f-ed0aeaa6ec64" Status="Sample" Type="IfcAlignment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Alignment_Aggregation_To_Project_1MEMw1fUTIaA4$xGhgfkna" Name="Alignment Aggregation To Project" UniqueId="56396e81-a5e7-5290-a13f-ed0aeaa6ec64" Status="Sample" Type="IfcAlignment">
 	<Localization>
 		<DocLocalization Locale="en">
 			<Documentation>&lt;p&gt;Every &lt;em&gt;IfcAlignment&lt;/em&gt; must be related to &lt;em&gt;IfcProject&lt;/em&gt; using the &lt;em&gt;IfcRelAggregates&lt;/em&gt; relationship - either directly or indirectly. The indirect case is when a child alignment is aggregated to a parent alignment. In this case, only the parent alignment must be related to &lt;em&gt;IfcProject&lt;/em&gt;.&lt;/p&gt;
